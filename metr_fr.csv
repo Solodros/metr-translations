@@ -1,0 +1,294 @@
+Please make sure your ESC is connected and you are running firmware 3.x,Assurez-vous que votre ESC est connecté et que vous utilisez le firmware 3.x,Ask
+Bluetooth,,BluetoothPane
+Stop,Arrêt,BluetoothPane
+Scan,,BluetoothPane
+FAULT,,Communicator
+End of charge voltage reached,Tension de fin de charge atteinte,Communicator
+Bluetooth disconnected,Bluetooth déconnecté,Communicator
+Thanks to @tueboard (%1) for contributing Spanish translation.,,Contributions
+Thanks to @hexakopter for contributing German translation.,,Contributions
+Thanks to @ElskerShadow for contributing French translation.,,Contributions
+Thanks to Lorenzo (%1) for contributing Italian translation.,,Contributions
+Thanks to @Pedrodemio for contributing Portuguese translation.,,Contributions
+Alias,,DeviceSettingsView
+User friendly name that is associated with the module. You can change it to your liking.,Nom convivial associé au module. Vous pouvez le changer à votre goût.,DeviceSettingsView
+Downloading new firmware,Téléchargement du nouveau firmware,Dfu
+Jumping into bootloader,Sauter dans le chargeur de démarrage,Dfu
+Error: %1,Erreur %1,Dfu
+Update completed!,Mise à jour terminée!,Dfu
+Uploading to %1,Téléchargement vers %1,Dfu
+Please don't interrupt the process,S'il vous plaît ne pas interrompre le processus,DfuView
+Over Voltage,Surtension,Global
+Under Voltage,Soustension,Global
+DRV8302,,Global
+Over Current,Surintensité,Global
+Over Temp FET,Surchauffe FET,Global
+Over Temp Motor,Surchauffe Moteur,Global
+Unknown error,Erreur inconnue,Global
+New Metr Pro firmware is available!,Le nouveau micrologiciel Metr Pro est disponible!,MetrProView
+Installed version,Version installée,MetrProView
+New version,Nouvelle version,MetrProView
+What's new,Quoi de neuf,MetrProView
+New VESC firmware is available!,Le nouveau firmware VESC est disponible!,MetrProView
+Your Metr Pro firmware is up to date,Votre micrologiciel Metr Pro est à jour,MetrProView
+Your VESC firmware is up to date,Votre firmware VESC est à jour,MetrProView
+Hardware,,MetrProView
+Please don't interrupt the process after it is started. You can brick the device.,Veuillez ne pas interrompre le processus après son démarrage. Vous pouvez brique l'appareil.,MetrProView
+Reading motor configuration failed,La lecture du moteur a échoué,ModeView
+"To apply this mode, go back and swipe it to the right.","Pour appliquer ce mode, revenez en arrière et glissez-le vers la droite.",ModeView
+Read current limits from ESC.,Lire les limites actuelles de ESC.,ModeView
+Read,Lis,ModeView
+Add,Ajouter,ModesTab
+Scan QR code,Scannez le code QR,ModesTab
+Enter mode name:,Entrez le nom du mode:,ModesTab
+Writing configuration to ESC #%1,Ecriture de la configuration sur ESC #%1,ModesTab
+Reading configuration from ESC #%1,Lecture de la configuration depuis ESC #%1,ModesTab
+Swipe right to apply mode. Swipe left to show options. Click to configure limits.,Balayez vers la droite pour appliquer le mode. Balayez vers la gauche pour afficher les options. Cliquez pour configurer les limites.,ModesTab
+Perimetr,,ModesTab
+Clear Startup Mode,Effacer le mode de démarrage,ModesTab
+Connection is offline.,La connexion est hors ligne.,ModesTab
+Firmware <= 2.18. Won't apply.,Firmware <= 2.18. Ne s'applique pas.,ModesTab
+Multi probing not finished. Please try later.,Multi sondage non terminé. Merci d'essayer plus tard.,ModesTab
+Apply,Appliquer,ModesTab
+"To add new modes, click on the plus.","Pour ajouter de nouveaux modes, cliquez sur le signe plus.",ModesTab
+Startup mode,Mode de démarrage,ModesTabDelegate
+Hall sensor table:,,PerimetrTab
+Hall sensor detection failed:,,PerimetrTab
+WS2811 enabled. Hall sensors cannot be used.,,PerimetrTab
+Encoder enabled. Hall sensors cannot be used.,,PerimetrTab
+Unknown hall error: %1,,PerimetrTab
+Integrator limit: %1<br>,,PerimetrTab
+BEMF Coupling: %1<br>,,PerimetrTab
+Write configuration?,Écrire la configuration?,PerimetrTab
+Hall sensor detection failed: error %d,Hall sensor détection a échoué: erreur %d,PerimetrTab
+FOC detection R L,FOC détection R L,PerimetrTab
+Detection failed.,La détection a échoué.,PerimetrTab
+FOC detection λ,FOC détection λ,PerimetrTab
+connecting to,,PerimetrTab
+Read,Lis,PerimetrTab
+Write,Écrire,PerimetrTab
+Are you sure you want to run BLDC motor detection with following parameters?,Êtes-vous sûr de vouloir lancer la détection du moteur BLDC avec les paramètres suivants?,PerimetrTab
+WARNING: THE MOTOR WILL START SPINNING!,AVERTISSEMENT: LE MOTEUR COMMENCERA À FILER!,PerimetrTab
+Current,Сourant,PerimetrTab
+Current used during BLDC motor detection.,Courant utilisé pendant la détection du moteur BLDC.,PerimetrTab
+Low duty,,PerimetrTab
+Low duty used during BLDC motor detection.,,PerimetrTab
+Hall Sensors Current,,PerimetrTab
+Current used during FOC Hall Sensors detection.,,PerimetrTab
+Are you sure you want to run FOC motor detection with following parameters?,,PerimetrTab
+WARNING: THE MOTOR WILL MAKE VERY LOUD NOISE! AFTER THAT THE MOTOR WILL START SPINNING!,,PerimetrTab
+Current used during FOC motor detection.,,PerimetrTab
+Duty,,PerimetrTab
+Duty used during FOC motor detection.,,PerimetrTab
+TC,,PerimetrTab
+Time constant for KP and KI.,,PerimetrTab
+communication FAILED,ÉCHEC DE LA COMMUNICATION,PerimetrTab
+communication in progress,communication en cours,PerimetrTab
+Detect motor,Détecter le moteur,PerimetrTab
+Load configuration,Charger la config,PerimetrTab
+no device connected,aucun périphérique connecté,PerimetrTab
+reading motor configuration,lecture de la configuration du moteur,PerimetrTab
+writing motor configuration,configuration du moteur d'écriture,PerimetrTab
+reading app configuration,lire la configuration de l'application,PerimetrTab
+writing app configuration,écriture d'une configuration d'application,PerimetrTab
+BLDC detection,,PerimetrTab
+FOC Hall Sensors detection,,PerimetrTab
+Detection Result Received:,,PerimetrTab
+Bad Detection Result Received.,,PerimetrTab
+configuration read OK,configuration lire OK,PerimetrTab
+configuration write OK,configuration écriture OK,PerimetrTab
+Save configuration,Enregistrer la configuration,PerimetrTab
+Detect FOC Hall Sensors,,PerimetrTab
+Motor detection in this mode is not supported. Please change motor type to BLDC or FOC.,La détection du moteur dans ce mode n'est pas prise en charge. Veuillez changer le type de moteur en BLDC ou FOC.,PerimetrTab
+FOC Hall Sensors detection in this mode is not supported. Please change motor type to FOC.,La détection FOC Hall Sensors dans ce mode n'est pas prise en charge. Veuillez changer le type de moteur en FOC.,PerimetrTab
+Are you sure you want to run FOC Hall Sensors detection with following parameters?,Êtes-vous sûr de vouloir lancer la détection FOC Hall Sensors avec les paramètres suivants?,PerimetrTab
+Ah,,RealtimeTab
+amp hours regen,,RealtimeTab
+amp hours spent,,RealtimeTab
+watt hours spent,,RealtimeTab
+watt hours regen,,RealtimeTab
+GPS speed,vitesse GPS,RealtimeTab
+battery current,,RealtimeTab
+duty cycle,,RealtimeTab
+Reset layout,Réinitialiser la disposition,RealtimeTab
+Exit layout mode,Quitter le mode de disposition,RealtimeTab
+current,,RecordDetails
+duty,,RecordDetails
+No data,,RecordDetails
+fault,,RecordDetails
+Loading...,Chargement...,RecordDetails
+Swipe left to show options. Click to open.,Balayez vers la gauche pour afficher les options. Cliquez pour ouvrir.,RecordList
+Memory warning!,,RecordManager
+Record started,Enregistrement commencé,RecordManager
+Record stopped,Enregistrement arrêté,RecordManager
+Maximum record size reached,Taille maximale de l'enregistrement atteinte,RecordManager
+energy,énergie,RecordSummary
+duration,durée,RecordSummary
+top speed,vitesse maximale,RecordSummary
+avg speed,vitesse moyenne,RecordSummary
+max current,courrant maximum,RecordSummary
+Uploading record,Enregistrement de l'enregistrement,RecordTab
+Stop,Arrêt,RecordTab
+Start,Démarrer,RecordTab
+Remove from favorites,Retirer des favoris,RecordTabDelegate
+Add to favorites,Ajouter aux Favoris,RecordTabDelegate
+TCP Bridge,,SettingsTab
+Allows to connect from your Desktop to your ESC without USB cable.,,SettingsTab
+Random off,,SettingsTab
+Random on,,SettingsTab
+Generates some random data instead of data received from a bluetooth transmitter. Useful  for testing if you do not have a transmitter.,,SettingsTab
+Show logs,,SettingsTab
+Open log file in external text viewer.,,SettingsTab
+Reset settings,,SettingsTab
+Reset all application settings. Does not delete records. You have to force close the application in order to complete reset.,,SettingsTab
+Terminal,,SettingsTab
+"Open terminal and send text commands to ESC, for example 'faults' or 'ping'.",,SettingsTab
+Contributions,,SettingsTab
+Legal,,SettingsTab
+version,,SettingsTab
+Sort by,Trier par,SortBar
+Date,Durée,SortBar
+Duration,Durée,SortBar
+Distance,Durée,SortBar
+Energy,Énergie,SortBar
+Are you sure you want to reset '%1' stats?,Êtes-vous sûr de vouloir réinitialiser les statistiques '%1'?,StatusPopup
+stats,statistiques,StatusPopup
+Reset,Réinitialiser,StatusPopup
+Edit,Modifier,StatusPopup
+m,,Strings
+ft,,Strings
+km/h,,Strings
+mph,,Strings
+℃,,Strings
+℉,,Strings
+km,,Strings
+mi,,Strings
+A,,Strings
+Wh,,Strings
+V,,Strings
+min,,Strings
+Close,Fermer,Strings
+Share,,Strings
+Motor poles,Pôles du moteur,Strings
+The number of poles in the motor. For example Turnigy Aerodrive SK3 6374 motor has 14 poles.,,Strings
+Motor pulley,Poulie moteur,Strings
+Number of teeth on the motor pulley.,Nombre de dents de la poulie moteur.,Strings
+Wheel pulley,Poulie de la roue,Strings
+Number of teeth on the wheel pulley.,Nombre de dents de la poulie de la roue.,Strings
+Wheel diameter,Diamètre de la roue,Strings
+Wheel diameter in millimeters.,Diamètre en mm.,Strings
+Prefer GPS,Utiliser GPS,Strings
+"Prefer GPS speed and distance to RPM-calculated speed and distance. Not recommended for general use. Only use if your motor does not spin all the time (freewheel, friction drive, etc.)",,Strings
+Use location,Utiliser localisation,Strings
+Upload location,Lieu de téléchargement,Strings
+Include GPS coordinates when you upload records. Turn this off if you don't want to share your location but want to keep using GPS for speed and distance calculation.,"Inclure les coordonnées GPS lorsque vous téléchargez des enregistrements. Désactivez cette option si vous ne souhaitez pas partager votre position, mais souhaitez continuer à utiliser le GPS pour calculer la vitesse et la distance.",Strings
+Notifications,,Strings
+connected,connecté,Strings
+disconnected,déconnecté,Strings
+Upload,Télécharger,Strings
+Remove,Supprimer,Strings
+tacho,,Strings
+altitude,,Strings
+distance,,Strings
+voltage,,Strings
+speed,vitesse,Strings
+temperature,température,Strings
+motor temperature,température moteur,Strings
+Motor,Moteur,Strings
+motor current,courant moteur,Strings
+Location,Emplacement,Strings
+Miscellaneous,Divers,Strings
+Battery,Batterie,Strings
+"Use location services to provide coordinates, speed and elevation data.",La localisation fournit la vitesse et l'altitude.,Strings
+GPS Accuracy,,Strings
+Do not accept location with horizontal accuracy (in meters) less than specified. Can be used together with Prefer GPS to fine tune distance. Recommended to leave as 0 (accepts any location).,,Strings
+Send notifications when ESC faults happen.,Envoyer des notifications lorsque des erreurs ESC se produisent.,Strings
+End of charge voltage,Tension de fin de charge,Strings
+"When the voltage gets greater or equal than this setting, end of charge notification will be sent. Leave as 0 to disable end of charge notifications.","Lorsque la tension devient supérieure ou égale à ce réglage, la notification de fin de charge sera envoyée. Laissez comme 0 pour désactiver les notifications de fin de charge.",Strings
+Low voltage,Basse tension,Strings
+"When the voltage gets lower than this setting, notification will be sent. Leave as 0 to disable low voltage notifications.","Lorsque la tension devient inférieure à ce paramètre, la notification sera envoyée. Laissez comme 0 pour désactiver les notifications de basse tension.",Strings
+Bluetooth notifications,,Strings
+Send notifications when bluetooth disconnects.,Envoyer des notifications lorsque le bluetooth se déconnecte.,Strings
+Record notifications,Notifications pour les enregistrements,Strings
+Send notifications when records automatically start or stop.,Envoyer des notifications lorsque les enregistrements démarrent ou s'arrêtent automatiquement.,Strings
+In-App notifications,Notifications dans l'application,Strings
+Draw a notification popup and vibrate when inside the app.,Dessinez un pop-up de notification et vibrer lorsque vous êtes dans l'application.,Strings
+Records,Enregistrements,Strings
+Automatic records,Enregistrements automatiques,Strings
+Automatically start and stop records based on speed.,Automatiquement démarrer et arrêter des enregistrements basés sur la vitesse.,Strings
+Start delay,,Strings
+Time in seconds after which record is started if moving (speed is non-zero).,Temps en secondes après lequel l'enregistrement est démarré en cas de déplacement (la vitesse est différente de zéro).,Strings
+Stop delay,,Strings
+Time in seconds after which record is stopped if not moving (speed is zero).,Temps en secondes après lequel l'enregistrement est arrêté s'il ne bouge pas (la vitesse est nulle).,Strings
+System,Systeme,Strings
+Metric,Métrique,Strings
+Imperial,Imperial,Strings
+Temperature,Température,Strings
+Fahrenheit,,Strings
+Language,La langue,Strings
+Theme,Thème,Strings
+Light,Lumière,Strings
+Dark,Foncé,Strings
+Update interval,Itervalle de rafraichissement,Strings
+Time in milliseconds between requests towards bluetooth transmitter. Recommended value is 300. Lower values might result in communication problems.,Temps en millisecondes entre les requêtes vers l'émetteur bluetooth. La valeur recommandée est 300. Les valeur plus basses peuvent provoquer des problèmes de communication.,Strings
+Grid step,Étape de la grille,Strings
+"Minimal dimension change for cells on the Realtime Tab in pixels. Increase or decrease this value and then go to Realtime Tab and change layout, you will understand what this setting does.","Changement de dimension minimal pour les cellules de l'onglet Realtime en pixels. Augmentez ou diminuez cette valeur, puis passez à l'onglet Temps réel et changez la disposition, vous comprendrez ce que ce paramètre fait.",Strings
+Use barometer,Utiliser baromètre,Strings
+Use barometer sensor to calculate elevation changes. Enabling this setting usually provides much better precision.,Le baromètre calcule les changements d'attitudes. Activer cette fonction apporte une précision plus accrue.,Strings
+Keep screen on,Garder écran allumé,Strings
+Keep screen always on when transmitter is connected and Realtime Tab is active.,Garde l'écran allumé lorsque le module est connecté et que la Realtime Tab est active.,Strings
+Android Wear,,Strings
+Apple Watch,,Strings
+Send Realtime Data to your watch.,Envoyer données en temps réel sur une montre.,Strings
+Multiply data,Multiplier les données,Strings
+"If you have multiple ESCs connected via CAN bus, you can enable this setting to multiply some realtime data, such as current and wattage by the number of ESCs.","Si plusieurs ESC sont connectés via le bus CAN, vous pouvez activer ce paramètre pour multiplier certaines données en temps réel, telles que le courant et la puissance par le nombre d'ESC.",Strings
+Dual data,,Strings
+If you have dual ESCs connected via CAN bus and Metr Pro module you can enable this setting to show separate amps and temperatures for each ESC.,,Strings
+CAN Fwd,,Strings
+"If you have multiple ESCs connected via CAN bus, you can enable this setting and specify ID of the ESC to communicate with.","Si vous avez plusieurs ESC connectés via le bus CAN, vous pouvez activer ce paramètre et spécifier l'ID de l'ESC auquel communiquer.",Strings
+If CAN Fwd is enabled specify ID of the ESC to communicate with.,"Si CAN Fwd est activé, spécifiez l'ID de l'ESC à communiquer avec.",Strings
+Developer Mode,,Strings
+Show debug information on top all the time,,Strings
+Today,Aujourd'hui,Strings
+All Time,Tout le temps,Strings
+CAN Id,,Strings
+Celsius,,Strings
+Hide Footer,Masquer le pied de page,Strings
+Enable hiding footer on the Realtime Tab with a single tap.,Activez masquer le pied de page sur l'onglet Realtime en un seul clic.,Strings
+Battery type,Type de batterie,Strings
+Li-Po,,Strings
+Li-Ion,,Strings
+ANR26650,,Strings
+Voltage S,Tension S,Strings
+"Number of cell groups in series. Can be for example 6S, 10S or 12S.","Nombre de groupes de cellules en série. Peut être par exemple 6S, 10S ou 12S.",Strings
+Total Distance,Distance totale,Strings
+Consumption,Consommation,Strings
+Total Wh,Wh totale,Strings
+Ride Time,Durée du trajet,Strings
+Average Speed,Vitesse moyenne,Strings
+Top Speed,Vitesse de pointe,Strings
+TCP Server,Serveur TCP,TCPBridge
+Port,,TCPBridge
+waiting for connection,attente de connexion,TCPBridge
+Peer,,TCPBridge
+Bytes in,,TCPBridge
+Bytes out,,TCPBridge
+Realtime,Temps Réel,Tabs
+Records,Enregistrements,Tabs
+Modes,,Tabs
+Settings,Paramètres,Tabs
+Type command here...,Tapez la commande ici...,Terminal
+Send,Envoyer,Terminal
+Undo,Annuler,UndoList
+Close,Fermer,VDialogClose
+Yes,Oui,VDialogYesNo
+No,Non,VDialogYesNo
+Remove,Supprimer,VSwipeDelegate
+Downloading new firmware,Téléchargement du nouveau firmware,Vfu
+Error: %1,Erreur %1,Vfu
+You have more than 2 VESCs connected via CAN. Seamless firmware update is not possible.,Vous avez plus de 2 VESC connectés via CAN. La mise à jour du micrologiciel n'est pas possible.,Vfu
+Backing up configuration,Sauvegarde de la configuration,Vfu
+Restoring configuration,Restauration de la configuration,Vfu
+CRC16 check failed!,Le contrôle CRC16 a échoué!,Vfu
+Flashing,,Vfu
+Firmware uploaded. Installing,Firmware téléchargé. Installation,Vfu
