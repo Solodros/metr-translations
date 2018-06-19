@@ -1,4 +1,3 @@
-Please make sure your ESC is connected and you are running firmware 3.x,Assurez-vous que votre ESC est connecté et que vous utilisez le firmware 3.x,Ask
 Bluetooth,,BluetoothPane
 Stop,Arrêt,BluetoothPane
 Scan,,BluetoothPane
@@ -64,7 +63,6 @@ Hall sensor detection failed: error %d,Hall sensor détection a échoué: erreur
 FOC detection R L,FOC détection R L,PerimetrTab
 Detection failed.,La détection a échoué.,PerimetrTab
 FOC detection λ,FOC détection λ,PerimetrTab
-connecting to,,PerimetrTab
 Read,Lis,PerimetrTab
 Write,Écrire,PerimetrTab
 Are you sure you want to run BLDC motor detection with following parameters?,Êtes-vous sûr de vouloir lancer la détection du moteur BLDC avec les paramètres suivants?,PerimetrTab
@@ -97,6 +95,7 @@ Detection Result Received:,,PerimetrTab
 Bad Detection Result Received.,,PerimetrTab
 configuration read OK,configuration lire OK,PerimetrTab
 configuration write OK,configuration écriture OK,PerimetrTab
+connecting to,connexion à,PerimetrTab
 Save configuration,Enregistrer la configuration,PerimetrTab
 Detect FOC Hall Sensors,,PerimetrTab
 Motor detection in this mode is not supported. Please change motor type to BLDC or FOC.,La détection du moteur dans ce mode n'est pas prise en charge. Veuillez changer le type de moteur en BLDC ou FOC.,PerimetrTab
