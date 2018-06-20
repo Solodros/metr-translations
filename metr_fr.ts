@@ -6,17 +6,17 @@
     <message>
         <location filename="../qml/BluetoothPane.qml" line="82"/>
         <source>Bluetooth</source>
-        <translation></translation>
+        <translation>Bluetooth</translation>
     </message>
     <message>
         <location filename="../qml/BluetoothPane.qml" line="101"/>
         <source>Stop</source>
-        <translation>Arrêt</translation>
+        <translation>Stop</translation>
     </message>
     <message>
         <location filename="../qml/BluetoothPane.qml" line="101"/>
         <source>Scan</source>
-        <translation type="unfinished"></translation>
+        <translation>Scanner</translation>
     </message>
 </context>
 <context>
@@ -24,7 +24,7 @@
     <message>
         <location filename="../qml/Communicator.qml" line="205"/>
         <source>FAULT</source>
-        <translation type="unfinished"></translation>
+        <translation>DEFAUT</translation>
     </message>
     <message>
         <location filename="../qml/Communicator.qml" line="215"/>
@@ -42,27 +42,27 @@
     <message>
         <location filename="../qml/Contributions.qml" line="23"/>
         <source>Thanks to @tueboard (%1) for contributing Spanish translation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Thanks to @tueboard (%1) for contributing Spanish translation.</translation>
     </message>
     <message>
         <location filename="../qml/Contributions.qml" line="24"/>
         <source>Thanks to @hexakopter for contributing German translation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Thanks to @hexakopter for contributing German translation.</translation>
     </message>
     <message>
         <location filename="../qml/Contributions.qml" line="25"/>
         <source>Thanks to @ElskerShadow for contributing French translation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Thanks to @ElskerShadow for contributing French translation.</translation>
     </message>
     <message>
         <location filename="../qml/Contributions.qml" line="26"/>
         <source>Thanks to Lorenzo (%1) for contributing Italian translation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Thanks to Lorenzo (%1) for contributing Italian translation.</translation>
     </message>
     <message>
         <location filename="../qml/Contributions.qml" line="27"/>
         <source>Thanks to @Pedrodemio for contributing Portuguese translation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Thanks to @Pedrodemio for contributing Portuguese translation.</translation>
     </message>
 </context>
 <context>
@@ -70,12 +70,12 @@
     <message>
         <location filename="../qml/DeviceSettingsView.qml" line="23"/>
         <source>Alias</source>
-        <translation type="unfinished"></translation>
+        <translation>Alias</translation>
     </message>
     <message>
         <location filename="../qml/DeviceSettingsView.qml" line="24"/>
         <source>User friendly name that is associated with the module. You can change it to your liking.</source>
-        <translation>Nom convivial associé au module. Vous pouvez le changer à votre goût.</translation>
+        <translation>Nom convivial associé au module. Il est possible de le personnaliser.</translation>
     </message>
 </context>
 <context>
@@ -88,7 +88,7 @@
     <message>
         <location filename="../qml/Dfu.qml" line="47"/>
         <source>Jumping into bootloader</source>
-        <translation>Sauter dans le chargeur de démarrage</translation>
+        <translation>Connexion au Bootloader</translation>
     </message>
     <message>
         <location filename="../qml/Dfu.qml" line="53"/>
@@ -98,7 +98,7 @@
     <message>
         <location filename="../qml/Dfu.qml" line="200"/>
         <source>Update completed!</source>
-        <translation>Mise à jour terminée!</translation>
+        <translation>Mise à jour terminée !</translation>
     </message>
     <message>
         <location filename="../qml/Dfu.qml" line="252"/>
@@ -111,7 +111,7 @@
     <message>
         <location filename="../qml/DfuView.qml" line="48"/>
         <source>Please don&apos;t interrupt the process</source>
-        <translation>S&apos;il vous plaît ne pas interrompre le processus</translation>
+        <translation>Merci de ne pas interrompre le processus</translation>
     </message>
 </context>
 <context>
@@ -124,12 +124,12 @@
     <message>
         <location filename="../qml/Global.qml" line="143"/>
         <source>Under Voltage</source>
-        <translation>Soustension</translation>
+        <translation>Sous-tension</translation>
     </message>
     <message>
         <location filename="../qml/Global.qml" line="145"/>
         <source>DRV8302</source>
-        <translation></translation>
+        <translation>DRV8302</translation>
     </message>
     <message>
         <location filename="../qml/Global.qml" line="147"/>
@@ -157,7 +157,7 @@
     <message>
         <location filename="../qml/MetrProView.qml" line="98"/>
         <source>New Metr Pro firmware is available!</source>
-        <translation>Le nouveau micrologiciel Metr Pro est disponible!</translation>
+        <translation>Un nouveau firmware Metr Pro est disponible !</translation>
     </message>
     <message>
         <location filename="../qml/MetrProView.qml" line="98"/>
@@ -182,27 +182,27 @@
     <message>
         <location filename="../qml/MetrProView.qml" line="126"/>
         <source>New VESC firmware is available!</source>
-        <translation>Le nouveau firmware VESC est disponible!</translation>
+        <translation>Un nouveau firmware VESC est disponible !</translation>
     </message>
     <message>
         <location filename="../qml/MetrProView.qml" line="141"/>
         <source>Your Metr Pro firmware is up to date</source>
-        <translation>Votre micrologiciel Metr Pro est à jour</translation>
+        <translation>Le firmware du Metr Pro est à jour</translation>
     </message>
     <message>
         <location filename="../qml/MetrProView.qml" line="150"/>
         <source>Your VESC firmware is up to date</source>
-        <translation>Votre firmware VESC est à jour</translation>
+        <translation>Le firmware du VESC est à jour</translation>
     </message>
     <message>
         <location filename="../qml/MetrProView.qml" line="150"/>
         <source>Hardware</source>
-        <translation type="unfinished"></translation>
+        <translation>Matériel</translation>
     </message>
     <message>
         <location filename="../qml/MetrProView.qml" line="179"/>
         <source>Please don&apos;t interrupt the process after it is started. You can brick the device.</source>
-        <translation>Veuillez ne pas interrompre le processus après son démarrage. Vous pouvez brique l&apos;appareil.</translation>
+        <translation>Veuillez ne pas interrompre le processus une fois lancé. Vous pourriez briquer l&apos;appareil.</translation>
     </message>
 </context>
 <context>
@@ -210,7 +210,7 @@
     <message>
         <location filename="../qml/ModeView.qml" line="122"/>
         <source>Reading motor configuration failed</source>
-        <translation>La lecture du moteur a échoué</translation>
+        <translation>Lecture de la configuration moteur échouée</translation>
     </message>
     <message>
         <location filename="../qml/ModeView.qml" line="104"/>
@@ -220,12 +220,12 @@
     <message>
         <location filename="../qml/ModeView.qml" line="127"/>
         <source>Read current limits from ESC.</source>
-        <translation>Lire les limites actuelles de ESC.</translation>
+        <translation>Lis les limites actuelles de l&apos;ESC.</translation>
     </message>
     <message>
         <location filename="../qml/ModeView.qml" line="132"/>
         <source>Read</source>
-        <translation>Lis</translation>
+        <translation>Lire</translation>
     </message>
 </context>
 <context>
@@ -238,32 +238,32 @@
     <message>
         <location filename="../qml/ModesTab.qml" line="58"/>
         <source>Scan QR code</source>
-        <translation>Scannez le code QR</translation>
+        <translation>Scanner le QR code</translation>
     </message>
     <message>
         <location filename="../qml/ModesTab.qml" line="69"/>
         <source>Enter mode name:</source>
-        <translation>Entrez le nom du mode:</translation>
+        <translation>Entrer le nom du mode :</translation>
     </message>
     <message>
         <location filename="../qml/ModesTab.qml" line="211"/>
         <source>Writing configuration to ESC #%1</source>
-        <translation>Ecriture de la configuration sur ESC #%1</translation>
+        <translation>Ecriture de la configuration sur l&apos;ESC #%1</translation>
     </message>
     <message>
         <location filename="../qml/ModesTab.qml" line="218"/>
         <source>Reading configuration from ESC #%1</source>
-        <translation>Lecture de la configuration depuis ESC #%1</translation>
+        <translation>Lecture de la configuration depuis l&apos;ESC #%1</translation>
     </message>
     <message>
         <location filename="../qml/ModesTab.qml" line="263"/>
         <source>Swipe right to apply mode. Swipe left to show options. Click to configure limits.</source>
-        <translation>Balayez vers la droite pour appliquer le mode. Balayez vers la gauche pour afficher les options. Cliquez pour configurer les limites.</translation>
+        <translation>Balayer vers la droite pour appliquer le mode. Balayer vers la gauche pour afficher les options. Cliquer pour configurer les limites.</translation>
     </message>
     <message>
         <location filename="../qml/ModesTab.qml" line="293"/>
         <source>Perimetr</source>
-        <translation type="unfinished"></translation>
+        <translation>Perimetr</translation>
     </message>
     <message>
         <location filename="../qml/ModesTab.qml" line="300"/>
@@ -283,7 +283,7 @@
     <message>
         <location filename="../qml/ModesTab.qml" line="343"/>
         <source>Multi probing not finished. Please try later.</source>
-        <translation>Multi sondage non terminé. Merci d&apos;essayer plus tard.</translation>
+        <translation>Multi sondage non terminé. Merci d&apos;essayer ultérieurement.</translation>
     </message>
     <message>
         <location filename="../qml/ModesTab.qml" line="362"/>
@@ -293,7 +293,7 @@
     <message>
         <location filename="../qml/ModesTab.qml" line="409"/>
         <source>To add new modes, click on the plus.</source>
-        <translation>Pour ajouter de nouveaux modes, cliquez sur le signe plus.</translation>
+        <translation>Pour ajouter de nouveaux modes, cliquer sur le signe plus.</translation>
     </message>
 </context>
 <context>
@@ -310,53 +310,53 @@
         <location filename="../qml/PerimetrTab.qml" line="213"/>
         <location filename="../qml/PerimetrTab.qml" line="253"/>
         <source>Hall sensor table:</source>
-        <translation type="unfinished"></translation>
+        <translation>Table des capteurs Hall:</translation>
     </message>
     <message>
         <location filename="../qml/PerimetrTab.qml" line="215"/>
         <source>Hall sensor detection failed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Détection des capteurs Hall échouée:</translation>
     </message>
     <message>
         <location filename="../qml/PerimetrTab.qml" line="217"/>
         <source>WS2811 enabled. Hall sensors cannot be used.</source>
-        <translation type="unfinished"></translation>
+        <translation>WS2811 activé. Les capteurs Hall ne peuvent être utilisés.</translation>
     </message>
     <message>
         <location filename="../qml/PerimetrTab.qml" line="219"/>
         <source>Encoder enabled. Hall sensors cannot be used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Encodeur activé. Les capteurs Hall ne peuvent être utilisés.</translation>
     </message>
     <message>
         <location filename="../qml/PerimetrTab.qml" line="221"/>
         <source>Unknown hall error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur capteur Hall inconnu : %1</translation>
     </message>
     <message>
         <location filename="../qml/PerimetrTab.qml" line="226"/>
         <source>Integrator limit: %1&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Limite d&apos;intégrateur : %1</translation>
     </message>
     <message>
         <location filename="../qml/PerimetrTab.qml" line="227"/>
         <source>BEMF Coupling: %1&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Couplage BEMF : %1</translation>
     </message>
     <message>
         <location filename="../qml/PerimetrTab.qml" line="229"/>
         <location filename="../qml/PerimetrTab.qml" line="314"/>
         <source>Write configuration?</source>
-        <translation>Écrire la configuration?</translation>
+        <translation>Écrire la configuration ?</translation>
     </message>
     <message>
         <location filename="../qml/PerimetrTab.qml" line="255"/>
         <source>Hall sensor detection failed: error %d</source>
-        <translation>Hall sensor détection a échoué: erreur %d</translation>
+        <translation>Détection des capteurs Hall échouée: erreur %d</translation>
     </message>
     <message>
         <location filename="../qml/PerimetrTab.qml" line="273"/>
         <source>FOC detection R L</source>
-        <translation>FOC détection R L</translation>
+        <translation>FOC Détection constantes R L</translation>
     </message>
     <message>
         <location filename="../qml/PerimetrTab.qml" line="278"/>
@@ -371,89 +371,89 @@
     <message>
         <location filename="../qml/PerimetrTab.qml" line="590"/>
         <source>Read</source>
-        <translation>Lis</translation>
+        <translation>Lecture</translation>
     </message>
     <message>
         <location filename="../qml/PerimetrTab.qml" line="595"/>
         <source>Write</source>
-        <translation>Écrire</translation>
+        <translation>Écriture</translation>
     </message>
     <message>
         <location filename="../qml/PerimetrTab.qml" line="635"/>
         <source>Are you sure you want to run BLDC motor detection with following parameters?</source>
-        <translation>Êtes-vous sûr de vouloir lancer la détection du moteur BLDC avec les paramètres suivants?</translation>
+        <translation>Êtes-vous sûr de vouloir lancer la détection du moteur BLDC avec les paramètres suivants ?</translation>
     </message>
     <message>
         <location filename="../qml/PerimetrTab.qml" line="636"/>
         <location filename="../qml/PerimetrTab.qml" line="707"/>
         <source>WARNING: THE MOTOR WILL START SPINNING!</source>
-        <translation>AVERTISSEMENT: LE MOTEUR COMMENCERA À FILER!</translation>
+        <translation>AVERTISSEMENT : LE MOTEUR VA SE METTRE A TOURNER !</translation>
     </message>
     <message>
         <location filename="../qml/PerimetrTab.qml" line="649"/>
         <location filename="../qml/PerimetrTab.qml" line="765"/>
         <source>Current</source>
-        <translation>Сourant</translation>
+        <translation>Intensité</translation>
     </message>
     <message>
         <location filename="../qml/PerimetrTab.qml" line="650"/>
         <source>Current used during BLDC motor detection.</source>
-        <translation>Courant utilisé pendant la détection du moteur BLDC.</translation>
+        <translation>Intensité utilisée pendant la détection du moteur BLDC.</translation>
     </message>
     <message>
         <location filename="../qml/PerimetrTab.qml" line="675"/>
         <source>Low duty</source>
-        <translation type="unfinished"></translation>
+        <translation>Rapport cyclique bas</translation>
     </message>
     <message>
         <location filename="../qml/PerimetrTab.qml" line="676"/>
         <source>Low duty used during BLDC motor detection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rapport cyclique bas utilisé pendant la détection moteur en BLDC.</translation>
     </message>
     <message>
         <location filename="../qml/PerimetrTab.qml" line="720"/>
         <source>Hall Sensors Current</source>
-        <translation type="unfinished"></translation>
+        <translation>Intensité de détection des capteurs Hall</translation>
     </message>
     <message>
         <location filename="../qml/PerimetrTab.qml" line="721"/>
         <source>Current used during FOC Hall Sensors detection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Intensité utilisée pendant la détection des capteurs à effet Hall en FOC.</translation>
     </message>
     <message>
         <location filename="../qml/PerimetrTab.qml" line="751"/>
         <source>Are you sure you want to run FOC motor detection with following parameters?</source>
-        <translation type="unfinished"></translation>
+        <translation>Etes-vous sûr de vouloir lancer la détection moteur en FOC avec les paramètres suivants ?</translation>
     </message>
     <message>
         <location filename="../qml/PerimetrTab.qml" line="752"/>
         <source>WARNING: THE MOTOR WILL MAKE VERY LOUD NOISE! AFTER THAT THE MOTOR WILL START SPINNING!</source>
-        <translation type="unfinished"></translation>
+        <translation>AVERTISSEMENT : LE MOTEUR VA FAIRE DU BRUIT PUIS VA SE METTRE A TOURNER !</translation>
     </message>
     <message>
         <location filename="../qml/PerimetrTab.qml" line="766"/>
         <source>Current used during FOC motor detection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Intensité utilisée pendant la détection moteur en FOC.</translation>
     </message>
     <message>
         <location filename="../qml/PerimetrTab.qml" line="791"/>
         <source>Duty</source>
-        <translation type="unfinished"></translation>
+        <translation>Rapport cyclique</translation>
     </message>
     <message>
         <location filename="../qml/PerimetrTab.qml" line="792"/>
         <source>Duty used during FOC motor detection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rapport cyclique utilisé pendant la détection moteur en FOC.</translation>
     </message>
     <message>
         <location filename="../qml/PerimetrTab.qml" line="817"/>
         <source>TC</source>
-        <translation type="unfinished"></translation>
+        <translation>Contrôle de traction</translation>
     </message>
     <message>
         <location filename="../qml/PerimetrTab.qml" line="818"/>
         <source>Time constant for KP and KI.</source>
-        <translation type="unfinished"></translation>
+        <translation>Constante de temps pour KP et KI.</translation>
     </message>
     <message>
         <location filename="../qml/PerimetrTab.qml" line="400"/>
@@ -468,12 +468,12 @@
     <message>
         <location filename="../qml/PerimetrTab.qml" line="508"/>
         <source>Detect motor</source>
-        <translation>Détecter le moteur</translation>
+        <translation>Détection moteur</translation>
     </message>
     <message>
         <location filename="../qml/PerimetrTab.qml" line="504"/>
         <source>Load configuration</source>
-        <translation>Charger la config</translation>
+        <translation>Charger la configuration</translation>
     </message>
     <message>
         <location filename="../qml/PerimetrTab.qml" line="14"/>
@@ -483,54 +483,54 @@
     <message>
         <location filename="../qml/PerimetrTab.qml" line="83"/>
         <source>reading motor configuration</source>
-        <translation>lecture de la configuration du moteur</translation>
+        <translation>Lecture de la configuration moteur</translation>
     </message>
     <message>
         <location filename="../qml/PerimetrTab.qml" line="98"/>
         <source>writing motor configuration</source>
-        <translation>configuration du moteur d&apos;écriture</translation>
+        <translation>écriture de la configuration moteur</translation>
     </message>
     <message>
         <location filename="../qml/PerimetrTab.qml" line="108"/>
         <source>reading app configuration</source>
-        <translation>lire la configuration de l&apos;application</translation>
+        <translation>Lecture de la configuration de l&apos;application</translation>
     </message>
     <message>
         <location filename="../qml/PerimetrTab.qml" line="122"/>
         <source>writing app configuration</source>
-        <translation>écriture d&apos;une configuration d&apos;application</translation>
+        <translation>écriture de la configuration d&apos;application</translation>
     </message>
     <message>
         <location filename="../qml/PerimetrTab.qml" line="191"/>
         <source>BLDC detection</source>
-        <translation type="unfinished"></translation>
+        <translation>Détection en BLDC</translation>
     </message>
     <message>
         <location filename="../qml/PerimetrTab.qml" line="201"/>
         <source>FOC Hall Sensors detection</source>
-        <translation type="unfinished"></translation>
+        <translation>FOC Détection des capteurs Hall</translation>
     </message>
     <message>
         <location filename="../qml/PerimetrTab.qml" line="225"/>
         <location filename="../qml/PerimetrTab.qml" line="259"/>
         <location filename="../qml/PerimetrTab.qml" line="307"/>
         <source>Detection Result Received:</source>
-        <translation type="unfinished"></translation>
+        <translation>Résultat de détection obtenu :</translation>
     </message>
     <message>
         <location filename="../qml/PerimetrTab.qml" line="277"/>
         <source>Bad Detection Result Received.</source>
-        <translation type="unfinished"></translation>
+        <translation>Résultat de détection erroné.</translation>
     </message>
     <message>
         <location filename="../qml/PerimetrTab.qml" line="345"/>
         <source>configuration read OK</source>
-        <translation>configuration lire OK</translation>
+        <translation>Lecture de configuration OK</translation>
     </message>
     <message>
         <location filename="../qml/PerimetrTab.qml" line="351"/>
         <source>configuration write OK</source>
-        <translation>configuration écriture OK</translation>
+        <translation>Ecriture de configuration OK</translation>
     </message>
     <message>
         <location filename="../qml/PerimetrTab.qml" line="445"/>
@@ -545,7 +545,7 @@
     <message>
         <location filename="../qml/PerimetrTab.qml" line="513"/>
         <source>Detect FOC Hall Sensors</source>
-        <translation type="unfinished"></translation>
+        <translation>Détection des capteurs Hall en FOC</translation>
     </message>
     <message>
         <location filename="../qml/PerimetrTab.qml" line="617"/>
@@ -555,12 +555,12 @@
     <message>
         <location filename="../qml/PerimetrTab.qml" line="625"/>
         <source>FOC Hall Sensors detection in this mode is not supported. Please change motor type to FOC.</source>
-        <translation>La détection FOC Hall Sensors dans ce mode n&apos;est pas prise en charge. Veuillez changer le type de moteur en FOC.</translation>
+        <translation>FOC La détection des capteurs Hall dans ce mode n&apos;est pas prise en charge. Veuillez changer le type de moteur en FOC.</translation>
     </message>
     <message>
         <location filename="../qml/PerimetrTab.qml" line="706"/>
         <source>Are you sure you want to run FOC Hall Sensors detection with following parameters?</source>
-        <translation>Êtes-vous sûr de vouloir lancer la détection FOC Hall Sensors avec les paramètres suivants?</translation>
+        <translation>Êtes-vous sûr de vouloir lancer la détection FOC Hall Sensors avec les paramètres suivants ?</translation>
     </message>
 </context>
 <context>
@@ -569,42 +569,42 @@
         <location filename="../qml/RealtimeTab.qml" line="321"/>
         <location filename="../qml/RealtimeTab.qml" line="328"/>
         <source>Ah</source>
-        <translation type="unfinished"></translation>
+        <translation>Ah</translation>
     </message>
     <message>
         <location filename="../qml/RealtimeTab.qml" line="327"/>
         <source>amp hours regen</source>
-        <translation type="unfinished"></translation>
+        <translation>Ah régénérés</translation>
     </message>
     <message>
         <location filename="../qml/RealtimeTab.qml" line="320"/>
         <source>amp hours spent</source>
-        <translation type="unfinished"></translation>
+        <translation>Ah consommés</translation>
     </message>
     <message>
         <location filename="../qml/RealtimeTab.qml" line="334"/>
         <source>watt hours spent</source>
-        <translation type="unfinished"></translation>
+        <translation>Watt-heure consommés</translation>
     </message>
     <message>
         <location filename="../qml/RealtimeTab.qml" line="341"/>
         <source>watt hours regen</source>
-        <translation type="unfinished"></translation>
+        <translation>Watt-heure régénérés</translation>
     </message>
     <message>
         <location filename="../qml/RealtimeTab.qml" line="369"/>
         <source>GPS speed</source>
-        <translation>vitesse GPS</translation>
+        <translation>Vitesse GPS</translation>
     </message>
     <message>
         <location filename="../qml/RealtimeTab.qml" line="418"/>
         <source>battery current</source>
-        <translation type="unfinished"></translation>
+        <translation>Intensité de batterie</translation>
     </message>
     <message>
         <location filename="../qml/RealtimeTab.qml" line="473"/>
         <source>duty cycle</source>
-        <translation type="unfinished"></translation>
+        <translation>Rapport cyclique</translation>
     </message>
     <message>
         <location filename="../qml/RealtimeTab.qml" line="500"/>
@@ -622,22 +622,22 @@
     <message>
         <location filename="../qml/RecordDetails.qml" line="343"/>
         <source>current</source>
-        <translation type="unfinished"></translation>
+        <translation>Intensité</translation>
     </message>
     <message>
         <location filename="../qml/RecordDetails.qml" line="334"/>
         <source>duty</source>
-        <translation type="unfinished"></translation>
+        <translation>Rapport cyclique</translation>
     </message>
     <message>
         <location filename="../qml/RecordDetails.qml" line="235"/>
         <source>No data</source>
-        <translation type="unfinished"></translation>
+        <translation>Pas de données</translation>
     </message>
     <message>
         <location filename="../qml/RecordDetails.qml" line="371"/>
         <source>fault</source>
-        <translation type="unfinished"></translation>
+        <translation>Défaut</translation>
     </message>
     <message>
         <location filename="../qml/RecordDetails.qml" line="456"/>
@@ -650,7 +650,7 @@
     <message>
         <location filename="../qml/RecordList.qml" line="15"/>
         <source>Swipe left to show options. Click to open.</source>
-        <translation>Balayez vers la gauche pour afficher les options. Cliquez pour ouvrir.</translation>
+        <translation>Balayer vers la gauche pour afficher les options. Cliquer pour ouvrir.</translation>
     </message>
 </context>
 <context>
@@ -658,7 +658,7 @@
     <message>
         <location filename="../qml/RecordManager.qml" line="20"/>
         <source>Memory warning!</source>
-        <translation type="unfinished"></translation>
+        <translation>Avertissement de mémoire !</translation>
     </message>
     <message>
         <location filename="../qml/RecordManager.qml" line="66"/>
@@ -691,7 +691,7 @@
     <message>
         <location filename="../qml/RecordSummary.qml" line="23"/>
         <source>top speed</source>
-        <translation>vitesse maximale</translation>
+        <translation>Vitesse maximale</translation>
     </message>
     <message>
         <location filename="../qml/RecordSummary.qml" line="22"/>
@@ -701,7 +701,7 @@
     <message>
         <location filename="../qml/RecordSummary.qml" line="24"/>
         <source>max current</source>
-        <translation>courrant maximum</translation>
+        <translation>intensité maximale</translation>
     </message>
 </context>
 <context>
@@ -709,12 +709,12 @@
     <message>
         <location filename="../qml/RecordTab.qml" line="28"/>
         <source>Uploading record</source>
-        <translation>Enregistrement de l&apos;enregistrement</translation>
+        <translation>Téléchargement de l&apos;enregistrement</translation>
     </message>
     <message>
         <location filename="../qml/RecordTab.qml" line="129"/>
         <source>Stop</source>
-        <translation>Arrêt</translation>
+        <translation>Arrêter</translation>
     </message>
     <message>
         <location filename="../qml/RecordTab.qml" line="129"/>
@@ -740,72 +740,72 @@
     <message>
         <location filename="../qml/SettingsTab.qml" line="104"/>
         <source>TCP Bridge</source>
-        <translation type="unfinished"></translation>
+        <translation>Passerelle TCP</translation>
     </message>
     <message>
         <location filename="../qml/SettingsTab.qml" line="112"/>
         <source>Allows to connect from your Desktop to your ESC without USB cable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Permet de se connecter à l&apos;ESC depuis un PC sans câble USB.</translation>
     </message>
     <message>
         <location filename="../qml/SettingsTab.qml" line="122"/>
         <source>Random off</source>
-        <translation type="unfinished"></translation>
+        <translation>Aléatoire OFF</translation>
     </message>
     <message>
         <location filename="../qml/SettingsTab.qml" line="122"/>
         <source>Random on</source>
-        <translation type="unfinished"></translation>
+        <translation>Aléatoire ON</translation>
     </message>
     <message>
         <location filename="../qml/SettingsTab.qml" line="127"/>
         <source>Generates some random data instead of data received from a bluetooth transmitter. Useful  for testing if you do not have a transmitter.</source>
-        <translation type="unfinished"></translation>
+        <translation>Génère des données aléatoires au lieu des données reçus du module Bluetooth. Utile pour des fins de tests sans transmetteur.</translation>
     </message>
     <message>
         <location filename="../qml/SettingsTab.qml" line="137"/>
         <source>Show logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Affichier les logs</translation>
     </message>
     <message>
         <location filename="../qml/SettingsTab.qml" line="144"/>
         <source>Open log file in external text viewer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir les fichiers de log avec une application externe.</translation>
     </message>
     <message>
         <location filename="../qml/SettingsTab.qml" line="154"/>
         <source>Reset settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Reinitialiser les réglages</translation>
     </message>
     <message>
         <location filename="../qml/SettingsTab.qml" line="159"/>
         <source>Reset all application settings. Does not delete records. You have to force close the application in order to complete reset.</source>
-        <translation type="unfinished"></translation>
+        <translation>Réinitialise tous les réglages de l&apos;application. Ceci ne supprime pas les enregistrements. Pour une réinitialisation complète, il est nécessaire de forcer à quitter l&apos;application.</translation>
     </message>
     <message>
         <location filename="../qml/SettingsTab.qml" line="169"/>
         <source>Terminal</source>
-        <translation type="unfinished"></translation>
+        <translation>Terminal</translation>
     </message>
     <message>
         <location filename="../qml/SettingsTab.qml" line="177"/>
         <source>Open terminal and send text commands to ESC, for example &apos;faults&apos; or &apos;ping&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvre le terminal and envoie des commandes textuelles à l&apos;ESC, comme &apos;faults&apos; ou &apos;ping&apos; par exemple.</translation>
     </message>
     <message>
         <location filename="../qml/SettingsTab.qml" line="186"/>
         <source>Contributions</source>
-        <translation type="unfinished"></translation>
+        <translation>Contributions</translation>
     </message>
     <message>
         <location filename="../qml/SettingsTab.qml" line="192"/>
         <source>Legal</source>
-        <translation type="unfinished"></translation>
+        <translation>Mentions légales</translation>
     </message>
     <message>
         <location filename="../qml/SettingsTab.qml" line="200"/>
         <source>version</source>
-        <translation type="unfinished"></translation>
+        <translation>version</translation>
     </message>
 </context>
 <context>
@@ -818,7 +818,7 @@
     <message>
         <location filename="../qml/SortBar.qml" line="61"/>
         <source>Date</source>
-        <translation>Durée</translation>
+        <translation>Date</translation>
     </message>
     <message>
         <location filename="../qml/SortBar.qml" line="61"/>
@@ -828,7 +828,7 @@
     <message>
         <location filename="../qml/SortBar.qml" line="61"/>
         <source>Distance</source>
-        <translation>Durée</translation>
+        <translation>Distance</translation>
     </message>
     <message>
         <location filename="../qml/SortBar.qml" line="61"/>
@@ -841,7 +841,7 @@
     <message>
         <location filename="../qml/StatusPopup.qml" line="19"/>
         <source>Are you sure you want to reset &apos;%1&apos; stats?</source>
-        <translation>Êtes-vous sûr de vouloir réinitialiser les statistiques &apos;%1&apos;?</translation>
+        <translation>Êtes-vous sûr de vouloir réinitialiser les statistiques de &apos;%1&apos;?</translation>
     </message>
     <message>
         <location filename="../qml/StatusPopup.qml" line="42"/>
@@ -864,62 +864,62 @@
     <message>
         <location filename="../qml/Strings.qml" line="9"/>
         <source>m</source>
-        <translation type="unfinished"></translation>
+        <translation>m</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="9"/>
         <source>ft</source>
-        <translation type="unfinished"></translation>
+        <translation>ft</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="10"/>
         <source>km/h</source>
-        <translation type="unfinished"></translation>
+        <translation>km/h</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="10"/>
         <source>mph</source>
-        <translation type="unfinished"></translation>
+        <translation>mph</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="11"/>
         <source>℃</source>
-        <translation type="unfinished"></translation>
+        <translation>℃</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="11"/>
         <source>℉</source>
-        <translation type="unfinished"></translation>
+        <translation>℉</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="12"/>
         <source>km</source>
-        <translation type="unfinished"></translation>
+        <translation>km</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="12"/>
         <source>mi</source>
-        <translation type="unfinished"></translation>
+        <translation>mi</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="13"/>
         <source>A</source>
-        <translation type="unfinished"></translation>
+        <translation>A</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="14"/>
         <source>Wh</source>
-        <translation type="unfinished"></translation>
+        <translation>Wh</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="15"/>
         <source>V</source>
-        <translation type="unfinished"></translation>
+        <translation>V</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="16"/>
         <source>min</source>
-        <translation type="unfinished"></translation>
+        <translation>min</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="18"/>
@@ -929,17 +929,17 @@
     <message>
         <location filename="../qml/Strings.qml" line="20"/>
         <source>Share</source>
-        <translation type="unfinished"></translation>
+        <translation>Partager</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="37"/>
         <source>Motor poles</source>
-        <translation>Pôles du moteur</translation>
+        <translation>Nombre de pôles du moteur</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="38"/>
         <source>The number of poles in the motor. For example Turnigy Aerodrive SK3 6374 motor has 14 poles.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de pôles du moteur. Exemple : le moteur Turnigy Aerodrive SK3 6374 a 14 pôles.</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="39"/>
@@ -969,37 +969,37 @@
     <message>
         <location filename="../qml/Strings.qml" line="44"/>
         <source>Wheel diameter in millimeters.</source>
-        <translation>Diamètre en mm.</translation>
+        <translation>Diamètre de la roue en mm.</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="45"/>
         <source>Prefer GPS</source>
-        <translation>Utiliser GPS</translation>
+        <translation>Utiliser le GPS</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="46"/>
         <source>Prefer GPS speed and distance to RPM-calculated speed and distance. Not recommended for general use. Only use if your motor does not spin all the time (freewheel, friction drive, etc.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Favorise le calcul de vitesse et distance basé sur les données GPS au lieu des données RPM. Non recommandé. Utilisé uniquement si le moteur n&apos;est pas constament entrainé (roue libre, entrainement par friction...)</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="48"/>
         <source>Use location</source>
-        <translation>Utiliser localisation</translation>
+        <translation>Utiliser la localisation</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="50"/>
         <source>Upload location</source>
-        <translation>Lieu de téléchargement</translation>
+        <translation>Télécharger la position</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="51"/>
         <source>Include GPS coordinates when you upload records. Turn this off if you don&apos;t want to share your location but want to keep using GPS for speed and distance calculation.</source>
-        <translation>Inclure les coordonnées GPS lorsque vous téléchargez des enregistrements. Désactivez cette option si vous ne souhaitez pas partager votre position, mais souhaitez continuer à utiliser le GPS pour calculer la vitesse et la distance.</translation>
+        <translation>Inclure les coordonnées GPS lorsque vous téléchargez des enregistrements. Désactiver cette option si vous ne souhaitez pas partager votre position, mais souhaitez continuer à utiliser le GPS pour calculer la vitesse et la distance.</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="33"/>
         <source>Notifications</source>
-        <translation></translation>
+        <translation>Notifications</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="6"/>
@@ -1024,7 +1024,7 @@
     <message>
         <location filename="../qml/Strings.qml" line="23"/>
         <source>tacho</source>
-        <translation type="unfinished"></translation>
+        <translation>tachomètre</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="24"/>
@@ -1039,7 +1039,7 @@
     <message>
         <location filename="../qml/Strings.qml" line="26"/>
         <source>voltage</source>
-        <translation></translation>
+        <translation>tension</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="27"/>
@@ -1064,7 +1064,7 @@
     <message>
         <location filename="../qml/Strings.qml" line="31"/>
         <source>motor current</source>
-        <translation>courant moteur</translation>
+        <translation>intensité moteur</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="32"/>
@@ -1084,17 +1084,17 @@
     <message>
         <location filename="../qml/Strings.qml" line="49"/>
         <source>Use location services to provide coordinates, speed and elevation data.</source>
-        <translation>La localisation fournit la vitesse et l&apos;altitude.</translation>
+        <translation>La localisation permet de calculer la vitesse et l&apos;altitude.</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="52"/>
         <source>GPS Accuracy</source>
-        <translation type="unfinished"></translation>
+        <translation>Précision GPS</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="53"/>
         <source>Do not accept location with horizontal accuracy (in meters) less than specified. Can be used together with Prefer GPS to fine tune distance. Recommended to leave as 0 (accepts any location).</source>
-        <translation type="unfinished"></translation>
+        <translation>Rejète la position GPS avec une précision horizontale (en mètre) inférieure à celle spécifiée. Peut être combiné à &quot;Préférer GPS&quot; pour calibrer précisément la distance. Recommandé de laisser à 0.</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="55"/>
@@ -1109,7 +1109,7 @@
     <message>
         <location filename="../qml/Strings.qml" line="57"/>
         <source>When the voltage gets greater or equal than this setting, end of charge notification will be sent. Leave as 0 to disable end of charge notifications.</source>
-        <translation>Lorsque la tension devient supérieure ou égale à ce réglage, la notification de fin de charge sera envoyée. Laissez comme 0 pour désactiver les notifications de fin de charge.</translation>
+        <translation>Lorsque la tension devient supérieure ou égale à ce réglage, la notification de fin de charge sera envoyée. Laisser à 0 pour désactiver les notifications de fin de charge.</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="58"/>
@@ -1119,12 +1119,12 @@
     <message>
         <location filename="../qml/Strings.qml" line="59"/>
         <source>When the voltage gets lower than this setting, notification will be sent. Leave as 0 to disable low voltage notifications.</source>
-        <translation>Lorsque la tension devient inférieure à ce paramètre, la notification sera envoyée. Laissez comme 0 pour désactiver les notifications de basse tension.</translation>
+        <translation>Lorsque la tension devient inférieure à ce paramètre, la notification sera envoyée. Laisser à 0 pour désactiver les notifications de basse tension.</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="60"/>
         <source>Bluetooth notifications</source>
-        <translation></translation>
+        <translation>Notifications Bluetooth</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="61"/>
@@ -1149,7 +1149,7 @@
     <message>
         <location filename="../qml/Strings.qml" line="65"/>
         <source>Draw a notification popup and vibrate when inside the app.</source>
-        <translation>Dessinez un pop-up de notification et vibrer lorsque vous êtes dans l&apos;application.</translation>
+        <translation>Affiche une popup de notification et vibre lorsque l&apos;application est active.</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="67"/>
@@ -1164,12 +1164,12 @@
     <message>
         <location filename="../qml/Strings.qml" line="69"/>
         <source>Automatically start and stop records based on speed.</source>
-        <translation>Automatiquement démarrer et arrêter des enregistrements basés sur la vitesse.</translation>
+        <translation>Démarre et arrête l&apos;enregistrement automatiquement en fonction de la vitesse.</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="70"/>
         <source>Start delay</source>
-        <translation></translation>
+        <translation>Délai avant démarrage</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="71"/>
@@ -1179,17 +1179,17 @@
     <message>
         <location filename="../qml/Strings.qml" line="72"/>
         <source>Stop delay</source>
-        <translation></translation>
+        <translation>Délai avant arrêt</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="73"/>
         <source>Time in seconds after which record is stopped if not moving (speed is zero).</source>
-        <translation>Temps en secondes après lequel l&apos;enregistrement est arrêté s&apos;il ne bouge pas (la vitesse est nulle).</translation>
+        <translation>Temps en secondes après lequel l&apos;enregistrement est arrêté si aucun mouvement n&apos;est détecté (vitesse nulle).</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="75"/>
         <source>System</source>
-        <translation>Systeme</translation>
+        <translation>Système</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="76"/>
@@ -1199,7 +1199,7 @@
     <message>
         <location filename="../qml/Strings.qml" line="77"/>
         <source>Imperial</source>
-        <translation>Imperial</translation>
+        <translation>Impérial</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="79"/>
@@ -1209,12 +1209,12 @@
     <message>
         <location filename="../qml/Strings.qml" line="81"/>
         <source>Fahrenheit</source>
-        <translation></translation>
+        <translation>Fahrenheit</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="83"/>
         <source>Language</source>
-        <translation>La langue</translation>
+        <translation>Langue</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="92"/>
@@ -1224,7 +1224,7 @@
     <message>
         <location filename="../qml/Strings.qml" line="93"/>
         <source>Light</source>
-        <translation>Lumière</translation>
+        <translation>Clair</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="94"/>
@@ -1234,7 +1234,7 @@
     <message>
         <location filename="../qml/Strings.qml" line="96"/>
         <source>Update interval</source>
-        <translation>Itervalle de rafraichissement</translation>
+        <translation>Intervalle de rafraichissement</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="97"/>
@@ -1244,17 +1244,17 @@
     <message>
         <location filename="../qml/Strings.qml" line="99"/>
         <source>Grid step</source>
-        <translation>Étape de la grille</translation>
+        <translation>Pas de la grille</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="100"/>
         <source>Minimal dimension change for cells on the Realtime Tab in pixels. Increase or decrease this value and then go to Realtime Tab and change layout, you will understand what this setting does.</source>
-        <translation>Changement de dimension minimal pour les cellules de l&apos;onglet Realtime en pixels. Augmentez ou diminuez cette valeur, puis passez à l&apos;onglet Temps réel et changez la disposition, vous comprendrez ce que ce paramètre fait.</translation>
+        <translation>Changement de dimension minimale pour les cellules de l&apos;onglet Realtime en pixels. Augmenter ou diminuer cette valeur, puis passer à l&apos;onglet Temps réel et changer la disposition pour comprendre l&apos;impact de ce paramètre.</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="102"/>
         <source>Use barometer</source>
-        <translation>Utiliser baromètre</translation>
+        <translation>Utiliser le baromètre</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="103"/>
@@ -1284,7 +1284,7 @@
     <message>
         <location filename="../qml/Strings.qml" line="109"/>
         <source>Send Realtime Data to your watch.</source>
-        <translation>Envoyer données en temps réel sur une montre.</translation>
+        <translation>Envoyer données en temps réel sur une montre connectée.</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="111"/>
@@ -1294,42 +1294,42 @@
     <message>
         <location filename="../qml/Strings.qml" line="112"/>
         <source>If you have multiple ESCs connected via CAN bus, you can enable this setting to multiply some realtime data, such as current and wattage by the number of ESCs.</source>
-        <translation>Si plusieurs ESC sont connectés via le bus CAN, vous pouvez activer ce paramètre pour multiplier certaines données en temps réel, telles que le courant et la puissance par le nombre d&apos;ESC.</translation>
+        <translation>Si plusieurs ESC sont connectés via le bus CAN, activer ce paramètre pour multiplier par le nombre d&apos;ESC certaines données en temps réel, telles que l&apos;intensité et la puissance.</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="114"/>
         <source>Dual data</source>
-        <translation type="unfinished"></translation>
+        <translation>Données Dual</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="115"/>
         <source>If you have dual ESCs connected via CAN bus and Metr Pro module you can enable this setting to show separate amps and temperatures for each ESC.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si un Dual ESC est connecté via CAN bus, cette option permet d&apos;afficher les données indépendante de courant et température de chaque ESC (Metr Pro uniquement).</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="117"/>
         <source>CAN Fwd</source>
-        <translation></translation>
+        <translation>Transfer via CAN</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="118"/>
         <source>If you have multiple ESCs connected via CAN bus, you can enable this setting and specify ID of the ESC to communicate with.</source>
-        <translation>Si vous avez plusieurs ESC connectés via le bus CAN, vous pouvez activer ce paramètre et spécifier l&apos;ID de l&apos;ESC auquel communiquer.</translation>
+        <translation>Si plusieurs ESC sont connectés via le bus CAN, activer ce paramètre et spécifier l&apos;ID de l&apos;ESC auquel communiquer.</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="121"/>
         <source>If CAN Fwd is enabled specify ID of the ESC to communicate with.</source>
-        <translation>Si CAN Fwd est activé, spécifiez l&apos;ID de l&apos;ESC à communiquer avec.</translation>
+        <translation>Si le transfert CAN est activé, spécifier l&apos;identifiant de l&apos;ESC pour communiquer avec.</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="125"/>
         <source>Developer Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode Développeur</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="126"/>
         <source>Show debug information on top all the time</source>
-        <translation type="unfinished"></translation>
+        <translation>Affiche constamment les infos de débuggage en superposition.</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="141"/>
@@ -1339,17 +1339,17 @@
     <message>
         <location filename="../qml/Strings.qml" line="142"/>
         <source>All Time</source>
-        <translation>Tout le temps</translation>
+        <translation>Total</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="120"/>
         <source>CAN Id</source>
-        <translation></translation>
+        <translation>Identifiant CAN</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="80"/>
         <source>Celsius</source>
-        <translation type="unfinished"></translation>
+        <translation>Celsius</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="123"/>
@@ -1359,7 +1359,7 @@
     <message>
         <location filename="../qml/Strings.qml" line="124"/>
         <source>Enable hiding footer on the Realtime Tab with a single tap.</source>
-        <translation>Activez masquer le pied de page sur l&apos;onglet Realtime en un seul clic.</translation>
+        <translation>Masque le pied de page sur l&apos;onglet Realtime en un seul clic.</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="128"/>
@@ -1369,12 +1369,12 @@
     <message>
         <location filename="../qml/Strings.qml" line="129"/>
         <source>Li-Po</source>
-        <translation></translation>
+        <translation>LiPo</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="130"/>
         <source>Li-Ion</source>
-        <translation></translation>
+        <translation>Li-Ion</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="131"/>
@@ -1404,7 +1404,7 @@
     <message>
         <location filename="../qml/Strings.qml" line="137"/>
         <source>Total Wh</source>
-        <translation>Wh totale</translation>
+        <translation>Wh total</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="138"/>
@@ -1419,7 +1419,7 @@
     <message>
         <location filename="../qml/Strings.qml" line="140"/>
         <source>Top Speed</source>
-        <translation>Vitesse de pointe</translation>
+        <translation>Vitesse maximale</translation>
     </message>
 </context>
 <context>
@@ -1432,7 +1432,7 @@
     <message>
         <location filename="../qml/TCPBridge.qml" line="62"/>
         <source>Port</source>
-        <translation type="unfinished"></translation>
+        <translation>Port</translation>
     </message>
     <message>
         <location filename="../qml/TCPBridge.qml" line="65"/>
@@ -1442,17 +1442,17 @@
     <message>
         <location filename="../qml/TCPBridge.qml" line="65"/>
         <source>Peer</source>
-        <translation type="unfinished"></translation>
+        <translation>Partenaire</translation>
     </message>
     <message>
         <location filename="../qml/TCPBridge.qml" line="72"/>
         <source>Bytes in</source>
-        <translation type="unfinished"></translation>
+        <translation>Bytes entrant</translation>
     </message>
     <message>
         <location filename="../qml/TCPBridge.qml" line="75"/>
         <source>Bytes out</source>
-        <translation type="unfinished"></translation>
+        <translation>Bytes sortant</translation>
     </message>
 </context>
 <context>
@@ -1470,7 +1470,7 @@
     <message>
         <location filename="../qml/Tabs.qml" line="17"/>
         <source>Modes</source>
-        <translation></translation>
+        <translation>Modes</translation>
     </message>
     <message>
         <location filename="../qml/Tabs.qml" line="25"/>
@@ -1483,7 +1483,7 @@
     <message>
         <location filename="../qml/Terminal.qml" line="31"/>
         <source>Type command here...</source>
-        <translation>Tapez la commande ici...</translation>
+        <translation>Entrer la commande ici...</translation>
     </message>
     <message>
         <location filename="../qml/Terminal.qml" line="37"/>
@@ -1538,12 +1538,12 @@
     <message>
         <location filename="../qml/Vfu.qml" line="38"/>
         <source>Error: %1</source>
-        <translation>Erreur %1</translation>
+        <translation>Erreur : %1</translation>
     </message>
     <message>
         <location filename="../qml/Vfu.qml" line="45"/>
         <source>You have more than 2 VESCs connected via CAN. Seamless firmware update is not possible.</source>
-        <translation>Vous avez plus de 2 VESC connectés via CAN. La mise à jour du micrologiciel n&apos;est pas possible.</translation>
+        <translation>Vous avez plus de 2 VESC connectés via CAN. La mise à jour du firmware n&apos;est pas possible.</translation>
     </message>
     <message>
         <location filename="../qml/Vfu.qml" line="58"/>
@@ -1558,17 +1558,17 @@
     <message>
         <location filename="../qml/Vfu.qml" line="202"/>
         <source>CRC16 check failed!</source>
-        <translation>Le contrôle CRC16 a échoué!</translation>
+        <translation>Le contrôle CRC16 a échoué !</translation>
     </message>
     <message>
         <location filename="../qml/Vfu.qml" line="261"/>
         <source>Flashing</source>
-        <translation type="unfinished"></translation>
+        <translation>Mise à jour</translation>
     </message>
     <message>
         <location filename="../qml/Vfu.qml" line="272"/>
         <source>Firmware uploaded. Installing</source>
-        <translation>Firmware téléchargé. Installation</translation>
+        <translation>Firmware téléchargé. Installation en cours</translation>
     </message>
 </context>
 </TS>
