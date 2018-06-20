@@ -51,8 +51,8 @@
     </message>
     <message>
         <location filename="../qml/Contributions.qml" line="25"/>
-        <source>Thanks to @ElskerShadow for contributing French translation.</source>
-        <translation>Gracias a @ElskerShadow por contribuir con la traducción en Francés.</translation>
+        <source>Thanks to @ElskerShadow and @Pimousse for contributing French translation.</source>
+        <translation>Gracias a @ElskerShadow and @Pimousse por contribuir con la traducción en Francés.</translation>
     </message>
     <message>
         <location filename="../qml/Contributions.qml" line="26"/>
