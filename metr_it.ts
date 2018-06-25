@@ -117,37 +117,37 @@
 <context>
     <name>Global</name>
     <message>
-        <location filename="../qml/Global.qml" line="141"/>
+        <location filename="../qml/Global.qml" line="154"/>
         <source>Over Voltage</source>
         <translation>Sovratensione</translation>
     </message>
     <message>
-        <location filename="../qml/Global.qml" line="143"/>
+        <location filename="../qml/Global.qml" line="156"/>
         <source>Under Voltage</source>
         <translation>Sottotensione</translation>
     </message>
     <message>
-        <location filename="../qml/Global.qml" line="145"/>
+        <location filename="../qml/Global.qml" line="158"/>
         <source>DRV8302</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../qml/Global.qml" line="147"/>
+        <location filename="../qml/Global.qml" line="160"/>
         <source>Over Current</source>
         <translation>Sovracorrente</translation>
     </message>
     <message>
-        <location filename="../qml/Global.qml" line="149"/>
+        <location filename="../qml/Global.qml" line="162"/>
         <source>Over Temp FET</source>
         <translation>Temperatura Eccessiva FET</translation>
     </message>
     <message>
-        <location filename="../qml/Global.qml" line="151"/>
+        <location filename="../qml/Global.qml" line="164"/>
         <source>Over Temp Motor</source>
         <translation>Temeperatura Eccessiva Motore</translation>
     </message>
     <message>
-        <location filename="../qml/Global.qml" line="153"/>
+        <location filename="../qml/Global.qml" line="166"/>
         <source>Unknown error</source>
         <translation>Errore sconosciuto</translation>
     </message>
@@ -566,53 +566,58 @@
 <context>
     <name>RealtimeTab</name>
     <message>
-        <location filename="../qml/RealtimeTab.qml" line="320"/>
+        <location filename="../qml/RealtimeTab.qml" line="339"/>
         <source>amp hours spent</source>
         <translation>ampere ora consumati</translation>
     </message>
     <message>
-        <location filename="../qml/RealtimeTab.qml" line="321"/>
-        <location filename="../qml/RealtimeTab.qml" line="328"/>
+        <location filename="../qml/RealtimeTab.qml" line="340"/>
+        <location filename="../qml/RealtimeTab.qml" line="347"/>
         <source>Ah</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../qml/RealtimeTab.qml" line="327"/>
+        <location filename="../qml/RealtimeTab.qml" line="346"/>
         <source>amp hours regen</source>
         <translation>ampere ora rigenerati</translation>
     </message>
     <message>
-        <location filename="../qml/RealtimeTab.qml" line="334"/>
+        <location filename="../qml/RealtimeTab.qml" line="353"/>
         <source>watt hours spent</source>
         <translation>watt ora consumati</translation>
     </message>
     <message>
-        <location filename="../qml/RealtimeTab.qml" line="341"/>
+        <location filename="../qml/RealtimeTab.qml" line="360"/>
         <source>watt hours regen</source>
         <translation>watt ora rigenerati</translation>
     </message>
     <message>
-        <location filename="../qml/RealtimeTab.qml" line="369"/>
+        <location filename="../qml/RealtimeTab.qml" line="388"/>
         <source>GPS speed</source>
         <translation>velocità GPS</translation>
     </message>
     <message>
-        <location filename="../qml/RealtimeTab.qml" line="418"/>
+        <location filename="../qml/RealtimeTab.qml" line="437"/>
         <source>battery current</source>
         <translation>corrente batteria</translation>
     </message>
     <message>
-        <location filename="../qml/RealtimeTab.qml" line="473"/>
+        <location filename="../qml/RealtimeTab.qml" line="492"/>
         <source>duty cycle</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../qml/RealtimeTab.qml" line="500"/>
+        <location filename="../qml/RealtimeTab.qml" line="499"/>
+        <source>cell voltage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/RealtimeTab.qml" line="526"/>
         <source>Reset layout</source>
         <translation>Resetta layout</translation>
     </message>
     <message>
-        <location filename="../qml/RealtimeTab.qml" line="506"/>
+        <location filename="../qml/RealtimeTab.qml" line="532"/>
         <source>Exit layout mode</source>
         <translation>Esci dalla modalità layout</translation>
     </message>
@@ -1373,51 +1378,61 @@
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="132"/>
+        <source>Custom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/Strings.qml" line="133"/>
         <source>Voltage S</source>
         <translation>Tensione S</translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="133"/>
+        <location filename="../qml/Strings.qml" line="134"/>
         <source>Number of cell groups in series. Can be for example 6S, 10S or 12S.</source>
         <translation>Numero dei gruppi di celle in serie. Ad esempio: 6S, 10S o 12S.</translation>
     </message>
     <message>
         <location filename="../qml/Strings.qml" line="135"/>
+        <source>Cell voltage at %1%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/Strings.qml" line="148"/>
         <source>Total Distance</source>
         <translation>Distanza totale</translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="136"/>
+        <location filename="../qml/Strings.qml" line="149"/>
         <source>Consumption</source>
         <translation>Consumo</translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="137"/>
+        <location filename="../qml/Strings.qml" line="150"/>
         <source>Total Wh</source>
         <translation>Watt ora totali</translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="138"/>
+        <location filename="../qml/Strings.qml" line="151"/>
         <source>Ride Time</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="139"/>
+        <location filename="../qml/Strings.qml" line="152"/>
         <source>Average Speed</source>
         <translation>Velocità Media</translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="140"/>
+        <location filename="../qml/Strings.qml" line="153"/>
         <source>Top Speed</source>
         <translation>Velocità Massima</translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="141"/>
+        <location filename="../qml/Strings.qml" line="154"/>
         <source>Today</source>
         <translation>Oggi</translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="142"/>
+        <location filename="../qml/Strings.qml" line="155"/>
         <source>All Time</source>
         <translation>Sempre</translation>
     </message>

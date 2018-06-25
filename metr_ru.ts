@@ -118,37 +118,37 @@
 <context>
     <name>Global</name>
     <message>
-        <location filename="../qml/Global.qml" line="141"/>
+        <location filename="../qml/Global.qml" line="154"/>
         <source>Over Voltage</source>
         <translation>Низкое напряжение</translation>
     </message>
     <message>
-        <location filename="../qml/Global.qml" line="143"/>
+        <location filename="../qml/Global.qml" line="156"/>
         <source>Under Voltage</source>
         <translation>Высокое напряжение</translation>
     </message>
     <message>
-        <location filename="../qml/Global.qml" line="145"/>
+        <location filename="../qml/Global.qml" line="158"/>
         <source>DRV8302</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../qml/Global.qml" line="147"/>
+        <location filename="../qml/Global.qml" line="160"/>
         <source>Over Current</source>
         <translation>Высокий ток</translation>
     </message>
     <message>
-        <location filename="../qml/Global.qml" line="149"/>
+        <location filename="../qml/Global.qml" line="162"/>
         <source>Over Temp FET</source>
         <translation>Высокая температура МОП</translation>
     </message>
     <message>
-        <location filename="../qml/Global.qml" line="151"/>
+        <location filename="../qml/Global.qml" line="164"/>
         <source>Over Temp Motor</source>
         <translation>Высокаяа температура мотора</translation>
     </message>
     <message>
-        <location filename="../qml/Global.qml" line="153"/>
+        <location filename="../qml/Global.qml" line="166"/>
         <source>Unknown error</source>
         <translation>Неизвестная ошибка</translation>
     </message>
@@ -567,53 +567,58 @@
 <context>
     <name>RealtimeTab</name>
     <message>
-        <location filename="../qml/RealtimeTab.qml" line="321"/>
-        <location filename="../qml/RealtimeTab.qml" line="328"/>
+        <location filename="../qml/RealtimeTab.qml" line="340"/>
+        <location filename="../qml/RealtimeTab.qml" line="347"/>
         <source>Ah</source>
         <translation>Ач</translation>
     </message>
     <message>
-        <location filename="../qml/RealtimeTab.qml" line="327"/>
+        <location filename="../qml/RealtimeTab.qml" line="346"/>
         <source>amp hours regen</source>
         <translation>Ач реген</translation>
     </message>
     <message>
-        <location filename="../qml/RealtimeTab.qml" line="320"/>
+        <location filename="../qml/RealtimeTab.qml" line="339"/>
         <source>amp hours spent</source>
         <translation>Ач потрач</translation>
     </message>
     <message>
-        <location filename="../qml/RealtimeTab.qml" line="334"/>
+        <location filename="../qml/RealtimeTab.qml" line="353"/>
         <source>watt hours spent</source>
         <translation>Вч потрач</translation>
     </message>
     <message>
-        <location filename="../qml/RealtimeTab.qml" line="341"/>
+        <location filename="../qml/RealtimeTab.qml" line="360"/>
         <source>watt hours regen</source>
         <translation>Вч реген</translation>
     </message>
     <message>
-        <location filename="../qml/RealtimeTab.qml" line="369"/>
+        <location filename="../qml/RealtimeTab.qml" line="388"/>
         <source>GPS speed</source>
         <translation>GPS скорость</translation>
     </message>
     <message>
-        <location filename="../qml/RealtimeTab.qml" line="418"/>
+        <location filename="../qml/RealtimeTab.qml" line="437"/>
         <source>battery current</source>
         <translation>ток аккум</translation>
     </message>
     <message>
-        <location filename="../qml/RealtimeTab.qml" line="473"/>
+        <location filename="../qml/RealtimeTab.qml" line="492"/>
         <source>duty cycle</source>
         <translation>скважность</translation>
     </message>
     <message>
-        <location filename="../qml/RealtimeTab.qml" line="500"/>
+        <location filename="../qml/RealtimeTab.qml" line="499"/>
+        <source>cell voltage</source>
+        <translation>напряжение акк</translation>
+    </message>
+    <message>
+        <location filename="../qml/RealtimeTab.qml" line="526"/>
         <source>Reset layout</source>
         <translation>Восстановить расстановку</translation>
     </message>
     <message>
-        <location filename="../qml/RealtimeTab.qml" line="506"/>
+        <location filename="../qml/RealtimeTab.qml" line="532"/>
         <source>Exit layout mode</source>
         <translation>Закончить редактирование</translation>
     </message>
@@ -1338,12 +1343,22 @@
         <translation>Показывать отладочную информацию все время сверху</translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="141"/>
+        <location filename="../qml/Strings.qml" line="132"/>
+        <source>Custom</source>
+        <translation>Другой</translation>
+    </message>
+    <message>
+        <location filename="../qml/Strings.qml" line="135"/>
+        <source>Cell voltage at %1%</source>
+        <translation>Напряжение при %1%</translation>
+    </message>
+    <message>
+        <location filename="../qml/Strings.qml" line="154"/>
         <source>Today</source>
         <translation>Сегодня</translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="142"/>
+        <location filename="../qml/Strings.qml" line="155"/>
         <source>All Time</source>
         <translation>Всего</translation>
     </message>
@@ -1383,42 +1398,42 @@
         <translation></translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="132"/>
+        <location filename="../qml/Strings.qml" line="133"/>
         <source>Voltage S</source>
         <translation>Напряжение S</translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="133"/>
+        <location filename="../qml/Strings.qml" line="134"/>
         <source>Number of cell groups in series. Can be for example 6S, 10S or 12S.</source>
         <translation>Количество последовательно соединенных групп аккумуляторов. Например 6S, 10S или 12S.</translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="135"/>
+        <location filename="../qml/Strings.qml" line="148"/>
         <source>Total Distance</source>
         <translation>Накатано</translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="136"/>
+        <location filename="../qml/Strings.qml" line="149"/>
         <source>Consumption</source>
         <translation>Потребление</translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="137"/>
+        <location filename="../qml/Strings.qml" line="150"/>
         <source>Total Wh</source>
         <translation>Всего Вч</translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="138"/>
+        <location filename="../qml/Strings.qml" line="151"/>
         <source>Ride Time</source>
         <translation>Время в пути</translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="139"/>
+        <location filename="../qml/Strings.qml" line="152"/>
         <source>Average Speed</source>
         <translation>Средн скорость</translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="140"/>
+        <location filename="../qml/Strings.qml" line="153"/>
         <source>Top Speed</source>
         <translation>Макс скорость</translation>
     </message>
