@@ -676,7 +676,7 @@
         <translation>Enregistrement arrêté</translation>
     </message>
     <message>
-        <location filename="../qml/RecordManager.qml" line="92"/>
+        <location filename="../qml/RecordManager.qml" line="95"/>
         <source>Maximum record size reached</source>
         <translation>Taille maximale de l&apos;enregistrement atteinte</translation>
     </message>
@@ -1247,117 +1247,127 @@
         <translation>Temps en millisecondes entre les requêtes vers l&apos;émetteur bluetooth. La valeur recommandée est 300. Les valeur plus basses peuvent provoquer des problèmes de communication.</translation>
     </message>
     <message>
+        <location filename="../qml/Strings.qml" line="98"/>
+        <source>Point interval</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../qml/Strings.qml" line="99"/>
+        <source>Minimum time in milliseconds between recorded points. Data that comes earlier is discarded. Recommended value is 160. Set to 0 for maximum record detail, but at this rate with Metr Pro module the records will be limited to approximately 45 minutes due to high memory usage.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/Strings.qml" line="101"/>
         <source>Grid step</source>
         <translation>Pas de la grille</translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="100"/>
+        <location filename="../qml/Strings.qml" line="102"/>
         <source>Minimal dimension change for cells on the Realtime Tab in pixels. Increase or decrease this value and then go to Realtime Tab and change layout, you will understand what this setting does.</source>
         <translation>Changement de dimension minimale pour les cellules de l&apos;onglet Realtime en pixels. Augmenter ou diminuer cette valeur, puis passer à l&apos;onglet Temps réel et changer la disposition pour comprendre l&apos;impact de ce paramètre.</translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="102"/>
+        <location filename="../qml/Strings.qml" line="104"/>
         <source>Use barometer</source>
         <translation>Utiliser le baromètre</translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="103"/>
+        <location filename="../qml/Strings.qml" line="105"/>
         <source>Use barometer sensor to calculate elevation changes. Enabling this setting usually provides much better precision.</source>
         <translation>Le baromètre calcule les changements d&apos;attitudes. Activer cette fonction apporte une précision plus accrue.</translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="105"/>
+        <location filename="../qml/Strings.qml" line="107"/>
         <source>Keep screen on</source>
         <translation>Garder écran allumé</translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="106"/>
+        <location filename="../qml/Strings.qml" line="108"/>
         <source>Keep screen always on when transmitter is connected and Realtime Tab is active.</source>
         <translation>Garde l&apos;écran allumé lorsque le module est connecté et que la Realtime Tab est active.</translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="108"/>
+        <location filename="../qml/Strings.qml" line="110"/>
         <source>Android Wear</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="108"/>
+        <location filename="../qml/Strings.qml" line="110"/>
         <source>Apple Watch</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="109"/>
+        <location filename="../qml/Strings.qml" line="111"/>
         <source>Send Realtime Data to your watch.</source>
         <translation>Envoyer données en temps réel sur une montre connectée.</translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="111"/>
+        <location filename="../qml/Strings.qml" line="113"/>
         <source>Multiply data</source>
         <translation>Multiplier les données</translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="112"/>
+        <location filename="../qml/Strings.qml" line="114"/>
         <source>If you have multiple ESCs connected via CAN bus, you can enable this setting to multiply some realtime data, such as current and wattage by the number of ESCs.</source>
         <translation>Si plusieurs ESC sont connectés via le bus CAN, activer ce paramètre pour multiplier par le nombre d&apos;ESC certaines données en temps réel, telles que l&apos;intensité et la puissance.</translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="114"/>
+        <location filename="../qml/Strings.qml" line="116"/>
         <source>Dual data</source>
         <translation>Données Dual</translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="115"/>
+        <location filename="../qml/Strings.qml" line="117"/>
         <source>If you have dual ESCs connected via CAN bus and Metr Pro module you can enable this setting to show separate amps and temperatures for each ESC.</source>
         <translation>Si un Dual ESC est connecté via CAN bus, cette option permet d&apos;afficher les données indépendante de courant et température de chaque ESC (Metr Pro uniquement).</translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="117"/>
+        <location filename="../qml/Strings.qml" line="119"/>
         <source>CAN Fwd</source>
         <translation>Transfer via CAN</translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="118"/>
+        <location filename="../qml/Strings.qml" line="120"/>
         <source>If you have multiple ESCs connected via CAN bus, you can enable this setting and specify ID of the ESC to communicate with.</source>
         <translation>Si plusieurs ESC sont connectés via le bus CAN, activer ce paramètre et spécifier l&apos;ID de l&apos;ESC auquel communiquer.</translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="121"/>
+        <location filename="../qml/Strings.qml" line="123"/>
         <source>If CAN Fwd is enabled specify ID of the ESC to communicate with.</source>
         <translation>Si le transfert CAN est activé, spécifier l&apos;identifiant de l&apos;ESC pour communiquer avec.</translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="125"/>
+        <location filename="../qml/Strings.qml" line="127"/>
         <source>Developer Mode</source>
         <translation>Mode Développeur</translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="126"/>
+        <location filename="../qml/Strings.qml" line="128"/>
         <source>Show debug information on top all the time</source>
         <translation>Affiche constamment les infos de débuggage en superposition.</translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="132"/>
+        <location filename="../qml/Strings.qml" line="134"/>
         <source>Custom</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="135"/>
+        <location filename="../qml/Strings.qml" line="137"/>
         <source>Cell voltage at %1%</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="154"/>
+        <location filename="../qml/Strings.qml" line="156"/>
         <source>Today</source>
         <translation>Aujourd&apos;hui</translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="155"/>
+        <location filename="../qml/Strings.qml" line="157"/>
         <source>All Time</source>
         <translation>Total</translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="120"/>
+        <location filename="../qml/Strings.qml" line="122"/>
         <source>CAN Id</source>
         <translation>Identifiant CAN</translation>
     </message>
@@ -1367,72 +1377,72 @@
         <translation>Celsius</translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="123"/>
+        <location filename="../qml/Strings.qml" line="125"/>
         <source>Hide Footer</source>
         <translation>Masquer le pied de page</translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="124"/>
+        <location filename="../qml/Strings.qml" line="126"/>
         <source>Enable hiding footer on the Realtime Tab with a single tap.</source>
         <translation>Masque le pied de page sur l&apos;onglet Realtime en un seul clic.</translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="128"/>
+        <location filename="../qml/Strings.qml" line="130"/>
         <source>Battery type</source>
         <translation>Type de batterie</translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="129"/>
+        <location filename="../qml/Strings.qml" line="131"/>
         <source>Li-Po</source>
         <translation>LiPo</translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="130"/>
+        <location filename="../qml/Strings.qml" line="132"/>
         <source>Li-Ion</source>
         <translation>Li-Ion</translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="131"/>
+        <location filename="../qml/Strings.qml" line="133"/>
         <source>ANR26650</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="133"/>
+        <location filename="../qml/Strings.qml" line="135"/>
         <source>Voltage S</source>
         <translation>Tension S</translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="134"/>
+        <location filename="../qml/Strings.qml" line="136"/>
         <source>Number of cell groups in series. Can be for example 6S, 10S or 12S.</source>
         <translation>Nombre de groupes de cellules en série. Peut être par exemple 6S, 10S ou 12S.</translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="148"/>
+        <location filename="../qml/Strings.qml" line="150"/>
         <source>Total Distance</source>
         <translation>Distance totale</translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="149"/>
+        <location filename="../qml/Strings.qml" line="151"/>
         <source>Consumption</source>
         <translation>Consommation</translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="150"/>
+        <location filename="../qml/Strings.qml" line="152"/>
         <source>Total Wh</source>
         <translation>Wh total</translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="151"/>
+        <location filename="../qml/Strings.qml" line="153"/>
         <source>Ride Time</source>
         <translation>Durée du trajet</translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="152"/>
+        <location filename="../qml/Strings.qml" line="154"/>
         <source>Average Speed</source>
         <translation>Vitesse moyenne</translation>
     </message>
     <message>
-        <location filename="../qml/Strings.qml" line="153"/>
+        <location filename="../qml/Strings.qml" line="155"/>
         <source>Top Speed</source>
         <translation>Vitesse maximale</translation>
     </message>
