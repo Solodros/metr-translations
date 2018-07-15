@@ -344,13 +344,9 @@
     </message>
     <message>
         <location filename="../qml/PerimetrTab.qml" line="229"/>
+        <location filename="../qml/PerimetrTab.qml" line="257"/>
         <location filename="../qml/PerimetrTab.qml" line="314"/>
         <source>Write configuration?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/PerimetrTab.qml" line="255"/>
-        <source>Hall sensor detection failed: error %d</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -369,109 +365,109 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/PerimetrTab.qml" line="590"/>
+        <location filename="../qml/PerimetrTab.qml" line="597"/>
         <source>Read</source>
         <translation type="unfinished">Leggere</translation>
     </message>
     <message>
-        <location filename="../qml/PerimetrTab.qml" line="595"/>
+        <location filename="../qml/PerimetrTab.qml" line="602"/>
         <source>Write</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/PerimetrTab.qml" line="635"/>
+        <location filename="../qml/PerimetrTab.qml" line="642"/>
         <source>Are you sure you want to run BLDC motor detection with following parameters?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/PerimetrTab.qml" line="636"/>
-        <location filename="../qml/PerimetrTab.qml" line="707"/>
+        <location filename="../qml/PerimetrTab.qml" line="643"/>
+        <location filename="../qml/PerimetrTab.qml" line="714"/>
         <source>WARNING: THE MOTOR WILL START SPINNING!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/PerimetrTab.qml" line="649"/>
-        <location filename="../qml/PerimetrTab.qml" line="765"/>
+        <location filename="../qml/PerimetrTab.qml" line="656"/>
+        <location filename="../qml/PerimetrTab.qml" line="772"/>
         <source>Current</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/PerimetrTab.qml" line="650"/>
+        <location filename="../qml/PerimetrTab.qml" line="657"/>
         <source>Current used during BLDC motor detection.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/PerimetrTab.qml" line="675"/>
+        <location filename="../qml/PerimetrTab.qml" line="682"/>
         <source>Low duty</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/PerimetrTab.qml" line="676"/>
+        <location filename="../qml/PerimetrTab.qml" line="683"/>
         <source>Low duty used during BLDC motor detection.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/PerimetrTab.qml" line="720"/>
+        <location filename="../qml/PerimetrTab.qml" line="727"/>
         <source>Hall Sensors Current</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/PerimetrTab.qml" line="721"/>
+        <location filename="../qml/PerimetrTab.qml" line="728"/>
         <source>Current used during FOC Hall Sensors detection.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/PerimetrTab.qml" line="751"/>
+        <location filename="../qml/PerimetrTab.qml" line="758"/>
         <source>Are you sure you want to run FOC motor detection with following parameters?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/PerimetrTab.qml" line="752"/>
+        <location filename="../qml/PerimetrTab.qml" line="759"/>
         <source>WARNING: THE MOTOR WILL MAKE VERY LOUD NOISE! AFTER THAT THE MOTOR WILL START SPINNING!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/PerimetrTab.qml" line="766"/>
+        <location filename="../qml/PerimetrTab.qml" line="773"/>
         <source>Current used during FOC motor detection.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/PerimetrTab.qml" line="791"/>
+        <location filename="../qml/PerimetrTab.qml" line="798"/>
         <source>Duty</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/PerimetrTab.qml" line="792"/>
+        <location filename="../qml/PerimetrTab.qml" line="799"/>
         <source>Duty used during FOC motor detection.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/PerimetrTab.qml" line="817"/>
+        <location filename="../qml/PerimetrTab.qml" line="824"/>
         <source>TC</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/PerimetrTab.qml" line="818"/>
+        <location filename="../qml/PerimetrTab.qml" line="825"/>
         <source>Time constant for KP and KI.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/PerimetrTab.qml" line="400"/>
+        <location filename="../qml/PerimetrTab.qml" line="407"/>
         <source>communication FAILED</source>
         <translation>comunicazione NON RIUSCITA</translation>
     </message>
     <message>
-        <location filename="../qml/PerimetrTab.qml" line="423"/>
+        <location filename="../qml/PerimetrTab.qml" line="430"/>
         <source>communication in progress</source>
         <translation>comunicazione in corso</translation>
     </message>
     <message>
-        <location filename="../qml/PerimetrTab.qml" line="508"/>
+        <location filename="../qml/PerimetrTab.qml" line="515"/>
         <source>Detect motor</source>
         <translation>Rileva il motore</translation>
     </message>
     <message>
-        <location filename="../qml/PerimetrTab.qml" line="504"/>
+        <location filename="../qml/PerimetrTab.qml" line="511"/>
         <source>Load configuration</source>
         <translation>Carica configurazione</translation>
     </message>
@@ -512,7 +508,7 @@
     </message>
     <message>
         <location filename="../qml/PerimetrTab.qml" line="225"/>
-        <location filename="../qml/PerimetrTab.qml" line="259"/>
+        <location filename="../qml/PerimetrTab.qml" line="255"/>
         <location filename="../qml/PerimetrTab.qml" line="307"/>
         <source>Detection Result Received:</source>
         <translation>Risultato di rilevamento ricevuto:</translation>
@@ -533,32 +529,32 @@
         <translation>configurazione scrivere OK</translation>
     </message>
     <message>
-        <location filename="../qml/PerimetrTab.qml" line="445"/>
+        <location filename="../qml/PerimetrTab.qml" line="452"/>
         <source>connecting to </source>
         <translation>collegamento a </translation>
     </message>
     <message>
-        <location filename="../qml/PerimetrTab.qml" line="499"/>
+        <location filename="../qml/PerimetrTab.qml" line="506"/>
         <source>Save configuration</source>
         <translation>Salva configurazione</translation>
     </message>
     <message>
-        <location filename="../qml/PerimetrTab.qml" line="513"/>
+        <location filename="../qml/PerimetrTab.qml" line="520"/>
         <source>Detect FOC Hall Sensors</source>
         <translation>Rileva i sensori di Hall FOC</translation>
     </message>
     <message>
-        <location filename="../qml/PerimetrTab.qml" line="617"/>
+        <location filename="../qml/PerimetrTab.qml" line="624"/>
         <source>Motor detection in this mode is not supported. Please change motor type to BLDC or FOC.</source>
         <translation>Il rilevamento del motore in questa modalità non è supportato. Si prega di cambiare il tipo di motore in BLDC o FOC.</translation>
     </message>
     <message>
-        <location filename="../qml/PerimetrTab.qml" line="625"/>
+        <location filename="../qml/PerimetrTab.qml" line="632"/>
         <source>FOC Hall Sensors detection in this mode is not supported. Please change motor type to FOC.</source>
         <translation>Il rilevamento dei sensori di Hall FOC in questa modalità non è supportato. Si prega di cambiare il tipo di motore in FOC.</translation>
     </message>
     <message>
-        <location filename="../qml/PerimetrTab.qml" line="706"/>
+        <location filename="../qml/PerimetrTab.qml" line="713"/>
         <source>Are you sure you want to run FOC Hall Sensors detection with following parameters?</source>
         <translation>Sei sicuro di voler eseguire il rilevamento dei sensori di Hall FOC con i seguenti parametri?</translation>
     </message>
