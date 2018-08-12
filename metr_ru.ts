@@ -54,6 +54,10 @@
         <translatorcomment>Спасибо @Pedrodemio за перевод на португальский.</translatorcomment>
         <translation></translation>
     </message>
+    <message>
+        <source>Thanks to @oyta for contributing Norwegian translations.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DeviceSettingsView</name>

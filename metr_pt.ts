@@ -53,6 +53,10 @@
         <source>Thanks to @Pedrodemio for contributing Portuguese translation.</source>
         <translation>Agradecimentos a @Pedrodemio pela tradução para Português.</translation>
     </message>
+    <message>
+        <source>Thanks to @oyta for contributing Norwegian translations.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DeviceSettingsView</name>
