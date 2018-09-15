@@ -56,7 +56,7 @@
     </message>
     <message>
         <source>Thanks to @oyta for contributing Norwegian translations.</source>
-        <translation type="unfinished"></translation>
+        <translation>Спасибо @oyta за перевод на норвежский.</translation>
     </message>
 </context>
 <context>
@@ -98,6 +98,25 @@
     <message>
         <source>Please don&apos;t interrupt the process</source>
         <translation>Пожалуйста не закрывайте приложение</translation>
+    </message>
+</context>
+<context>
+    <name>DieBieMSView</name>
+    <message>
+        <source>voltage</source>
+        <translation>напряжение</translation>
+    </message>
+    <message>
+        <source>current</source>
+        <translation>ток</translation>
+    </message>
+    <message>
+        <source>mismatch</source>
+        <translation>разброс</translation>
+    </message>
+    <message>
+        <source>temp</source>
+        <translation>темп</translation>
     </message>
 </context>
 <context>
@@ -187,6 +206,10 @@
     <message>
         <source>Read</source>
         <translation>Считать</translation>
+    </message>
+    <message>
+        <source>Could not create motor configuration. Check log for details.</source>
+        <translation>Невозможно создать конфиг мотора. Проверьте лог файл.</translation>
     </message>
 </context>
 <context>
@@ -448,6 +471,10 @@
     <message>
         <source>Are you sure you want to run FOC Hall Sensors detection with following parameters?</source>
         <translation>Вы уверены, что хотите запустить FOC Hall Sensors определение со следующими параметрами?</translation>
+    </message>
+    <message>
+        <source>This VESC FW is not supported yet. Check log for details.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1161,6 +1188,18 @@
     <message>
         <source>Top Speed</source>
         <translation>Макс скорость</translation>
+    </message>
+    <message>
+        <source>DieBieMS</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Auto Show</source>
+        <translation>Авто Дисплей</translation>
+    </message>
+    <message>
+        <source>Automatically show and hide DieBieMS cell information on the Realtime Tab when the charger is plugged in and out.</source>
+        <translation>Автоматически показывать и прятать DieBieMS экран, когда подключается и отключается зарядка.</translation>
     </message>
 </context>
 <context>

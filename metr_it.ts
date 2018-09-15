@@ -100,6 +100,25 @@
     </message>
 </context>
 <context>
+    <name>DieBieMSView</name>
+    <message>
+        <source>voltage</source>
+        <translation type="unfinished">tensione</translation>
+    </message>
+    <message>
+        <source>current</source>
+        <translation type="unfinished">corrente</translation>
+    </message>
+    <message>
+        <source>mismatch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>temp</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Global</name>
     <message>
         <source>Over Voltage</source>
@@ -186,6 +205,10 @@
     <message>
         <source>Read</source>
         <translation>Leggere</translation>
+    </message>
+    <message>
+        <source>Could not create motor configuration. Check log for details.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -447,6 +470,10 @@
     <message>
         <source>Are you sure you want to run FOC Hall Sensors detection with following parameters?</source>
         <translation>Sei sicuro di voler eseguire il rilevamento dei sensori di Hall FOC con i seguenti parametri?</translation>
+    </message>
+    <message>
+        <source>This VESC FW is not supported yet. Check log for details.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1160,6 +1187,18 @@
     <message>
         <source>All Time</source>
         <translation>Sempre</translation>
+    </message>
+    <message>
+        <source>DieBieMS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto Show</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically show and hide DieBieMS cell information on the Realtime Tab when the charger is plugged in and out.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
