@@ -1201,6 +1201,14 @@
         <source>Automatically show and hide DieBieMS cell information on the Realtime Tab when the charger is plugged in and out.</source>
         <translation>Автоматически показывать и прятать DieBieMS экран, когда подключается и отключается зарядка.</translation>
     </message>
+    <message>
+        <source>Disable Battery Optimizations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable Battery Optimizations in Android 6+. If the app dies in the background, try disabling or enabling this value.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>TCPBridge</name>
