@@ -273,6 +273,10 @@
         <source>Startup mode</source>
         <translation>Режим Загрузки</translation>
     </message>
+    <message>
+        <source>This VESC FW is not supported yet. Check log for details.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PerimetrTab</name>
