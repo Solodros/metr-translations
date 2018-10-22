@@ -2,6 +2,13 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="es_ES">
 <context>
+    <name>AnnouncementsTab</name>
+    <message>
+        <source>To add new announcements, click on the plus.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>BluetoothPane</name>
     <message>
         <source>Bluetooth</source>
@@ -103,11 +110,11 @@
     <name>DieBieMSView</name>
     <message>
         <source>voltage</source>
-        <translation type="unfinished">voltaje</translation>
+        <translation type="obsolete">voltaje</translation>
     </message>
     <message>
         <source>current</source>
-        <translation type="unfinished">corriente</translation>
+        <translation type="obsolete">corriente</translation>
     </message>
     <message>
         <source>mismatch</source>
@@ -236,10 +243,6 @@
     <message>
         <source>Swipe right to apply mode. Swipe left to show options. Click to configure limits.</source>
         <translation>Desliza el dedo hacia la derecha para aplicar el modo. Desliza el dedo hacia la izquierda para mostrar las opciones. Haga clic para configurar los límites.</translation>
-    </message>
-    <message>
-        <source>Perimetr</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Clear Startup Mode</source>
@@ -531,7 +534,7 @@
     <name>RecordDetails</name>
     <message>
         <source>current</source>
-        <translation>corriente</translation>
+        <translation type="vanished">corriente</translation>
     </message>
     <message>
         <source>duty</source>
@@ -1212,6 +1215,54 @@
         <source>Disable Battery Optimizations in Android 6+. If the app dies in the background, try disabling or enabling this value.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>current</source>
+        <translation>corriente</translation>
+    </message>
+    <message>
+        <source>Realtime</source>
+        <translation>Tiempo real</translation>
+    </message>
+    <message>
+        <source>Modes</source>
+        <translation>Modos</translation>
+    </message>
+    <message>
+        <source>Announce</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Expert</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation>Opciones</translation>
+    </message>
+    <message>
+        <source>Enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable or disable all announcements.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fast</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Very fast</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>battery</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>TCPBridge</name>
@@ -1244,19 +1295,19 @@
     <name>Tabs</name>
     <message>
         <source>Realtime</source>
-        <translation>Tiempo real</translation>
+        <translation type="vanished">Tiempo real</translation>
     </message>
     <message>
         <source>Records</source>
-        <translation>Rutas</translation>
+        <translation type="vanished">Rutas</translation>
     </message>
     <message>
         <source>Modes</source>
-        <translation>Modos</translation>
+        <translation type="vanished">Modos</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>Opciones</translation>
+        <translation type="vanished">Opciones</translation>
     </message>
 </context>
 <context>

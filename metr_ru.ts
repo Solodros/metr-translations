@@ -2,6 +2,13 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="ru_RU">
 <context>
+    <name>AnnouncementsTab</name>
+    <message>
+        <source>To add new announcements, click on the plus.</source>
+        <translation>Чтобы добавить новые оповещения, нажмите на плюс.</translation>
+    </message>
+</context>
+<context>
     <name>BluetoothPane</name>
     <message>
         <source>Bluetooth</source>
@@ -104,11 +111,11 @@
     <name>DieBieMSView</name>
     <message>
         <source>voltage</source>
-        <translation>напряжение</translation>
+        <translation type="vanished">напряжение</translation>
     </message>
     <message>
         <source>current</source>
-        <translation>ток</translation>
+        <translation type="vanished">ток</translation>
     </message>
     <message>
         <source>mismatch</source>
@@ -239,10 +246,6 @@
         <translation>Прокрутите вправо чтобы применить. Прокрутите влево для доп действий. Нажмите чтобы открыть.</translation>
     </message>
     <message>
-        <source>Perimetr</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Clear Startup Mode</source>
         <translation>Удалить Режим Загрузки</translation>
     </message>
@@ -275,7 +278,7 @@
     </message>
     <message>
         <source>This VESC FW is not supported yet. Check log for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Эта прошивка VESC не поддерживается. Подробности в журнале.</translation>
     </message>
 </context>
 <context>
@@ -478,7 +481,7 @@
     </message>
     <message>
         <source>This VESC FW is not supported yet. Check log for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Эта версия VESC не поддерживается. Подробности в журнале.</translation>
     </message>
 </context>
 <context>
@@ -532,7 +535,7 @@
     <name>RecordDetails</name>
     <message>
         <source>current</source>
-        <translation>ток</translation>
+        <translation type="vanished">ток</translation>
     </message>
     <message>
         <source>duty</source>
@@ -1207,11 +1210,59 @@
     </message>
     <message>
         <source>Disable Battery Optimizations</source>
-        <translation type="unfinished"></translation>
+        <translation>Выкл оптимизации энергопотребления</translation>
     </message>
     <message>
         <source>Disable Battery Optimizations in Android 6+. If the app dies in the background, try disabling or enabling this value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выкл оптимизации энергопотребления в Android 6+. Если приложение останавливается в фоновом режиме, попробуйте изменить это значение.</translation>
+    </message>
+    <message>
+        <source>current</source>
+        <translation>ток</translation>
+    </message>
+    <message>
+        <source>Realtime</source>
+        <translation>Сейчас</translation>
+    </message>
+    <message>
+        <source>Modes</source>
+        <translation>Режимы</translation>
+    </message>
+    <message>
+        <source>Announce</source>
+        <translation>Оповещения</translation>
+    </message>
+    <message>
+        <source>Expert</source>
+        <translation>Эксперт</translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation>Настройки</translation>
+    </message>
+    <message>
+        <source>Enabled</source>
+        <translation>Вкл</translation>
+    </message>
+    <message>
+        <source>Enable or disable all announcements.</source>
+        <translation>Включить или выключить все оповещения.</translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <translation>Норм</translation>
+    </message>
+    <message>
+        <source>Fast</source>
+        <translation>Быстро</translation>
+    </message>
+    <message>
+        <source>Very fast</source>
+        <translation>Оч быстро</translation>
+    </message>
+    <message>
+        <source>battery</source>
+        <translation>заряд</translation>
     </message>
 </context>
 <context>
@@ -1245,19 +1296,19 @@
     <name>Tabs</name>
     <message>
         <source>Realtime</source>
-        <translation>Сейчас</translation>
+        <translation type="vanished">Сейчас</translation>
     </message>
     <message>
         <source>Records</source>
-        <translation>Записи</translation>
+        <translation type="vanished">Записи</translation>
     </message>
     <message>
         <source>Modes</source>
-        <translation>Режимы</translation>
+        <translation type="vanished">Режимы</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>Настройки</translation>
+        <translation type="vanished">Настройки</translation>
     </message>
 </context>
 <context>

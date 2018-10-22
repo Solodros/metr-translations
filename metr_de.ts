@@ -2,6 +2,13 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="de_DE">
 <context>
+    <name>AnnouncementsTab</name>
+    <message>
+        <source>To add new announcements, click on the plus.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>BluetoothPane</name>
     <message>
         <source>Bluetooth</source>
@@ -103,11 +110,11 @@
     <name>DieBieMSView</name>
     <message>
         <source>voltage</source>
-        <translation type="unfinished">Spannung</translation>
+        <translation type="obsolete">Spannung</translation>
     </message>
     <message>
         <source>current</source>
-        <translation type="unfinished">Strom</translation>
+        <translation type="obsolete">Strom</translation>
     </message>
     <message>
         <source>mismatch</source>
@@ -238,10 +245,6 @@
         <translation>Wischen Sie nach rechts um den Modus anzuwenden. Wischen Sie nach Links um Optionen anzuzeigen. Klicken Sie um Grenzwerte anzupassen.</translation>
     </message>
     <message>
-        <source>Perimetr</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Clear Startup Mode</source>
         <translation type="unfinished"></translation>
     </message>
@@ -251,7 +254,7 @@
     </message>
     <message>
         <source>Firmware &lt;= 2.18. Won&apos;t apply.</source>
-        <translation type="unfinished">Firmware &lt;= 3.29. Wird nicht angewendet. {2.18.?}</translation>
+        <translation>Firmware &lt;= 2.18. Wird nicht angewendet.</translation>
     </message>
     <message>
         <source>Multi probing not finished. Please try later.</source>
@@ -259,7 +262,7 @@
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished">Anwenden</translation>
+        <translation>Anwenden</translation>
     </message>
     <message>
         <source>To add new modes, click on the plus.</source>
@@ -325,7 +328,7 @@
     </message>
     <message>
         <source>Read</source>
-        <translation type="unfinished">Lesen</translation>
+        <translation>Lesen</translation>
     </message>
     <message>
         <source>Write</source>
@@ -531,7 +534,7 @@
     <name>RecordDetails</name>
     <message>
         <source>current</source>
-        <translation>Strom</translation>
+        <translation type="vanished">Strom</translation>
     </message>
     <message>
         <source>duty</source>
@@ -1212,6 +1215,54 @@
         <source>Disable Battery Optimizations in Android 6+. If the app dies in the background, try disabling or enabling this value.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>current</source>
+        <translation>strom</translation>
+    </message>
+    <message>
+        <source>Realtime</source>
+        <translation>Echtzeitdaten</translation>
+    </message>
+    <message>
+        <source>Modes</source>
+        <translation>Modi</translation>
+    </message>
+    <message>
+        <source>Announce</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Expert</source>
+        <translation>Experte</translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation>Einstellungen</translation>
+    </message>
+    <message>
+        <source>Enabled</source>
+        <translation>Aktiviert</translation>
+    </message>
+    <message>
+        <source>Enable or disable all announcements.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <translation>Normal</translation>
+    </message>
+    <message>
+        <source>Fast</source>
+        <translation>Schnell</translation>
+    </message>
+    <message>
+        <source>Very fast</source>
+        <translation>Sehr schnell</translation>
+    </message>
+    <message>
+        <source>battery</source>
+        <translation>batterie</translation>
+    </message>
 </context>
 <context>
     <name>TCPBridge</name>
@@ -1244,19 +1295,19 @@
     <name>Tabs</name>
     <message>
         <source>Realtime</source>
-        <translation>Echtzeitdaten</translation>
+        <translation type="vanished">Echtzeitdaten</translation>
     </message>
     <message>
         <source>Records</source>
-        <translation>Aufzeichnungen</translation>
+        <translation type="vanished">Aufzeichnungen</translation>
     </message>
     <message>
         <source>Modes</source>
-        <translation>Modi</translation>
+        <translation type="vanished">Modi</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>Einstellungen</translation>
+        <translation type="vanished">Einstellungen</translation>
     </message>
 </context>
 <context>
