@@ -2,6 +2,13 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="ru_RU">
 <context>
+    <name>Announcement</name>
+    <message>
+        <source>Tell %1 every %2s above %3 below %4</source>
+        <translation type="unfinished">Говорить %1 каждые %2с если выше %3 и ниже %4</translation>
+    </message>
+</context>
+<context>
     <name>AnnouncementsTab</name>
     <message>
         <source>To add new announcements, click on the plus.</source>
