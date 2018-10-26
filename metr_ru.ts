@@ -5,7 +5,7 @@
     <name>Announcement</name>
     <message>
         <source>Tell %1 every %2s above %3 below %4</source>
-        <translation type="unfinished">Говорить %1 каждые %2с если выше %3 и ниже %4</translation>
+        <translation>Говорить %1 каждые %2с если выше %3 и ниже %4</translation>
     </message>
 </context>
 <context>
@@ -1270,6 +1270,30 @@
     <message>
         <source>battery</source>
         <translation>заряд</translation>
+    </message>
+    <message>
+        <source>Tell</source>
+        <translation>Говорить</translation>
+    </message>
+    <message>
+        <source>Every [s]</source>
+        <translation>Каждые [с]</translation>
+    </message>
+    <message>
+        <source>Start from</source>
+        <translation>Начать с</translation>
+    </message>
+    <message>
+        <source>Stop at</source>
+        <translation>Закончить</translation>
+    </message>
+    <message>
+        <source>Only when moving</source>
+        <translation>Только в движении</translation>
+    </message>
+    <message>
+        <source>Voice</source>
+        <translation>Голос</translation>
     </message>
 </context>
 <context>

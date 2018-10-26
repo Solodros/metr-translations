@@ -487,7 +487,7 @@
     </message>
     <message>
         <source>This VESC FW is not supported yet. Check log for details.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Diese VESC Software wird momentan noch nicht unterstützt. Lesen Sie im Log für genauere Details.</translation>
     </message>
 </context>
 <context>
@@ -1269,6 +1269,30 @@
     <message>
         <source>battery</source>
         <translation>batterie</translation>
+    </message>
+    <message>
+        <source>Tell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Every [s]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start from</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop at</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Only when moving</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Voice</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

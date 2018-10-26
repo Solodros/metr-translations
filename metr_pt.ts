@@ -1262,6 +1262,30 @@
         <source>battery</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Tell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Every [s]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start from</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop at</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Only when moving</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Voice</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>TCPBridge</name>
