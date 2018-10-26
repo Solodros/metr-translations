@@ -2,6 +2,20 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="de_DE">
 <context>
+    <name>Announcement</name>
+    <message>
+        <source>Tell %1 every %2s above %3 below %4</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>AnnouncementsTab</name>
+    <message>
+        <source>To add new announcements, click on the plus.</source>
+        <translation>Um eine neue Sprachausgabe hinzuzufügen, klicken sie auf das Plus Symbol.</translation>
+    </message>
+</context>
+<context>
     <name>BluetoothPane</name>
     <message>
         <source>Bluetooth</source>
@@ -55,7 +69,7 @@
     </message>
     <message>
         <source>Thanks to @oyta for contributing Norwegian translations.</source>
-        <translation type="unfinished"></translation>
+        <translation>Danke an @oyta für die Norwegische Übersetzung.</translation>
     </message>
 </context>
 <context>
@@ -103,15 +117,15 @@
     <name>DieBieMSView</name>
     <message>
         <source>voltage</source>
-        <translation type="unfinished">Spannung</translation>
+        <translation type="obsolete">Spannung</translation>
     </message>
     <message>
         <source>current</source>
-        <translation type="unfinished">Strom</translation>
+        <translation type="obsolete">Strom</translation>
     </message>
     <message>
         <source>mismatch</source>
-        <translation type="unfinished"></translation>
+        <translation>Unterschied</translation>
     </message>
     <message>
         <source>temp</source>
@@ -153,35 +167,35 @@
     <name>MetrProView</name>
     <message>
         <source>New Metr Pro firmware is available!</source>
-        <translation type="unfinished"></translation>
+        <translation>Eine neue Metr Pro Firmware ist verfügbar!</translation>
     </message>
     <message>
         <source>Installed version</source>
-        <translation type="unfinished"></translation>
+        <translation>Installierte Version</translation>
     </message>
     <message>
         <source>New version</source>
-        <translation type="unfinished"></translation>
+        <translation>Neue Version</translation>
     </message>
     <message>
         <source>What&apos;s new</source>
-        <translation type="unfinished"></translation>
+        <translation>Was ist neu</translation>
     </message>
     <message>
         <source>New VESC firmware is available!</source>
-        <translation type="unfinished"></translation>
+        <translation>Eine neue VESC Firmware ist verfügbar!</translation>
     </message>
     <message>
         <source>Your Metr Pro firmware is up to date</source>
-        <translation type="unfinished"></translation>
+        <translation>Deine Metr Pro Firmware ist auf dem aktuellsten Stand</translation>
     </message>
     <message>
         <source>Your VESC firmware is up to date</source>
-        <translation type="unfinished"></translation>
+        <translation>Deine VESC Firmware ist auf dem aktuellsten Stand</translation>
     </message>
     <message>
         <source>Hardware</source>
-        <translation type="unfinished"></translation>
+        <translation>Hardware</translation>
     </message>
     <message>
         <source>Please don&apos;t interrupt the process after it is started. You can brick the device.</source>
@@ -208,7 +222,7 @@
     </message>
     <message>
         <source>Could not create motor configuration. Check log for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Motor Konfiguration konnte nicht erzeugt werden. Lesen Sie im Log für genauere Details.</translation>
     </message>
 </context>
 <context>
@@ -238,10 +252,6 @@
         <translation>Wischen Sie nach rechts um den Modus anzuwenden. Wischen Sie nach Links um Optionen anzuzeigen. Klicken Sie um Grenzwerte anzupassen.</translation>
     </message>
     <message>
-        <source>Perimetr</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Clear Startup Mode</source>
         <translation type="unfinished"></translation>
     </message>
@@ -251,7 +261,7 @@
     </message>
     <message>
         <source>Firmware &lt;= 2.18. Won&apos;t apply.</source>
-        <translation type="unfinished">Firmware &lt;= 3.29. Wird nicht angewendet. {2.18.?}</translation>
+        <translation>Firmware &lt;= 2.18. Wird nicht angewendet.</translation>
     </message>
     <message>
         <source>Multi probing not finished. Please try later.</source>
@@ -259,7 +269,7 @@
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished">Anwenden</translation>
+        <translation>Anwenden</translation>
     </message>
     <message>
         <source>To add new modes, click on the plus.</source>
@@ -274,7 +284,7 @@
     </message>
     <message>
         <source>This VESC FW is not supported yet. Check log for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diese VESC Software wird momentan noch nicht unterstützt. Lesen Sie im Log für genauere Details.</translation>
     </message>
 </context>
 <context>
@@ -325,11 +335,11 @@
     </message>
     <message>
         <source>Read</source>
-        <translation type="unfinished">Lesen</translation>
+        <translation>Lesen</translation>
     </message>
     <message>
         <source>Write</source>
-        <translation type="unfinished"></translation>
+        <translation>Schreiben</translation>
     </message>
     <message>
         <source>Are you sure you want to run BLDC motor detection with following parameters?</source>
@@ -516,7 +526,7 @@
     </message>
     <message>
         <source>cell voltage</source>
-        <translation type="unfinished"></translation>
+        <translation>Zellspannung</translation>
     </message>
     <message>
         <source>Reset layout</source>
@@ -531,7 +541,7 @@
     <name>RecordDetails</name>
     <message>
         <source>current</source>
-        <translation>Strom</translation>
+        <translation type="vanished">Strom</translation>
     </message>
     <message>
         <source>duty</source>
@@ -723,7 +733,7 @@
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Bearbeiten</translation>
     </message>
 </context>
 <context>
@@ -1034,11 +1044,11 @@
     </message>
     <message>
         <source>Point interval</source>
-        <translation type="unfinished"></translation>
+        <translation>Punktintervall</translation>
     </message>
     <message>
         <source>Minimum time in milliseconds between recorded points. Data that comes earlier is discarded. Recommended value is 160. Set to 0 for maximum record detail, but at this rate with Metr Pro module the records will be limited to approximately 45 minutes due to high memory usage.</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimale Zeit in Millisekunden zwischen aufgenommenen Punkten. Daten die eher kommen werden verworfen. Der empfohlene Wert liegt bei 160. Setzen sie den Wert zu Null für maximale Aufnahmedetails. Bei dieser Rate wird die Aufnahme mit einem Metr Pro Modul jedoch auf etwa 45 Minuten limitiert, da die Speichernutzung zu groß wird.</translation>
     </message>
     <message>
         <source>Grid step</source>
@@ -1090,7 +1100,7 @@
     </message>
     <message>
         <source>If you have dual ESCs connected via CAN bus and Metr Pro module you can enable this setting to show separate amps and temperatures for each ESC.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wenn du zwei ESCs über den CAN Bus verbunden hast und ein Metr Pro Modul nutzt, kannst du diese Einstellung aktivieren um für jeden ESC separat Strom und Temperatur angezeigt zu bekommen.</translation>
     </message>
     <message>
         <source>CAN Fwd</source>
@@ -1106,19 +1116,19 @@
     </message>
     <message>
         <source>Developer Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Entwicklermodus</translation>
     </message>
     <message>
         <source>Show debug information on top all the time</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeige oben durchgehend Debuginformationen an</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzerdefiniert</translation>
     </message>
     <message>
         <source>Cell voltage at %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>Zellspannung bei %1%</translation>
     </message>
     <message>
         <source>Today</source>
@@ -1194,23 +1204,71 @@
     </message>
     <message>
         <source>DieBieMS</source>
-        <translation type="unfinished"></translation>
+        <translation>DieBieMS</translation>
     </message>
     <message>
         <source>Auto Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisch anzeigen</translation>
     </message>
     <message>
         <source>Automatically show and hide DieBieMS cell information on the Realtime Tab when the charger is plugged in and out.</source>
-        <translation type="unfinished"></translation>
+        <translation>Blende DieBieMS Zellinformationen im Echtzeitdatenreiter ein oder aus, wenn das Ladegerät ein oder ausgesteckt wird.</translation>
     </message>
     <message>
         <source>Disable Battery Optimizations</source>
-        <translation type="unfinished"></translation>
+        <translation>Batterieoptimierung ausschalten</translation>
     </message>
     <message>
         <source>Disable Battery Optimizations in Android 6+. If the app dies in the background, try disabling or enabling this value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Schalten Sie Batterieoptimierung in Android 6+ aus. Wenn die App im Hintergrund automatisch beendet wird, versuchen sie diese Einstellung ein oder auszuschalten.</translation>
+    </message>
+    <message>
+        <source>current</source>
+        <translation>strom</translation>
+    </message>
+    <message>
+        <source>Realtime</source>
+        <translation>Echtzeitdaten</translation>
+    </message>
+    <message>
+        <source>Modes</source>
+        <translation>Modi</translation>
+    </message>
+    <message>
+        <source>Announce</source>
+        <translation>Sprachausgabe</translation>
+    </message>
+    <message>
+        <source>Expert</source>
+        <translation>Experte</translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation>Einstellungen</translation>
+    </message>
+    <message>
+        <source>Enabled</source>
+        <translation>Aktiviert</translation>
+    </message>
+    <message>
+        <source>Enable or disable all announcements.</source>
+        <translation>Aktiviere oder deaktiviere alle Sprachausgaben.</translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <translation>Normal</translation>
+    </message>
+    <message>
+        <source>Fast</source>
+        <translation>Schnell</translation>
+    </message>
+    <message>
+        <source>Very fast</source>
+        <translation>Sehr schnell</translation>
+    </message>
+    <message>
+        <source>battery</source>
+        <translation>batterie</translation>
     </message>
 </context>
 <context>
@@ -1244,19 +1302,19 @@
     <name>Tabs</name>
     <message>
         <source>Realtime</source>
-        <translation>Echtzeitdaten</translation>
+        <translation type="vanished">Echtzeitdaten</translation>
     </message>
     <message>
         <source>Records</source>
-        <translation>Aufzeichnungen</translation>
+        <translation type="vanished">Aufzeichnungen</translation>
     </message>
     <message>
         <source>Modes</source>
-        <translation>Modi</translation>
+        <translation type="vanished">Modi</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>Einstellungen</translation>
+        <translation type="vanished">Einstellungen</translation>
     </message>
 </context>
 <context>
@@ -1330,7 +1388,7 @@
     </message>
     <message>
         <source>Flashing</source>
-        <translation type="unfinished"></translation>
+        <translation>Flashing</translation>
     </message>
     <message>
         <source>Firmware uploaded. Installing</source>

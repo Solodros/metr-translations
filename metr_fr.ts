@@ -2,6 +2,20 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="fr_FR">
 <context>
+    <name>Announcement</name>
+    <message>
+        <source>Tell %1 every %2s above %3 below %4</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>AnnouncementsTab</name>
+    <message>
+        <source>To add new announcements, click on the plus.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>BluetoothPane</name>
     <message>
         <source>Bluetooth</source>
@@ -103,11 +117,11 @@
     <name>DieBieMSView</name>
     <message>
         <source>voltage</source>
-        <translation type="unfinished">tension</translation>
+        <translation type="obsolete">tension</translation>
     </message>
     <message>
         <source>current</source>
-        <translation type="unfinished">Intensité</translation>
+        <translation type="obsolete">Intensité</translation>
     </message>
     <message>
         <source>mismatch</source>
@@ -239,7 +253,7 @@
     </message>
     <message>
         <source>Perimetr</source>
-        <translation>Perimetr</translation>
+        <translation type="vanished">Perimetr</translation>
     </message>
     <message>
         <source>Clear Startup Mode</source>
@@ -531,7 +545,7 @@
     <name>RecordDetails</name>
     <message>
         <source>current</source>
-        <translation>Intensité</translation>
+        <translation type="vanished">Intensité</translation>
     </message>
     <message>
         <source>duty</source>
@@ -1212,6 +1226,54 @@
         <source>Disable Battery Optimizations in Android 6+. If the app dies in the background, try disabling or enabling this value.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>current</source>
+        <translation>Intensité</translation>
+    </message>
+    <message>
+        <source>Realtime</source>
+        <translation>Temps Réel</translation>
+    </message>
+    <message>
+        <source>Modes</source>
+        <translation>Modes</translation>
+    </message>
+    <message>
+        <source>Announce</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Expert</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished">Paramètres</translation>
+    </message>
+    <message>
+        <source>Enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable or disable all announcements.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fast</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Very fast</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>battery</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>TCPBridge</name>
@@ -1244,19 +1306,19 @@
     <name>Tabs</name>
     <message>
         <source>Realtime</source>
-        <translation>Temps Réel</translation>
+        <translation type="vanished">Temps Réel</translation>
     </message>
     <message>
         <source>Records</source>
-        <translation>Enregistrements</translation>
+        <translation type="vanished">Enregistrements</translation>
     </message>
     <message>
         <source>Modes</source>
-        <translation>Modes</translation>
+        <translation type="vanished">Modes</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>Paramètres</translation>
+        <translation type="vanished">Paramètres</translation>
     </message>
 </context>
 <context>

@@ -2,6 +2,20 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="nn_NO">
 <context>
+    <name>Announcement</name>
+    <message>
+        <source>Tell %1 every %2s above %3 below %4</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>AnnouncementsTab</name>
+    <message>
+        <source>To add new announcements, click on the plus.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>BluetoothPane</name>
     <message>
         <source>Bluetooth</source>
@@ -53,6 +67,10 @@
         <source>Thanks to @Pedrodemio for contributing Portuguese translation.</source>
         <translation>Takk til @Pedrodemio for å medverka til Potugisisk oversetjing.</translation>
     </message>
+    <message>
+        <source>Thanks to @oyta for contributing Norwegian translations.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DeviceSettingsView</name>
@@ -93,6 +111,17 @@
     <message>
         <source>Please don&apos;t interrupt the process</source>
         <translation>Vær vennleg å la prosessen fullføra utan påverknad</translation>
+    </message>
+</context>
+<context>
+    <name>DieBieMSView</name>
+    <message>
+        <source>mismatch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>temp</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -183,6 +212,10 @@
         <source>Read</source>
         <translation>Les</translation>
     </message>
+    <message>
+        <source>Could not create motor configuration. Check log for details.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ModesTab</name>
@@ -213,7 +246,7 @@
     <message>
         <source>Perimetr</source>
         <translatorcomment>Product name</translatorcomment>
-        <translation>Perimetr</translation>
+        <translation type="vanished">Perimetr</translation>
     </message>
     <message>
         <source>Clear Startup Mode</source>
@@ -245,6 +278,10 @@
     <message>
         <source>Startup mode</source>
         <translation>Oppstartsmodus</translation>
+    </message>
+    <message>
+        <source>This VESC FW is not supported yet. Check log for details.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -446,6 +483,10 @@
         <source>Are you sure you want to run FOC Hall Sensors detection with following parameters?</source>
         <translation>Er du sikker på at du vil køyra deteksjon av FOC Hall-sensor med desse parametera?</translation>
     </message>
+    <message>
+        <source>This VESC FW is not supported yet. Check log for details.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>RealtimeTab</name>
@@ -506,7 +547,7 @@
     </message>
     <message>
         <source>current</source>
-        <translation>straum</translation>
+        <translation type="vanished">straum</translation>
     </message>
     <message>
         <source>fault</source>
@@ -1159,6 +1200,74 @@
         <source>All Time</source>
         <translation>historisk</translation>
     </message>
+    <message>
+        <source>current</source>
+        <translation>straum</translation>
+    </message>
+    <message>
+        <source>battery</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable Battery Optimizations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable Battery Optimizations in Android 6+. If the app dies in the background, try disabling or enabling this value.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DieBieMS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto Show</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically show and hide DieBieMS cell information on the Realtime Tab when the charger is plugged in and out.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Realtime</source>
+        <translation>Sanntid</translation>
+    </message>
+    <message>
+        <source>Modes</source>
+        <translation>Modusar</translation>
+    </message>
+    <message>
+        <source>Announce</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Expert</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation>Instillingar</translation>
+    </message>
+    <message>
+        <source>Enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable or disable all announcements.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fast</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Very fast</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>TCPBridge</name>
@@ -1191,19 +1300,19 @@
     <name>Tabs</name>
     <message>
         <source>Realtime</source>
-        <translation>Sanntid</translation>
+        <translation type="vanished">Sanntid</translation>
     </message>
     <message>
         <source>Modes</source>
-        <translation>Modusar</translation>
+        <translation type="vanished">Modusar</translation>
     </message>
     <message>
         <source>Records</source>
-        <translation>Køyreloggar</translation>
+        <translation type="vanished">Køyreloggar</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>Instillingar</translation>
+        <translation type="vanished">Instillingar</translation>
     </message>
 </context>
 <context>

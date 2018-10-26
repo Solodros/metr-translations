@@ -2,6 +2,20 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="it_IT">
 <context>
+    <name>Announcement</name>
+    <message>
+        <source>Tell %1 every %2s above %3 below %4</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>AnnouncementsTab</name>
+    <message>
+        <source>To add new announcements, click on the plus.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>BluetoothPane</name>
     <message>
         <source>Bluetooth</source>
@@ -103,11 +117,11 @@
     <name>DieBieMSView</name>
     <message>
         <source>voltage</source>
-        <translation type="unfinished">tensione</translation>
+        <translation type="obsolete">tensione</translation>
     </message>
     <message>
         <source>current</source>
-        <translation type="unfinished">corrente</translation>
+        <translation type="obsolete">corrente</translation>
     </message>
     <message>
         <source>mismatch</source>
@@ -236,10 +250,6 @@
     <message>
         <source>Swipe right to apply mode. Swipe left to show options. Click to configure limits.</source>
         <translation>Scorri verso destra per applicare la modalità. Scorri verso sinistra per mostrare le opzioni. Clicca per configurare i limiti.</translation>
-    </message>
-    <message>
-        <source>Perimetr</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Clear Startup Mode</source>
@@ -539,7 +549,7 @@
     </message>
     <message>
         <source>current</source>
-        <translation>corrente</translation>
+        <translation type="vanished">corrente</translation>
     </message>
     <message>
         <source>fault</source>
@@ -1212,6 +1222,54 @@
         <source>Disable Battery Optimizations in Android 6+. If the app dies in the background, try disabling or enabling this value.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>current</source>
+        <translation>corrente</translation>
+    </message>
+    <message>
+        <source>Realtime</source>
+        <translation>Tempo Reale</translation>
+    </message>
+    <message>
+        <source>Modes</source>
+        <translation>Modalità</translation>
+    </message>
+    <message>
+        <source>Announce</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Expert</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation>Impostazioni</translation>
+    </message>
+    <message>
+        <source>Enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable or disable all announcements.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fast</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Very fast</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>battery</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>TCPBridge</name>
@@ -1244,19 +1302,19 @@
     <name>Tabs</name>
     <message>
         <source>Realtime</source>
-        <translation>Tempo Reale</translation>
+        <translation type="vanished">Tempo Reale</translation>
     </message>
     <message>
         <source>Records</source>
-        <translation>Registrazioni</translation>
+        <translation type="vanished">Registrazioni</translation>
     </message>
     <message>
         <source>Modes</source>
-        <translation>Modalità</translation>
+        <translation type="vanished">Modalità</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>Impostazioni</translation>
+        <translation type="vanished">Impostazioni</translation>
     </message>
 </context>
 <context>
