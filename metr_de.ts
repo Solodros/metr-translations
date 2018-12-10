@@ -1294,6 +1294,26 @@
         <source>Voice</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>efficiency</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>amp hours</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>watt hours</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>per kilometer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>per mile</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>TCPBridge</name>
@@ -1363,25 +1383,25 @@
     <name>VDialogClose</name>
     <message>
         <source>Close</source>
-        <translation>Schließen</translation>
+        <translation type="vanished">Schließen</translation>
     </message>
 </context>
 <context>
     <name>VDialogYesNo</name>
     <message>
         <source>Yes</source>
-        <translation>Ja</translation>
+        <translation type="vanished">Ja</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Nein</translation>
+        <translation type="vanished">Nein</translation>
     </message>
 </context>
 <context>
     <name>VSwipeDelegate</name>
     <message>
         <source>Remove</source>
-        <translation>Entfernen</translation>
+        <translation type="vanished">Entfernen</translation>
     </message>
 </context>
 <context>
