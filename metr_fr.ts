@@ -1299,10 +1299,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>efficiency</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>amp hours</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1316,6 +1312,14 @@
     </message>
     <message>
         <source>per mile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Consumption window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Time in milliseconds for floating window that is used to calculate consumption (wh/km or wh/mi).</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
