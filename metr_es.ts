@@ -133,6 +133,420 @@
     </message>
 </context>
 <context>
+    <name>ExpertTab</name>
+    <message>
+        <source>no device connected</source>
+        <translation type="unfinished">ningún dispositivo conectado</translation>
+    </message>
+    <message>
+        <source>This VESC FW is not supported yet. Check log for details.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>reading motor configuration</source>
+        <translation type="unfinished">lectura de la configuración del motor</translation>
+    </message>
+    <message>
+        <source>writing motor configuration</source>
+        <translation type="unfinished">escritura configuración del motor</translation>
+    </message>
+    <message>
+        <source>reading app configuration</source>
+        <translation type="unfinished">leyendo la configuración de la aplicación</translation>
+    </message>
+    <message>
+        <source>writing app configuration</source>
+        <translation type="unfinished">escribir la configuración de la aplicación</translation>
+    </message>
+    <message>
+        <source>BLDC detection</source>
+        <translation type="unfinished">Detección de BLDC</translation>
+    </message>
+    <message>
+        <source>FOC Hall Sensors detection</source>
+        <translation type="unfinished">Detección de Sensores FOC Hall</translation>
+    </message>
+    <message>
+        <source>Hall sensor table:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hall sensor detection failed:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WS2811 enabled. Hall sensors cannot be used.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encoder enabled. Hall sensors cannot be used.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unknown hall error: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Detection Result Received:</source>
+        <translation type="unfinished">Resultado de detección recibido:</translation>
+    </message>
+    <message>
+        <source>Integrator limit: %1&lt;br&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>BEMF Coupling: %1&lt;br&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Write configuration?</source>
+        <translation type="unfinished">Escribir configuración?</translation>
+    </message>
+    <message>
+        <source>FOC detection R L</source>
+        <translation type="unfinished">Detección FOC R L</translation>
+    </message>
+    <message>
+        <source>Bad Detection Result Received.</source>
+        <translation type="unfinished">Se recibió un mal resultado de detección.</translation>
+    </message>
+    <message>
+        <source>Detection failed.</source>
+        <translation type="unfinished">La detección falló.</translation>
+    </message>
+    <message>
+        <source>FOC detection λ</source>
+        <translation type="unfinished">Detección FOC λ</translation>
+    </message>
+    <message>
+        <source>configuration read OK</source>
+        <translation type="unfinished">configuración leer OK</translation>
+    </message>
+    <message>
+        <source>configuration write OK</source>
+        <translation type="unfinished">configuración escribir OK</translation>
+    </message>
+    <message>
+        <source>communication FAILED</source>
+        <translation type="unfinished">comunicación FALLIDA</translation>
+    </message>
+    <message>
+        <source>communication in progress</source>
+        <translation type="unfinished">comunicación en progreso</translation>
+    </message>
+    <message>
+        <source>connecting to </source>
+        <translation type="unfinished">conectado a </translation>
+    </message>
+    <message>
+        <source>Save configuration</source>
+        <translation type="unfinished">Guardar configuración</translation>
+    </message>
+    <message>
+        <source>Load configuration</source>
+        <translation type="unfinished">Cargar configuración</translation>
+    </message>
+    <message>
+        <source>Detect motor</source>
+        <translation type="unfinished">Detectar el motor</translation>
+    </message>
+    <message>
+        <source>Detect FOC Hall Sensors</source>
+        <translation type="unfinished">Detecta los Sensores FOC Hall</translation>
+    </message>
+    <message>
+        <source>Read</source>
+        <translation type="unfinished">Lee</translation>
+    </message>
+    <message>
+        <source>Write</source>
+        <translation type="unfinished">Escribir</translation>
+    </message>
+    <message>
+        <source>BLDC motor detection is not supported for UNITY.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Motor detection in this mode is not supported. Please change motor type to BLDC or FOC.</source>
+        <translation type="unfinished">La detección del motor en este modo no es compatible. Por favor cambie el tipo de motor a BLDC o FOC.</translation>
+    </message>
+    <message>
+        <source>FOC Hall Sensors detection in this mode is not supported. Please change motor type to FOC.</source>
+        <translation type="unfinished">La detección de FOC Hall Sensors en este modo no es compatible. Por favor cambie el tipo de motor a FOC.</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to run BLDC motor detection with following parameters?</source>
+        <translation type="unfinished">¿Estás seguro de que deseas ejecutar la detección del motor BLDC con los siguientes parámetros?</translation>
+    </message>
+    <message>
+        <source>WARNING: THE MOTOR WILL START SPINNING!</source>
+        <translation type="unfinished">ADVERTENCIA: ¡EL MOTOR COMENZARÁ A GIRAR!</translation>
+    </message>
+    <message>
+        <source>Current</source>
+        <translation type="unfinished">Corriente</translation>
+    </message>
+    <message>
+        <source>Current used during BLDC motor detection.</source>
+        <translation type="unfinished">Corriente utilizada durante la detección del motor BLDC.</translation>
+    </message>
+    <message>
+        <source>Low duty</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Low duty used during BLDC motor detection.</source>
+        <translation type="unfinished">Bajo nivel de servicio utilizado durante la detección del motor BLDC.</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to run FOC Hall Sensors detection with following parameters?</source>
+        <translation type="unfinished">¿Estás seguro de que deseas ejecutar la detección de FOC Hall Sensors con los siguientes parámetros?</translation>
+    </message>
+    <message>
+        <source>Hall Sensors Current</source>
+        <translation type="unfinished">Hall Sensores de corriente</translation>
+    </message>
+    <message>
+        <source>Current used during FOC Hall Sensors detection.</source>
+        <translation type="unfinished">Corriente utilizada durante la detección de FOC Hall Sensors.</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to run FOC motor detection with following parameters?</source>
+        <translation type="unfinished">¿Estás seguro de que deseas ejecutar la detección del motor FOC con los siguientes parámetros?</translation>
+    </message>
+    <message>
+        <source>WARNING: THE MOTOR WILL MAKE VERY LOUD NOISE! AFTER THAT THE MOTOR WILL START SPINNING!</source>
+        <translation type="unfinished">ADVERTENCIA: ¡EL MOTOR PROVOCARÁ UN RUIDO MUY FUERTE! DESPUÉS DE QUE EL MOTOR COMIENCE A GIRO!</translation>
+    </message>
+    <message>
+        <source>Current used during FOC motor detection.</source>
+        <translation type="unfinished">Corriente utilizada durante la detección del motor FOC.</translation>
+    </message>
+    <message>
+        <source>Duty</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Duty used during FOC motor detection.</source>
+        <translation type="unfinished">Deber utilizado durante la detección del motor FOC.</translation>
+    </message>
+    <message>
+        <source>TC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Time constant for KP and KI.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ExpertTabDelegate</name>
+    <message>
+        <source>no device connected</source>
+        <translation type="unfinished">ningún dispositivo conectado</translation>
+    </message>
+    <message>
+        <source>This VESC FW is not supported yet. Check log for details.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>reading motor configuration</source>
+        <translation type="unfinished">lectura de la configuración del motor</translation>
+    </message>
+    <message>
+        <source>writing motor configuration</source>
+        <translation type="unfinished">escritura configuración del motor</translation>
+    </message>
+    <message>
+        <source>reading app configuration</source>
+        <translation type="unfinished">leyendo la configuración de la aplicación</translation>
+    </message>
+    <message>
+        <source>writing app configuration</source>
+        <translation type="unfinished">escribir la configuración de la aplicación</translation>
+    </message>
+    <message>
+        <source>BLDC detection</source>
+        <translation type="unfinished">Detección de BLDC</translation>
+    </message>
+    <message>
+        <source>FOC Hall Sensors detection</source>
+        <translation type="unfinished">Detección de Sensores FOC Hall</translation>
+    </message>
+    <message>
+        <source>Hall sensor table:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hall sensor detection failed:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WS2811 enabled. Hall sensors cannot be used.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encoder enabled. Hall sensors cannot be used.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unknown hall error: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Detection Result Received:</source>
+        <translation type="unfinished">Resultado de detección recibido:</translation>
+    </message>
+    <message>
+        <source>Integrator limit: %1&lt;br&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>BEMF Coupling: %1&lt;br&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Write configuration?</source>
+        <translation type="unfinished">Escribir configuración?</translation>
+    </message>
+    <message>
+        <source>FOC detection R L</source>
+        <translation type="unfinished">Detección FOC R L</translation>
+    </message>
+    <message>
+        <source>Bad Detection Result Received.</source>
+        <translation type="unfinished">Se recibió un mal resultado de detección.</translation>
+    </message>
+    <message>
+        <source>Detection failed.</source>
+        <translation type="unfinished">La detección falló.</translation>
+    </message>
+    <message>
+        <source>FOC detection λ</source>
+        <translation type="unfinished">Detección FOC λ</translation>
+    </message>
+    <message>
+        <source>configuration read OK</source>
+        <translation type="unfinished">configuración leer OK</translation>
+    </message>
+    <message>
+        <source>configuration write OK</source>
+        <translation type="unfinished">configuración escribir OK</translation>
+    </message>
+    <message>
+        <source>communication FAILED</source>
+        <translation type="unfinished">comunicación FALLIDA</translation>
+    </message>
+    <message>
+        <source>communication in progress</source>
+        <translation type="unfinished">comunicación en progreso</translation>
+    </message>
+    <message>
+        <source>connecting to </source>
+        <translation type="unfinished">conectado a </translation>
+    </message>
+    <message>
+        <source>Save configuration</source>
+        <translation type="unfinished">Guardar configuración</translation>
+    </message>
+    <message>
+        <source>Load configuration</source>
+        <translation type="unfinished">Cargar configuración</translation>
+    </message>
+    <message>
+        <source>Detect motor</source>
+        <translation type="unfinished">Detectar el motor</translation>
+    </message>
+    <message>
+        <source>Detect FOC Hall Sensors</source>
+        <translation type="unfinished">Detecta los Sensores FOC Hall</translation>
+    </message>
+    <message>
+        <source>Read</source>
+        <translation type="unfinished">Lee</translation>
+    </message>
+    <message>
+        <source>Write</source>
+        <translation type="unfinished">Escribir</translation>
+    </message>
+    <message>
+        <source>BLDC motor detection is not supported for UNITY.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Motor detection in this mode is not supported. Please change motor type to BLDC or FOC.</source>
+        <translation type="unfinished">La detección del motor en este modo no es compatible. Por favor cambie el tipo de motor a BLDC o FOC.</translation>
+    </message>
+    <message>
+        <source>FOC Hall Sensors detection in this mode is not supported. Please change motor type to FOC.</source>
+        <translation type="unfinished">La detección de FOC Hall Sensors en este modo no es compatible. Por favor cambie el tipo de motor a FOC.</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to run BLDC motor detection with following parameters?</source>
+        <translation type="unfinished">¿Estás seguro de que deseas ejecutar la detección del motor BLDC con los siguientes parámetros?</translation>
+    </message>
+    <message>
+        <source>WARNING: THE MOTOR WILL START SPINNING!</source>
+        <translation type="unfinished">ADVERTENCIA: ¡EL MOTOR COMENZARÁ A GIRAR!</translation>
+    </message>
+    <message>
+        <source>Current</source>
+        <translation type="unfinished">Corriente</translation>
+    </message>
+    <message>
+        <source>Current used during BLDC motor detection.</source>
+        <translation type="unfinished">Corriente utilizada durante la detección del motor BLDC.</translation>
+    </message>
+    <message>
+        <source>Low duty</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Low duty used during BLDC motor detection.</source>
+        <translation type="unfinished">Bajo nivel de servicio utilizado durante la detección del motor BLDC.</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to run FOC Hall Sensors detection with following parameters?</source>
+        <translation type="unfinished">¿Estás seguro de que deseas ejecutar la detección de FOC Hall Sensors con los siguientes parámetros?</translation>
+    </message>
+    <message>
+        <source>Hall Sensors Current</source>
+        <translation type="unfinished">Hall Sensores de corriente</translation>
+    </message>
+    <message>
+        <source>Current used during FOC Hall Sensors detection.</source>
+        <translation type="unfinished">Corriente utilizada durante la detección de FOC Hall Sensors.</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to run FOC motor detection with following parameters?</source>
+        <translation type="unfinished">¿Estás seguro de que deseas ejecutar la detección del motor FOC con los siguientes parámetros?</translation>
+    </message>
+    <message>
+        <source>WARNING: THE MOTOR WILL MAKE VERY LOUD NOISE! AFTER THAT THE MOTOR WILL START SPINNING!</source>
+        <translation type="unfinished">ADVERTENCIA: ¡EL MOTOR PROVOCARÁ UN RUIDO MUY FUERTE! DESPUÉS DE QUE EL MOTOR COMIENCE A GIRO!</translation>
+    </message>
+    <message>
+        <source>Current used during FOC motor detection.</source>
+        <translation type="unfinished">Corriente utilizada durante la detección del motor FOC.</translation>
+    </message>
+    <message>
+        <source>Duty</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Duty used during FOC motor detection.</source>
+        <translation type="unfinished">Deber utilizado durante la detección del motor FOC.</translation>
+    </message>
+    <message>
+        <source>TC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Time constant for KP and KI.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Global</name>
     <message>
         <source>Over Voltage</source>
@@ -161,6 +575,22 @@
     <message>
         <source>Unknown error</source>
         <translation>Error desconocido</translation>
+    </message>
+    <message>
+        <source>DRV8302 #2</source>
+        <translation type="unfinished">DRV8302 #2</translation>
+    </message>
+    <message>
+        <source>Over Current #2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Over Temp FET #2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Over Temp Motor #2</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -290,204 +720,156 @@
 <context>
     <name>PerimetrTab</name>
     <message>
-        <source>Hall sensor table:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hall sensor detection failed:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WS2811 enabled. Hall sensors cannot be used.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Encoder enabled. Hall sensors cannot be used.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unknown hall error: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Integrator limit: %1&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>BEMF Coupling: %1&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Write configuration?</source>
-        <translation>Escribir configuración?</translation>
+        <translation type="vanished">Escribir configuración?</translation>
     </message>
     <message>
         <source>FOC detection R L</source>
-        <translation>Detección FOC R L</translation>
+        <translation type="vanished">Detección FOC R L</translation>
     </message>
     <message>
         <source>Detection failed.</source>
-        <translation>La detección falló.</translation>
+        <translation type="vanished">La detección falló.</translation>
     </message>
     <message>
         <source>FOC detection λ</source>
-        <translation>Detección FOC λ</translation>
+        <translation type="vanished">Detección FOC λ</translation>
     </message>
     <message>
         <source>Read</source>
-        <translation>Lee</translation>
+        <translation type="vanished">Lee</translation>
     </message>
     <message>
         <source>Write</source>
-        <translation>Escribir</translation>
+        <translation type="vanished">Escribir</translation>
     </message>
     <message>
         <source>Are you sure you want to run BLDC motor detection with following parameters?</source>
-        <translation>¿Estás seguro de que deseas ejecutar la detección del motor BLDC con los siguientes parámetros?</translation>
+        <translation type="vanished">¿Estás seguro de que deseas ejecutar la detección del motor BLDC con los siguientes parámetros?</translation>
     </message>
     <message>
         <source>WARNING: THE MOTOR WILL START SPINNING!</source>
-        <translation>ADVERTENCIA: ¡EL MOTOR COMENZARÁ A GIRAR!</translation>
+        <translation type="vanished">ADVERTENCIA: ¡EL MOTOR COMENZARÁ A GIRAR!</translation>
     </message>
     <message>
         <source>Current</source>
-        <translation>Corriente</translation>
+        <translation type="vanished">Corriente</translation>
     </message>
     <message>
         <source>Current used during BLDC motor detection.</source>
-        <translation>Corriente utilizada durante la detección del motor BLDC.</translation>
-    </message>
-    <message>
-        <source>Low duty</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Corriente utilizada durante la detección del motor BLDC.</translation>
     </message>
     <message>
         <source>Low duty used during BLDC motor detection.</source>
-        <translation>Bajo nivel de servicio utilizado durante la detección del motor BLDC.</translation>
+        <translation type="vanished">Bajo nivel de servicio utilizado durante la detección del motor BLDC.</translation>
     </message>
     <message>
         <source>Hall Sensors Current</source>
-        <translation>Hall Sensores de corriente</translation>
+        <translation type="vanished">Hall Sensores de corriente</translation>
     </message>
     <message>
         <source>Current used during FOC Hall Sensors detection.</source>
-        <translation>Corriente utilizada durante la detección de FOC Hall Sensors.</translation>
+        <translation type="vanished">Corriente utilizada durante la detección de FOC Hall Sensors.</translation>
     </message>
     <message>
         <source>Are you sure you want to run FOC motor detection with following parameters?</source>
-        <translation>¿Estás seguro de que deseas ejecutar la detección del motor FOC con los siguientes parámetros?</translation>
+        <translation type="vanished">¿Estás seguro de que deseas ejecutar la detección del motor FOC con los siguientes parámetros?</translation>
     </message>
     <message>
         <source>WARNING: THE MOTOR WILL MAKE VERY LOUD NOISE! AFTER THAT THE MOTOR WILL START SPINNING!</source>
-        <translation>ADVERTENCIA: ¡EL MOTOR PROVOCARÁ UN RUIDO MUY FUERTE! DESPUÉS DE QUE EL MOTOR COMIENCE A GIRO!</translation>
+        <translation type="vanished">ADVERTENCIA: ¡EL MOTOR PROVOCARÁ UN RUIDO MUY FUERTE! DESPUÉS DE QUE EL MOTOR COMIENCE A GIRO!</translation>
     </message>
     <message>
         <source>Current used during FOC motor detection.</source>
-        <translation>Corriente utilizada durante la detección del motor FOC.</translation>
-    </message>
-    <message>
-        <source>Duty</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Corriente utilizada durante la detección del motor FOC.</translation>
     </message>
     <message>
         <source>Duty used during FOC motor detection.</source>
-        <translation>Deber utilizado durante la detección del motor FOC.</translation>
-    </message>
-    <message>
-        <source>TC</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Time constant for KP and KI.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Deber utilizado durante la detección del motor FOC.</translation>
     </message>
     <message>
         <source>communication FAILED</source>
-        <translation>comunicación FALLIDA</translation>
+        <translation type="vanished">comunicación FALLIDA</translation>
     </message>
     <message>
         <source>communication in progress</source>
-        <translation>comunicación en progreso</translation>
+        <translation type="vanished">comunicación en progreso</translation>
     </message>
     <message>
         <source>Detect motor</source>
-        <translation>Detectar el motor</translation>
+        <translation type="vanished">Detectar el motor</translation>
     </message>
     <message>
         <source>Load configuration</source>
-        <translation>Cargar configuración</translation>
+        <translation type="vanished">Cargar configuración</translation>
     </message>
     <message>
         <source>no device connected</source>
-        <translation>ningún dispositivo conectado</translation>
+        <translation type="vanished">ningún dispositivo conectado</translation>
     </message>
     <message>
         <source>reading motor configuration</source>
-        <translation>lectura de la configuración del motor</translation>
+        <translation type="vanished">lectura de la configuración del motor</translation>
     </message>
     <message>
         <source>writing motor configuration</source>
-        <translation>escritura configuración del motor</translation>
+        <translation type="vanished">escritura configuración del motor</translation>
     </message>
     <message>
         <source>reading app configuration</source>
-        <translation>leyendo la configuración de la aplicación</translation>
+        <translation type="vanished">leyendo la configuración de la aplicación</translation>
     </message>
     <message>
         <source>writing app configuration</source>
-        <translation>escribir la configuración de la aplicación</translation>
+        <translation type="vanished">escribir la configuración de la aplicación</translation>
     </message>
     <message>
         <source>BLDC detection</source>
-        <translation>Detección de BLDC</translation>
+        <translation type="vanished">Detección de BLDC</translation>
     </message>
     <message>
         <source>FOC Hall Sensors detection</source>
-        <translation>Detección de Sensores FOC Hall</translation>
+        <translation type="vanished">Detección de Sensores FOC Hall</translation>
     </message>
     <message>
         <source>Detection Result Received:</source>
-        <translation>Resultado de detección recibido:</translation>
+        <translation type="vanished">Resultado de detección recibido:</translation>
     </message>
     <message>
         <source>Bad Detection Result Received.</source>
-        <translation>Se recibió un mal resultado de detección.</translation>
+        <translation type="vanished">Se recibió un mal resultado de detección.</translation>
     </message>
     <message>
         <source>configuration read OK</source>
-        <translation>configuración leer OK</translation>
+        <translation type="vanished">configuración leer OK</translation>
     </message>
     <message>
         <source>configuration write OK</source>
-        <translation>configuración escribir OK</translation>
+        <translation type="vanished">configuración escribir OK</translation>
     </message>
     <message>
         <source>connecting to </source>
-        <translation>conectado a </translation>
+        <translation type="vanished">conectado a </translation>
     </message>
     <message>
         <source>Save configuration</source>
-        <translation>Guardar configuración</translation>
+        <translation type="vanished">Guardar configuración</translation>
     </message>
     <message>
         <source>Detect FOC Hall Sensors</source>
-        <translation>Detecta los Sensores FOC Hall</translation>
+        <translation type="vanished">Detecta los Sensores FOC Hall</translation>
     </message>
     <message>
         <source>Motor detection in this mode is not supported. Please change motor type to BLDC or FOC.</source>
-        <translation>La detección del motor en este modo no es compatible. Por favor cambie el tipo de motor a BLDC o FOC.</translation>
+        <translation type="vanished">La detección del motor en este modo no es compatible. Por favor cambie el tipo de motor a BLDC o FOC.</translation>
     </message>
     <message>
         <source>FOC Hall Sensors detection in this mode is not supported. Please change motor type to FOC.</source>
-        <translation>La detección de FOC Hall Sensors en este modo no es compatible. Por favor cambie el tipo de motor a FOC.</translation>
+        <translation type="vanished">La detección de FOC Hall Sensors en este modo no es compatible. Por favor cambie el tipo de motor a FOC.</translation>
     </message>
     <message>
         <source>Are you sure you want to run FOC Hall Sensors detection with following parameters?</source>
-        <translation>¿Estás seguro de que deseas ejecutar la detección de FOC Hall Sensors con los siguientes parámetros?</translation>
-    </message>
-    <message>
-        <source>This VESC FW is not supported yet. Check log for details.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">¿Estás seguro de que deseas ejecutar la detección de FOC Hall Sensors con los siguientes parámetros?</translation>
     </message>
 </context>
 <context>
@@ -1316,6 +1698,14 @@
     </message>
     <message>
         <source>Time in milliseconds for floating window that is used to calculate consumption (wh/km or wh/mi).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scale UI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable scaling user interface. Makes the app look better on bigger screens.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

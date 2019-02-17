@@ -125,6 +125,420 @@
     </message>
 </context>
 <context>
+    <name>ExpertTab</name>
+    <message>
+        <source>no device connected</source>
+        <translation type="unfinished">ingen dings er tilkoblet</translation>
+    </message>
+    <message>
+        <source>This VESC FW is not supported yet. Check log for details.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>reading motor configuration</source>
+        <translation type="unfinished">leser konfigurasjonsdata for motor</translation>
+    </message>
+    <message>
+        <source>writing motor configuration</source>
+        <translation type="unfinished">lagrer konfigurasjonsdata for motor</translation>
+    </message>
+    <message>
+        <source>reading app configuration</source>
+        <translation type="unfinished">leser konfigurasjonsdata for app</translation>
+    </message>
+    <message>
+        <source>writing app configuration</source>
+        <translation type="unfinished">lagrer konfigurasjonsdata for app</translation>
+    </message>
+    <message>
+        <source>BLDC detection</source>
+        <translation type="unfinished">BLDC-deteksjon</translation>
+    </message>
+    <message>
+        <source>FOC Hall Sensors detection</source>
+        <translation type="unfinished">Deteksjon av FOC Hall-sensorer</translation>
+    </message>
+    <message>
+        <source>Hall sensor table:</source>
+        <translation type="unfinished">Hall-sensor oversikt:</translation>
+    </message>
+    <message>
+        <source>Hall sensor detection failed:</source>
+        <translation type="unfinished">Deteksjon av Hall-sensorer feilet:</translation>
+    </message>
+    <message>
+        <source>WS2811 enabled. Hall sensors cannot be used.</source>
+        <translation type="unfinished">WS2811 er aktivert. Hall-sensorar kan ikke nyttest.</translation>
+    </message>
+    <message>
+        <source>Encoder enabled. Hall sensors cannot be used.</source>
+        <translation type="unfinished">Hall-sensorar kan ikke nyttest fordi encoder er aktivert.</translation>
+    </message>
+    <message>
+        <source>Unknown hall error: %1</source>
+        <translation type="unfinished">Ukjent feil med Hall: %1</translation>
+    </message>
+    <message>
+        <source>Detection Result Received:</source>
+        <translation type="unfinished">Resultatet av deteksjonen er mottatt:</translation>
+    </message>
+    <message>
+        <source>Integrator limit: %1&lt;br&gt;</source>
+        <translation type="unfinished">Integrasjons-grensen: %1&lt;br&gt;</translation>
+    </message>
+    <message>
+        <source>BEMF Coupling: %1&lt;br&gt;</source>
+        <translation type="unfinished">BEMF-kobling: %1&lt;br&gt;</translation>
+    </message>
+    <message>
+        <source>Write configuration?</source>
+        <translation type="unfinished">Lagre konfigurasjonsdata?</translation>
+    </message>
+    <message>
+        <source>FOC detection R L</source>
+        <translation type="unfinished">Deteksjon av FOC R L</translation>
+    </message>
+    <message>
+        <source>Bad Detection Result Received.</source>
+        <translation type="unfinished">Deteksjonen returnerte med feil.</translation>
+    </message>
+    <message>
+        <source>Detection failed.</source>
+        <translation type="unfinished">Deteksjonen feilet.</translation>
+    </message>
+    <message>
+        <source>FOC detection λ</source>
+        <translation type="unfinished">Deteksjon av FOC λ</translation>
+    </message>
+    <message>
+        <source>configuration read OK</source>
+        <translation type="unfinished">Lesing av konfigurasjonsdata OK</translation>
+    </message>
+    <message>
+        <source>configuration write OK</source>
+        <translation type="unfinished">Lagring av konfigurasjonsdata OK</translation>
+    </message>
+    <message>
+        <source>communication FAILED</source>
+        <translation type="unfinished">kommunikasjonen FEILET</translation>
+    </message>
+    <message>
+        <source>communication in progress</source>
+        <translation type="unfinished">kommunikasjonen pågår</translation>
+    </message>
+    <message>
+        <source>connecting to </source>
+        <translation type="unfinished">kobler til </translation>
+    </message>
+    <message>
+        <source>Save configuration</source>
+        <translation type="unfinished">Lagre konfigurasjonsdata</translation>
+    </message>
+    <message>
+        <source>Load configuration</source>
+        <translation type="unfinished">Last inn konfigurasjonsdata</translation>
+    </message>
+    <message>
+        <source>Detect motor</source>
+        <translation type="unfinished">Detekter motor</translation>
+    </message>
+    <message>
+        <source>Detect FOC Hall Sensors</source>
+        <translation type="unfinished">Detekter FOC Hall-sensorer</translation>
+    </message>
+    <message>
+        <source>Read</source>
+        <translation type="unfinished">Les</translation>
+    </message>
+    <message>
+        <source>Write</source>
+        <translation type="unfinished">Lagre</translation>
+    </message>
+    <message>
+        <source>BLDC motor detection is not supported for UNITY.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Motor detection in this mode is not supported. Please change motor type to BLDC or FOC.</source>
+        <translation type="unfinished">Deteksjon av motor er ikke støttet i denne modusen. Vennligst endre motortype til BLDC eller FOC.</translation>
+    </message>
+    <message>
+        <source>FOC Hall Sensors detection in this mode is not supported. Please change motor type to FOC.</source>
+        <translation type="unfinished">Deteksjon av FOC Hall-sensorer er ikke støttet i denne modusen. Venligst bytt motortype til FOC.</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to run BLDC motor detection with following parameters?</source>
+        <translation type="unfinished">Er du sikker på at du vil kjøre deteksjon av BLDC-motor med disse parameterene?</translation>
+    </message>
+    <message>
+        <source>WARNING: THE MOTOR WILL START SPINNING!</source>
+        <translation type="unfinished">ADVARSEL! MOTOREN VIL STARTE Å SPINNE!</translation>
+    </message>
+    <message>
+        <source>Current</source>
+        <translation type="unfinished">Strøm</translation>
+    </message>
+    <message>
+        <source>Current used during BLDC motor detection.</source>
+        <translation type="unfinished">Strøm nyttet til deteksjon av BLDC-motor.</translation>
+    </message>
+    <message>
+        <source>Low duty</source>
+        <translation type="unfinished">Lav nyttegrad</translation>
+    </message>
+    <message>
+        <source>Low duty used during BLDC motor detection.</source>
+        <translation type="unfinished">Lav nyttegrad brukt for deteksjon av BLDC-motor.</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to run FOC Hall Sensors detection with following parameters?</source>
+        <translation type="unfinished">Er du sikker på at du vil kjøre deteksjon av FOC Hall-sensor med disse parameterene?</translation>
+    </message>
+    <message>
+        <source>Hall Sensors Current</source>
+        <translation type="unfinished">Strøm i Hall-sensorene</translation>
+    </message>
+    <message>
+        <source>Current used during FOC Hall Sensors detection.</source>
+        <translation type="unfinished">Strøm nyttet for deteksjon av FOC Hall-sensor.</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to run FOC motor detection with following parameters?</source>
+        <translation type="unfinished">Er du sikker på at du vil kjøre motordeteksjon for FOC med de følgende parameterene?</translation>
+    </message>
+    <message>
+        <source>WARNING: THE MOTOR WILL MAKE VERY LOUD NOISE! AFTER THAT THE MOTOR WILL START SPINNING!</source>
+        <translation type="unfinished">ADVARSEL! DET VIL KOMME HØY LYD FRA MOTOREN! DERETTER VIL MOTOR STARTE Å SPINNE!</translation>
+    </message>
+    <message>
+        <source>Current used during FOC motor detection.</source>
+        <translation type="unfinished">Strøm nyttet til deteksjon av FOC-motor.</translation>
+    </message>
+    <message>
+        <source>Duty</source>
+        <translation type="unfinished">Nyttegrad</translation>
+    </message>
+    <message>
+        <source>Duty used during FOC motor detection.</source>
+        <translation type="unfinished">Nyttegrad nyttet for deteksjon av FOC-motor.</translation>
+    </message>
+    <message>
+        <source>TC</source>
+        <translation type="unfinished">TC</translation>
+    </message>
+    <message>
+        <source>Time constant for KP and KI.</source>
+        <translation type="unfinished">Tidskonstant for KP og KI.</translation>
+    </message>
+</context>
+<context>
+    <name>ExpertTabDelegate</name>
+    <message>
+        <source>no device connected</source>
+        <translation type="unfinished">ingen dings er tilkoblet</translation>
+    </message>
+    <message>
+        <source>This VESC FW is not supported yet. Check log for details.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>reading motor configuration</source>
+        <translation type="unfinished">leser konfigurasjonsdata for motor</translation>
+    </message>
+    <message>
+        <source>writing motor configuration</source>
+        <translation type="unfinished">lagrer konfigurasjonsdata for motor</translation>
+    </message>
+    <message>
+        <source>reading app configuration</source>
+        <translation type="unfinished">leser konfigurasjonsdata for app</translation>
+    </message>
+    <message>
+        <source>writing app configuration</source>
+        <translation type="unfinished">lagrer konfigurasjonsdata for app</translation>
+    </message>
+    <message>
+        <source>BLDC detection</source>
+        <translation type="unfinished">BLDC-deteksjon</translation>
+    </message>
+    <message>
+        <source>FOC Hall Sensors detection</source>
+        <translation type="unfinished">Deteksjon av FOC Hall-sensorer</translation>
+    </message>
+    <message>
+        <source>Hall sensor table:</source>
+        <translation type="unfinished">Hall-sensor oversikt:</translation>
+    </message>
+    <message>
+        <source>Hall sensor detection failed:</source>
+        <translation type="unfinished">Deteksjon av Hall-sensorer feilet:</translation>
+    </message>
+    <message>
+        <source>WS2811 enabled. Hall sensors cannot be used.</source>
+        <translation type="unfinished">WS2811 er aktivert. Hall-sensorar kan ikke nyttest.</translation>
+    </message>
+    <message>
+        <source>Encoder enabled. Hall sensors cannot be used.</source>
+        <translation type="unfinished">Hall-sensorar kan ikke nyttest fordi encoder er aktivert.</translation>
+    </message>
+    <message>
+        <source>Unknown hall error: %1</source>
+        <translation type="unfinished">Ukjent feil med Hall: %1</translation>
+    </message>
+    <message>
+        <source>Detection Result Received:</source>
+        <translation type="unfinished">Resultatet av deteksjonen er mottatt:</translation>
+    </message>
+    <message>
+        <source>Integrator limit: %1&lt;br&gt;</source>
+        <translation type="unfinished">Integrasjons-grensen: %1&lt;br&gt;</translation>
+    </message>
+    <message>
+        <source>BEMF Coupling: %1&lt;br&gt;</source>
+        <translation type="unfinished">BEMF-kobling: %1&lt;br&gt;</translation>
+    </message>
+    <message>
+        <source>Write configuration?</source>
+        <translation type="unfinished">Lagre konfigurasjonsdata?</translation>
+    </message>
+    <message>
+        <source>FOC detection R L</source>
+        <translation type="unfinished">Deteksjon av FOC R L</translation>
+    </message>
+    <message>
+        <source>Bad Detection Result Received.</source>
+        <translation type="unfinished">Deteksjonen returnerte med feil.</translation>
+    </message>
+    <message>
+        <source>Detection failed.</source>
+        <translation type="unfinished">Deteksjonen feilet.</translation>
+    </message>
+    <message>
+        <source>FOC detection λ</source>
+        <translation type="unfinished">Deteksjon av FOC λ</translation>
+    </message>
+    <message>
+        <source>configuration read OK</source>
+        <translation type="unfinished">Lesing av konfigurasjonsdata OK</translation>
+    </message>
+    <message>
+        <source>configuration write OK</source>
+        <translation type="unfinished">Lagring av konfigurasjonsdata OK</translation>
+    </message>
+    <message>
+        <source>communication FAILED</source>
+        <translation type="unfinished">kommunikasjonen FEILET</translation>
+    </message>
+    <message>
+        <source>communication in progress</source>
+        <translation type="unfinished">kommunikasjonen pågår</translation>
+    </message>
+    <message>
+        <source>connecting to </source>
+        <translation type="unfinished">kobler til </translation>
+    </message>
+    <message>
+        <source>Save configuration</source>
+        <translation type="unfinished">Lagre konfigurasjonsdata</translation>
+    </message>
+    <message>
+        <source>Load configuration</source>
+        <translation type="unfinished">Last inn konfigurasjonsdata</translation>
+    </message>
+    <message>
+        <source>Detect motor</source>
+        <translation type="unfinished">Detekter motor</translation>
+    </message>
+    <message>
+        <source>Detect FOC Hall Sensors</source>
+        <translation type="unfinished">Detekter FOC Hall-sensorer</translation>
+    </message>
+    <message>
+        <source>Read</source>
+        <translation type="unfinished">Les</translation>
+    </message>
+    <message>
+        <source>Write</source>
+        <translation type="unfinished">Lagre</translation>
+    </message>
+    <message>
+        <source>BLDC motor detection is not supported for UNITY.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Motor detection in this mode is not supported. Please change motor type to BLDC or FOC.</source>
+        <translation type="unfinished">Deteksjon av motor er ikke støttet i denne modusen. Vennligst endre motortype til BLDC eller FOC.</translation>
+    </message>
+    <message>
+        <source>FOC Hall Sensors detection in this mode is not supported. Please change motor type to FOC.</source>
+        <translation type="unfinished">Deteksjon av FOC Hall-sensorer er ikke støttet i denne modusen. Venligst bytt motortype til FOC.</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to run BLDC motor detection with following parameters?</source>
+        <translation type="unfinished">Er du sikker på at du vil kjøre deteksjon av BLDC-motor med disse parameterene?</translation>
+    </message>
+    <message>
+        <source>WARNING: THE MOTOR WILL START SPINNING!</source>
+        <translation type="unfinished">ADVARSEL! MOTOREN VIL STARTE Å SPINNE!</translation>
+    </message>
+    <message>
+        <source>Current</source>
+        <translation type="unfinished">Strøm</translation>
+    </message>
+    <message>
+        <source>Current used during BLDC motor detection.</source>
+        <translation type="unfinished">Strøm nyttet til deteksjon av BLDC-motor.</translation>
+    </message>
+    <message>
+        <source>Low duty</source>
+        <translation type="unfinished">Lav nyttegrad</translation>
+    </message>
+    <message>
+        <source>Low duty used during BLDC motor detection.</source>
+        <translation type="unfinished">Lav nyttegrad brukt for deteksjon av BLDC-motor.</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to run FOC Hall Sensors detection with following parameters?</source>
+        <translation type="unfinished">Er du sikker på at du vil kjøre deteksjon av FOC Hall-sensor med disse parameterene?</translation>
+    </message>
+    <message>
+        <source>Hall Sensors Current</source>
+        <translation type="unfinished">Strøm i Hall-sensorene</translation>
+    </message>
+    <message>
+        <source>Current used during FOC Hall Sensors detection.</source>
+        <translation type="unfinished">Strøm nyttet for deteksjon av FOC Hall-sensor.</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to run FOC motor detection with following parameters?</source>
+        <translation type="unfinished">Er du sikker på at du vil kjøre motordeteksjon for FOC med de følgende parameterene?</translation>
+    </message>
+    <message>
+        <source>WARNING: THE MOTOR WILL MAKE VERY LOUD NOISE! AFTER THAT THE MOTOR WILL START SPINNING!</source>
+        <translation type="unfinished">ADVARSEL! DET VIL KOMME HØY LYD FRA MOTOREN! DERETTER VIL MOTOR STARTE Å SPINNE!</translation>
+    </message>
+    <message>
+        <source>Current used during FOC motor detection.</source>
+        <translation type="unfinished">Strøm nyttet til deteksjon av FOC-motor.</translation>
+    </message>
+    <message>
+        <source>Duty</source>
+        <translation type="unfinished">Nyttegrad</translation>
+    </message>
+    <message>
+        <source>Duty used during FOC motor detection.</source>
+        <translation type="unfinished">Nyttegrad nyttet for deteksjon av FOC-motor.</translation>
+    </message>
+    <message>
+        <source>TC</source>
+        <translation type="unfinished">TC</translation>
+    </message>
+    <message>
+        <source>Time constant for KP and KI.</source>
+        <translation type="unfinished">Tidskonstant for KP og KI.</translation>
+    </message>
+</context>
+<context>
     <name>Global</name>
     <message>
         <source>Over Voltage</source>
@@ -153,6 +567,22 @@
     <message>
         <source>Unknown error</source>
         <translation>Ukjent feil</translation>
+    </message>
+    <message>
+        <source>DRV8302 #2</source>
+        <translation type="unfinished">DRV8302 #2</translation>
+    </message>
+    <message>
+        <source>Over Current #2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Over Temp FET #2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Over Temp Motor #2</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -288,204 +718,200 @@
     <name>PerimetrTab</name>
     <message>
         <source>Hall sensor table:</source>
-        <translation>Hall-sensor oversikt:</translation>
+        <translation type="vanished">Hall-sensor oversikt:</translation>
     </message>
     <message>
         <source>Hall sensor detection failed:</source>
-        <translation>Deteksjon av Hall-sensorer feilet:</translation>
+        <translation type="vanished">Deteksjon av Hall-sensorer feilet:</translation>
     </message>
     <message>
         <source>WS2811 enabled. Hall sensors cannot be used.</source>
-        <translation>WS2811 er aktivert. Hall-sensorar kan ikke nyttest.</translation>
+        <translation type="vanished">WS2811 er aktivert. Hall-sensorar kan ikke nyttest.</translation>
     </message>
     <message>
         <source>Encoder enabled. Hall sensors cannot be used.</source>
-        <translation>Hall-sensorar kan ikke nyttest fordi encoder er aktivert.</translation>
+        <translation type="vanished">Hall-sensorar kan ikke nyttest fordi encoder er aktivert.</translation>
     </message>
     <message>
         <source>Unknown hall error: %1</source>
-        <translation>Ukjent feil med Hall: %1</translation>
+        <translation type="vanished">Ukjent feil med Hall: %1</translation>
     </message>
     <message>
         <source>Integrator limit: %1&lt;br&gt;</source>
-        <translation>Integrasjons-grensen: %1&lt;br&gt;</translation>
+        <translation type="vanished">Integrasjons-grensen: %1&lt;br&gt;</translation>
     </message>
     <message>
         <source>BEMF Coupling: %1&lt;br&gt;</source>
-        <translation>BEMF-kobling: %1&lt;br&gt;</translation>
+        <translation type="vanished">BEMF-kobling: %1&lt;br&gt;</translation>
     </message>
     <message>
         <source>Write configuration?</source>
-        <translation>Lagre konfigurasjonsdata?</translation>
+        <translation type="vanished">Lagre konfigurasjonsdata?</translation>
     </message>
     <message>
         <source>FOC detection R L</source>
-        <translation>Deteksjon av FOC R L</translation>
+        <translation type="vanished">Deteksjon av FOC R L</translation>
     </message>
     <message>
         <source>Detection failed.</source>
-        <translation>Deteksjonen feilet.</translation>
+        <translation type="vanished">Deteksjonen feilet.</translation>
     </message>
     <message>
         <source>FOC detection λ</source>
-        <translation>Deteksjon av FOC λ</translation>
+        <translation type="vanished">Deteksjon av FOC λ</translation>
     </message>
     <message>
         <source>Read</source>
-        <translation>Les</translation>
+        <translation type="vanished">Les</translation>
     </message>
     <message>
         <source>Write</source>
-        <translation>Lagre</translation>
+        <translation type="vanished">Lagre</translation>
     </message>
     <message>
         <source>Are you sure you want to run BLDC motor detection with following parameters?</source>
-        <translation>Er du sikker på at du vil kjøre deteksjon av BLDC-motor med disse parameterene?</translation>
+        <translation type="vanished">Er du sikker på at du vil kjøre deteksjon av BLDC-motor med disse parameterene?</translation>
     </message>
     <message>
         <source>WARNING: THE MOTOR WILL START SPINNING!</source>
-        <translation>ADVARSEL! MOTOREN VIL STARTE Å SPINNE!</translation>
+        <translation type="vanished">ADVARSEL! MOTOREN VIL STARTE Å SPINNE!</translation>
     </message>
     <message>
         <source>Current</source>
-        <translation>Strøm</translation>
+        <translation type="vanished">Strøm</translation>
     </message>
     <message>
         <source>Current used during BLDC motor detection.</source>
-        <translation>Strøm nyttet til deteksjon av BLDC-motor.</translation>
+        <translation type="vanished">Strøm nyttet til deteksjon av BLDC-motor.</translation>
     </message>
     <message>
         <source>Low duty</source>
-        <translation>Lav nyttegrad</translation>
+        <translation type="vanished">Lav nyttegrad</translation>
     </message>
     <message>
         <source>Low duty used during BLDC motor detection.</source>
-        <translation>Lav nyttegrad brukt for deteksjon av BLDC-motor.</translation>
+        <translation type="vanished">Lav nyttegrad brukt for deteksjon av BLDC-motor.</translation>
     </message>
     <message>
         <source>Hall Sensors Current</source>
-        <translation>Strøm i Hall-sensorene</translation>
+        <translation type="vanished">Strøm i Hall-sensorene</translation>
     </message>
     <message>
         <source>Current used during FOC Hall Sensors detection.</source>
-        <translation>Strøm nyttet for deteksjon av FOC Hall-sensor.</translation>
+        <translation type="vanished">Strøm nyttet for deteksjon av FOC Hall-sensor.</translation>
     </message>
     <message>
         <source>Are you sure you want to run FOC motor detection with following parameters?</source>
-        <translation>Er du sikker på at du vil kjøre motordeteksjon for FOC med de følgende parameterene?</translation>
+        <translation type="vanished">Er du sikker på at du vil kjøre motordeteksjon for FOC med de følgende parameterene?</translation>
     </message>
     <message>
         <source>WARNING: THE MOTOR WILL MAKE VERY LOUD NOISE! AFTER THAT THE MOTOR WILL START SPINNING!</source>
-        <translation>ADVARSEL! DET VIL KOMME HØY LYD FRA MOTOREN! DERETTER VIL MOTOR STARTE Å SPINNE!</translation>
+        <translation type="vanished">ADVARSEL! DET VIL KOMME HØY LYD FRA MOTOREN! DERETTER VIL MOTOR STARTE Å SPINNE!</translation>
     </message>
     <message>
         <source>Current used during FOC motor detection.</source>
-        <translation>Strøm nyttet til deteksjon av FOC-motor.</translation>
+        <translation type="vanished">Strøm nyttet til deteksjon av FOC-motor.</translation>
     </message>
     <message>
         <source>Duty</source>
-        <translation>Nyttegrad</translation>
+        <translation type="vanished">Nyttegrad</translation>
     </message>
     <message>
         <source>Duty used during FOC motor detection.</source>
-        <translation>Nyttegrad nyttet for deteksjon av FOC-motor.</translation>
+        <translation type="vanished">Nyttegrad nyttet for deteksjon av FOC-motor.</translation>
     </message>
     <message>
         <source>TC</source>
         <translatorcomment>?</translatorcomment>
-        <translation>TC</translation>
+        <translation type="vanished">TC</translation>
     </message>
     <message>
         <source>Time constant for KP and KI.</source>
-        <translation>Tidskonstant for KP og KI.</translation>
+        <translation type="vanished">Tidskonstant for KP og KI.</translation>
     </message>
     <message>
         <source>communication FAILED</source>
-        <translation>kommunikasjonen FEILET</translation>
+        <translation type="vanished">kommunikasjonen FEILET</translation>
     </message>
     <message>
         <source>communication in progress</source>
-        <translation>kommunikasjonen pågår</translation>
+        <translation type="vanished">kommunikasjonen pågår</translation>
     </message>
     <message>
         <source>Detect motor</source>
-        <translation>Detekter motor</translation>
+        <translation type="vanished">Detekter motor</translation>
     </message>
     <message>
         <source>Load configuration</source>
-        <translation>Last inn konfigurasjonsdata</translation>
+        <translation type="vanished">Last inn konfigurasjonsdata</translation>
     </message>
     <message>
         <source>no device connected</source>
-        <translation>ingen dings er tilkoblet</translation>
+        <translation type="vanished">ingen dings er tilkoblet</translation>
     </message>
     <message>
         <source>reading motor configuration</source>
-        <translation>leser konfigurasjonsdata for motor</translation>
+        <translation type="vanished">leser konfigurasjonsdata for motor</translation>
     </message>
     <message>
         <source>writing motor configuration</source>
-        <translation>lagrer konfigurasjonsdata for motor</translation>
+        <translation type="vanished">lagrer konfigurasjonsdata for motor</translation>
     </message>
     <message>
         <source>reading app configuration</source>
-        <translation>leser konfigurasjonsdata for app</translation>
+        <translation type="vanished">leser konfigurasjonsdata for app</translation>
     </message>
     <message>
         <source>writing app configuration</source>
-        <translation>lagrer konfigurasjonsdata for app</translation>
+        <translation type="vanished">lagrer konfigurasjonsdata for app</translation>
     </message>
     <message>
         <source>BLDC detection</source>
-        <translation>BLDC-deteksjon</translation>
+        <translation type="vanished">BLDC-deteksjon</translation>
     </message>
     <message>
         <source>FOC Hall Sensors detection</source>
-        <translation>Deteksjon av FOC Hall-sensorer</translation>
+        <translation type="vanished">Deteksjon av FOC Hall-sensorer</translation>
     </message>
     <message>
         <source>Detection Result Received:</source>
-        <translation>Resultatet av deteksjonen er mottatt:</translation>
+        <translation type="vanished">Resultatet av deteksjonen er mottatt:</translation>
     </message>
     <message>
         <source>Bad Detection Result Received.</source>
-        <translation>Deteksjonen returnerte med feil.</translation>
+        <translation type="vanished">Deteksjonen returnerte med feil.</translation>
     </message>
     <message>
         <source>configuration read OK</source>
-        <translation>Lesing av konfigurasjonsdata OK</translation>
+        <translation type="vanished">Lesing av konfigurasjonsdata OK</translation>
     </message>
     <message>
         <source>configuration write OK</source>
-        <translation>Lagring av konfigurasjonsdata OK</translation>
+        <translation type="vanished">Lagring av konfigurasjonsdata OK</translation>
     </message>
     <message>
         <source>connecting to </source>
-        <translation>kobler til </translation>
+        <translation type="vanished">kobler til </translation>
     </message>
     <message>
         <source>Save configuration</source>
-        <translation>Lagre konfigurasjonsdata</translation>
+        <translation type="vanished">Lagre konfigurasjonsdata</translation>
     </message>
     <message>
         <source>Detect FOC Hall Sensors</source>
-        <translation>Detekter FOC Hall-sensorer</translation>
+        <translation type="vanished">Detekter FOC Hall-sensorer</translation>
     </message>
     <message>
         <source>Motor detection in this mode is not supported. Please change motor type to BLDC or FOC.</source>
-        <translation>Deteksjon av motor er ikke støttet i denne modusen. Vennligst endre motortype til BLDC eller FOC.</translation>
+        <translation type="vanished">Deteksjon av motor er ikke støttet i denne modusen. Vennligst endre motortype til BLDC eller FOC.</translation>
     </message>
     <message>
         <source>FOC Hall Sensors detection in this mode is not supported. Please change motor type to FOC.</source>
-        <translation>Deteksjon av FOC Hall-sensorer er ikke støttet i denne modusen. Venligst bytt motortype til FOC.</translation>
+        <translation type="vanished">Deteksjon av FOC Hall-sensorer er ikke støttet i denne modusen. Venligst bytt motortype til FOC.</translation>
     </message>
     <message>
         <source>Are you sure you want to run FOC Hall Sensors detection with following parameters?</source>
-        <translation>Er du sikker på at du vil kjøre deteksjon av FOC Hall-sensor med disse parameterene?</translation>
-    </message>
-    <message>
-        <source>This VESC FW is not supported yet. Check log for details.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Er du sikker på at du vil kjøre deteksjon av FOC Hall-sensor med disse parameterene?</translation>
     </message>
 </context>
 <context>
@@ -1314,6 +1740,14 @@
     </message>
     <message>
         <source>Time in milliseconds for floating window that is used to calculate consumption (wh/km or wh/mi).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scale UI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable scaling user interface. Makes the app look better on bigger screens.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
