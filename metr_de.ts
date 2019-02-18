@@ -46,6 +46,33 @@
     </message>
 </context>
 <context>
+    <name>Configurations</name>
+    <message>
+        <source>reading motor configuration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>writing motor configuration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>reading app configuration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>writing app configuration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>configuration read OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>configuration write OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Contributions</name>
     <message>
         <source>Thanks to @tueboard (%1) for contributing Spanish translation.</source>
@@ -140,23 +167,7 @@
     </message>
     <message>
         <source>This VESC FW is not supported yet. Check log for details.</source>
-        <translation type="unfinished">Diese VESC Software wird momentan noch nicht unterstützt. Lesen Sie im Log für genauere Details.</translation>
-    </message>
-    <message>
-        <source>reading motor configuration</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>writing motor configuration</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>reading app configuration</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>writing app configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Diese VESC Software wird momentan noch nicht unterstützt. Lesen Sie im Log für genauere Details.</translation>
     </message>
     <message>
         <source>BLDC detection</source>
@@ -219,14 +230,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>configuration read OK</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>configuration write OK</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>communication FAILED</source>
         <translation type="unfinished"></translation>
     </message>
@@ -256,11 +259,11 @@
     </message>
     <message>
         <source>Read</source>
-        <translation type="unfinished">Lesen</translation>
+        <translation>Lesen</translation>
     </message>
     <message>
         <source>Write</source>
-        <translation type="unfinished">Schreiben</translation>
+        <translation>Schreiben</translation>
     </message>
     <message>
         <source>BLDC motor detection is not supported for UNITY.</source>
@@ -342,208 +345,16 @@
 <context>
     <name>ExpertTabDelegate</name>
     <message>
-        <source>no device connected</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>This VESC FW is not supported yet. Check log for details.</source>
-        <translation type="unfinished">Diese VESC Software wird momentan noch nicht unterstützt. Lesen Sie im Log für genauere Details.</translation>
-    </message>
-    <message>
-        <source>reading motor configuration</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>writing motor configuration</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>reading app configuration</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>writing app configuration</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>BLDC detection</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>FOC Hall Sensors detection</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hall sensor table:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hall sensor detection failed:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WS2811 enabled. Hall sensors cannot be used.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Encoder enabled. Hall sensors cannot be used.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unknown hall error: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Detection Result Received:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Integrator limit: %1&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>BEMF Coupling: %1&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Write configuration?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>FOC detection R L</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Bad Detection Result Received.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Detection failed.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>FOC detection λ</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>configuration read OK</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>configuration write OK</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>communication FAILED</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>communication in progress</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>connecting to </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Save configuration</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Load configuration</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Detect motor</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Detect FOC Hall Sensors</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Diese VESC Software wird momentan noch nicht unterstützt. Lesen Sie im Log für genauere Details.</translation>
     </message>
     <message>
         <source>Read</source>
-        <translation type="unfinished">Lesen</translation>
+        <translation type="obsolete">Lesen</translation>
     </message>
     <message>
         <source>Write</source>
-        <translation type="unfinished">Schreiben</translation>
-    </message>
-    <message>
-        <source>BLDC motor detection is not supported for UNITY.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Motor detection in this mode is not supported. Please change motor type to BLDC or FOC.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>FOC Hall Sensors detection in this mode is not supported. Please change motor type to FOC.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure you want to run BLDC motor detection with following parameters?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WARNING: THE MOTOR WILL START SPINNING!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Current</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Current used during BLDC motor detection.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Low duty</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Low duty used during BLDC motor detection.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure you want to run FOC Hall Sensors detection with following parameters?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hall Sensors Current</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Current used during FOC Hall Sensors detection.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure you want to run FOC motor detection with following parameters?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WARNING: THE MOTOR WILL MAKE VERY LOUD NOISE! AFTER THAT THE MOTOR WILL START SPINNING!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Current used during FOC motor detection.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Duty</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Duty used during FOC motor detection.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>TC</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Time constant for KP and KI.</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Schreiben</translation>
     </message>
 </context>
 <context>

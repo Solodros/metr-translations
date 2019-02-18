@@ -46,6 +46,33 @@
     </message>
 </context>
 <context>
+    <name>Configurations</name>
+    <message>
+        <source>reading motor configuration</source>
+        <translation type="unfinished">Lecture de la configuration moteur</translation>
+    </message>
+    <message>
+        <source>writing motor configuration</source>
+        <translation type="unfinished">écriture de la configuration moteur</translation>
+    </message>
+    <message>
+        <source>reading app configuration</source>
+        <translation type="unfinished">Lecture de la configuration de l&apos;application</translation>
+    </message>
+    <message>
+        <source>writing app configuration</source>
+        <translation type="unfinished">écriture de la configuration d&apos;application</translation>
+    </message>
+    <message>
+        <source>configuration read OK</source>
+        <translation type="unfinished">Lecture de configuration OK</translation>
+    </message>
+    <message>
+        <source>configuration write OK</source>
+        <translation type="unfinished">Ecriture de configuration OK</translation>
+    </message>
+</context>
+<context>
     <name>Contributions</name>
     <message>
         <source>Thanks to @tueboard (%1) for contributing Spanish translation.</source>
@@ -144,19 +171,19 @@
     </message>
     <message>
         <source>reading motor configuration</source>
-        <translation type="unfinished">Lecture de la configuration moteur</translation>
+        <translation type="obsolete">Lecture de la configuration moteur</translation>
     </message>
     <message>
         <source>writing motor configuration</source>
-        <translation type="unfinished">écriture de la configuration moteur</translation>
+        <translation type="obsolete">écriture de la configuration moteur</translation>
     </message>
     <message>
         <source>reading app configuration</source>
-        <translation type="unfinished">Lecture de la configuration de l&apos;application</translation>
+        <translation type="obsolete">Lecture de la configuration de l&apos;application</translation>
     </message>
     <message>
         <source>writing app configuration</source>
-        <translation type="unfinished">écriture de la configuration d&apos;application</translation>
+        <translation type="obsolete">écriture de la configuration d&apos;application</translation>
     </message>
     <message>
         <source>BLDC detection</source>
@@ -220,11 +247,11 @@
     </message>
     <message>
         <source>configuration read OK</source>
-        <translation type="unfinished">Lecture de configuration OK</translation>
+        <translation type="obsolete">Lecture de configuration OK</translation>
     </message>
     <message>
         <source>configuration write OK</source>
-        <translation type="unfinished">Ecriture de configuration OK</translation>
+        <translation type="obsolete">Ecriture de configuration OK</translation>
     </message>
     <message>
         <source>communication FAILED</source>
@@ -343,207 +370,195 @@
     <name>ExpertTabDelegate</name>
     <message>
         <source>no device connected</source>
-        <translation type="unfinished">aucun périphérique connecté</translation>
-    </message>
-    <message>
-        <source>This VESC FW is not supported yet. Check log for details.</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">aucun périphérique connecté</translation>
     </message>
     <message>
         <source>reading motor configuration</source>
-        <translation type="unfinished">Lecture de la configuration moteur</translation>
+        <translation type="obsolete">Lecture de la configuration moteur</translation>
     </message>
     <message>
         <source>writing motor configuration</source>
-        <translation type="unfinished">écriture de la configuration moteur</translation>
+        <translation type="obsolete">écriture de la configuration moteur</translation>
     </message>
     <message>
         <source>reading app configuration</source>
-        <translation type="unfinished">Lecture de la configuration de l&apos;application</translation>
+        <translation type="obsolete">Lecture de la configuration de l&apos;application</translation>
     </message>
     <message>
         <source>writing app configuration</source>
-        <translation type="unfinished">écriture de la configuration d&apos;application</translation>
+        <translation type="obsolete">écriture de la configuration d&apos;application</translation>
     </message>
     <message>
         <source>BLDC detection</source>
-        <translation type="unfinished">Détection en BLDC</translation>
+        <translation type="obsolete">Détection en BLDC</translation>
     </message>
     <message>
         <source>FOC Hall Sensors detection</source>
-        <translation type="unfinished">FOC Détection des capteurs Hall</translation>
+        <translation type="obsolete">FOC Détection des capteurs Hall</translation>
     </message>
     <message>
         <source>Hall sensor table:</source>
-        <translation type="unfinished">Table des capteurs Hall:</translation>
+        <translation type="obsolete">Table des capteurs Hall:</translation>
     </message>
     <message>
         <source>Hall sensor detection failed:</source>
-        <translation type="unfinished">Détection des capteurs Hall échouée:</translation>
+        <translation type="obsolete">Détection des capteurs Hall échouée:</translation>
     </message>
     <message>
         <source>WS2811 enabled. Hall sensors cannot be used.</source>
-        <translation type="unfinished">WS2811 activé. Les capteurs Hall ne peuvent être utilisés.</translation>
+        <translation type="obsolete">WS2811 activé. Les capteurs Hall ne peuvent être utilisés.</translation>
     </message>
     <message>
         <source>Encoder enabled. Hall sensors cannot be used.</source>
-        <translation type="unfinished">Encodeur activé. Les capteurs Hall ne peuvent être utilisés.</translation>
+        <translation type="obsolete">Encodeur activé. Les capteurs Hall ne peuvent être utilisés.</translation>
     </message>
     <message>
         <source>Unknown hall error: %1</source>
-        <translation type="unfinished">Erreur capteur Hall inconnu : %1</translation>
+        <translation type="obsolete">Erreur capteur Hall inconnu : %1</translation>
     </message>
     <message>
         <source>Detection Result Received:</source>
-        <translation type="unfinished">Résultat de détection obtenu :</translation>
+        <translation type="obsolete">Résultat de détection obtenu :</translation>
     </message>
     <message>
         <source>Integrator limit: %1&lt;br&gt;</source>
-        <translation type="unfinished">Limite d&apos;intégrateur : %1</translation>
+        <translation type="obsolete">Limite d&apos;intégrateur : %1</translation>
     </message>
     <message>
         <source>BEMF Coupling: %1&lt;br&gt;</source>
-        <translation type="unfinished">Couplage BEMF : %1</translation>
+        <translation type="obsolete">Couplage BEMF : %1</translation>
     </message>
     <message>
         <source>Write configuration?</source>
-        <translation type="unfinished">Écrire la configuration ?</translation>
+        <translation type="obsolete">Écrire la configuration ?</translation>
     </message>
     <message>
         <source>FOC detection R L</source>
-        <translation type="unfinished">FOC Détection constantes R L</translation>
+        <translation type="obsolete">FOC Détection constantes R L</translation>
     </message>
     <message>
         <source>Bad Detection Result Received.</source>
-        <translation type="unfinished">Résultat de détection erroné.</translation>
+        <translation type="obsolete">Résultat de détection erroné.</translation>
     </message>
     <message>
         <source>Detection failed.</source>
-        <translation type="unfinished">La détection a échoué.</translation>
+        <translation type="obsolete">La détection a échoué.</translation>
     </message>
     <message>
         <source>FOC detection λ</source>
-        <translation type="unfinished">FOC détection λ</translation>
+        <translation type="obsolete">FOC détection λ</translation>
     </message>
     <message>
         <source>configuration read OK</source>
-        <translation type="unfinished">Lecture de configuration OK</translation>
+        <translation type="obsolete">Lecture de configuration OK</translation>
     </message>
     <message>
         <source>configuration write OK</source>
-        <translation type="unfinished">Ecriture de configuration OK</translation>
+        <translation type="obsolete">Ecriture de configuration OK</translation>
     </message>
     <message>
         <source>communication FAILED</source>
-        <translation type="unfinished">ÉCHEC DE LA COMMUNICATION</translation>
+        <translation type="obsolete">ÉCHEC DE LA COMMUNICATION</translation>
     </message>
     <message>
         <source>communication in progress</source>
-        <translation type="unfinished">communication en cours</translation>
+        <translation type="obsolete">communication en cours</translation>
     </message>
     <message>
         <source>connecting to </source>
-        <translation type="unfinished">connexion à </translation>
+        <translation type="obsolete">connexion à </translation>
     </message>
     <message>
         <source>Save configuration</source>
-        <translation type="unfinished">Enregistrer la configuration</translation>
+        <translation type="obsolete">Enregistrer la configuration</translation>
     </message>
     <message>
         <source>Load configuration</source>
-        <translation type="unfinished">Charger la configuration</translation>
+        <translation type="obsolete">Charger la configuration</translation>
     </message>
     <message>
         <source>Detect motor</source>
-        <translation type="unfinished">Détection moteur</translation>
+        <translation type="obsolete">Détection moteur</translation>
     </message>
     <message>
         <source>Detect FOC Hall Sensors</source>
-        <translation type="unfinished">Détection des capteurs Hall en FOC</translation>
-    </message>
-    <message>
-        <source>Read</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Détection des capteurs Hall en FOC</translation>
     </message>
     <message>
         <source>Write</source>
-        <translation type="unfinished">Écriture</translation>
-    </message>
-    <message>
-        <source>BLDC motor detection is not supported for UNITY.</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Écriture</translation>
     </message>
     <message>
         <source>Motor detection in this mode is not supported. Please change motor type to BLDC or FOC.</source>
-        <translation type="unfinished">La détection du moteur dans ce mode n&apos;est pas prise en charge. Veuillez changer le type de moteur en BLDC ou FOC.</translation>
+        <translation type="obsolete">La détection du moteur dans ce mode n&apos;est pas prise en charge. Veuillez changer le type de moteur en BLDC ou FOC.</translation>
     </message>
     <message>
         <source>FOC Hall Sensors detection in this mode is not supported. Please change motor type to FOC.</source>
-        <translation type="unfinished">FOC La détection des capteurs Hall dans ce mode n&apos;est pas prise en charge. Veuillez changer le type de moteur en FOC.</translation>
+        <translation type="obsolete">FOC La détection des capteurs Hall dans ce mode n&apos;est pas prise en charge. Veuillez changer le type de moteur en FOC.</translation>
     </message>
     <message>
         <source>Are you sure you want to run BLDC motor detection with following parameters?</source>
-        <translation type="unfinished">Êtes-vous sûr de vouloir lancer la détection du moteur BLDC avec les paramètres suivants ?</translation>
+        <translation type="obsolete">Êtes-vous sûr de vouloir lancer la détection du moteur BLDC avec les paramètres suivants ?</translation>
     </message>
     <message>
         <source>WARNING: THE MOTOR WILL START SPINNING!</source>
-        <translation type="unfinished">AVERTISSEMENT : LE MOTEUR VA SE METTRE A TOURNER !</translation>
+        <translation type="obsolete">AVERTISSEMENT : LE MOTEUR VA SE METTRE A TOURNER !</translation>
     </message>
     <message>
         <source>Current</source>
-        <translation type="unfinished">Intensité</translation>
+        <translation type="obsolete">Intensité</translation>
     </message>
     <message>
         <source>Current used during BLDC motor detection.</source>
-        <translation type="unfinished">Intensité utilisée pendant la détection du moteur BLDC.</translation>
+        <translation type="obsolete">Intensité utilisée pendant la détection du moteur BLDC.</translation>
     </message>
     <message>
         <source>Low duty</source>
-        <translation type="unfinished">Rapport cyclique bas</translation>
+        <translation type="obsolete">Rapport cyclique bas</translation>
     </message>
     <message>
         <source>Low duty used during BLDC motor detection.</source>
-        <translation type="unfinished">Rapport cyclique bas utilisé pendant la détection moteur en BLDC.</translation>
+        <translation type="obsolete">Rapport cyclique bas utilisé pendant la détection moteur en BLDC.</translation>
     </message>
     <message>
         <source>Are you sure you want to run FOC Hall Sensors detection with following parameters?</source>
-        <translation type="unfinished">Êtes-vous sûr de vouloir lancer la détection FOC Hall Sensors avec les paramètres suivants ?</translation>
+        <translation type="obsolete">Êtes-vous sûr de vouloir lancer la détection FOC Hall Sensors avec les paramètres suivants ?</translation>
     </message>
     <message>
         <source>Hall Sensors Current</source>
-        <translation type="unfinished">Intensité de détection des capteurs Hall</translation>
+        <translation type="obsolete">Intensité de détection des capteurs Hall</translation>
     </message>
     <message>
         <source>Current used during FOC Hall Sensors detection.</source>
-        <translation type="unfinished">Intensité utilisée pendant la détection des capteurs à effet Hall en FOC.</translation>
+        <translation type="obsolete">Intensité utilisée pendant la détection des capteurs à effet Hall en FOC.</translation>
     </message>
     <message>
         <source>Are you sure you want to run FOC motor detection with following parameters?</source>
-        <translation type="unfinished">Etes-vous sûr de vouloir lancer la détection moteur en FOC avec les paramètres suivants ?</translation>
+        <translation type="obsolete">Etes-vous sûr de vouloir lancer la détection moteur en FOC avec les paramètres suivants ?</translation>
     </message>
     <message>
         <source>WARNING: THE MOTOR WILL MAKE VERY LOUD NOISE! AFTER THAT THE MOTOR WILL START SPINNING!</source>
-        <translation type="unfinished">AVERTISSEMENT : LE MOTEUR VA FAIRE DU BRUIT PUIS VA SE METTRE A TOURNER !</translation>
+        <translation type="obsolete">AVERTISSEMENT : LE MOTEUR VA FAIRE DU BRUIT PUIS VA SE METTRE A TOURNER !</translation>
     </message>
     <message>
         <source>Current used during FOC motor detection.</source>
-        <translation type="unfinished">Intensité utilisée pendant la détection moteur en FOC.</translation>
+        <translation type="obsolete">Intensité utilisée pendant la détection moteur en FOC.</translation>
     </message>
     <message>
         <source>Duty</source>
-        <translation type="unfinished">Rapport cyclique</translation>
+        <translation type="obsolete">Rapport cyclique</translation>
     </message>
     <message>
         <source>Duty used during FOC motor detection.</source>
-        <translation type="unfinished">Rapport cyclique utilisé pendant la détection moteur en FOC.</translation>
+        <translation type="obsolete">Rapport cyclique utilisé pendant la détection moteur en FOC.</translation>
     </message>
     <message>
         <source>TC</source>
-        <translation type="unfinished">Contrôle de traction</translation>
+        <translation type="obsolete">Contrôle de traction</translation>
     </message>
     <message>
         <source>Time constant for KP and KI.</source>
-        <translation type="unfinished">Constante de temps pour KP et KI.</translation>
+        <translation type="obsolete">Constante de temps pour KP et KI.</translation>
     </message>
 </context>
 <context>

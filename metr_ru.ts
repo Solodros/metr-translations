@@ -46,6 +46,33 @@
     </message>
 </context>
 <context>
+    <name>Configurations</name>
+    <message>
+        <source>reading motor configuration</source>
+        <translation>считывание конфиг мотора</translation>
+    </message>
+    <message>
+        <source>writing motor configuration</source>
+        <translation>запись конфиг мотора</translation>
+    </message>
+    <message>
+        <source>reading app configuration</source>
+        <translation>считывание конфиг прилож</translation>
+    </message>
+    <message>
+        <source>writing app configuration</source>
+        <translation>запись конфиг прилож</translation>
+    </message>
+    <message>
+        <source>configuration read OK</source>
+        <translation>конфиг считан ОК</translation>
+    </message>
+    <message>
+        <source>configuration write OK</source>
+        <translation>конфиг записан ОК</translation>
+    </message>
+</context>
+<context>
     <name>Contributions</name>
     <message>
         <source>Thanks to @tueboard (%1) for contributing Spanish translation.</source>
@@ -137,43 +164,43 @@
     <name>ExpertTab</name>
     <message>
         <source>no device connected</source>
-        <translation type="unfinished">не соединено</translation>
+        <translation>не соединено</translation>
     </message>
     <message>
         <source>This VESC FW is not supported yet. Check log for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Эта прошивка VESC не поддерживается. Подробности в журнале.</translation>
     </message>
     <message>
         <source>reading motor configuration</source>
-        <translation type="unfinished">считывание конфиг мотора</translation>
+        <translation type="obsolete">считывание конфиг мотора</translation>
     </message>
     <message>
         <source>writing motor configuration</source>
-        <translation type="unfinished">запись конфиг мотора</translation>
+        <translation type="obsolete">запись конфиг мотора</translation>
     </message>
     <message>
         <source>reading app configuration</source>
-        <translation type="unfinished">считывание конфиг прилож</translation>
+        <translation type="obsolete">считывание конфиг прилож</translation>
     </message>
     <message>
         <source>writing app configuration</source>
-        <translation type="unfinished">запись конфиг прилож</translation>
+        <translation type="obsolete">запись конфиг прилож</translation>
     </message>
     <message>
         <source>BLDC detection</source>
-        <translation type="unfinished">Определение BLDC</translation>
+        <translation>Определение BLDC</translation>
     </message>
     <message>
         <source>FOC Hall Sensors detection</source>
-        <translation type="unfinished">Определение FOC Hall Sensors</translation>
+        <translation>Определение FOC Hall Sensors</translation>
     </message>
     <message>
         <source>Hall sensor table:</source>
-        <translation type="unfinished">Hall таблица:</translation>
+        <translation>Hall таблица:</translation>
     </message>
     <message>
         <source>Hall sensor detection failed:</source>
-        <translation type="unfinished">Hall определение провалено:</translation>
+        <translation>Hall определение провалено:</translation>
     </message>
     <message>
         <source>WS2811 enabled. Hall sensors cannot be used.</source>
@@ -185,11 +212,11 @@
     </message>
     <message>
         <source>Unknown hall error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Неизвестная ошибка hall %1</translation>
     </message>
     <message>
         <source>Detection Result Received:</source>
-        <translation type="unfinished">Получены результаты определения:</translation>
+        <translation>Получены результаты определения:</translation>
     </message>
     <message>
         <source>Integrator limit: %1&lt;br&gt;</source>
@@ -201,135 +228,135 @@
     </message>
     <message>
         <source>Write configuration?</source>
-        <translation type="unfinished">Записать настройки?</translation>
+        <translation>Записать настройки?</translation>
     </message>
     <message>
         <source>FOC detection R L</source>
-        <translation type="unfinished">FOC определение R L</translation>
+        <translation>FOC определение R L</translation>
     </message>
     <message>
         <source>Bad Detection Result Received.</source>
-        <translation type="unfinished">Определение провалено.</translation>
+        <translation>Определение провалено.</translation>
     </message>
     <message>
         <source>Detection failed.</source>
-        <translation type="unfinished">Определение провалено.</translation>
+        <translation>Определение провалено.</translation>
     </message>
     <message>
         <source>FOC detection λ</source>
-        <translation type="unfinished">FOC определение λ</translation>
+        <translation>FOC определение λ</translation>
     </message>
     <message>
         <source>configuration read OK</source>
-        <translation type="unfinished">конфиг считан ОК</translation>
+        <translation type="obsolete">конфиг считан ОК</translation>
     </message>
     <message>
         <source>configuration write OK</source>
-        <translation type="unfinished">конфиг записан ОК</translation>
+        <translation type="obsolete">конфиг записан ОК</translation>
     </message>
     <message>
         <source>communication FAILED</source>
-        <translation type="unfinished">соединение ПРОВАЛЕНО</translation>
+        <translation>соединение ПРОВАЛЕНО</translation>
     </message>
     <message>
         <source>communication in progress</source>
-        <translation type="unfinished">соединение в процессе</translation>
+        <translation>соединение в процессе</translation>
     </message>
     <message>
         <source>connecting to </source>
-        <translation type="unfinished">соединяюсь с </translation>
+        <translation>соединяюсь с </translation>
     </message>
     <message>
         <source>Save configuration</source>
-        <translation type="unfinished">Сохранить конфиг</translation>
+        <translation>Сохранить конфиг</translation>
     </message>
     <message>
         <source>Load configuration</source>
-        <translation type="unfinished">Загрузить конфиг</translation>
+        <translation>Загрузить конфиг</translation>
     </message>
     <message>
         <source>Detect motor</source>
-        <translation type="unfinished">Определить мотор</translation>
+        <translation>Определить мотор</translation>
     </message>
     <message>
         <source>Detect FOC Hall Sensors</source>
-        <translation type="unfinished">Определить FOC Hall сенсоры</translation>
+        <translation>Определить FOC Hall сенсоры</translation>
     </message>
     <message>
         <source>Read</source>
-        <translation type="unfinished">Считать</translation>
+        <translation>Считать</translation>
     </message>
     <message>
         <source>Write</source>
-        <translation type="unfinished">Записать</translation>
+        <translation>Записать</translation>
     </message>
     <message>
         <source>BLDC motor detection is not supported for UNITY.</source>
-        <translation type="unfinished"></translation>
+        <translation>BLDC не поддерживается для UNITY.</translation>
     </message>
     <message>
         <source>Motor detection in this mode is not supported. Please change motor type to BLDC or FOC.</source>
-        <translation type="unfinished">Определение мотора в этом режиме не поддерживается. Измените motor type на BLDC или FOC.</translation>
+        <translation>Определение мотора в этом режиме не поддерживается. Измените motor type на BLDC или FOC.</translation>
     </message>
     <message>
         <source>FOC Hall Sensors detection in this mode is not supported. Please change motor type to FOC.</source>
-        <translation type="unfinished">Определение FOC Hall Sensors в этом режиме не поддерживается. Пожалуйста измените motor type на FOC.</translation>
+        <translation>Определение FOC Hall Sensors в этом режиме не поддерживается. Пожалуйста измените motor type на FOC.</translation>
     </message>
     <message>
         <source>Are you sure you want to run BLDC motor detection with following parameters?</source>
-        <translation type="unfinished">Вы уверены, что хотите запустить BLDC определение со следующими параметрами?</translation>
+        <translation>Вы уверены, что хотите запустить BLDC определение со следующими параметрами?</translation>
     </message>
     <message>
         <source>WARNING: THE MOTOR WILL START SPINNING!</source>
-        <translation type="unfinished">ВНИМАНИЕ: МОТОР НАЧНЕТ ВРАЩАТЬСЯ!</translation>
+        <translation>ВНИМАНИЕ: МОТОР НАЧНЕТ ВРАЩАТЬСЯ!</translation>
     </message>
     <message>
         <source>Current</source>
-        <translation type="unfinished">Ток</translation>
+        <translation>Ток</translation>
     </message>
     <message>
         <source>Current used during BLDC motor detection.</source>
-        <translation type="unfinished">Ток для BLDC определения мотора.</translation>
+        <translation>Ток для BLDC определения мотора.</translation>
     </message>
     <message>
         <source>Low duty</source>
-        <translation type="unfinished">Мин скважность</translation>
+        <translation>Мин скважность</translation>
     </message>
     <message>
         <source>Low duty used during BLDC motor detection.</source>
-        <translation type="unfinished">Мин скважность для BLDC определения.</translation>
+        <translation>Мин скважность для BLDC определения.</translation>
     </message>
     <message>
         <source>Are you sure you want to run FOC Hall Sensors detection with following parameters?</source>
-        <translation type="unfinished">Вы уверены, что хотите запустить FOC Hall Sensors определение со следующими параметрами?</translation>
+        <translation>Вы уверены, что хотите запустить FOC Hall Sensors определение со следующими параметрами?</translation>
     </message>
     <message>
         <source>Hall Sensors Current</source>
-        <translation type="unfinished">Hall Sensors Ток</translation>
+        <translation>Hall Sensors Ток</translation>
     </message>
     <message>
         <source>Current used during FOC Hall Sensors detection.</source>
-        <translation type="unfinished">Ток используемый при FOC Hall Sensors определении.</translation>
+        <translation>Ток используемый при FOC Hall Sensors определении.</translation>
     </message>
     <message>
         <source>Are you sure you want to run FOC motor detection with following parameters?</source>
-        <translation type="unfinished">Вы уверены, что хотите запустить FOC определение со следующими параметрами?</translation>
+        <translation>Вы уверены, что хотите запустить FOC определение со следующими параметрами?</translation>
     </message>
     <message>
         <source>WARNING: THE MOTOR WILL MAKE VERY LOUD NOISE! AFTER THAT THE MOTOR WILL START SPINNING!</source>
-        <translation type="unfinished">ВНИМАНИЕ: МОТОР НАЧНЕТ ИЗДАВАТЬ ГРОМКИЕ ЗВУКИ, А ПОТОМ ВРАЩАТЬСЯ!</translation>
+        <translation>ВНИМАНИЕ: МОТОР НАЧНЕТ ИЗДАВАТЬ ГРОМКИЕ ЗВУКИ, А ПОТОМ ВРАЩАТЬСЯ!</translation>
     </message>
     <message>
         <source>Current used during FOC motor detection.</source>
-        <translation type="unfinished">Ток используемый при FOC определении.</translation>
+        <translation>Ток используемый при FOC определении.</translation>
     </message>
     <message>
         <source>Duty</source>
-        <translation type="unfinished">Скважность</translation>
+        <translation>Скважность</translation>
     </message>
     <message>
         <source>Duty used during FOC motor detection.</source>
-        <translation type="unfinished">Скважность используемая при FOC определении.</translation>
+        <translation>Скважность используемая при FOC определении.</translation>
     </message>
     <message>
         <source>TC</source>
@@ -344,207 +371,171 @@
     <name>ExpertTabDelegate</name>
     <message>
         <source>no device connected</source>
-        <translation type="unfinished">не соединено</translation>
-    </message>
-    <message>
-        <source>This VESC FW is not supported yet. Check log for details.</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">не соединено</translation>
     </message>
     <message>
         <source>reading motor configuration</source>
-        <translation type="unfinished">считывание конфиг мотора</translation>
+        <translation type="obsolete">считывание конфиг мотора</translation>
     </message>
     <message>
         <source>writing motor configuration</source>
-        <translation type="unfinished">запись конфиг мотора</translation>
+        <translation type="obsolete">запись конфиг мотора</translation>
     </message>
     <message>
         <source>reading app configuration</source>
-        <translation type="unfinished">считывание конфиг прилож</translation>
+        <translation type="obsolete">считывание конфиг прилож</translation>
     </message>
     <message>
         <source>writing app configuration</source>
-        <translation type="unfinished">запись конфиг прилож</translation>
+        <translation type="obsolete">запись конфиг прилож</translation>
     </message>
     <message>
         <source>BLDC detection</source>
-        <translation type="unfinished">Определение BLDC</translation>
+        <translation type="obsolete">Определение BLDC</translation>
     </message>
     <message>
         <source>FOC Hall Sensors detection</source>
-        <translation type="unfinished">Определение FOC Hall Sensors</translation>
+        <translation type="obsolete">Определение FOC Hall Sensors</translation>
     </message>
     <message>
         <source>Hall sensor table:</source>
-        <translation type="unfinished">Hall таблица:</translation>
+        <translation type="obsolete">Hall таблица:</translation>
     </message>
     <message>
         <source>Hall sensor detection failed:</source>
-        <translation type="unfinished">Hall определение провалено:</translation>
-    </message>
-    <message>
-        <source>WS2811 enabled. Hall sensors cannot be used.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Encoder enabled. Hall sensors cannot be used.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unknown hall error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Hall определение провалено:</translation>
     </message>
     <message>
         <source>Detection Result Received:</source>
-        <translation type="unfinished">Получены результаты определения:</translation>
-    </message>
-    <message>
-        <source>Integrator limit: %1&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>BEMF Coupling: %1&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Получены результаты определения:</translation>
     </message>
     <message>
         <source>Write configuration?</source>
-        <translation type="unfinished">Записать настройки?</translation>
+        <translation type="obsolete">Записать настройки?</translation>
     </message>
     <message>
         <source>FOC detection R L</source>
-        <translation type="unfinished">FOC определение R L</translation>
+        <translation type="obsolete">FOC определение R L</translation>
     </message>
     <message>
         <source>Bad Detection Result Received.</source>
-        <translation type="unfinished">Определение провалено.</translation>
+        <translation type="obsolete">Определение провалено.</translation>
     </message>
     <message>
         <source>Detection failed.</source>
-        <translation type="unfinished">Определение провалено.</translation>
+        <translation type="obsolete">Определение провалено.</translation>
     </message>
     <message>
         <source>FOC detection λ</source>
-        <translation type="unfinished">FOC определение λ</translation>
+        <translation type="obsolete">FOC определение λ</translation>
     </message>
     <message>
         <source>configuration read OK</source>
-        <translation type="unfinished">конфиг считан ОК</translation>
+        <translation type="obsolete">конфиг считан ОК</translation>
     </message>
     <message>
         <source>configuration write OK</source>
-        <translation type="unfinished">конфиг записан ОК</translation>
+        <translation type="obsolete">конфиг записан ОК</translation>
     </message>
     <message>
         <source>communication FAILED</source>
-        <translation type="unfinished">соединение ПРОВАЛЕНО</translation>
+        <translation type="obsolete">соединение ПРОВАЛЕНО</translation>
     </message>
     <message>
         <source>communication in progress</source>
-        <translation type="unfinished">соединение в процессе</translation>
+        <translation type="obsolete">соединение в процессе</translation>
     </message>
     <message>
         <source>connecting to </source>
-        <translation type="unfinished">соединяюсь с </translation>
+        <translation type="obsolete">соединяюсь с </translation>
     </message>
     <message>
         <source>Save configuration</source>
-        <translation type="unfinished">Сохранить конфиг</translation>
+        <translation type="obsolete">Сохранить конфиг</translation>
     </message>
     <message>
         <source>Load configuration</source>
-        <translation type="unfinished">Загрузить конфиг</translation>
+        <translation type="obsolete">Загрузить конфиг</translation>
     </message>
     <message>
         <source>Detect motor</source>
-        <translation type="unfinished">Определить мотор</translation>
+        <translation type="obsolete">Определить мотор</translation>
     </message>
     <message>
         <source>Detect FOC Hall Sensors</source>
-        <translation type="unfinished">Определить FOC Hall сенсоры</translation>
+        <translation type="obsolete">Определить FOC Hall сенсоры</translation>
     </message>
     <message>
         <source>Read</source>
-        <translation type="unfinished">Считать</translation>
+        <translation type="obsolete">Считать</translation>
     </message>
     <message>
         <source>Write</source>
-        <translation type="unfinished">Записать</translation>
-    </message>
-    <message>
-        <source>BLDC motor detection is not supported for UNITY.</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Записать</translation>
     </message>
     <message>
         <source>Motor detection in this mode is not supported. Please change motor type to BLDC or FOC.</source>
-        <translation type="unfinished">Определение мотора в этом режиме не поддерживается. Измените motor type на BLDC или FOC.</translation>
+        <translation type="obsolete">Определение мотора в этом режиме не поддерживается. Измените motor type на BLDC или FOC.</translation>
     </message>
     <message>
         <source>FOC Hall Sensors detection in this mode is not supported. Please change motor type to FOC.</source>
-        <translation type="unfinished">Определение FOC Hall Sensors в этом режиме не поддерживается. Пожалуйста измените motor type на FOC.</translation>
+        <translation type="obsolete">Определение FOC Hall Sensors в этом режиме не поддерживается. Пожалуйста измените motor type на FOC.</translation>
     </message>
     <message>
         <source>Are you sure you want to run BLDC motor detection with following parameters?</source>
-        <translation type="unfinished">Вы уверены, что хотите запустить BLDC определение со следующими параметрами?</translation>
+        <translation type="obsolete">Вы уверены, что хотите запустить BLDC определение со следующими параметрами?</translation>
     </message>
     <message>
         <source>WARNING: THE MOTOR WILL START SPINNING!</source>
-        <translation type="unfinished">ВНИМАНИЕ: МОТОР НАЧНЕТ ВРАЩАТЬСЯ!</translation>
+        <translation type="obsolete">ВНИМАНИЕ: МОТОР НАЧНЕТ ВРАЩАТЬСЯ!</translation>
     </message>
     <message>
         <source>Current</source>
-        <translation type="unfinished">Ток</translation>
+        <translation type="obsolete">Ток</translation>
     </message>
     <message>
         <source>Current used during BLDC motor detection.</source>
-        <translation type="unfinished">Ток для BLDC определения мотора.</translation>
+        <translation type="obsolete">Ток для BLDC определения мотора.</translation>
     </message>
     <message>
         <source>Low duty</source>
-        <translation type="unfinished">Мин скважность</translation>
+        <translation type="obsolete">Мин скважность</translation>
     </message>
     <message>
         <source>Low duty used during BLDC motor detection.</source>
-        <translation type="unfinished">Мин скважность для BLDC определения.</translation>
+        <translation type="obsolete">Мин скважность для BLDC определения.</translation>
     </message>
     <message>
         <source>Are you sure you want to run FOC Hall Sensors detection with following parameters?</source>
-        <translation type="unfinished">Вы уверены, что хотите запустить FOC Hall Sensors определение со следующими параметрами?</translation>
+        <translation type="obsolete">Вы уверены, что хотите запустить FOC Hall Sensors определение со следующими параметрами?</translation>
     </message>
     <message>
         <source>Hall Sensors Current</source>
-        <translation type="unfinished">Hall Sensors Ток</translation>
+        <translation type="obsolete">Hall Sensors Ток</translation>
     </message>
     <message>
         <source>Current used during FOC Hall Sensors detection.</source>
-        <translation type="unfinished">Ток используемый при FOC Hall Sensors определении.</translation>
+        <translation type="obsolete">Ток используемый при FOC Hall Sensors определении.</translation>
     </message>
     <message>
         <source>Are you sure you want to run FOC motor detection with following parameters?</source>
-        <translation type="unfinished">Вы уверены, что хотите запустить FOC определение со следующими параметрами?</translation>
+        <translation type="obsolete">Вы уверены, что хотите запустить FOC определение со следующими параметрами?</translation>
     </message>
     <message>
         <source>WARNING: THE MOTOR WILL MAKE VERY LOUD NOISE! AFTER THAT THE MOTOR WILL START SPINNING!</source>
-        <translation type="unfinished">ВНИМАНИЕ: МОТОР НАЧНЕТ ИЗДАВАТЬ ГРОМКИЕ ЗВУКИ, А ПОТОМ ВРАЩАТЬСЯ!</translation>
+        <translation type="obsolete">ВНИМАНИЕ: МОТОР НАЧНЕТ ИЗДАВАТЬ ГРОМКИЕ ЗВУКИ, А ПОТОМ ВРАЩАТЬСЯ!</translation>
     </message>
     <message>
         <source>Current used during FOC motor detection.</source>
-        <translation type="unfinished">Ток используемый при FOC определении.</translation>
+        <translation type="obsolete">Ток используемый при FOC определении.</translation>
     </message>
     <message>
         <source>Duty</source>
-        <translation type="unfinished">Скважность</translation>
+        <translation type="obsolete">Скважность</translation>
     </message>
     <message>
         <source>Duty used during FOC motor detection.</source>
-        <translation type="unfinished">Скважность используемая при FOC определении.</translation>
-    </message>
-    <message>
-        <source>TC</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Time constant for KP and KI.</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Скважность используемая при FOC определении.</translation>
     </message>
 </context>
 <context>
@@ -579,19 +570,19 @@
     </message>
     <message>
         <source>DRV8302 #2</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Over Current #2</source>
-        <translation type="unfinished"></translation>
+        <translation>Высокий ток #2</translation>
     </message>
     <message>
         <source>Over Temp FET #2</source>
-        <translation type="unfinished"></translation>
+        <translation>Высокая температура МОП #2</translation>
     </message>
     <message>
         <source>Over Temp Motor #2</source>
-        <translation type="unfinished"></translation>
+        <translation>Высокаяа температура мотора #2</translation>
     </message>
 </context>
 <context>
@@ -1715,19 +1706,19 @@
     </message>
     <message>
         <source>Consumption window</source>
-        <translation type="unfinished"></translation>
+        <translation>Окно потребления</translation>
     </message>
     <message>
         <source>Time in milliseconds for floating window that is used to calculate consumption (wh/km or wh/mi).</source>
-        <translation type="unfinished"></translation>
+        <translation>Время в милисекундах для плавающего окна, которое используется для подстчета потребления (вч/км или вч/ми).</translation>
     </message>
     <message>
         <source>Scale UI</source>
-        <translation type="unfinished"></translation>
+        <translation>Масштабировать интерфейс</translation>
     </message>
     <message>
         <source>Enable scaling user interface. Makes the app look better on bigger screens.</source>
-        <translation type="unfinished"></translation>
+        <translation>Включить масштабирование графического интерфейса. Приложение будет выглядеть лучше на больших экранах.</translation>
     </message>
 </context>
 <context>

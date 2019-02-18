@@ -46,6 +46,33 @@
     </message>
 </context>
 <context>
+    <name>Configurations</name>
+    <message>
+        <source>reading motor configuration</source>
+        <translation type="unfinished">lettura della configurazione del motore</translation>
+    </message>
+    <message>
+        <source>writing motor configuration</source>
+        <translation type="unfinished">scrivere la configurazione del motore</translation>
+    </message>
+    <message>
+        <source>reading app configuration</source>
+        <translation type="unfinished">leggendo la configurazione dell&apos;app</translation>
+    </message>
+    <message>
+        <source>writing app configuration</source>
+        <translation type="unfinished">scrivere la configurazione dell&apos;app</translation>
+    </message>
+    <message>
+        <source>configuration read OK</source>
+        <translation type="unfinished">configurazione leggere OK</translation>
+    </message>
+    <message>
+        <source>configuration write OK</source>
+        <translation type="unfinished">configurazione scrivere OK</translation>
+    </message>
+</context>
+<context>
     <name>Contributions</name>
     <message>
         <source>Thanks to @tueboard (%1) for contributing Spanish translation.</source>
@@ -144,19 +171,19 @@
     </message>
     <message>
         <source>reading motor configuration</source>
-        <translation type="unfinished">lettura della configurazione del motore</translation>
+        <translation type="obsolete">lettura della configurazione del motore</translation>
     </message>
     <message>
         <source>writing motor configuration</source>
-        <translation type="unfinished">scrivere la configurazione del motore</translation>
+        <translation type="obsolete">scrivere la configurazione del motore</translation>
     </message>
     <message>
         <source>reading app configuration</source>
-        <translation type="unfinished">leggendo la configurazione dell&apos;app</translation>
+        <translation type="obsolete">leggendo la configurazione dell&apos;app</translation>
     </message>
     <message>
         <source>writing app configuration</source>
-        <translation type="unfinished">scrivere la configurazione dell&apos;app</translation>
+        <translation type="obsolete">scrivere la configurazione dell&apos;app</translation>
     </message>
     <message>
         <source>BLDC detection</source>
@@ -220,11 +247,11 @@
     </message>
     <message>
         <source>configuration read OK</source>
-        <translation type="unfinished">configurazione leggere OK</translation>
+        <translation type="obsolete">configurazione leggere OK</translation>
     </message>
     <message>
         <source>configuration write OK</source>
-        <translation type="unfinished">configurazione scrivere OK</translation>
+        <translation type="obsolete">configurazione scrivere OK</translation>
     </message>
     <message>
         <source>communication FAILED</source>
@@ -343,207 +370,91 @@
     <name>ExpertTabDelegate</name>
     <message>
         <source>no device connected</source>
-        <translation type="unfinished">nessun dispositivo collegato</translation>
-    </message>
-    <message>
-        <source>This VESC FW is not supported yet. Check log for details.</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">nessun dispositivo collegato</translation>
     </message>
     <message>
         <source>reading motor configuration</source>
-        <translation type="unfinished">lettura della configurazione del motore</translation>
+        <translation type="obsolete">lettura della configurazione del motore</translation>
     </message>
     <message>
         <source>writing motor configuration</source>
-        <translation type="unfinished">scrivere la configurazione del motore</translation>
+        <translation type="obsolete">scrivere la configurazione del motore</translation>
     </message>
     <message>
         <source>reading app configuration</source>
-        <translation type="unfinished">leggendo la configurazione dell&apos;app</translation>
+        <translation type="obsolete">leggendo la configurazione dell&apos;app</translation>
     </message>
     <message>
         <source>writing app configuration</source>
-        <translation type="unfinished">scrivere la configurazione dell&apos;app</translation>
+        <translation type="obsolete">scrivere la configurazione dell&apos;app</translation>
     </message>
     <message>
         <source>BLDC detection</source>
-        <translation type="unfinished">Rilevamento BLDC</translation>
+        <translation type="obsolete">Rilevamento BLDC</translation>
     </message>
     <message>
         <source>FOC Hall Sensors detection</source>
-        <translation type="unfinished">Rilevazione sensori di Hall FOC</translation>
-    </message>
-    <message>
-        <source>Hall sensor table:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hall sensor detection failed:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WS2811 enabled. Hall sensors cannot be used.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Encoder enabled. Hall sensors cannot be used.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unknown hall error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Rilevazione sensori di Hall FOC</translation>
     </message>
     <message>
         <source>Detection Result Received:</source>
-        <translation type="unfinished">Risultato di rilevamento ricevuto:</translation>
-    </message>
-    <message>
-        <source>Integrator limit: %1&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>BEMF Coupling: %1&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Write configuration?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>FOC detection R L</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Risultato di rilevamento ricevuto:</translation>
     </message>
     <message>
         <source>Bad Detection Result Received.</source>
-        <translation type="unfinished">Risultato di rilevamento errato ricevuto.</translation>
-    </message>
-    <message>
-        <source>Detection failed.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>FOC detection λ</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Risultato di rilevamento errato ricevuto.</translation>
     </message>
     <message>
         <source>configuration read OK</source>
-        <translation type="unfinished">configurazione leggere OK</translation>
+        <translation type="obsolete">configurazione leggere OK</translation>
     </message>
     <message>
         <source>configuration write OK</source>
-        <translation type="unfinished">configurazione scrivere OK</translation>
+        <translation type="obsolete">configurazione scrivere OK</translation>
     </message>
     <message>
         <source>communication FAILED</source>
-        <translation type="unfinished">comunicazione NON RIUSCITA</translation>
+        <translation type="obsolete">comunicazione NON RIUSCITA</translation>
     </message>
     <message>
         <source>communication in progress</source>
-        <translation type="unfinished">comunicazione in corso</translation>
+        <translation type="obsolete">comunicazione in corso</translation>
     </message>
     <message>
         <source>connecting to </source>
-        <translation type="unfinished">collegamento a </translation>
+        <translation type="obsolete">collegamento a </translation>
     </message>
     <message>
         <source>Save configuration</source>
-        <translation type="unfinished">Salva configurazione</translation>
+        <translation type="obsolete">Salva configurazione</translation>
     </message>
     <message>
         <source>Load configuration</source>
-        <translation type="unfinished">Carica configurazione</translation>
+        <translation type="obsolete">Carica configurazione</translation>
     </message>
     <message>
         <source>Detect motor</source>
-        <translation type="unfinished">Rileva il motore</translation>
+        <translation type="obsolete">Rileva il motore</translation>
     </message>
     <message>
         <source>Detect FOC Hall Sensors</source>
-        <translation type="unfinished">Rileva i sensori di Hall FOC</translation>
+        <translation type="obsolete">Rileva i sensori di Hall FOC</translation>
     </message>
     <message>
         <source>Read</source>
-        <translation type="unfinished">Leggere</translation>
-    </message>
-    <message>
-        <source>Write</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>BLDC motor detection is not supported for UNITY.</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Leggere</translation>
     </message>
     <message>
         <source>Motor detection in this mode is not supported. Please change motor type to BLDC or FOC.</source>
-        <translation type="unfinished">Il rilevamento del motore in questa modalità non è supportato. Si prega di cambiare il tipo di motore in BLDC o FOC.</translation>
+        <translation type="obsolete">Il rilevamento del motore in questa modalità non è supportato. Si prega di cambiare il tipo di motore in BLDC o FOC.</translation>
     </message>
     <message>
         <source>FOC Hall Sensors detection in this mode is not supported. Please change motor type to FOC.</source>
-        <translation type="unfinished">Il rilevamento dei sensori di Hall FOC in questa modalità non è supportato. Si prega di cambiare il tipo di motore in FOC.</translation>
-    </message>
-    <message>
-        <source>Are you sure you want to run BLDC motor detection with following parameters?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WARNING: THE MOTOR WILL START SPINNING!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Current</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Current used during BLDC motor detection.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Low duty</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Low duty used during BLDC motor detection.</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Il rilevamento dei sensori di Hall FOC in questa modalità non è supportato. Si prega di cambiare il tipo di motore in FOC.</translation>
     </message>
     <message>
         <source>Are you sure you want to run FOC Hall Sensors detection with following parameters?</source>
-        <translation type="unfinished">Sei sicuro di voler eseguire il rilevamento dei sensori di Hall FOC con i seguenti parametri?</translation>
-    </message>
-    <message>
-        <source>Hall Sensors Current</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Current used during FOC Hall Sensors detection.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure you want to run FOC motor detection with following parameters?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WARNING: THE MOTOR WILL MAKE VERY LOUD NOISE! AFTER THAT THE MOTOR WILL START SPINNING!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Current used during FOC motor detection.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Duty</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Duty used during FOC motor detection.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>TC</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Time constant for KP and KI.</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Sei sicuro di voler eseguire il rilevamento dei sensori di Hall FOC con i seguenti parametri?</translation>
     </message>
 </context>
 <context>
