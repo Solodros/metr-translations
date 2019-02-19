@@ -91,13 +91,12 @@
         <translation>Спасибо Lorenzo (%1) за перевод на итальянский.</translation>
     </message>
     <message>
-        <source>Thanks to @Pedrodemio for contributing Portuguese translation.</source>
-        <translatorcomment>Спасибо @Pedrodemio за перевод на португальский.</translatorcomment>
-        <translation></translation>
-    </message>
-    <message>
         <source>Thanks to @oyta for contributing Norwegian translations.</source>
         <translation>Спасибо @oyta за перевод на норвежский.</translation>
+    </message>
+    <message>
+        <source>Thanks to @Pedrodemio for contributing Portuguese translation.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -203,14 +202,6 @@
         <translation>Hall определение провалено:</translation>
     </message>
     <message>
-        <source>WS2811 enabled. Hall sensors cannot be used.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Encoder enabled. Hall sensors cannot be used.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Unknown hall error: %1</source>
         <translation>Неизвестная ошибка hall %1</translation>
     </message>
@@ -219,16 +210,8 @@
         <translation>Получены результаты определения:</translation>
     </message>
     <message>
-        <source>Integrator limit: %1&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>BEMF Coupling: %1&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Write configuration?</source>
-        <translation>Записать настройки?</translation>
+        <translation type="vanished">Записать настройки?</translation>
     </message>
     <message>
         <source>FOC detection R L</source>
@@ -357,6 +340,26 @@
     <message>
         <source>Duty used during FOC motor detection.</source>
         <translation>Скважность используемая при FOC определении.</translation>
+    </message>
+    <message>
+        <source>WS2811 enabled. Hall sensors cannot be used.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encoder enabled. Hall sensors cannot be used.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Integrator limit: %1&lt;br&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>BEMF Coupling: %1&lt;br&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply configuration?</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>TC</source>
@@ -549,10 +552,6 @@
         <translation>Высокое напряжение</translation>
     </message>
     <message>
-        <source>DRV8302</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Over Current</source>
         <translation>Высокий ток</translation>
     </message>
@@ -569,10 +568,6 @@
         <translation>Неизвестная ошибка</translation>
     </message>
     <message>
-        <source>DRV8302 #2</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Over Current #2</source>
         <translation>Высокий ток #2</translation>
     </message>
@@ -583,6 +578,14 @@
     <message>
         <source>Over Temp Motor #2</source>
         <translation>Высокаяа температура мотора #2</translation>
+    </message>
+    <message>
+        <source>DRV8302</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DRV8302 #2</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -885,6 +888,43 @@
     </message>
 </context>
 <context>
+    <name>QuaGzipFile</name>
+    <message>
+        <source>QIODevice::Append is not supported for GZIP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Opening gzip for both reading and writing is not supported</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can open a gzip either for reading or for writing. Which is it?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not gzopen() file</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QuaZIODevice</name>
+    <message>
+        <source>QIODevice::Append is not supported for QuaZIODevice</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>QIODevice::ReadWrite is not supported for QuaZIODevice</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QuaZipFile</name>
+    <message>
+        <source>ZIP/UNZIP API error %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>RealtimeTab</name>
     <message>
         <source>Ah</source>
@@ -1147,14 +1187,6 @@
     <message>
         <source>mph</source>
         <translation>ми/ч</translation>
-    </message>
-    <message>
-        <source>℃</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>℉</source>
-        <translation></translation>
     </message>
     <message>
         <source>km</source>
@@ -1473,14 +1505,6 @@
         <translation>Не выключать экран когда передатчик присоединен и текущая вкладка &quot;Сейчас&quot;.</translation>
     </message>
     <message>
-        <source>Android Wear</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Apple Watch</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Send Realtime Data to your watch.</source>
         <translation>Отправлять данные на часы.</translation>
     </message>
@@ -1499,10 +1523,6 @@
     <message>
         <source>If you have dual ESCs connected via CAN bus and Metr Pro module you can enable this setting to show separate amps and temperatures for each ESC.</source>
         <translation>Если у вас два ESC соединены через CAN и Metr Pro модуль, можете включить эту опцию для одновременного показа параметров для каждого ESC.</translation>
-    </message>
-    <message>
-        <source>CAN Fwd</source>
-        <translation></translation>
     </message>
     <message>
         <source>If you have multiple ESCs connected via CAN bus, you can enable this setting and specify ID of the ESC to communicate with.</source>
@@ -1537,10 +1557,6 @@
         <translation>Всего</translation>
     </message>
     <message>
-        <source>CAN Id</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Hide Footer</source>
         <translation>Спрятать низ</translation>
     </message>
@@ -1559,10 +1575,6 @@
     <message>
         <source>Li-Ion</source>
         <translation>Ли-Ион</translation>
-    </message>
-    <message>
-        <source>ANR26650</source>
-        <translation></translation>
     </message>
     <message>
         <source>Voltage S</source>
@@ -1595,10 +1607,6 @@
     <message>
         <source>Top Speed</source>
         <translation>Макс скорость</translation>
-    </message>
-    <message>
-        <source>DieBieMS</source>
-        <translation></translation>
     </message>
     <message>
         <source>Auto Show</source>
@@ -1732,6 +1740,38 @@
         <source>Use with untested firmware versions. Very dangerous! Might brick your ESC!</source>
         <translation>Использовать с неподдерживаемыми версиями прошивки. Очень опасно! Может закирпичить ваш ESC!</translation>
     </message>
+    <message>
+        <source>℃</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>℉</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Android Wear</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apple Watch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CAN Fwd</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CAN Id</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ANR26650</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DieBieMS</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>TCPBridge</name>
@@ -1801,25 +1841,25 @@
     <name>VDialogClose</name>
     <message>
         <source>Close</source>
-        <translation type="vanished">Закрыть</translation>
+        <translation>Закрыть</translation>
     </message>
 </context>
 <context>
     <name>VDialogYesNo</name>
     <message>
         <source>Yes</source>
-        <translation type="vanished">Да</translation>
+        <translation>Да</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="vanished">Нет</translation>
+        <translation>Нет</translation>
     </message>
 </context>
 <context>
     <name>VSwipeDelegate</name>
     <message>
         <source>Remove</source>
-        <translation type="vanished">Удалить</translation>
+        <translation>Удалить</translation>
     </message>
 </context>
 <context>

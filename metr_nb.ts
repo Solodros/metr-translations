@@ -158,10 +158,6 @@
         <translation type="unfinished">ingen dings er tilkoblet</translation>
     </message>
     <message>
-        <source>This VESC FW is not supported yet. Check log for details.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>reading motor configuration</source>
         <translation type="obsolete">leser konfigurasjonsdata for motor</translation>
     </message>
@@ -219,7 +215,7 @@
     </message>
     <message>
         <source>Write configuration?</source>
-        <translation type="unfinished">Lagre konfigurasjonsdata?</translation>
+        <translation type="obsolete">Lagre konfigurasjonsdata?</translation>
     </message>
     <message>
         <source>FOC detection R L</source>
@@ -280,10 +276,6 @@
     <message>
         <source>Write</source>
         <translation type="unfinished">Lagre</translation>
-    </message>
-    <message>
-        <source>BLDC motor detection is not supported for UNITY.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Motor detection in this mode is not supported. Please change motor type to BLDC or FOC.</source>
@@ -356,6 +348,18 @@
     <message>
         <source>Time constant for KP and KI.</source>
         <translation type="unfinished">Tidskonstant for KP og KI.</translation>
+    </message>
+    <message>
+        <source>This VESC FW is not supported yet. Check log for details.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply configuration?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>BLDC motor detection is not supported for UNITY.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -931,6 +935,43 @@
     <message>
         <source>Are you sure you want to run FOC Hall Sensors detection with following parameters?</source>
         <translation type="vanished">Er du sikker på at du vil kjøre deteksjon av FOC Hall-sensor med disse parameterene?</translation>
+    </message>
+</context>
+<context>
+    <name>QuaGzipFile</name>
+    <message>
+        <source>QIODevice::Append is not supported for GZIP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Opening gzip for both reading and writing is not supported</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can open a gzip either for reading or for writing. Which is it?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not gzopen() file</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QuaZIODevice</name>
+    <message>
+        <source>QIODevice::Append is not supported for QuaZIODevice</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>QIODevice::ReadWrite is not supported for QuaZIODevice</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QuaZipFile</name>
+    <message>
+        <source>ZIP/UNZIP API error %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1650,6 +1691,38 @@
         <translation type="unfinished">strøm</translation>
     </message>
     <message>
+        <source>Realtime</source>
+        <translation>Sanntid</translation>
+    </message>
+    <message>
+        <source>Modes</source>
+        <translation>Moduser</translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation>Innstillinger</translation>
+    </message>
+    <message>
+        <source>amp hours</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>watt hours</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>per kilometer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>per mile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Magic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>battery</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1659,6 +1732,22 @@
     </message>
     <message>
         <source>Disable Battery Optimizations in Android 6+. If the app dies in the background, try disabling or enabling this value.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scale UI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable scaling user interface. Makes the app look better on bigger screens.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Untested Firmware</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use with untested firmware versions. Very dangerous! Might brick your ESC!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1674,24 +1763,12 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Realtime</source>
-        <translation>Sanntid</translation>
-    </message>
-    <message>
-        <source>Modes</source>
-        <translation>Moduser</translation>
-    </message>
-    <message>
         <source>Announce</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Expert</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Settings</source>
-        <translation>Innstillinger</translation>
     </message>
     <message>
         <source>Enabled</source>
@@ -1738,47 +1815,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>amp hours</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>watt hours</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>per kilometer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>per mile</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Consumption window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Time in milliseconds for floating window that is used to calculate consumption (wh/km or wh/mi).</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Scale UI</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable scaling user interface. Makes the app look better on bigger screens.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Magic</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Untested Firmware</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use with untested firmware versions. Very dangerous! Might brick your ESC!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1850,25 +1891,25 @@
     <name>VDialogClose</name>
     <message>
         <source>Close</source>
-        <translation type="vanished">Lukk</translation>
+        <translation>Lukk</translation>
     </message>
 </context>
 <context>
     <name>VDialogYesNo</name>
     <message>
         <source>Yes</source>
-        <translation type="vanished">Ja</translation>
+        <translation>Ja</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="vanished">Nei</translation>
+        <translation>Nei</translation>
     </message>
 </context>
 <context>
     <name>VSwipeDelegate</name>
     <message>
         <source>Remove</source>
-        <translation type="vanished">Fjern</translation>
+        <translation>Fjern</translation>
     </message>
 </context>
 <context>

@@ -166,10 +166,6 @@
         <translation type="unfinished">aucun périphérique connecté</translation>
     </message>
     <message>
-        <source>This VESC FW is not supported yet. Check log for details.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>reading motor configuration</source>
         <translation type="obsolete">Lecture de la configuration moteur</translation>
     </message>
@@ -227,7 +223,7 @@
     </message>
     <message>
         <source>Write configuration?</source>
-        <translation type="unfinished">Écrire la configuration ?</translation>
+        <translation type="obsolete">Écrire la configuration ?</translation>
     </message>
     <message>
         <source>FOC detection R L</source>
@@ -282,16 +278,8 @@
         <translation type="unfinished">Détection des capteurs Hall en FOC</translation>
     </message>
     <message>
-        <source>Read</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Write</source>
         <translation type="unfinished">Écriture</translation>
-    </message>
-    <message>
-        <source>BLDC motor detection is not supported for UNITY.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Motor detection in this mode is not supported. Please change motor type to BLDC or FOC.</source>
@@ -364,6 +352,22 @@
     <message>
         <source>Time constant for KP and KI.</source>
         <translation type="unfinished">Constante de temps pour KP et KI.</translation>
+    </message>
+    <message>
+        <source>This VESC FW is not supported yet. Check log for details.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply configuration?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>BLDC motor detection is not supported for UNITY.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -936,6 +940,43 @@
     </message>
 </context>
 <context>
+    <name>QuaGzipFile</name>
+    <message>
+        <source>QIODevice::Append is not supported for GZIP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Opening gzip for both reading and writing is not supported</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can open a gzip either for reading or for writing. Which is it?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not gzopen() file</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QuaZIODevice</name>
+    <message>
+        <source>QIODevice::Append is not supported for QuaZIODevice</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>QIODevice::ReadWrite is not supported for QuaZIODevice</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QuaZipFile</name>
+    <message>
+        <source>ZIP/UNZIP API error %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>RealtimeTab</name>
     <message>
         <source>Ah</source>
@@ -970,16 +1011,16 @@
         <translation>Rapport cyclique</translation>
     </message>
     <message>
-        <source>cell voltage</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Reset layout</source>
         <translation>Réinitialiser la disposition</translation>
     </message>
     <message>
         <source>Exit layout mode</source>
         <translation>Quitter le mode de disposition</translation>
+    </message>
+    <message>
+        <source>cell voltage</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1316,14 +1357,6 @@
         <translation>tachomètre</translation>
     </message>
     <message>
-        <source>altitude</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>distance</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>voltage</source>
         <translation>tension</translation>
     </message>
@@ -1488,14 +1521,6 @@
         <translation>Temps en millisecondes entre les requêtes vers l&apos;émetteur bluetooth. La valeur recommandée est 300. Les valeur plus basses peuvent provoquer des problèmes de communication.</translation>
     </message>
     <message>
-        <source>Point interval</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Minimum time in milliseconds between recorded points. Data that comes earlier is discarded. Recommended value is 160. Set to 0 for maximum record detail, but at this rate with Metr Pro module the records will be limited to approximately 45 minutes due to high memory usage.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Grid step</source>
         <translation>Pas de la grille</translation>
     </message>
@@ -1518,14 +1543,6 @@
     <message>
         <source>Keep screen always on when transmitter is connected and Realtime Tab is active.</source>
         <translation>Garde l&apos;écran allumé lorsque le module est connecté et que la Realtime Tab est active.</translation>
-    </message>
-    <message>
-        <source>Android Wear</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Apple Watch</source>
-        <translation></translation>
     </message>
     <message>
         <source>Send Realtime Data to your watch.</source>
@@ -1568,14 +1585,6 @@
         <translation>Affiche constamment les infos de débuggage en superposition.</translation>
     </message>
     <message>
-        <source>Custom</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cell voltage at %1%</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Today</source>
         <translation>Aujourd&apos;hui</translation>
     </message>
@@ -1612,10 +1621,6 @@
         <translation>Li-Ion</translation>
     </message>
     <message>
-        <source>ANR26650</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Voltage S</source>
         <translation>Tension S</translation>
     </message>
@@ -1648,26 +1653,6 @@
         <translation>Vitesse maximale</translation>
     </message>
     <message>
-        <source>DieBieMS</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Auto Show</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Automatically show and hide DieBieMS cell information on the Realtime Tab when the charger is plugged in and out.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disable Battery Optimizations</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disable Battery Optimizations in Android 6+. If the app dies in the background, try disabling or enabling this value.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>current</source>
         <translation>Intensité</translation>
     </message>
@@ -1680,16 +1665,112 @@
         <translation>Modes</translation>
     </message>
     <message>
+        <source>Settings</source>
+        <translation type="unfinished">Paramètres</translation>
+    </message>
+    <message>
+        <source>altitude</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>distance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>amp hours</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>watt hours</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>per kilometer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>per mile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Magic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>battery</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point interval</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minimum time in milliseconds between recorded points. Data that comes earlier is discarded. Recommended value is 160. Set to 0 for maximum record detail, but at this rate with Metr Pro module the records will be limited to approximately 45 minutes due to high memory usage.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable Battery Optimizations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable Battery Optimizations in Android 6+. If the app dies in the background, try disabling or enabling this value.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Android Wear</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apple Watch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scale UI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable scaling user interface. Makes the app look better on bigger screens.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Untested Firmware</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use with untested firmware versions. Very dangerous! Might brick your ESC!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ANR26650</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DieBieMS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto Show</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically show and hide DieBieMS cell information on the Realtime Tab when the charger is plugged in and out.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cell voltage at %1%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Announce</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Expert</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Settings</source>
-        <translation type="unfinished">Paramètres</translation>
     </message>
     <message>
         <source>Enabled</source>
@@ -1709,10 +1790,6 @@
     </message>
     <message>
         <source>Very fast</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>battery</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1740,47 +1817,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>amp hours</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>watt hours</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>per kilometer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>per mile</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Consumption window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Time in milliseconds for floating window that is used to calculate consumption (wh/km or wh/mi).</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Scale UI</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable scaling user interface. Makes the app look better on bigger screens.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Magic</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Untested Firmware</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use with untested firmware versions. Very dangerous! Might brick your ESC!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1852,25 +1893,25 @@
     <name>VDialogClose</name>
     <message>
         <source>Close</source>
-        <translation type="vanished">Fermer</translation>
+        <translation>Fermer</translation>
     </message>
 </context>
 <context>
     <name>VDialogYesNo</name>
     <message>
         <source>Yes</source>
-        <translation type="vanished">Oui</translation>
+        <translation>Oui</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="vanished">Non</translation>
+        <translation>Non</translation>
     </message>
 </context>
 <context>
     <name>VSwipeDelegate</name>
     <message>
         <source>Remove</source>
-        <translation type="vanished">Supprimer</translation>
+        <translation>Supprimer</translation>
     </message>
 </context>
 <context>

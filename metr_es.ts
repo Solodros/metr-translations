@@ -121,16 +121,16 @@
         <translation>Saltando al bootloader</translation>
     </message>
     <message>
-        <source>Error: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Update completed!</source>
         <translation>¡Actualización completada!</translation>
     </message>
     <message>
         <source>Uploading to %1</source>
         <translation>Subiendo a %1</translation>
+    </message>
+    <message>
+        <source>Error: %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -166,10 +166,6 @@
         <translation type="unfinished">ningún dispositivo conectado</translation>
     </message>
     <message>
-        <source>This VESC FW is not supported yet. Check log for details.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>reading motor configuration</source>
         <translation type="obsolete">lectura de la configuración del motor</translation>
     </message>
@@ -194,40 +190,12 @@
         <translation type="unfinished">Detección de Sensores FOC Hall</translation>
     </message>
     <message>
-        <source>Hall sensor table:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hall sensor detection failed:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WS2811 enabled. Hall sensors cannot be used.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Encoder enabled. Hall sensors cannot be used.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unknown hall error: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Detection Result Received:</source>
         <translation type="unfinished">Resultado de detección recibido:</translation>
     </message>
     <message>
-        <source>Integrator limit: %1&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>BEMF Coupling: %1&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Write configuration?</source>
-        <translation type="unfinished">Escribir configuración?</translation>
+        <translation type="obsolete">Escribir configuración?</translation>
     </message>
     <message>
         <source>FOC detection R L</source>
@@ -290,10 +258,6 @@
         <translation type="unfinished">Escribir</translation>
     </message>
     <message>
-        <source>BLDC motor detection is not supported for UNITY.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Motor detection in this mode is not supported. Please change motor type to BLDC or FOC.</source>
         <translation type="unfinished">La detección del motor en este modo no es compatible. Por favor cambie el tipo de motor a BLDC o FOC.</translation>
     </message>
@@ -316,10 +280,6 @@
     <message>
         <source>Current used during BLDC motor detection.</source>
         <translation type="unfinished">Corriente utilizada durante la detección del motor BLDC.</translation>
-    </message>
-    <message>
-        <source>Low duty</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Low duty used during BLDC motor detection.</source>
@@ -350,12 +310,56 @@
         <translation type="unfinished">Corriente utilizada durante la detección del motor FOC.</translation>
     </message>
     <message>
-        <source>Duty</source>
+        <source>Duty used during FOC motor detection.</source>
+        <translation type="unfinished">Deber utilizado durante la detección del motor FOC.</translation>
+    </message>
+    <message>
+        <source>This VESC FW is not supported yet. Check log for details.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Duty used during FOC motor detection.</source>
-        <translation type="unfinished">Deber utilizado durante la detección del motor FOC.</translation>
+        <source>Hall sensor table:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hall sensor detection failed:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WS2811 enabled. Hall sensors cannot be used.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encoder enabled. Hall sensors cannot be used.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unknown hall error: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Integrator limit: %1&lt;br&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>BEMF Coupling: %1&lt;br&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply configuration?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>BLDC motor detection is not supported for UNITY.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Low duty</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Duty</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>TC</source>
@@ -848,6 +852,43 @@
     </message>
 </context>
 <context>
+    <name>QuaGzipFile</name>
+    <message>
+        <source>QIODevice::Append is not supported for GZIP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Opening gzip for both reading and writing is not supported</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can open a gzip either for reading or for writing. Which is it?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not gzopen() file</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QuaZIODevice</name>
+    <message>
+        <source>QIODevice::Append is not supported for QuaZIODevice</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>QIODevice::ReadWrite is not supported for QuaZIODevice</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QuaZipFile</name>
+    <message>
+        <source>ZIP/UNZIP API error %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>RealtimeTab</name>
     <message>
         <source>Ah</source>
@@ -882,16 +923,16 @@
         <translation>ciclos de trabajo</translation>
     </message>
     <message>
-        <source>cell voltage</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Reset layout</source>
         <translation>Reiniciar edición</translation>
     </message>
     <message>
         <source>Exit layout mode</source>
         <translation>Salir del modo edición</translation>
+    </message>
+    <message>
+        <source>cell voltage</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1031,10 +1072,6 @@
         <translation>Reiniciar la configuración de la aplicación. Esto no borra tus rutas. Para completar el reinicio tienes que cerrar la apliación.</translation>
     </message>
     <message>
-        <source>Terminal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Open terminal and send text commands to ESC, for example &apos;faults&apos; or &apos;ping&apos;.</source>
         <translation>Abra el terminal y envíe comandos de texto a ESC, por ejemplo &apos;faults&apos; o &apos;ping&apos;.</translation>
     </message>
@@ -1049,6 +1086,10 @@
     <message>
         <source>version</source>
         <translation>versión</translation>
+    </message>
+    <message>
+        <source>Terminal</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1106,10 +1147,6 @@
     <message>
         <source>km/h</source>
         <translation>km/h</translation>
-    </message>
-    <message>
-        <source>mph</source>
-        <translation></translation>
     </message>
     <message>
         <source>℃</source>
@@ -1372,10 +1409,6 @@
         <translation>Temperatura</translation>
     </message>
     <message>
-        <source>Fahrenheit</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Language</source>
         <translation>Idioma</translation>
     </message>
@@ -1398,14 +1431,6 @@
     <message>
         <source>Time in milliseconds between requests towards bluetooth transmitter. Recommended value is 300. Lower values might result in communication problems.</source>
         <translation>Tiempo en milisegundos entre las peticiones hacia el transmisor bluetooth. El valor recomendado es 300. Valores más bajos pueden provocar problemas de comunicación.</translation>
-    </message>
-    <message>
-        <source>Point interval</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Minimum time in milliseconds between recorded points. Data that comes earlier is discarded. Recommended value is 160. Set to 0 for maximum record detail, but at this rate with Metr Pro module the records will be limited to approximately 45 minutes due to high memory usage.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Grid step</source>
@@ -1472,22 +1497,6 @@
         <translation>Si CAN Fwd está habilitado, especifique el ID del ESC con el que comunicarse.</translation>
     </message>
     <message>
-        <source>Developer Mode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show debug information on top all the time</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cell voltage at %1%</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Today</source>
         <translation>Hoy</translation>
     </message>
@@ -1498,10 +1507,6 @@
     <message>
         <source>CAN Id</source>
         <translation>Identificador CAN</translation>
-    </message>
-    <message>
-        <source>Celsius</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hide Footer</source>
@@ -1560,26 +1565,6 @@
         <translation>Velocidad Máxima</translation>
     </message>
     <message>
-        <source>DieBieMS</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Auto Show</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Automatically show and hide DieBieMS cell information on the Realtime Tab when the charger is plugged in and out.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disable Battery Optimizations</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disable Battery Optimizations in Android 6+. If the app dies in the background, try disabling or enabling this value.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>current</source>
         <translation>corriente</translation>
     </message>
@@ -1592,16 +1577,112 @@
         <translation>Modos</translation>
     </message>
     <message>
+        <source>Settings</source>
+        <translation>Opciones</translation>
+    </message>
+    <message>
+        <source>mph</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>amp hours</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>watt hours</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>per kilometer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>per mile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Magic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>battery</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Celsius</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fahrenheit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point interval</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minimum time in milliseconds between recorded points. Data that comes earlier is discarded. Recommended value is 160. Set to 0 for maximum record detail, but at this rate with Metr Pro module the records will be limited to approximately 45 minutes due to high memory usage.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable Battery Optimizations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable Battery Optimizations in Android 6+. If the app dies in the background, try disabling or enabling this value.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scale UI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable scaling user interface. Makes the app look better on bigger screens.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Developer Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show debug information on top all the time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Untested Firmware</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use with untested firmware versions. Very dangerous! Might brick your ESC!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DieBieMS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto Show</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically show and hide DieBieMS cell information on the Realtime Tab when the charger is plugged in and out.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cell voltage at %1%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Announce</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Expert</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Settings</source>
-        <translation>Opciones</translation>
     </message>
     <message>
         <source>Enabled</source>
@@ -1621,10 +1702,6 @@
     </message>
     <message>
         <source>Very fast</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>battery</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1652,47 +1729,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>amp hours</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>watt hours</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>per kilometer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>per mile</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Consumption window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Time in milliseconds for floating window that is used to calculate consumption (wh/km or wh/mi).</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Scale UI</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable scaling user interface. Makes the app look better on bigger screens.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Magic</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Untested Firmware</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use with untested firmware versions. Very dangerous! Might brick your ESC!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1703,12 +1744,12 @@
         <translation>Servidor TCP</translation>
     </message>
     <message>
-        <source>Port</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>waiting for connection</source>
         <translation>esperando la conexión</translation>
+    </message>
+    <message>
+        <source>Port</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Peer</source>
@@ -1764,25 +1805,25 @@
     <name>VDialogClose</name>
     <message>
         <source>Close</source>
-        <translation type="vanished">Volver</translation>
+        <translation>Volver</translation>
     </message>
 </context>
 <context>
     <name>VDialogYesNo</name>
     <message>
         <source>Yes</source>
-        <translation type="vanished">Sí</translation>
+        <translation>Sí</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="vanished">No</translation>
+        <translation>No</translation>
     </message>
 </context>
 <context>
     <name>VSwipeDelegate</name>
     <message>
         <source>Remove</source>
-        <translation type="vanished">Borrar</translation>
+        <translation>Borrar</translation>
     </message>
 </context>
 <context>
@@ -1790,10 +1831,6 @@
     <message>
         <source>Downloading new firmware</source>
         <translation>Descargar nuevo firmware</translation>
-    </message>
-    <message>
-        <source>Error: %1</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>You have more than 2 VESCs connected via CAN. Seamless firmware update is not possible.</source>
@@ -1812,12 +1849,16 @@
         <translation>¡Falló la verificación CRC16!</translation>
     </message>
     <message>
-        <source>Flashing</source>
+        <source>Firmware uploaded. Installing</source>
+        <translation>Firmware subido Instalación</translation>
+    </message>
+    <message>
+        <source>Error: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Firmware uploaded. Installing</source>
-        <translation>Firmware subido Instalación</translation>
+        <source>Flashing</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

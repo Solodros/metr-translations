@@ -102,12 +102,12 @@
 <context>
     <name>DeviceSettingsView</name>
     <message>
-        <source>Alias</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>User friendly name that is associated with the module. You can change it to your liking.</source>
         <translation>Benutzerfreundlicher Name, der dem Modul zugeordnet ist. Sie können ihn nach Ihren Wünschen anpassen.</translation>
+    </message>
+    <message>
+        <source>Alias</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -162,12 +162,20 @@
 <context>
     <name>ExpertTab</name>
     <message>
-        <source>no device connected</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>This VESC FW is not supported yet. Check log for details.</source>
         <translation>Diese VESC Software wird momentan noch nicht unterstützt. Lesen Sie im Log für genauere Details.</translation>
+    </message>
+    <message>
+        <source>Read</source>
+        <translation>Lesen</translation>
+    </message>
+    <message>
+        <source>Write</source>
+        <translation>Schreiben</translation>
+    </message>
+    <message>
+        <source>no device connected</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>BLDC detection</source>
@@ -210,7 +218,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Write configuration?</source>
+        <source>Apply configuration?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -256,14 +264,6 @@
     <message>
         <source>Detect FOC Hall Sensors</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Read</source>
-        <translation>Lesen</translation>
-    </message>
-    <message>
-        <source>Write</source>
-        <translation>Schreiben</translation>
     </message>
     <message>
         <source>BLDC motor detection is not supported for UNITY.</source>
@@ -360,6 +360,10 @@
 <context>
     <name>Global</name>
     <message>
+        <source>Unknown error</source>
+        <translation>Unbekannter Fehler</translation>
+    </message>
+    <message>
         <source>Over Voltage</source>
         <translation type="unfinished"></translation>
     </message>
@@ -382,10 +386,6 @@
     <message>
         <source>Over Temp Motor</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unknown error</source>
-        <translation>Unbekannter Fehler</translation>
     </message>
     <message>
         <source>DRV8302 #2</source>
@@ -493,10 +493,6 @@
         <translation>Wischen Sie nach rechts um den Modus anzuwenden. Wischen Sie nach Links um Optionen anzuzeigen. Klicken Sie um Grenzwerte anzupassen.</translation>
     </message>
     <message>
-        <source>Clear Startup Mode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Connection is offline.</source>
         <translation>Die Verbindung ist offline.</translation>
     </message>
@@ -515,6 +511,10 @@
     <message>
         <source>To add new modes, click on the plus.</source>
         <translation>Um neue Modi hinzuzufügen, klicken Sie auf das Pluszeichen.</translation>
+    </message>
+    <message>
+        <source>Clear Startup Mode</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -541,6 +541,43 @@
     <message>
         <source>This VESC FW is not supported yet. Check log for details.</source>
         <translation type="obsolete">Diese VESC Software wird momentan noch nicht unterstützt. Lesen Sie im Log für genauere Details.</translation>
+    </message>
+</context>
+<context>
+    <name>QuaGzipFile</name>
+    <message>
+        <source>QIODevice::Append is not supported for GZIP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Opening gzip for both reading and writing is not supported</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can open a gzip either for reading or for writing. Which is it?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not gzopen() file</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QuaZIODevice</name>
+    <message>
+        <source>QIODevice::Append is not supported for QuaZIODevice</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>QIODevice::ReadWrite is not supported for QuaZIODevice</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QuaZipFile</name>
+    <message>
+        <source>ZIP/UNZIP API error %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -739,12 +776,12 @@
         <translation>Mitwirkende</translation>
     </message>
     <message>
-        <source>Legal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>version</source>
         <translation>Version</translation>
+    </message>
+    <message>
+        <source>Legal</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -918,10 +955,6 @@
     <message>
         <source>Remove</source>
         <translation>Entfernen</translation>
-    </message>
-    <message>
-        <source>tacho</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>altitude</source>
@@ -1128,14 +1161,6 @@
         <translation>Lasse den Bildschirm immer an, wenn das Bluetooth Modul mit dem Handy verbunden ist und der Echtzeit Reiter angewählt ist.</translation>
     </message>
     <message>
-        <source>Android Wear</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Apple Watch</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Send Realtime Data to your watch.</source>
         <translation>Sende Echtzeit-Daten zu deiner Uhr.</translation>
     </message>
@@ -1148,16 +1173,8 @@
         <translation>Wenn Sie mehrere ESCs über den CAN-Bus angeschlossen haben, können Sie diese Einstellung aktivieren, um einige Echtzeitdaten wie Stromstärke und Leistung durch die Anzahl der ESCs zu multiplizieren.</translation>
     </message>
     <message>
-        <source>Dual data</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>If you have dual ESCs connected via CAN bus and Metr Pro module you can enable this setting to show separate amps and temperatures for each ESC.</source>
         <translation>Wenn du zwei ESCs über den CAN Bus verbunden hast und ein Metr Pro Modul nutzt, kannst du diese Einstellung aktivieren um für jeden ESC separat Strom und Temperatur angezeigt zu bekommen.</translation>
-    </message>
-    <message>
-        <source>CAN Fwd</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>If you have multiple ESCs connected via CAN bus, you can enable this setting and specify ID of the ESC to communicate with.</source>
@@ -1192,14 +1209,6 @@
         <translation>Die ganze Zeit</translation>
     </message>
     <message>
-        <source>CAN Id</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Celsius</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Hide Footer</source>
         <translation>Fußzeile ausblenden</translation>
     </message>
@@ -1210,18 +1219,6 @@
     <message>
         <source>Battery type</source>
         <translation>Batterietyp</translation>
-    </message>
-    <message>
-        <source>Li-Po</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Li-Ion</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>ANR26650</source>
-        <translation></translation>
     </message>
     <message>
         <source>Voltage S</source>
@@ -1324,6 +1321,82 @@
         <translation>batterie</translation>
     </message>
     <message>
+        <source>tacho</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>amp hours</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>watt hours</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>per kilometer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>per mile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Magic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Celsius</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Android Wear</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apple Watch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dual data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CAN Fwd</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CAN Id</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scale UI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable scaling user interface. Makes the app look better on bigger screens.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Untested Firmware</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use with untested firmware versions. Very dangerous! Might brick your ESC!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Li-Po</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Li-Ion</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ANR26650</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Tell</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1348,47 +1421,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>amp hours</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>watt hours</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>per kilometer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>per mile</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Consumption window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Time in milliseconds for floating window that is used to calculate consumption (wh/km or wh/mi).</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Scale UI</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable scaling user interface. Makes the app look better on bigger screens.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Magic</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Untested Firmware</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use with untested firmware versions. Very dangerous! Might brick your ESC!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1460,25 +1497,25 @@
     <name>VDialogClose</name>
     <message>
         <source>Close</source>
-        <translation type="vanished">Schließen</translation>
+        <translation>Schließen</translation>
     </message>
 </context>
 <context>
     <name>VDialogYesNo</name>
     <message>
         <source>Yes</source>
-        <translation type="vanished">Ja</translation>
+        <translation>Ja</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="vanished">Nein</translation>
+        <translation>Nein</translation>
     </message>
 </context>
 <context>
     <name>VSwipeDelegate</name>
     <message>
         <source>Remove</source>
-        <translation type="vanished">Entfernen</translation>
+        <translation>Entfernen</translation>
     </message>
 </context>
 <context>
