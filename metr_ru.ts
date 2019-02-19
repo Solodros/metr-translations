@@ -1722,15 +1722,15 @@
     </message>
     <message>
         <source>Magic</source>
-        <translation type="unfinished"></translation>
+        <translation>Магия</translation>
     </message>
     <message>
         <source>Untested Firmware</source>
-        <translation type="unfinished"></translation>
+        <translation>Неподдерж Прошивки</translation>
     </message>
     <message>
         <source>Use with untested firmware versions. Very dangerous! Might brick your ESC!</source>
-        <translation type="unfinished"></translation>
+        <translation>Использовать с неподдерживаемыми версиями прошивки. Очень опасно! Может закирпичить ваш ESC!</translation>
     </message>
 </context>
 <context>
