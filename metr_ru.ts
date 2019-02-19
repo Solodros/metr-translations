@@ -1720,6 +1720,18 @@
         <source>Enable scaling user interface. Makes the app look better on bigger screens.</source>
         <translation>Включить масштабирование графического интерфейса. Приложение будет выглядеть лучше на больших экранах.</translation>
     </message>
+    <message>
+        <source>Magic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Untested Firmware</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use with untested firmware versions. Very dangerous! Might brick your ESC!</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>TCPBridge</name>
