@@ -71,6 +71,10 @@
         <source>configuration write OK</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Signature check failed</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Contributions</name>
@@ -274,10 +278,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>FOC Hall Sensors detection in this mode is not supported. Please change motor type to FOC.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Are you sure you want to run BLDC motor detection with following parameters?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -339,6 +339,10 @@
     </message>
     <message>
         <source>Time constant for KP and KI.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FOC Hall Sensors detection in this mode is not supported. Please change motor type to FOC.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -514,6 +518,10 @@
     </message>
     <message>
         <source>Clear Startup Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Motor conf signature error</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1426,6 +1434,22 @@
     </message>
     <message>
         <source>Time in milliseconds for floating window that is used to calculate consumption (wh/km or wh/mi).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Beta Metr Pro FW</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check if beta Metr Pro firmware is awailable. Not recommended.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ESC Beta FW</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check if beta ESC firmware is awailable. Not recommended.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

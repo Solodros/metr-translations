@@ -71,6 +71,10 @@
         <source>configuration write OK</source>
         <translation type="unfinished">configuración escribir OK</translation>
     </message>
+    <message>
+        <source>Signature check failed</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Contributions</name>
@@ -683,6 +687,10 @@
     <message>
         <source>To add new modes, click on the plus.</source>
         <translation>Para agregar nuevos modos, haga clic en el signo más.</translation>
+    </message>
+    <message>
+        <source>Motor conf signature error</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1734,6 +1742,22 @@
     </message>
     <message>
         <source>Time in milliseconds for floating window that is used to calculate consumption (wh/km or wh/mi).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Beta Metr Pro FW</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check if beta Metr Pro firmware is awailable. Not recommended.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ESC Beta FW</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check if beta ESC firmware is awailable. Not recommended.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
