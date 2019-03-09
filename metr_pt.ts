@@ -509,7 +509,7 @@
         <translation>Para adicionar novos modos, toque no mais.</translation>
     </message>
     <message>
-        <source>Motor conf signature error</source>
+        <source>Signature check failed</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

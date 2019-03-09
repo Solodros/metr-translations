@@ -733,7 +733,7 @@
         <translation>Pour ajouter de nouveaux modes, cliquer sur le signe plus.</translation>
     </message>
     <message>
-        <source>Motor conf signature error</source>
+        <source>Signature check failed</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -73,7 +73,7 @@
     </message>
     <message>
         <source>Signature check failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Контрольная сумма не совпадает</translation>
     </message>
 </context>
 <context>
@@ -100,7 +100,7 @@
     </message>
     <message>
         <source>Thanks to @Pedrodemio for contributing Portuguese translation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Спасибо @Pedrodemio за перевод на португальский.</translation>
     </message>
 </context>
 <context>
@@ -705,8 +705,8 @@
         <translation>Чтобы добавить новые режимы, нажмите плюс.</translation>
     </message>
     <message>
-        <source>Motor conf signature error</source>
-        <translation type="unfinished"></translation>
+        <source>Signature check failed</source>
+        <translation>Контрольная сумма не совпадает</translation>
     </message>
 </context>
 <context>
@@ -1786,7 +1786,7 @@
     </message>
     <message>
         <source>Check if beta Metr Pro firmware is awailable. Not recommended.</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверять beta Metr Pro прошивку. Не рекомендуется.</translation>
     </message>
     <message>
         <source>ESC Beta FW</source>
@@ -1794,7 +1794,7 @@
     </message>
     <message>
         <source>Check if beta ESC firmware is awailable. Not recommended.</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверять beta ESC прошивку. Не рекомендуется.</translation>
     </message>
 </context>
 <context>

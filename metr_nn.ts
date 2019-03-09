@@ -726,7 +726,7 @@
         <translation>Klikk på plussteiknet for å legga til ny modus.</translation>
     </message>
     <message>
-        <source>Motor conf signature error</source>
+        <source>Signature check failed</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
