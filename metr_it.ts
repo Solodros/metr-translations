@@ -134,7 +134,19 @@
     </message>
     <message>
         <source>Uploading to %1</source>
-        <translation>Caricamento in %1</translation>
+        <translation type="vanished">Caricamento in %1</translation>
+    </message>
+    <message>
+        <source>Uploading %1 to %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>softdevice and bootloader</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>firmware</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

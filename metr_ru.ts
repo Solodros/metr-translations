@@ -134,7 +134,19 @@
     </message>
     <message>
         <source>Uploading to %1</source>
-        <translation>Загрузка в %1</translation>
+        <translation type="vanished">Загрузка в %1</translation>
+    </message>
+    <message>
+        <source>Uploading %1 to %2</source>
+        <translation>Загрузка %1 в %2</translation>
+    </message>
+    <message>
+        <source>softdevice and bootloader</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>firmware</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

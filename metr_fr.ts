@@ -134,7 +134,19 @@
     </message>
     <message>
         <source>Uploading to %1</source>
-        <translation>Téléchargement vers %1</translation>
+        <translation type="vanished">Téléchargement vers %1</translation>
+    </message>
+    <message>
+        <source>Uploading %1 to %2</source>
+        <translation>Téléchargement %1 vers %2</translation>
+    </message>
+    <message>
+        <source>softdevice and bootloader</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>firmware</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -359,7 +371,7 @@
     </message>
     <message>
         <source>This VESC FW is not supported yet. Check log for details.</source>
-        <translation type="unfinished">Cette version de FW VESC n'est pas supportée. Vérifier les logs pour des détails.</translation>
+        <translation type="unfinished">Cette version de FW VESC n&apos;est pas supportée. Vérifier les logs pour des détails.</translation>
     </message>
     <message>
         <source>Apply configuration?</source>
@@ -745,7 +757,7 @@
     </message>
     <message>
         <source>This VESC FW is not supported yet. Check log for details.</source>
-        <translation type="unfinished">Cette version de FW VESC n'est pas supportée. Vérifier les logs pour des détails.</translation>
+        <translation type="unfinished">Cette version de FW VESC n&apos;est pas supportée. Vérifier les logs pour des détails.</translation>
     </message>
 </context>
 <context>
@@ -951,11 +963,11 @@
     <name>QuaGzipFile</name>
     <message>
         <source>QIODevice::Append is not supported for GZIP</source>
-        <translation type="unfinished">QIODevice::Append n'est pas supporté pour GZIP</translation>
+        <translation type="unfinished">QIODevice::Append n&apos;est pas supporté pour GZIP</translation>
     </message>
     <message>
         <source>Opening gzip for both reading and writing is not supported</source>
-        <translation type="unfinished">Ouvrir gzip pour écriture et lecture n'est pas supporté</translation>
+        <translation type="unfinished">Ouvrir gzip pour écriture et lecture n&apos;est pas supporté</translation>
     </message>
     <message>
         <source>You can open a gzip either for reading or for writing. Which is it?</source>
@@ -970,11 +982,11 @@
     <name>QuaZIODevice</name>
     <message>
         <source>QIODevice::Append is not supported for QuaZIODevice</source>
-        <translation type="unfinished">QIODevice::Append n'est pas supporté pour QuaZIODevice<</translation>
+        <translation type="unfinished">QIODevice::Append n&apos;est pas supporté pour QuaZIODevice</translation>
     </message>
     <message>
         <source>QIODevice::ReadWrite is not supported for QuaZIODevice</source>
-        <translation type="unfinished">QIODevice::ReadWrite n'est pas supporté pour QuaZIODevice</translation>
+        <translation type="unfinished">QIODevice::ReadWrite n&apos;est pas supporté pour QuaZIODevice</translation>
     </message>
 </context>
 <context>
@@ -1714,15 +1726,15 @@
     </message>
     <message>
         <source>Minimum time in milliseconds between recorded points. Data that comes earlier is discarded. Recommended value is 160. Set to 0 for maximum record detail, but at this rate with Metr Pro module the records will be limited to approximately 45 minutes due to high memory usage.</source>
-        <translation type="unfinished">Temps minimum en millisecondes entre deux points enregistrés. Les données entre les deux seront jetées. Recommandé : 160ms. Régler à 0 pour un maximum de détail, mais le module Metr Pro sera limité à environ 45 minutes d'enregistrements dû à une utilisation de mémoire intensive.</translation>
+        <translation type="unfinished">Temps minimum en millisecondes entre deux points enregistrés. Les données entre les deux seront jetées. Recommandé : 160ms. Régler à 0 pour un maximum de détail, mais le module Metr Pro sera limité à environ 45 minutes d&apos;enregistrements dû à une utilisation de mémoire intensive.</translation>
     </message>
     <message>
         <source>Disable Battery Optimizations</source>
-        <translation type="unfinished">Désactiver l'optimisation de batterie</translation>
+        <translation type="unfinished">Désactiver l&apos;optimisation de batterie</translation>
     </message>
     <message>
         <source>Disable Battery Optimizations in Android 6+. If the app dies in the background, try disabling or enabling this value.</source>
-        <translation type="unfinished">Désactive l'optimisation de batterie dans Android 6+. Si l'app se ferme en arrière-plan, essayer de désactiver ou activer ce réglage.</translation>
+        <translation type="unfinished">Désactive l&apos;optimisation de batterie dans Android 6+. Si l&apos;app se ferme en arrière-plan, essayer de désactiver ou activer ce réglage.</translation>
     </message>
     <message>
         <source>Android Wear</source>
@@ -1734,11 +1746,11 @@
     </message>
     <message>
         <source>Scale UI</source>
-        <translation type="unfinished">Echelle de l'UI</translation>
+        <translation type="unfinished">Echelle de l&apos;UI</translation>
     </message>
     <message>
         <source>Enable scaling user interface. Makes the app look better on bigger screens.</source>
-        <translation type="unfinished">Active le redimensionnement de l'interface utilisateur. Améliore l'affichage sur les grands écrans.</translation>
+        <translation type="unfinished">Active le redimensionnement de l&apos;interface utilisateur. Améliore l&apos;affichage sur les grands écrans.</translation>
     </message>
     <message>
         <source>Untested Firmware</source>
@@ -1746,7 +1758,7 @@
     </message>
     <message>
         <source>Use with untested firmware versions. Very dangerous! Might brick your ESC!</source>
-        <translation type="unfinished">Communique avec les firmware non testés. Très dangereux ! Peut briquer l'ESC !</translation>
+        <translation type="unfinished">Communique avec les firmware non testés. Très dangereux ! Peut briquer l&apos;ESC !</translation>
     </message>
     <message>
         <source>ANR26650</source>
@@ -1766,7 +1778,7 @@
     </message>
     <message>
         <source>Automatically show and hide DieBieMS cell information on the Realtime Tab when the charger is plugged in and out.</source>
-        <translation type="unfinished">Affiche/cache automatiquement les informations de cellules du DieBieMS sur l'onglet Temps Réel quand le chargeur est branché/débranché.</translation>
+        <translation type="unfinished">Affiche/cache automatiquement les informations de cellules du DieBieMS sur l&apos;onglet Temps Réel quand le chargeur est branché/débranché.</translation>
     </message>
     <message>
         <source>Cell voltage at %1%</source>
@@ -1822,7 +1834,7 @@
     </message>
     <message>
         <source>Voice</source>
-        <translation type="unfinished">Voix/translation>
+        <translation type="unfinished">Voix</translation>
     </message>
     <message>
         <source>Consumption window</source>
@@ -1846,7 +1858,7 @@
     </message>
     <message>
         <source>Check if beta ESC firmware is awailable. Not recommended.</source>
-        <translation type="unfinished">Vérifie si des versions beta du firmware de l'ESC sont disponibles. Non recommandé.</translation>
+        <translation type="unfinished">Vérifie si des versions beta du firmware de l&apos;ESC sont disponibles. Non recommandé.</translation>
     </message>
 </context>
 <context>
