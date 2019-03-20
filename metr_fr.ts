@@ -745,7 +745,7 @@
     </message>
     <message>
         <source>This VESC FW is not supported yet. Check log for details.</source>
-        <translation type="unfinished">Cette version de FW VESC n'est pas supporté. Vérifier les logs pour des détails.</translation>
+        <translation type="unfinished">Cette version de FW VESC n'est pas supportée. Vérifier les logs pour des détails.</translation>
     </message>
 </context>
 <context>
@@ -959,7 +959,7 @@
     </message>
     <message>
         <source>You can open a gzip either for reading or for writing. Which is it?</source>
-        <translation type="unfinished">Vous pouvez ouvrir un gzip pour lecture OU écriture. Lequel est-ce ?</translation>
+        <translation type="unfinished">Vous pouvez ouvrir un gzip pour lecture OU écriture. Quel mode choisir ?</translation>
     </message>
     <message>
         <source>Could not gzopen() file</source>
@@ -1706,7 +1706,7 @@
     </message>
     <message>
         <source>battery</source>
-        <translation type="unfinished">Battery</translation>
+        <translation type="unfinished">Batterie</translation>
     </message>
     <message>
         <source>Point interval</source>
@@ -1738,7 +1738,7 @@
     </message>
     <message>
         <source>Enable scaling user interface. Makes the app look better on bigger screens.</source>
-        <translation type="unfinished">Active le redimensionnement de l'interface. Améliore l'affichage sur les grands écrans.</translation>
+        <translation type="unfinished">Active le redimensionnement de l'interface utilisateur. Améliore l'affichage sur les grands écrans.</translation>
     </message>
     <message>
         <source>Untested Firmware</source>
@@ -1830,7 +1830,7 @@
     </message>
     <message>
         <source>Time in milliseconds for floating window that is used to calculate consumption (wh/km or wh/mi).</source>
-        <translation type="unfinished">Temps en millisecondespour la fenêtre flottante utilisée pour le calcul de la consommation (wh/km or wh/mi).</translation>
+        <translation type="unfinished">Temps en millisecondes pour la fenêtre flottante utilisée pour le calcul de la consommation (wh/km or wh/mi).</translation>
     </message>
     <message>
         <source>Beta Metr Pro FW</source>
