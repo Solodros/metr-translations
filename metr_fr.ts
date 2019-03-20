@@ -359,7 +359,7 @@
     </message>
     <message>
         <source>This VESC FW is not supported yet. Check log for details.</source>
-        <translation type="unfinished">Cette version de FW VESC n'est pas supporté. Vérifier les logs pour des détails.</translation>
+        <translation type="unfinished">Cette version de FW VESC n'est pas supportée. Vérifier les logs pour des détails.</translation>
     </message>
     <message>
         <source>Apply configuration?</source>
