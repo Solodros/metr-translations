@@ -5,14 +5,14 @@
     <name>Announcement</name>
     <message>
         <source>Tell %1 every %2s above %3 below %4</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Annonce %1 toutes les %2s supérieur à %3 et inférieur à %4</translation>
     </message>
 </context>
 <context>
     <name>AnnouncementsTab</name>
     <message>
         <source>To add new announcements, click on the plus.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pour ajouter des annonces, cliquer sur le plus</translation>
     </message>
 </context>
 <context>
@@ -73,7 +73,7 @@
     </message>
     <message>
         <source>Signature check failed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vérification de la signature échouée</translation>
     </message>
 </context>
 <context>
@@ -148,7 +148,7 @@
     <name>DieBieMSView</name>
     <message>
         <source>voltage</source>
-        <translation type="obsolete">tension</translation>
+        <translation type="obsolete">Tension</translation>
     </message>
     <message>
         <source>current</source>
@@ -156,18 +156,18 @@
     </message>
     <message>
         <source>mismatch</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Déviation</translation>
     </message>
     <message>
         <source>temp</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Temp.</translation>
     </message>
 </context>
 <context>
     <name>ExpertTab</name>
     <message>
         <source>no device connected</source>
-        <translation type="unfinished">aucun périphérique connecté</translation>
+        <translation type="unfinished">Aucun périphérique connecté</translation>
     </message>
     <message>
         <source>reading motor configuration</source>
@@ -175,7 +175,7 @@
     </message>
     <message>
         <source>writing motor configuration</source>
-        <translation type="obsolete">écriture de la configuration moteur</translation>
+        <translation type="obsolete">Ecriture de la configuration moteur</translation>
     </message>
     <message>
         <source>reading app configuration</source>
@@ -183,7 +183,7 @@
     </message>
     <message>
         <source>writing app configuration</source>
-        <translation type="obsolete">écriture de la configuration d&apos;application</translation>
+        <translation type="obsolete">Ecriture de la configuration d&apos;application</translation>
     </message>
     <message>
         <source>BLDC detection</source>
@@ -359,19 +359,19 @@
     </message>
     <message>
         <source>This VESC FW is not supported yet. Check log for details.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cette version de FW VESC n'est pas supporté. Vérifier les logs pour des détails.</translation>
     </message>
     <message>
         <source>Apply configuration?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Appliquer la configuration ?</translation>
     </message>
     <message>
         <source>Read</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lecture</translation>
     </message>
     <message>
         <source>BLDC motor detection is not supported for UNITY.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Détection moteur BLDC non supportée sur UNITY.</translation>
     </message>
 </context>
 <context>
@@ -605,15 +605,15 @@
     </message>
     <message>
         <source>Over Current #2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Surintensité #2</translation>
     </message>
     <message>
         <source>Over Temp FET #2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Surchauffe FET #2</translation>
     </message>
     <message>
         <source>Over Temp Motor #2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Surchauffe Moteur #2</translation>
     </message>
 </context>
 <context>
@@ -675,7 +675,7 @@
     </message>
     <message>
         <source>Could not create motor configuration. Check log for details.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Impossible de créer une configuration moteur. Vérifier les logs pour des détails.</translation>
     </message>
 </context>
 <context>
@@ -734,7 +734,7 @@
     </message>
     <message>
         <source>Signature check failed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vérification de la signature échouée</translation>
     </message>
 </context>
 <context>
@@ -745,7 +745,7 @@
     </message>
     <message>
         <source>This VESC FW is not supported yet. Check log for details.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cette version de FW VESC n'est pas supporté. Vérifier les logs pour des détails.</translation>
     </message>
 </context>
 <context>
@@ -951,37 +951,37 @@
     <name>QuaGzipFile</name>
     <message>
         <source>QIODevice::Append is not supported for GZIP</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">QIODevice::Append n'est pas supporté pour GZIP</translation>
     </message>
     <message>
         <source>Opening gzip for both reading and writing is not supported</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ouvrir gzip pour écriture et lecture n'est pas supporté</translation>
     </message>
     <message>
         <source>You can open a gzip either for reading or for writing. Which is it?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vous pouvez ouvrir un gzip pour lecture OU écriture. Lequel est-ce ?</translation>
     </message>
     <message>
         <source>Could not gzopen() file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Impossible de gzopen() le fichier</translation>
     </message>
 </context>
 <context>
     <name>QuaZIODevice</name>
     <message>
         <source>QIODevice::Append is not supported for QuaZIODevice</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">QIODevice::Append n'est pas supporté pour QuaZIODevice<</translation>
     </message>
     <message>
         <source>QIODevice::ReadWrite is not supported for QuaZIODevice</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">QIODevice::ReadWrite n'est pas supporté pour QuaZIODevice</translation>
     </message>
 </context>
 <context>
     <name>QuaZipFile</name>
     <message>
         <source>ZIP/UNZIP API error %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ZIP/UNZIP API erreur %1</translation>
     </message>
 </context>
 <context>
@@ -1028,7 +1028,7 @@
     </message>
     <message>
         <source>cell voltage</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tension de cellule</translation>
     </message>
 </context>
 <context>
@@ -1153,7 +1153,7 @@
     </message>
     <message>
         <source>Show logs</source>
-        <translation>Affichier les logs</translation>
+        <translation>Afficher les logs</translation>
     </message>
     <message>
         <source>Open log file in external text viewer.</source>
@@ -1678,175 +1678,175 @@
     </message>
     <message>
         <source>altitude</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Altitude</translation>
     </message>
     <message>
         <source>distance</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Distance</translation>
     </message>
     <message>
         <source>amp hours</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ah</translation>
     </message>
     <message>
         <source>watt hours</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wh</translation>
     </message>
     <message>
         <source>per kilometer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">par kilomètre</translation>
     </message>
     <message>
         <source>per mile</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">par mile</translation>
     </message>
     <message>
         <source>Magic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Magie</translation>
     </message>
     <message>
         <source>battery</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Battery</translation>
     </message>
     <message>
         <source>Point interval</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Intervalle de point</translation>
     </message>
     <message>
         <source>Minimum time in milliseconds between recorded points. Data that comes earlier is discarded. Recommended value is 160. Set to 0 for maximum record detail, but at this rate with Metr Pro module the records will be limited to approximately 45 minutes due to high memory usage.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Temps minimum en millisecondes entre deux points enregistrés. Les données entre les deux seront jetées. Recommandé : 160ms. Régler à 0 pour un maximum de détail, mais le module Metr Pro sera limité à environ 45 minutes d'enregistrements dû à une utilisation de mémoire intensive.</translation>
     </message>
     <message>
         <source>Disable Battery Optimizations</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Désactiver l'optimisation de batterie</translation>
     </message>
     <message>
         <source>Disable Battery Optimizations in Android 6+. If the app dies in the background, try disabling or enabling this value.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Désactive l'optimisation de batterie dans Android 6+. Si l'app se ferme en arrière-plan, essayer de désactiver ou activer ce réglage.</translation>
     </message>
     <message>
         <source>Android Wear</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Android Wear</translation>
     </message>
     <message>
         <source>Apple Watch</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Apple Watch</translation>
     </message>
     <message>
         <source>Scale UI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Echelle de l'UI</translation>
     </message>
     <message>
         <source>Enable scaling user interface. Makes the app look better on bigger screens.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Active le redimensionnement de l'interface. Améliore l'affichage sur les grands écrans.</translation>
     </message>
     <message>
         <source>Untested Firmware</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Firmware non testé</translation>
     </message>
     <message>
         <source>Use with untested firmware versions. Very dangerous! Might brick your ESC!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Communique avec les firmware non testés. Très dangereux ! Peut briquer l'ESC !</translation>
     </message>
     <message>
         <source>ANR26650</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ANR26650</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Personnalisé</translation>
     </message>
     <message>
         <source>DieBieMS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">DieBieMS</translation>
     </message>
     <message>
         <source>Auto Show</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Affichage automatique</translation>
     </message>
     <message>
         <source>Automatically show and hide DieBieMS cell information on the Realtime Tab when the charger is plugged in and out.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Affiche/cache automatiquement les informations de cellules du DieBieMS sur l'onglet Temps Réel quand le chargeur est branché/débranché.</translation>
     </message>
     <message>
         <source>Cell voltage at %1%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tension de cellule à %1%</translation>
     </message>
     <message>
         <source>Announce</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Annonce</translation>
     </message>
     <message>
         <source>Expert</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Expert</translation>
     </message>
     <message>
         <source>Enabled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Activé</translation>
     </message>
     <message>
         <source>Enable or disable all announcements.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Active/Désactive toutes les annonces</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Normal</translation>
     </message>
     <message>
         <source>Fast</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rapide</translation>
     </message>
     <message>
         <source>Very fast</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Très rapide</translation>
     </message>
     <message>
         <source>Tell</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Annonce</translation>
     </message>
     <message>
         <source>Every [s]</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Toutes les [s]</translation>
     </message>
     <message>
         <source>Start from</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Commence à</translation>
     </message>
     <message>
         <source>Stop at</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Finit à</translation>
     </message>
     <message>
         <source>Only when moving</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Seulement en mouvement</translation>
     </message>
     <message>
         <source>Voice</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Voix/translation>
     </message>
     <message>
         <source>Consumption window</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fenêtre de consommation</translation>
     </message>
     <message>
         <source>Time in milliseconds for floating window that is used to calculate consumption (wh/km or wh/mi).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Temps en millisecondespour la fenêtre flottante utilisée pour le calcul de la consommation (wh/km or wh/mi).</translation>
     </message>
     <message>
         <source>Beta Metr Pro FW</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">FW Metr Pro Beta</translation>
     </message>
     <message>
         <source>Check if beta Metr Pro firmware is awailable. Not recommended.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vérifie si des versions beta du firmware Metr Pro sont disponibles. Non recommandé.</translation>
     </message>
     <message>
         <source>ESC Beta FW</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">FW ESC Beta</translation>
     </message>
     <message>
         <source>Check if beta ESC firmware is awailable. Not recommended.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vérifie si des versions beta du firmware de l'ESC sont disponibles. Non recommandé.</translation>
     </message>
 </context>
 <context>
