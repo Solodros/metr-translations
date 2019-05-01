@@ -381,6 +381,14 @@
         <source>Time constant for KP and KI.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Spin motors by hand!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Detection complete</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ExpertTabDelegate</name>
@@ -556,6 +564,10 @@
     </message>
     <message>
         <source>Hardware</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have multiple VESC setup. Settings backup will be created automatically but you will need to restore them manually using Expert Tab. Do you want to proceed?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1742,15 +1754,15 @@
     </message>
     <message>
         <source>You have more than 2 VESCs connected via CAN. Seamless firmware update is not possible.</source>
-        <translation>Hai più di 2 VESC collegati via CAN. L&apos;aggiornamento del firmware non è possibile.</translation>
+        <translation type="vanished">Hai più di 2 VESC collegati via CAN. L&apos;aggiornamento del firmware non è possibile.</translation>
     </message>
     <message>
         <source>Backing up configuration</source>
-        <translation>Backup della configurazione</translation>
+        <translation type="vanished">Backup della configurazione</translation>
     </message>
     <message>
         <source>Restoring configuration</source>
-        <translation>Ripristino configurazione</translation>
+        <translation type="vanished">Ripristino configurazione</translation>
     </message>
     <message>
         <source>CRC16 check failed!</source>
@@ -1762,6 +1774,14 @@
     </message>
     <message>
         <source>Flashing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Backing up configurations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>[vfu] Restoring configuration</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

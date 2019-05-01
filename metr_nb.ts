@@ -377,6 +377,14 @@
         <source>BLDC motor detection is not supported for UNITY.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Spin motors by hand!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Detection complete</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ExpertTabDelegate</name>
@@ -661,6 +669,10 @@
     <message>
         <source>Please don&apos;t interrupt the process after it is started. You can brick the device.</source>
         <translation>Vennligst ikke avbryt prosessen etter den er startet. Det kan føre til permenente skader.</translation>
+    </message>
+    <message>
+        <source>You have multiple VESC setup. Settings backup will be created automatically but you will need to restore them manually using Expert Tab. Do you want to proceed?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1960,15 +1972,15 @@
     </message>
     <message>
         <source>You have more than 2 VESCs connected via CAN. Seamless firmware update is not possible.</source>
-        <translation>Du har flere enn 2 VESCer tilkoblet CAN. Sømløs oppdatering av fastvarene er dermed ikke mulig.</translation>
+        <translation type="vanished">Du har flere enn 2 VESCer tilkoblet CAN. Sømløs oppdatering av fastvarene er dermed ikke mulig.</translation>
     </message>
     <message>
         <source>Backing up configuration</source>
-        <translation>Tar sikkerhetskopi av konfigurasjonsdata</translation>
+        <translation type="vanished">Tar sikkerhetskopi av konfigurasjonsdata</translation>
     </message>
     <message>
         <source>Restoring configuration</source>
-        <translation>Gjenoppretter konfigurasjonsdata</translation>
+        <translation type="vanished">Gjenoppretter konfigurasjonsdata</translation>
     </message>
     <message>
         <source>CRC16 check failed!</source>
@@ -1981,6 +1993,14 @@
     <message>
         <source>Firmware uploaded. Installing</source>
         <translation>Fastvare lastet opp. Installerer</translation>
+    </message>
+    <message>
+        <source>Backing up configurations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>[vfu] Restoring configuration</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

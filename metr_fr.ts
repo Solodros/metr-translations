@@ -385,6 +385,14 @@
         <source>BLDC motor detection is not supported for UNITY.</source>
         <translation type="unfinished">Détection moteur BLDC non supportée sur UNITY.</translation>
     </message>
+    <message>
+        <source>Spin motors by hand!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Detection complete</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ExpertTabDelegate</name>
@@ -665,6 +673,10 @@
     <message>
         <source>Please don&apos;t interrupt the process after it is started. You can brick the device.</source>
         <translation>Veuillez ne pas interrompre le processus une fois lancé. Vous pourriez briquer l&apos;appareil.</translation>
+    </message>
+    <message>
+        <source>You have multiple VESC setup. Settings backup will be created automatically but you will need to restore them manually using Expert Tab. Do you want to proceed?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1962,15 +1974,15 @@
     </message>
     <message>
         <source>You have more than 2 VESCs connected via CAN. Seamless firmware update is not possible.</source>
-        <translation>Vous avez plus de 2 VESC connectés via CAN. La mise à jour du firmware n&apos;est pas possible.</translation>
+        <translation type="vanished">Vous avez plus de 2 VESC connectés via CAN. La mise à jour du firmware n&apos;est pas possible.</translation>
     </message>
     <message>
         <source>Backing up configuration</source>
-        <translation>Sauvegarde de la configuration</translation>
+        <translation type="vanished">Sauvegarde de la configuration</translation>
     </message>
     <message>
         <source>Restoring configuration</source>
-        <translation>Restauration de la configuration</translation>
+        <translation type="vanished">Restauration de la configuration</translation>
     </message>
     <message>
         <source>CRC16 check failed!</source>
@@ -1983,6 +1995,14 @@
     <message>
         <source>Firmware uploaded. Installing</source>
         <translation>Firmware téléchargé. Installation en cours</translation>
+    </message>
+    <message>
+        <source>Backing up configurations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>[vfu] Restoring configuration</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

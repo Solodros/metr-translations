@@ -357,6 +357,14 @@
         <source>FOC Hall Sensors detection in this mode is not supported. Please change motor type to FOC.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Spin motors by hand!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Detection complete</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ExpertTabDelegate</name>
@@ -457,6 +465,10 @@
     <message>
         <source>Please don&apos;t interrupt the process after it is started. You can brick the device.</source>
         <translation>Bitte unterbrechen Sie den Prozess nicht, nachdem Sie ihn gestartet haben. Sie können Ihr Modul damit zerstören.</translation>
+    </message>
+    <message>
+        <source>You have multiple VESC setup. Settings backup will be created automatically but you will need to restore them manually using Expert Tab. Do you want to proceed?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1566,15 +1578,15 @@
     </message>
     <message>
         <source>You have more than 2 VESCs connected via CAN. Seamless firmware update is not possible.</source>
-        <translation>Sie haben mehr als 2 VESCs über CAN-Bus verbunden. Einwandfreies aktualisieren der Firmware nicht möglich.</translation>
+        <translation type="vanished">Sie haben mehr als 2 VESCs über CAN-Bus verbunden. Einwandfreies aktualisieren der Firmware nicht möglich.</translation>
     </message>
     <message>
         <source>Backing up configuration</source>
-        <translation>Konfiguration wird gespeichert</translation>
+        <translation type="vanished">Konfiguration wird gespeichert</translation>
     </message>
     <message>
         <source>Restoring configuration</source>
-        <translation>Konfiguration wird wiederhergestellt</translation>
+        <translation type="vanished">Konfiguration wird wiederhergestellt</translation>
     </message>
     <message>
         <source>CRC16 check failed!</source>
@@ -1587,6 +1599,14 @@
     <message>
         <source>Firmware uploaded. Installing</source>
         <translation>Firmware hochgeladen. Installiert</translation>
+    </message>
+    <message>
+        <source>Backing up configurations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>[vfu] Restoring configuration</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

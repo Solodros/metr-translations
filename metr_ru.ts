@@ -385,6 +385,14 @@
         <source>Time constant for KP and KI.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Spin motors by hand!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Detection complete</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ExpertTabDelegate</name>
@@ -641,6 +649,10 @@
     <message>
         <source>Please don&apos;t interrupt the process after it is started. You can brick the device.</source>
         <translation>Пожалуйста не прерывайте процесс. Модуль может прийти в неисправность.</translation>
+    </message>
+    <message>
+        <source>You have multiple VESC setup. Settings backup will be created automatically but you will need to restore them manually using Expert Tab. Do you want to proceed?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1910,15 +1922,15 @@
     </message>
     <message>
         <source>You have more than 2 VESCs connected via CAN. Seamless firmware update is not possible.</source>
-        <translation>У вас больше чем 2 VESC соединено в CAN. Обновление прошивки невозможно.</translation>
+        <translation type="vanished">У вас больше чем 2 VESC соединено в CAN. Обновление прошивки невозможно.</translation>
     </message>
     <message>
         <source>Backing up configuration</source>
-        <translation>Сохранение настроек</translation>
+        <translation type="vanished">Сохранение настроек</translation>
     </message>
     <message>
         <source>Restoring configuration</source>
-        <translation>Восстановление настроек</translation>
+        <translation type="vanished">Восстановление настроек</translation>
     </message>
     <message>
         <source>CRC16 check failed!</source>
@@ -1931,6 +1943,14 @@
     <message>
         <source>Firmware uploaded. Installing</source>
         <translation>Прошивка загружена. Установка</translation>
+    </message>
+    <message>
+        <source>Backing up configurations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>[vfu] Restoring configuration</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>
