@@ -482,6 +482,17 @@
     </message>
 </context>
 <context>
+    <name>FaultTab</name>
+    <message>
+        <source>Date</source>
+        <translation type="unfinished">Data</translation>
+    </message>
+    <message>
+        <source>Fault code</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Global</name>
     <message>
         <source>Over Voltage</source>
@@ -921,6 +932,22 @@
         <source>Stop</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Date</source>
+        <translation type="unfinished">Data</translation>
+    </message>
+    <message>
+        <source>Duration</source>
+        <translation type="unfinished">Durata</translation>
+    </message>
+    <message>
+        <source>Distance</source>
+        <translation type="unfinished">Distanza</translation>
+    </message>
+    <message>
+        <source>Energy</source>
+        <translation type="unfinished">Energia</translation>
+    </message>
 </context>
 <context>
     <name>RecordTabDelegate</name>
@@ -1000,19 +1027,19 @@
     </message>
     <message>
         <source>Date</source>
-        <translation>Data</translation>
+        <translation type="vanished">Data</translation>
     </message>
     <message>
         <source>Duration</source>
-        <translation>Durata</translation>
+        <translation type="vanished">Durata</translation>
     </message>
     <message>
         <source>Distance</source>
-        <translation>Distanza</translation>
+        <translation type="vanished">Distanza</translation>
     </message>
     <message>
         <source>Energy</source>
-        <translation>Energia</translation>
+        <translation type="vanished">Energia</translation>
     </message>
 </context>
 <context>
@@ -1652,6 +1679,10 @@
         <source>Check if beta ESC firmware is awailable. Not recommended.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Faults</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>TCPBridge</name>
@@ -1762,7 +1793,7 @@
     </message>
     <message>
         <source>Restoring configuration</source>
-        <translation type="vanished">Ripristino configurazione</translation>
+        <translation>Ripristino configurazione</translation>
     </message>
     <message>
         <source>CRC16 check failed!</source>
@@ -1778,10 +1809,6 @@
     </message>
     <message>
         <source>Backing up configurations</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>[vfu] Restoring configuration</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
