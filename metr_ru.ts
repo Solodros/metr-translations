@@ -75,6 +75,10 @@
         <source>Signature check failed</source>
         <translation>Контрольная сумма не совпадает</translation>
     </message>
+    <message>
+        <source>FW %1.%2 not supported</source>
+        <translation>Прошивка %1.%2 не поддерживается</translation>
+    </message>
 </context>
 <context>
     <name>Contributions</name>
@@ -387,11 +391,11 @@
     </message>
     <message>
         <source>Spin motors by hand!</source>
-        <translation type="unfinished"></translation>
+        <translation>Покрутите моторы рукой!</translation>
     </message>
     <message>
         <source>Detection complete</source>
-        <translation type="unfinished"></translation>
+        <translation>Определение завершено</translation>
     </message>
 </context>
 <context>
@@ -569,11 +573,11 @@
     <name>FaultTab</name>
     <message>
         <source>Date</source>
-        <translation type="unfinished">Дате</translation>
+        <translation>Дате</translation>
     </message>
     <message>
         <source>Fault code</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибке</translation>
     </message>
 </context>
 <context>
@@ -663,7 +667,7 @@
     </message>
     <message>
         <source>You have multiple VESC setup. Settings backup will be created automatically but you will need to restore them manually using Expert Tab. Do you want to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>У вас несколько VESC. Настройки будут сохранены автоматически, но их надо будет потом вручную загрузить через Expert. Хотите продолжить?</translation>
     </message>
 </context>
 <context>
@@ -743,6 +747,10 @@
         <source>Signature check failed</source>
         <translation>Контрольная сумма не совпадает</translation>
     </message>
+    <message>
+        <source>FW %1.%2 not supported</source>
+        <translation>Прошивка %1.%2 не поддерживается</translation>
+    </message>
 </context>
 <context>
     <name>ModesTabDelegate</name>
@@ -753,6 +761,10 @@
     <message>
         <source>This VESC FW is not supported yet. Check log for details.</source>
         <translation>Эта прошивка VESC не поддерживается. Подробности в журнале.</translation>
+    </message>
+    <message>
+        <source>Startup mode not supported on UNITY</source>
+        <translation>Режим загрузки не поддерживается для UNITY</translation>
     </message>
 </context>
 <context>
@@ -1102,19 +1114,19 @@
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished">Дате</translation>
+        <translation>Дате</translation>
     </message>
     <message>
         <source>Duration</source>
-        <translation type="unfinished">Длительности</translation>
+        <translation>Длительности</translation>
     </message>
     <message>
         <source>Distance</source>
-        <translation type="unfinished">Расстоянию</translation>
+        <translation>Расстоянию</translation>
     </message>
     <message>
         <source>Energy</source>
-        <translation type="unfinished">Энергии</translation>
+        <translation>Энергии</translation>
     </message>
 </context>
 <context>
@@ -1849,7 +1861,7 @@
     </message>
     <message>
         <source>Faults</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибки</translation>
     </message>
 </context>
 <context>
@@ -1977,7 +1989,7 @@
     </message>
     <message>
         <source>Backing up configurations</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранение настроек</translation>
     </message>
 </context>
 </TS>

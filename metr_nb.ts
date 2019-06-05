@@ -75,6 +75,10 @@
         <source>Signature check failed</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>FW %1.%2 not supported</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Contributions</name>
@@ -768,6 +772,10 @@
         <source>Signature check failed</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>FW %1.%2 not supported</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ModesTabDelegate</name>
@@ -777,6 +785,10 @@
     </message>
     <message>
         <source>This VESC FW is not supported yet. Check log for details.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Startup mode not supported on UNITY</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
