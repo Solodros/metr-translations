@@ -108,6 +108,13 @@
     </message>
 </context>
 <context>
+    <name>DetectorPro</name>
+    <message>
+        <source>Settings downloaded</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>DeviceSettingsView</name>
     <message>
         <source>Alias</source>
@@ -687,6 +694,38 @@
     </message>
     <message>
         <source>You have multiple VESC setup. Settings backup will be created automatically but you will need to restore them manually using Expert Tab. Do you want to proceed?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings uploaded</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to upload settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings downloaded</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to download settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cloud</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upload app settings to the server. When this module is connected to a new phone, the settings will be automatically downloaded from the server.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upload</source>
+        <translation type="unfinished">Opplasting</translation>
+    </message>
+    <message>
+        <source>Download</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
