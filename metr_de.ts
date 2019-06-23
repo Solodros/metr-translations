@@ -544,6 +544,10 @@
         <source>Download</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Upgrade</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ModeView</name>

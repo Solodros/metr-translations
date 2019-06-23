@@ -728,6 +728,10 @@
         <source>Download</source>
         <translation>Загрузить</translation>
     </message>
+    <message>
+        <source>Upgrade</source>
+        <translation>Обновить</translation>
+    </message>
 </context>
 <context>
     <name>ModeView</name>
