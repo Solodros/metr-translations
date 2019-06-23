@@ -111,15 +111,15 @@
     <name>DetectorPro</name>
     <message>
         <source>Settings downloaded</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки загружены</translation>
     </message>
     <message>
         <source>Startup mode cleared from &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим загрузки удален с &apos;%1&apos;</translation>
     </message>
     <message>
         <source>Startup mode saved on &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим загрузки загружен на &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -134,15 +134,15 @@
     </message>
     <message>
         <source>Module settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки модуля</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя</translation>
     </message>
     <message>
         <source>Bluetooth module name. It will be permanently saved on the module. Other applications will also see the change.</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя будет сохранено в памяти модуля. Также доступно в других приложениях.</translation>
     </message>
 </context>
 <context>
@@ -173,11 +173,11 @@
     </message>
     <message>
         <source>softdevice and bootloader</source>
-        <translation type="unfinished"></translation>
+        <translation>softdevice и bootloader</translation>
     </message>
     <message>
         <source>firmware</source>
-        <translation type="unfinished"></translation>
+        <translation>прошивки</translation>
     </message>
 </context>
 <context>
@@ -698,35 +698,35 @@
     </message>
     <message>
         <source>Settings uploaded</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки отправлены</translation>
     </message>
     <message>
         <source>Failed to upload settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вышло отправить настройки</translation>
     </message>
     <message>
         <source>Settings downloaded</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки скачаны</translation>
     </message>
     <message>
         <source>Failed to download settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вышло скачать настройки</translation>
     </message>
     <message>
         <source>Cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Облако</translation>
     </message>
     <message>
         <source>Upload app settings to the server. When this module is connected to a new phone, the settings will be automatically downloaded from the server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Отправить настройки модуля на сервер. Когда этот модуль будет подключен к новому телефону, настройки будут автоматически скачаны с сервера.</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation type="unfinished">Загрузить</translation>
+        <translation>Загрузить</translation>
     </message>
     <message>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузить</translation>
     </message>
 </context>
 <context>
