@@ -113,6 +113,14 @@
         <source>Settings downloaded</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Startup mode cleared from &apos;%1&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Startup mode saved on &apos;%1&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DeviceSettingsView</name>
@@ -123,6 +131,18 @@
     <message>
         <source>User friendly name that is associated with the module. You can change it to your liking.</source>
         <translation>Ditt navn på modulen. For å forstå hva modulen er brukt til.</translation>
+    </message>
+    <message>
+        <source>Module settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bluetooth module name. It will be permanently saved on the module. Other applications will also see the change.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
