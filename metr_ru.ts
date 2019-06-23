@@ -722,11 +722,11 @@
     </message>
     <message>
         <source>Upload</source>
-        <translation>Загрузить</translation>
+        <translation>Отправить</translation>
     </message>
     <message>
         <source>Download</source>
-        <translation>Загрузить</translation>
+        <translation>Скачать</translation>
     </message>
     <message>
         <source>Upgrade</source>
