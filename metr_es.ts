@@ -424,6 +424,10 @@
         <source>Detection complete</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Calibrate PPM</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ExpertTabDelegate</name>
@@ -815,6 +819,37 @@
     </message>
 </context>
 <context>
+    <name>PPMDetect</name>
+    <message>
+        <source>1. Hold remote in neutral position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2. Hold max speed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3. Hold max brake</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>4. Done</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>min</source>
+        <translation type="unfinished">min</translation>
+    </message>
+    <message>
+        <source>center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>max</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>PerimetrTab</name>
     <message>
         <source>Write configuration?</source>
@@ -1050,6 +1085,10 @@
     </message>
     <message>
         <source>cell voltage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ppm</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1360,7 +1399,7 @@
     </message>
     <message>
         <source>Prefer GPS speed and distance to RPM-calculated speed and distance. Not recommended for general use. Only use if your motor does not spin all the time (freewheel, friction drive, etc.)</source>
-        <translation>Prefiere la velocidad y distancia del GPS a la velocidad y distancia calculadas por RPM. No recomendado para uso general. Solo use si su motor no gira todo el tiempo (rueda libre, impulsión de fricción, etc.)</translation>
+        <translation type="vanished">Prefiere la velocidad y distancia del GPS a la velocidad y distancia calculadas por RPM. No recomendado para uso general. Solo use si su motor no gira todo el tiempo (rueda libre, impulsión de fricción, etc.)</translation>
     </message>
     <message>
         <source>Use location</source>
@@ -1888,6 +1927,26 @@
     </message>
     <message>
         <source>Faults</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Prefer GPS speed and distance to RPM-calculated speed and distance. Do not enable this setting.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Freewheel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable if your motor does not spin all the time (freewheel, friction drive, etc.)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Smooth voltage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Smooth out voltage readings from VESC.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
