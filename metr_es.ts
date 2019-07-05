@@ -1949,6 +1949,14 @@
         <source>Smooth out voltage readings from VESC.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Smooth margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Max voltage fluctuation that should be smoothed.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>TCPBridge</name>

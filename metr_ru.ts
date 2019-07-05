@@ -406,7 +406,7 @@
     </message>
     <message>
         <source>Apply configuration?</source>
-        <translation type="unfinished"></translation>
+        <translation>Применить настройки?</translation>
     </message>
     <message>
         <source>TC</source>
@@ -1984,6 +1984,14 @@
     <message>
         <source>Smooth out voltage readings from VESC.</source>
         <translation>Сглаживать показатель напряжения с VESC.</translation>
+    </message>
+    <message>
+        <source>Smooth margin</source>
+        <translation>Граница сглаживания</translation>
+    </message>
+    <message>
+        <source>Max voltage fluctuation that should be smoothed.</source>
+        <translation>Максимальное отклонение напряжения для сглаживания.</translation>
     </message>
 </context>
 <context>
