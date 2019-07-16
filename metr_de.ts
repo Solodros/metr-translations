@@ -1649,6 +1649,10 @@
         <source>Max voltage fluctuation that should be smoothed.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>LHB</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>TCPBridge</name>
