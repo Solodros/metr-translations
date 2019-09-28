@@ -79,6 +79,10 @@
         <source>FW %1.%2 not supported</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Read-only mode</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Contributions</name>
@@ -111,14 +115,6 @@
     <name>DetectorPro</name>
     <message>
         <source>Settings downloaded</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Startup mode cleared from &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Startup mode saved on &apos;%1&apos;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -531,47 +527,27 @@
     <name>Global</name>
     <message>
         <source>Over Voltage</source>
-        <translation>Sovratensione</translation>
+        <translation type="vanished">Sovratensione</translation>
     </message>
     <message>
         <source>Under Voltage</source>
-        <translation>Sottotensione</translation>
+        <translation type="vanished">Sottotensione</translation>
     </message>
     <message>
         <source>Over Current</source>
-        <translation>Sovracorrente</translation>
+        <translation type="vanished">Sovracorrente</translation>
     </message>
     <message>
         <source>Over Temp FET</source>
-        <translation>Temperatura Eccessiva FET</translation>
+        <translation type="vanished">Temperatura Eccessiva FET</translation>
     </message>
     <message>
         <source>Over Temp Motor</source>
-        <translation>Temeperatura Eccessiva Motore</translation>
+        <translation type="vanished">Temeperatura Eccessiva Motore</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Errore sconosciuto</translation>
-    </message>
-    <message>
-        <source>DRV8302</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>DRV8302 #2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Over Current #2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Over Temp FET #2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Over Temp Motor #2</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Errore sconosciuto</translation>
     </message>
 </context>
 <context>
@@ -594,7 +570,7 @@
     </message>
     <message>
         <source>New VESC firmware is available!</source>
-        <translation>È disponibile il nuovo firmware VESC!</translation>
+        <translation type="vanished">È disponibile il nuovo firmware VESC!</translation>
     </message>
     <message>
         <source>Your Metr Pro firmware is up to date</source>
@@ -602,19 +578,11 @@
     </message>
     <message>
         <source>Your VESC firmware is up to date</source>
-        <translation>Il tuo firmware VESC è aggiornato</translation>
+        <translation type="vanished">Il tuo firmware VESC è aggiornato</translation>
     </message>
     <message>
         <source>Please don&apos;t interrupt the process after it is started. You can brick the device.</source>
         <translation>Si prega di non interrompere il processo dopo che è stato avviato. Puoi brickare il dispositivo.</translation>
-    </message>
-    <message>
-        <source>Hardware</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You have multiple VESC setup. Settings backup will be created automatically but you will need to restore them manually using Expert Tab. Do you want to proceed?</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Settings uploaded</source>
@@ -704,7 +672,7 @@
     </message>
     <message>
         <source>Clear Startup Mode</source>
-        <translation>Cancella la modalità di avvio</translation>
+        <translation type="vanished">Cancella la modalità di avvio</translation>
     </message>
     <message>
         <source>Connection is offline.</source>
@@ -734,20 +702,16 @@
         <source>FW %1.%2 not supported</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Read-only mode</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ModesTabDelegate</name>
     <message>
         <source>Startup mode</source>
-        <translation>Modalità di avvio</translation>
-    </message>
-    <message>
-        <source>This VESC FW is not supported yet. Check log for details.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Startup mode not supported on UNITY</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Modalità di avvio</translation>
     </message>
 </context>
 <context>
@@ -1827,6 +1791,14 @@
     </message>
     <message>
         <source>LHB</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read-only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read-only VESC operation. All write commands will be blocked by Metr Pro.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

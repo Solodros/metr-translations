@@ -79,6 +79,10 @@
         <source>FW %1.%2 not supported</source>
         <translation>Прошивка %1.%2 не поддерживается</translation>
     </message>
+    <message>
+        <source>Read-only mode</source>
+        <translation>Защита от записи</translation>
+    </message>
 </context>
 <context>
     <name>Contributions</name>
@@ -115,11 +119,11 @@
     </message>
     <message>
         <source>Startup mode cleared from &apos;%1&apos;</source>
-        <translation>Режим загрузки удален с &apos;%1&apos;</translation>
+        <translation type="vanished">Режим загрузки удален с &apos;%1&apos;</translation>
     </message>
     <message>
         <source>Startup mode saved on &apos;%1&apos;</source>
-        <translation>Режим загрузки загружен на &apos;%1&apos;</translation>
+        <translation type="vanished">Режим загрузки загружен на &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -615,47 +619,39 @@
     <name>Global</name>
     <message>
         <source>Over Voltage</source>
-        <translation>Низкое напряжение</translation>
+        <translation type="vanished">Низкое напряжение</translation>
     </message>
     <message>
         <source>Under Voltage</source>
-        <translation>Высокое напряжение</translation>
+        <translation type="vanished">Высокое напряжение</translation>
     </message>
     <message>
         <source>Over Current</source>
-        <translation>Высокий ток</translation>
+        <translation type="vanished">Высокий ток</translation>
     </message>
     <message>
         <source>Over Temp FET</source>
-        <translation>Высокая температура МОП</translation>
+        <translation type="vanished">Высокая температура МОП</translation>
     </message>
     <message>
         <source>Over Temp Motor</source>
-        <translation>Высокаяа температура мотора</translation>
+        <translation type="vanished">Высокаяа температура мотора</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Неизвестная ошибка</translation>
+        <translation type="vanished">Неизвестная ошибка</translation>
     </message>
     <message>
         <source>Over Current #2</source>
-        <translation>Высокий ток #2</translation>
+        <translation type="vanished">Высокий ток #2</translation>
     </message>
     <message>
         <source>Over Temp FET #2</source>
-        <translation>Высокая температура МОП #2</translation>
+        <translation type="vanished">Высокая температура МОП #2</translation>
     </message>
     <message>
         <source>Over Temp Motor #2</source>
-        <translation>Высокаяа температура мотора #2</translation>
-    </message>
-    <message>
-        <source>DRV8302</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>DRV8302 #2</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Высокаяа температура мотора #2</translation>
     </message>
 </context>
 <context>
@@ -678,7 +674,7 @@
     </message>
     <message>
         <source>New VESC firmware is available!</source>
-        <translation>Доступно обновление для VESC!</translation>
+        <translation type="vanished">Доступно обновление для VESC!</translation>
     </message>
     <message>
         <source>Your Metr Pro firmware is up to date</source>
@@ -686,11 +682,11 @@
     </message>
     <message>
         <source>Your VESC firmware is up to date</source>
-        <translation>VESC обновления не найдены</translation>
+        <translation type="vanished">VESC обновления не найдены</translation>
     </message>
     <message>
         <source>Hardware</source>
-        <translation>версия чипа</translation>
+        <translation type="vanished">версия чипа</translation>
     </message>
     <message>
         <source>Please don&apos;t interrupt the process after it is started. You can brick the device.</source>
@@ -698,7 +694,7 @@
     </message>
     <message>
         <source>You have multiple VESC setup. Settings backup will be created automatically but you will need to restore them manually using Expert Tab. Do you want to proceed?</source>
-        <translation>У вас несколько VESC. Настройки будут сохранены автоматически, но их надо будет потом вручную загрузить через Expert. Хотите продолжить?</translation>
+        <translation type="vanished">У вас несколько VESC. Настройки будут сохранены автоматически, но их надо будет потом вручную загрузить через Expert. Хотите продолжить?</translation>
     </message>
     <message>
         <source>Settings uploaded</source>
@@ -788,7 +784,7 @@
     </message>
     <message>
         <source>Clear Startup Mode</source>
-        <translation>Удалить Режим Загрузки</translation>
+        <translation type="vanished">Удалить Режим Загрузки</translation>
     </message>
     <message>
         <source>Connection is offline.</source>
@@ -818,20 +814,24 @@
         <source>FW %1.%2 not supported</source>
         <translation>Прошивка %1.%2 не поддерживается</translation>
     </message>
+    <message>
+        <source>Read-only mode</source>
+        <translation>Защита от записи</translation>
+    </message>
 </context>
 <context>
     <name>ModesTabDelegate</name>
     <message>
         <source>Startup mode</source>
-        <translation>Режим Загрузки</translation>
+        <translation type="vanished">Режим Загрузки</translation>
     </message>
     <message>
         <source>This VESC FW is not supported yet. Check log for details.</source>
-        <translation>Эта прошивка VESC не поддерживается. Подробности в журнале.</translation>
+        <translation type="vanished">Эта прошивка VESC не поддерживается. Подробности в журнале.</translation>
     </message>
     <message>
         <source>Startup mode not supported on UNITY</source>
-        <translation>Режим загрузки не поддерживается для UNITY</translation>
+        <translation type="vanished">Режим загрузки не поддерживается для UNITY</translation>
     </message>
 </context>
 <context>
@@ -1996,6 +1996,14 @@
     <message>
         <source>LHB</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read-only</source>
+        <translation>Защита от записи</translation>
+    </message>
+    <message>
+        <source>Read-only VESC operation. All write commands will be blocked by Metr Pro.</source>
+        <translation>Защита от записи. Все команды, меняющие настройки, будут блокированы Metr Pro.</translation>
     </message>
 </context>
 <context>
