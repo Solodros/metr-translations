@@ -27,6 +27,10 @@
         <source>Signing in</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Last sync %1</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AccountTab</name>

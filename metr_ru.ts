@@ -27,6 +27,10 @@
         <source>Signing in</source>
         <translation>Авторизация</translation>
     </message>
+    <message>
+        <source>Last sync %1</source>
+        <translation>Последняя синхронизация %1</translation>
+    </message>
 </context>
 <context>
     <name>AccountTab</name>
@@ -52,7 +56,7 @@
     </message>
     <message>
         <source>Sync all</source>
-        <translation>Синхронизировать</translation>
+        <translation>Синхр всё</translation>
     </message>
     <message>
         <source>Sign in</source>
