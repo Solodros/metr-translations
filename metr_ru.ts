@@ -2,6 +2,64 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="ru_RU">
 <context>
+    <name>AccountManager</name>
+    <message>
+        <source>Not connected to Metr Pro</source>
+        <translation>Нет соединения с Metr Pro</translation>
+    </message>
+    <message>
+        <source>Syncing records</source>
+        <translation>Синхронизация</translation>
+    </message>
+    <message>
+        <source>Syncing record %1 of %2</source>
+        <translation>Синхронизация %1 из %2</translation>
+    </message>
+    <message>
+        <source>Syncing stats</source>
+        <translation>Синхронизация статистики</translation>
+    </message>
+    <message>
+        <source>Failed to sync, %1</source>
+        <translation>Провал синхронизации, %1</translation>
+    </message>
+    <message>
+        <source>Signing in</source>
+        <translation>Авторизация</translation>
+    </message>
+</context>
+<context>
+    <name>AccountTab</name>
+    <message>
+        <source>You must have an active connection to Metr Pro in order to sign in</source>
+        <translation>Для авторизации необходимо соединение с Metr Pro</translation>
+    </message>
+    <message>
+        <source>Scan sign in QR code</source>
+        <translation>Сосканируйте QR код</translation>
+    </message>
+    <message>
+        <source>Select whether you want to sign in on this device or authorize a web browser on another device</source>
+        <translation>Выберите между авторизацией на этом устройстве или в браузере на другом устройстве</translation>
+    </message>
+    <message>
+        <source>This device</source>
+        <translation>Это устройство</translation>
+    </message>
+    <message>
+        <source>Another device</source>
+        <translation>Другое устройство</translation>
+    </message>
+    <message>
+        <source>Sync all</source>
+        <translation>Синхронизировать</translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation>Авторизация</translation>
+    </message>
+</context>
+<context>
     <name>Announcement</name>
     <message>
         <source>Tell %1 every %2s above %3 below %4</source>
@@ -124,6 +182,10 @@
     <message>
         <source>Startup mode saved on &apos;%1&apos;</source>
         <translation type="vanished">Режим загрузки загружен на &apos;%1&apos;</translation>
+    </message>
+    <message>
+        <source>You are running UNITY FW 23.45. Please downgrade, you might get injured. This firmware has a serious issue which leads to UNITY accelerating without user input. Read more here: </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -639,7 +701,7 @@
     </message>
     <message>
         <source>Unknown error</source>
-        <translation type="vanished">Неизвестная ошибка</translation>
+        <translation>Неизвестная ошибка</translation>
     </message>
     <message>
         <source>Over Current #2</source>
@@ -652,6 +714,10 @@
     <message>
         <source>Over Temp Motor #2</source>
         <translation type="vanished">Высокаяа температура мотора #2</translation>
+    </message>
+    <message>
+        <source>Disconnected</source>
+        <translation>Нет соединения</translation>
     </message>
 </context>
 <context>
@@ -817,6 +883,10 @@
     <message>
         <source>Read-only mode</source>
         <translation>Защита от записи</translation>
+    </message>
+    <message>
+        <source>Scan mode QR code</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2004,6 +2074,26 @@
     <message>
         <source>Read-only VESC operation. All write commands will be blocked by Metr Pro.</source>
         <translation>Защита от записи. Все команды, меняющие настройки, будут блокированы Metr Pro.</translation>
+    </message>
+    <message>
+        <source>Account</source>
+        <translation>Аккаунт</translation>
+    </message>
+    <message>
+        <source>Automatic uploads</source>
+        <translation>Авто загрузка</translation>
+    </message>
+    <message>
+        <source>Upload each record after it ends.</source>
+        <translation>Загружать записи на сервер автоматически после завершения.</translation>
+    </message>
+    <message>
+        <source>All records</source>
+        <translation>Все записи</translation>
+    </message>
+    <message>
+        <source>When disabled, show only records for currently selected device. When enabled, shows all records.</source>
+        <translation>Показать записи только для текущего устройства. Или для всех устройств.</translation>
     </message>
 </context>
 <context>

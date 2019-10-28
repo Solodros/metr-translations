@@ -2,6 +2,64 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="de_DE">
 <context>
+    <name>AccountManager</name>
+    <message>
+        <source>Not connected to Metr Pro</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Syncing records</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Syncing record %1 of %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Syncing stats</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to sync, %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Signing in</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>AccountTab</name>
+    <message>
+        <source>You must have an active connection to Metr Pro in order to sign in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scan sign in QR code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select whether you want to sign in on this device or authorize a web browser on another device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Another device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sync all</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Announcement</name>
     <message>
         <source>Tell %1 every %2s above %3 below %4</source>
@@ -115,6 +173,10 @@
     <name>DetectorPro</name>
     <message>
         <source>Settings downloaded</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are running UNITY FW 23.45. Please downgrade, you might get injured. This firmware has a serious issue which leads to UNITY accelerating without user input. Read more here: </source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -427,7 +489,11 @@
     <name>Global</name>
     <message>
         <source>Unknown error</source>
-        <translation type="vanished">Unbekannter Fehler</translation>
+        <translation>Unbekannter Fehler</translation>
+    </message>
+    <message>
+        <source>Disconnected</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -584,6 +650,10 @@
     </message>
     <message>
         <source>Read-only mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scan mode QR code</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1607,6 +1677,26 @@
     </message>
     <message>
         <source>Read-only VESC operation. All write commands will be blocked by Metr Pro.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatic uploads</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upload each record after it ends.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All records</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When disabled, show only records for currently selected device. When enabled, shows all records.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
