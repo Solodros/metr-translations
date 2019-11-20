@@ -28,7 +28,31 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Last sync %1</source>
+        <source>moments ago</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 seconds ago</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 minutes ago</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 hours ago</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 days ago</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last sync: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status %1, %2</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
