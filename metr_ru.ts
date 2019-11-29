@@ -33,31 +33,31 @@
     </message>
     <message>
         <source>moments ago</source>
-        <translation type="unfinished"></translation>
+        <translation>только что</translation>
     </message>
     <message>
         <source>%1 seconds ago</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 секунд назад</translation>
     </message>
     <message>
         <source>%1 minutes ago</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 минут назад</translation>
     </message>
     <message>
         <source>%1 hours ago</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 часов назад</translation>
     </message>
     <message>
         <source>%1 days ago</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 дней назад</translation>
     </message>
     <message>
         <source>Last sync: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Последняя синхронизация: %1</translation>
     </message>
     <message>
         <source>Status %1, %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Статус %1, %2</translation>
     </message>
 </context>
 <context>
@@ -173,6 +173,10 @@
         <source>Read-only mode</source>
         <translation>Защита от записи</translation>
     </message>
+    <message>
+        <source>Can not create configurations.</source>
+        <translation>Не удалось инициализировать конфиг.</translation>
+    </message>
 </context>
 <context>
     <name>Contributions</name>
@@ -217,7 +221,7 @@
     </message>
     <message>
         <source>You are running UNITY FW 23.45. Please downgrade, you might get injured. This firmware has a serious issue which leads to UNITY accelerating without user input. Read more here: </source>
-        <translation type="unfinished"></translation>
+        <translation>У вас установлена прошивка UNITY 23.45. Пожалуйста, обновите версию! Вы можете пострадать! В этой прошивке серъезная проблема, котроллер разгоняется и не реагирует на пульт управления. Более подробно:</translation>
     </message>
 </context>
 <context>
@@ -302,6 +306,73 @@
     <message>
         <source>temp</source>
         <translation>темп</translation>
+    </message>
+</context>
+<context>
+    <name>Discharger</name>
+    <message>
+        <source>Discharging...</source>
+        <translation>Разрядка...</translation>
+    </message>
+    <message>
+        <source>Discharge complete</source>
+        <translation>Разрядка завершена</translation>
+    </message>
+    <message>
+        <source>No temperature sensors. Discharge not allowed</source>
+        <translation>Температурные сенсоры отсутствуют. Разрядка запрещена</translation>
+    </message>
+    <message>
+        <source>Motor temp reached %1C. Discharge not allowed. Please lower discharge current</source>
+        <translation>Температура мотора достигла %1С. Разрядка запрещена. Пожалуйста, уменьшите ток разрядки</translation>
+    </message>
+    <message>
+        <source>ESC temp reached %1C. Discharge not allowed. Please lower discharge current</source>
+        <translation>Температура ESC достигла %1C. Разрядка запрещена. Пожалуйста, уменьшите ток разрядки</translation>
+    </message>
+    <message>
+        <source>Battery: %1</source>
+        <translation>Аккумулятор: %1</translation>
+    </message>
+    <message>
+        <source>Voltage: %1</source>
+        <translation>Напряжение: %1</translation>
+    </message>
+    <message>
+        <source>Battery current: %1</source>
+        <translation>Ток аккумулятора: %1</translation>
+    </message>
+    <message>
+        <source>Motor current: %1</source>
+        <translation>Ток мотора: %1</translation>
+    </message>
+    <message>
+        <source>ESC temp: %1</source>
+        <translation>Температура ESC: %1</translation>
+    </message>
+    <message>
+        <source>Motor temp: %1</source>
+        <translation>Температура мотора: %1</translation>
+    </message>
+    <message>
+        <source>Ah: %1 Wh: %2</source>
+        <translation>Ач: %1 Вч: %2</translation>
+    </message>
+    <message>
+        <source>Stop</source>
+        <translation type="vanished">Стоп</translation>
+    </message>
+    <message>
+        <source>Start</source>
+        <translation type="vanished">Старт</translation>
+    </message>
+    <message>
+        <source>Stop discharge</source>
+        <translation>Остановить разрядку</translation>
+    </message>
+    <message>
+        <source>Start discharge</source>
+        <translation>Начать разрядку</translation>
     </message>
 </context>
 <context>
@@ -525,6 +596,10 @@
     <message>
         <source>Calibrate PPM</source>
         <translation>Калибровать PPM</translation>
+    </message>
+    <message>
+        <source>Discharge</source>
+        <translation>Разрядка</translation>
     </message>
 </context>
 <context>
@@ -835,7 +910,7 @@
     <name>ModeView</name>
     <message>
         <source>Reading motor configuration failed</source>
-        <translation>Не удалось считать конфигурацию мотора</translation>
+        <translation type="vanished">Не удалось считать конфигурацию мотора</translation>
     </message>
     <message>
         <source>To apply this mode, go back and swipe it to the right.</source>
@@ -851,7 +926,18 @@
     </message>
     <message>
         <source>Could not create motor configuration. Check log for details.</source>
-        <translation>Невозможно создать конфиг мотора. Проверьте лог файл.</translation>
+        <translation type="vanished">Невозможно создать конфиг мотора. Проверьте лог файл.</translation>
+    </message>
+    <message>
+        <source>Add more parameters</source>
+        <translation>Добавить параметр</translation>
+    </message>
+</context>
+<context>
+    <name>ModeViewDelegate</name>
+    <message>
+        <source>Remove</source>
+        <translation>Удалить</translation>
     </message>
 </context>
 <context>
@@ -870,11 +956,11 @@
     </message>
     <message>
         <source>Writing configuration to ESC #%1</source>
-        <translation>Запись конфигурации на ESC #%1</translation>
+        <translation type="vanished">Запись конфигурации на ESC #%1</translation>
     </message>
     <message>
         <source>Reading configuration from ESC #%1</source>
-        <translation>Чтение конфигурации с ESC #%1</translation>
+        <translation type="vanished">Чтение конфигурации с ESC #%1</translation>
     </message>
     <message>
         <source>Swipe right to apply mode. Swipe left to show options. Click to configure limits.</source>
@@ -906,7 +992,7 @@
     </message>
     <message>
         <source>Signature check failed</source>
-        <translation>Контрольная сумма не совпадает</translation>
+        <translation type="vanished">Контрольная сумма не совпадает</translation>
     </message>
     <message>
         <source>FW %1.%2 not supported</source>
@@ -918,7 +1004,15 @@
     </message>
     <message>
         <source>Scan mode QR code</source>
-        <translation type="unfinished"></translation>
+        <translation>Отсканируйте QR код</translation>
+    </message>
+    <message>
+        <source>timeout</source>
+        <translation>таймаут</translation>
+    </message>
+    <message>
+        <source>Can not create configurations.</source>
+        <translation>Невозможно инициализировать конфиг.</translation>
     </message>
 </context>
 <context>
@@ -2126,6 +2220,22 @@
     <message>
         <source>When disabled, show only records for currently selected device. When enabled, shows all records.</source>
         <translation>Показать записи только для текущего устройства. Или для всех устройств.</translation>
+    </message>
+    <message>
+        <source>Discharge motor current</source>
+        <translation>Ток мотора при разрядке</translation>
+    </message>
+    <message>
+        <source>Motor current used in foc_openloop command. Maximum recommended value is 20A. Larger values might result in overheating ESC and motor.</source>
+        <translation>Ток мотора используемый в команде foc_openloop. Максимальное рекомендуемое значение 20А. Выше может привести к перегреву ESC и мотора.</translation>
+    </message>
+    <message>
+        <source>Stop at %</source>
+        <translation>Разрядить до %</translation>
+    </message>
+    <message>
+        <source>Stop discharge at given battery percentage. Recommended storage value for lithium battery is 30%.</source>
+        <translation>Остановить разрядку когда будет достигнуто данное значение аккумулятора. Рекомендуемое значение для литиевых аккумуляторов 30%.</translation>
     </message>
 </context>
 <context>

@@ -169,6 +169,10 @@
         <source>Read-only mode</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Can not create configurations.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Contributions</name>
@@ -285,6 +289,73 @@
     </message>
     <message>
         <source>temp</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Discharger</name>
+    <message>
+        <source>Discharging...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Discharge complete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No temperature sensors. Discharge not allowed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Motor temp reached %1C. Discharge not allowed. Please lower discharge current</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ESC temp reached %1C. Discharge not allowed. Please lower discharge current</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Battery: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Voltage: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Battery current: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Motor current: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ESC temp: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Motor temp: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ah: %1 Wh: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop</source>
+        <translation type="obsolete">Parar</translation>
+    </message>
+    <message>
+        <source>Start</source>
+        <translation type="obsolete">Iniciar</translation>
+    </message>
+    <message>
+        <source>Stop discharge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start discharge</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -482,6 +553,10 @@
         <source>Calibrate PPM</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Discharge</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ExpertTabDelegate</name>
@@ -607,7 +682,7 @@
     <name>ModeView</name>
     <message>
         <source>Reading motor configuration failed</source>
-        <translation>Leitura da configuração do motor falhou</translation>
+        <translation type="vanished">Leitura da configuração do motor falhou</translation>
     </message>
     <message>
         <source>To apply this mode, go back and swipe it to the right.</source>
@@ -622,8 +697,15 @@
         <translation>Ler</translation>
     </message>
     <message>
-        <source>Could not create motor configuration. Check log for details.</source>
+        <source>Add more parameters</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ModeViewDelegate</name>
+    <message>
+        <source>Remove</source>
+        <translation type="unfinished">Remover</translation>
     </message>
 </context>
 <context>
@@ -642,11 +724,11 @@
     </message>
     <message>
         <source>Writing configuration to ESC #%1</source>
-        <translation>Escrevendo configuração do ESC.#%1</translation>
+        <translation type="vanished">Escrevendo configuração do ESC.#%1</translation>
     </message>
     <message>
         <source>Reading configuration from ESC #%1</source>
-        <translation>Lendo configuração do ESC #%1</translation>
+        <translation type="vanished">Lendo configuração do ESC #%1</translation>
     </message>
     <message>
         <source>Swipe right to apply mode. Swipe left to show options. Click to configure limits.</source>
@@ -677,10 +759,6 @@
         <translation>Para adicionar novos modos, toque no mais.</translation>
     </message>
     <message>
-        <source>Signature check failed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>FW %1.%2 not supported</source>
         <translation type="unfinished"></translation>
     </message>
@@ -690,6 +768,14 @@
     </message>
     <message>
         <source>Scan mode QR code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>timeout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Can not create configurations.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1717,6 +1803,22 @@
     </message>
     <message>
         <source>When disabled, show only records for currently selected device. When enabled, shows all records.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Discharge motor current</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Motor current used in foc_openloop command. Maximum recommended value is 20A. Larger values might result in overheating ESC and motor.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop at %</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop discharge at given battery percentage. Recommended storage value for lithium battery is 30%.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
