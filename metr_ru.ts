@@ -374,6 +374,10 @@
         <source>Start discharge</source>
         <translation>Начать разрядку</translation>
     </message>
+    <message>
+        <source>PPM signal detected. Turn off the remote and restart VESC.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ExpertTab</name>
@@ -2150,12 +2154,8 @@
         <translation>Проверять beta Metr Pro прошивку. Не рекомендуется.</translation>
     </message>
     <message>
-        <source>ESC Beta FW</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Check if beta ESC firmware is awailable. Not recommended.</source>
-        <translation>Проверять beta ESC прошивку. Не рекомендуется.</translation>
+        <translation type="vanished">Проверять beta ESC прошивку. Не рекомендуется.</translation>
     </message>
     <message>
         <source>Faults</source>
@@ -2331,11 +2331,11 @@
     <name>Vfu</name>
     <message>
         <source>Downloading new firmware</source>
-        <translation>Загрузка новой прошивки</translation>
+        <translation type="vanished">Загрузка новой прошивки</translation>
     </message>
     <message>
         <source>Error: %1</source>
-        <translation>Ошибка %1</translation>
+        <translation type="vanished">Ошибка %1</translation>
     </message>
     <message>
         <source>You have more than 2 VESCs connected via CAN. Seamless firmware update is not possible.</source>
@@ -2347,23 +2347,23 @@
     </message>
     <message>
         <source>Restoring configuration</source>
-        <translation>Восстановление настроек</translation>
+        <translation type="vanished">Восстановление настроек</translation>
     </message>
     <message>
         <source>CRC16 check failed!</source>
-        <translation>CRC16 проверка не прошла!</translation>
+        <translation type="vanished">CRC16 проверка не прошла!</translation>
     </message>
     <message>
         <source>Flashing</source>
-        <translation>Прошивка</translation>
+        <translation type="vanished">Прошивка</translation>
     </message>
     <message>
         <source>Firmware uploaded. Installing</source>
-        <translation>Прошивка загружена. Установка</translation>
+        <translation type="vanished">Прошивка загружена. Установка</translation>
     </message>
     <message>
         <source>Backing up configurations</source>
-        <translation>Сохранение настроек</translation>
+        <translation type="vanished">Сохранение настроек</translation>
     </message>
 </context>
 </TS>

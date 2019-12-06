@@ -358,6 +358,10 @@
         <source>Start discharge</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>PPM signal detected. Turn off the remote and restart VESC.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ExpertTab</name>
@@ -2187,11 +2191,11 @@
     </message>
     <message>
         <source>ESC Beta FW</source>
-        <translation type="unfinished">FW ESC Beta</translation>
+        <translation type="obsolete">FW ESC Beta</translation>
     </message>
     <message>
         <source>Check if beta ESC firmware is awailable. Not recommended.</source>
-        <translation type="unfinished">Vérifie si des versions beta du firmware de l&apos;ESC sont disponibles. Non recommandé.</translation>
+        <translation type="obsolete">Vérifie si des versions beta du firmware de l&apos;ESC sont disponibles. Non recommandé.</translation>
     </message>
     <message>
         <source>Faults</source>
@@ -2367,11 +2371,11 @@
     <name>Vfu</name>
     <message>
         <source>Downloading new firmware</source>
-        <translation>Téléchargement du nouveau firmware</translation>
+        <translation type="vanished">Téléchargement du nouveau firmware</translation>
     </message>
     <message>
         <source>Error: %1</source>
-        <translation>Erreur : %1</translation>
+        <translation type="vanished">Erreur : %1</translation>
     </message>
     <message>
         <source>You have more than 2 VESCs connected via CAN. Seamless firmware update is not possible.</source>
@@ -2383,23 +2387,19 @@
     </message>
     <message>
         <source>Restoring configuration</source>
-        <translation>Restauration de la configuration</translation>
+        <translation type="vanished">Restauration de la configuration</translation>
     </message>
     <message>
         <source>CRC16 check failed!</source>
-        <translation>Le contrôle CRC16 a échoué !</translation>
+        <translation type="vanished">Le contrôle CRC16 a échoué !</translation>
     </message>
     <message>
         <source>Flashing</source>
-        <translation>Mise à jour</translation>
+        <translation type="vanished">Mise à jour</translation>
     </message>
     <message>
         <source>Firmware uploaded. Installing</source>
-        <translation>Firmware téléchargé. Installation en cours</translation>
-    </message>
-    <message>
-        <source>Backing up configurations</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Firmware téléchargé. Installation en cours</translation>
     </message>
 </context>
 </TS>

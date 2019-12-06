@@ -358,6 +358,10 @@
         <source>Start discharge</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>PPM signal detected. Turn off the remote and restart VESC.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ExpertTab</name>
@@ -1930,14 +1934,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>ESC Beta FW</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Check if beta ESC firmware is awailable. Not recommended.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Faults</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2111,11 +2107,11 @@
     <name>Vfu</name>
     <message>
         <source>Downloading new firmware</source>
-        <translation>Download di nuovo firmware</translation>
+        <translation type="vanished">Download di nuovo firmware</translation>
     </message>
     <message>
         <source>Error: %1</source>
-        <translation>Errore %1</translation>
+        <translation type="vanished">Errore %1</translation>
     </message>
     <message>
         <source>You have more than 2 VESCs connected via CAN. Seamless firmware update is not possible.</source>
@@ -2127,23 +2123,15 @@
     </message>
     <message>
         <source>Restoring configuration</source>
-        <translation>Ripristino configurazione</translation>
+        <translation type="vanished">Ripristino configurazione</translation>
     </message>
     <message>
         <source>CRC16 check failed!</source>
-        <translation>Controllo CRC16 fallito!</translation>
+        <translation type="vanished">Controllo CRC16 fallito!</translation>
     </message>
     <message>
         <source>Firmware uploaded. Installing</source>
-        <translation>Firmware caricato. Installazione</translation>
-    </message>
-    <message>
-        <source>Flashing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Backing up configurations</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Firmware caricato. Installazione</translation>
     </message>
 </context>
 </TS>

@@ -358,6 +358,10 @@
         <source>Start discharge</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>PPM signal detected. Turn off the remote and restart VESC.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ExpertTab</name>
@@ -1734,14 +1738,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>ESC Beta FW</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Check if beta ESC firmware is awailable. Not recommended.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Faults</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1915,11 +1911,11 @@
     <name>Vfu</name>
     <message>
         <source>Downloading new firmware</source>
-        <translation>Baixando novo firmware</translation>
+        <translation type="vanished">Baixando novo firmware</translation>
     </message>
     <message>
         <source>Error: %1</source>
-        <translation>Erro %1</translation>
+        <translation type="vanished">Erro %1</translation>
     </message>
     <message>
         <source>You have more than 2 VESCs connected via CAN. Seamless firmware update is not possible.</source>
@@ -1931,23 +1927,19 @@
     </message>
     <message>
         <source>Restoring configuration</source>
-        <translation>Restaurando configuração</translation>
+        <translation type="vanished">Restaurando configuração</translation>
     </message>
     <message>
         <source>CRC16 check failed!</source>
-        <translation>Falha na verificação do CRC16!</translation>
+        <translation type="vanished">Falha na verificação do CRC16!</translation>
     </message>
     <message>
         <source>Flashing</source>
-        <translation>Piscando</translation>
+        <translation type="vanished">Piscando</translation>
     </message>
     <message>
         <source>Firmware uploaded. Installing</source>
-        <translation>Firmware enviado. Instalando</translation>
-    </message>
-    <message>
-        <source>Backing up configurations</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Firmware enviado. Instalando</translation>
     </message>
 </context>
 </TS>

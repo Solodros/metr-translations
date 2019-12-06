@@ -358,6 +358,10 @@
         <source>Start discharge</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>PPM signal detected. Turn off the remote and restart VESC.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ExpertTab</name>
@@ -2062,14 +2066,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>ESC Beta FW</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Check if beta ESC firmware is awailable. Not recommended.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Faults</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2243,7 +2239,7 @@
     <name>Vfu</name>
     <message>
         <source>Downloading new firmware</source>
-        <translation>Descargar nuevo firmware</translation>
+        <translation type="vanished">Descargar nuevo firmware</translation>
     </message>
     <message>
         <source>You have more than 2 VESCs connected via CAN. Seamless firmware update is not possible.</source>
@@ -2255,27 +2251,15 @@
     </message>
     <message>
         <source>Restoring configuration</source>
-        <translation>Restaurando la configuración</translation>
+        <translation type="vanished">Restaurando la configuración</translation>
     </message>
     <message>
         <source>CRC16 check failed!</source>
-        <translation>¡Falló la verificación CRC16!</translation>
+        <translation type="vanished">¡Falló la verificación CRC16!</translation>
     </message>
     <message>
         <source>Firmware uploaded. Installing</source>
-        <translation>Firmware subido Instalación</translation>
-    </message>
-    <message>
-        <source>Error: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Flashing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Backing up configurations</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Firmware subido Instalación</translation>
     </message>
 </context>
 </TS>

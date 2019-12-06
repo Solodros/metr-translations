@@ -350,6 +350,10 @@
         <source>Start discharge</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>PPM signal detected. Turn off the remote and restart VESC.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ExpertTab</name>
@@ -2151,14 +2155,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>ESC Beta FW</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Check if beta ESC firmware is awailable. Not recommended.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Faults</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2332,11 +2328,11 @@
     <name>Vfu</name>
     <message>
         <source>Downloading new firmware</source>
-        <translation>Lastar ned ny fastvare</translation>
+        <translation type="vanished">Lastar ned ny fastvare</translation>
     </message>
     <message>
         <source>Error: %1</source>
-        <translation>Feil: %1</translation>
+        <translation type="vanished">Feil: %1</translation>
     </message>
     <message>
         <source>You have more than 2 VESCs connected via CAN. Seamless firmware update is not possible.</source>
@@ -2348,23 +2344,19 @@
     </message>
     <message>
         <source>Restoring configuration</source>
-        <translation>Gjenoppretter konfigurasjonsdata</translation>
+        <translation type="vanished">Gjenoppretter konfigurasjonsdata</translation>
     </message>
     <message>
         <source>CRC16 check failed!</source>
-        <translation>CRC16-sjekk feila!</translation>
+        <translation type="vanished">CRC16-sjekk feila!</translation>
     </message>
     <message>
         <source>Flashing</source>
-        <translation>Flasher</translation>
+        <translation type="vanished">Flasher</translation>
     </message>
     <message>
         <source>Firmware uploaded. Installing</source>
-        <translation>Fastvare lasta opp. Installerer</translation>
-    </message>
-    <message>
-        <source>Backing up configurations</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Fastvare lasta opp. Installerer</translation>
     </message>
 </context>
 </TS>

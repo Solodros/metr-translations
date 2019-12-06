@@ -362,6 +362,10 @@
         <source>Start discharge</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>PPM signal detected. Turn off the remote and restart VESC.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ExpertTab</name>
@@ -1746,14 +1750,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>ESC Beta FW</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Check if beta ESC firmware is awailable. Not recommended.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Faults</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1927,11 +1923,11 @@
     <name>Vfu</name>
     <message>
         <source>Downloading new firmware</source>
-        <translation>Herunterladen neuer Firmware</translation>
+        <translation type="vanished">Herunterladen neuer Firmware</translation>
     </message>
     <message>
         <source>Error: %1</source>
-        <translation>Fehler: %1</translation>
+        <translation type="vanished">Fehler: %1</translation>
     </message>
     <message>
         <source>You have more than 2 VESCs connected via CAN. Seamless firmware update is not possible.</source>
@@ -1943,23 +1939,19 @@
     </message>
     <message>
         <source>Restoring configuration</source>
-        <translation>Konfiguration wird wiederhergestellt</translation>
+        <translation type="vanished">Konfiguration wird wiederhergestellt</translation>
     </message>
     <message>
         <source>CRC16 check failed!</source>
-        <translation>CRC16 Überprüfung fehlgeschlagen!</translation>
+        <translation type="vanished">CRC16 Überprüfung fehlgeschlagen!</translation>
     </message>
     <message>
         <source>Flashing</source>
-        <translation>Flashing</translation>
+        <translation type="vanished">Flashing</translation>
     </message>
     <message>
         <source>Firmware uploaded. Installing</source>
-        <translation>Firmware hochgeladen. Installiert</translation>
-    </message>
-    <message>
-        <source>Backing up configurations</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Firmware hochgeladen. Installiert</translation>
     </message>
 </context>
 </TS>
