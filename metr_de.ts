@@ -86,6 +86,22 @@
         <source>Sign in</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Select another module to link with %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accounts linked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to link accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Link</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Announcement</name>
@@ -1567,7 +1583,7 @@
     </message>
     <message>
         <source>DieBieMS</source>
-        <translation>DieBieMS</translation>
+        <translation type="vanished">DieBieMS</translation>
     </message>
     <message>
         <source>Auto Show</source>
@@ -1827,6 +1843,18 @@
     </message>
     <message>
         <source>Stop discharge at given battery percentage. Recommended storage value for lithium battery is 30%.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Force scan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Force connect to BLE devices.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DieBie/Flexi</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

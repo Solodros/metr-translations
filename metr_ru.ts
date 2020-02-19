@@ -90,6 +90,22 @@
         <source>Sign in</source>
         <translation>Авторизация</translation>
     </message>
+    <message>
+        <source>Select another module to link with %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accounts linked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to link accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Link</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Announcement</name>
@@ -2142,10 +2158,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>DieBieMS</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Beta Metr Pro FW</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2236,6 +2248,18 @@
     <message>
         <source>Stop discharge at given battery percentage. Recommended storage value for lithium battery is 30%.</source>
         <translation>Остановить разрядку когда будет достигнуто данное значение аккумулятора. Рекомендуемое значение для литиевых аккумуляторов 30%.</translation>
+    </message>
+    <message>
+        <source>Force scan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Force connect to BLE devices.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DieBie/Flexi</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
