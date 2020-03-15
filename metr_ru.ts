@@ -239,6 +239,14 @@
         <source>You are running UNITY FW 23.45. Please downgrade, you might get injured. This firmware has a serious issue which leads to UNITY accelerating without user input. Read more here: </source>
         <translation>У вас установлена прошивка UNITY 23.45. Пожалуйста, обновите версию! Вы можете пострадать! В этой прошивке серъезная проблема, котроллер разгоняется и не реагирует на пульт управления. Более подробно:</translation>
     </message>
+    <message>
+        <source>Invalid Metr Pro certificate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid Metr Pro signature</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DeviceSettingsView</name>
@@ -2260,6 +2268,10 @@
     <message>
         <source>DieBie/Flexi</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ah</source>
+        <translation type="unfinished">Ач</translation>
     </message>
 </context>
 <context>
