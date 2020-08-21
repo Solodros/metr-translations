@@ -4,10 +4,6 @@
 <context>
     <name>AccountManager</name>
     <message>
-        <source>Not connected to Metr Pro</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Syncing records</source>
         <translation type="unfinished"></translation>
     </message>
@@ -21,10 +17,6 @@
     </message>
     <message>
         <source>Failed to sync, %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Signing in</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -114,6 +106,21 @@
     <name>AnnouncementsTab</name>
     <message>
         <source>To add new announcements, click on the plus.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Auth</name>
+    <message>
+        <source>Signing in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not connected to Metr Pro</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status %1, %2</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -286,11 +293,15 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>softdevice and bootloader</source>
+        <source>firmware</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>firmware</source>
+        <source>Operation timed out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>softdevice and bootloader (phase 1 of 2)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -308,7 +319,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>temp</source>
+        <source>batt high</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>bms high</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -925,6 +940,46 @@
         <source>Upgrade</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>SD card</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>inserted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>missing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GPS module</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>detected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>BLE</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>encrypted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>not paired</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ESC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>not detected</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ModeView</name>
@@ -1306,51 +1361,106 @@
     <name>RealtimeTab</name>
     <message>
         <source>amp hours spent</source>
-        <translation>Ah nytta</translation>
+        <translation type="vanished">Ah nytta</translation>
     </message>
     <message>
         <source>Ah</source>
-        <translation>Ah</translation>
+        <translation type="vanished">Ah</translation>
     </message>
     <message>
         <source>amp hours regen</source>
-        <translation>Ah regenerert</translation>
+        <translation type="vanished">Ah regenerert</translation>
     </message>
     <message>
         <source>watt hours spent</source>
-        <translation>Wh nytta</translation>
+        <translation type="vanished">Wh nytta</translation>
     </message>
     <message>
         <source>watt hours regen</source>
-        <translation>Wh regenerert</translation>
+        <translation type="vanished">Wh regenerert</translation>
     </message>
     <message>
         <source>GPS speed</source>
-        <translation>GPS-fart</translation>
+        <translation type="vanished">GPS-fart</translation>
     </message>
     <message>
         <source>battery current</source>
-        <translation>straum frå batteriet</translation>
+        <translation type="vanished">straum frå batteriet</translation>
     </message>
     <message>
         <source>duty cycle</source>
-        <translation>nyttegrad</translation>
+        <translation type="vanished">nyttegrad</translation>
     </message>
     <message>
         <source>cell voltage</source>
-        <translation>cellespenning</translation>
+        <translation type="vanished">cellespenning</translation>
     </message>
     <message>
         <source>Reset layout</source>
-        <translation>Nullstill layout</translation>
+        <translation type="vanished">Nullstill layout</translation>
     </message>
     <message>
         <source>Exit layout mode</source>
-        <translation>Gå ut av layout-modus</translation>
+        <translation type="vanished">Gå ut av layout-modus</translation>
+    </message>
+</context>
+<context>
+    <name>RealtimeView</name>
+    <message>
+        <source>amp hours spent</source>
+        <translation type="unfinished">Ah nytta</translation>
+    </message>
+    <message>
+        <source>Ah</source>
+        <translation type="unfinished">Ah</translation>
+    </message>
+    <message>
+        <source>amp hours regen</source>
+        <translation type="unfinished">Ah regenerert</translation>
+    </message>
+    <message>
+        <source>watt hours spent</source>
+        <translation type="unfinished">Wh nytta</translation>
+    </message>
+    <message>
+        <source>watt hours regen</source>
+        <translation type="unfinished">Wh regenerert</translation>
+    </message>
+    <message>
+        <source>GPS speed</source>
+        <translation type="unfinished">GPS-fart</translation>
+    </message>
+    <message>
+        <source>battery current</source>
+        <translation type="unfinished">straum frå batteriet</translation>
+    </message>
+    <message>
+        <source>watts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>W</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>duty cycle</source>
+        <translation type="unfinished">nyttegrad</translation>
+    </message>
+    <message>
+        <source>cell voltage</source>
+        <translation type="unfinished">cellespenning</translation>
     </message>
     <message>
         <source>ppm</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset layout</source>
+        <translation type="unfinished">Nullstill layout</translation>
+    </message>
+    <message>
+        <source>Exit layout mode</source>
+        <translation type="unfinished">Gå ut av layout-modus</translation>
     </message>
 </context>
 <context>
@@ -1382,6 +1492,10 @@
         <source>Swipe left to show options. Click to open.</source>
         <translation>Sveip til venstre for å visa alternativ. Klikk for å opna.</translation>
     </message>
+    <message>
+        <source>Select at least 2 records to merge.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>RecordManager</name>
@@ -1401,6 +1515,18 @@
         <source>Maximum record size reached</source>
         <translation>Køyreloggen har nådd maks storleik</translation>
     </message>
+    <message>
+        <source>Fetching %1 records from SD card, %2%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Record resumed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Record paused</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>RecordSummary</name>
@@ -1414,7 +1540,7 @@
     </message>
     <message>
         <source>max current</source>
-        <translation>maks straum</translation>
+        <translation type="vanished">maks straum</translation>
     </message>
     <message>
         <source>energy</source>
@@ -1423,6 +1549,10 @@
     <message>
         <source>duration</source>
         <translation>tid</translation>
+    </message>
+    <message>
+        <source>regen</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1454,6 +1584,14 @@
     <message>
         <source>Energy</source>
         <translation type="unfinished">Energi</translation>
+    </message>
+    <message>
+        <source>Resume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1940,19 +2078,19 @@
     </message>
     <message>
         <source>CAN Fwd</source>
-        <translation>CAN-Fwd</translation>
+        <translation type="vanished">CAN-Fwd</translation>
     </message>
     <message>
         <source>If you have multiple ESCs connected via CAN bus, you can enable this setting and specify ID of the ESC to communicate with.</source>
-        <translation>VIss du har fleire ESCar tilkopla med CAN-bus kan du aktivera denne valet og spesifisera ID på kva ESC du vil kommunisera med.</translation>
+        <translation type="vanished">VIss du har fleire ESCar tilkopla med CAN-bus kan du aktivera denne valet og spesifisera ID på kva ESC du vil kommunisera med.</translation>
     </message>
     <message>
         <source>CAN Id</source>
-        <translation>CAN Id</translation>
+        <translation type="vanished">CAN Id</translation>
     </message>
     <message>
         <source>If CAN Fwd is enabled specify ID of the ESC to communicate with.</source>
-        <translation>Viss CAN-Fwd er aktivert, spesifiser IDen på ESCen du vil kommunisera med.</translation>
+        <translation type="vanished">Viss CAN-Fwd er aktivert, spesifiser IDen på ESCen du vil kommunisera med.</translation>
     </message>
     <message>
         <source>Hide Footer</source>
@@ -2179,10 +2317,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Prefer GPS speed and distance to RPM-calculated speed and distance. Do not enable this setting.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Freewheel</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2269,6 +2403,78 @@
     <message>
         <source>Ah</source>
         <translation type="unfinished">Ah</translation>
+    </message>
+    <message>
+        <source>Merge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>duty cycle</source>
+        <translation type="unfinished">nyttegrad</translation>
+    </message>
+    <message>
+        <source>Prefer GPS speed and distance to RPM-calculated speed and distance. Do not enable this setting for electric skateboards. Useful for hydrofoils.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pause notifications</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send notifications when records automatically pause or unpause.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Web view</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use web view for local records. Web view does not upload records, just loads them from the local filesystem. Turn off if you prefer legacy record view.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatic pause</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically pause and unpause records based on speed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pause delay</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Time in seconds after which record is paused if not moving (speed is zero).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Low memory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop records on low memory warning.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DieBieMS CAN ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Detect DieBieMS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PPM drift margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allowed drift during calibrating PPM remote in Expert tab. If you have issues calibrating your PPM remote, try to increase this value.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
