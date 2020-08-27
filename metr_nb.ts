@@ -196,6 +196,10 @@
         <source>Can not create configurations.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>reading version</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Contributions</name>
@@ -2467,14 +2471,6 @@
     </message>
     <message>
         <source>Stop records on low memory warning.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>DieBieMS CAN ID</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Detect DieBieMS</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
