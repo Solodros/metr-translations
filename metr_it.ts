@@ -123,6 +123,10 @@
         <source>Status %1, %2</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Device offline</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>BluetoothPane</name>
@@ -174,11 +178,11 @@
     </message>
     <message>
         <source>configuration read OK</source>
-        <translation type="unfinished">configurazione leggere OK</translation>
+        <translation type="obsolete">configurazione leggere OK</translation>
     </message>
     <message>
         <source>configuration write OK</source>
-        <translation type="unfinished">configurazione scrivere OK</translation>
+        <translation type="obsolete">configurazione scrivere OK</translation>
     </message>
     <message>
         <source>Signature check failed</source>
@@ -193,11 +197,23 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Can not create configurations.</source>
+        <source>reading version</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>reading version</source>
+        <source>read OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>write OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>no changes to write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>STM ID missing</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -410,7 +426,7 @@
     <name>ExpertTab</name>
     <message>
         <source>no device connected</source>
-        <translation type="unfinished">nessun dispositivo collegato</translation>
+        <translation type="obsolete">nessun dispositivo collegato</translation>
     </message>
     <message>
         <source>reading motor configuration</source>
@@ -466,11 +482,11 @@
     </message>
     <message>
         <source>Save configuration</source>
-        <translation type="unfinished">Salva configurazione</translation>
+        <translation type="obsolete">Salva configurazione</translation>
     </message>
     <message>
         <source>Load configuration</source>
-        <translation type="unfinished">Carica configurazione</translation>
+        <translation type="obsolete">Carica configurazione</translation>
     </message>
     <message>
         <source>Detect motor</source>
@@ -495,10 +511,6 @@
     <message>
         <source>Are you sure you want to run FOC Hall Sensors detection with following parameters?</source>
         <translation type="unfinished">Sei sicuro di voler eseguire il rilevamento dei sensori di Hall FOC con i seguenti parametri?</translation>
-    </message>
-    <message>
-        <source>This VESC FW is not supported yet. Check log for details.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hall sensor table:</source>
@@ -626,6 +638,10 @@
     </message>
     <message>
         <source>Discharge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>History</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -759,6 +775,13 @@
     </message>
     <message>
         <source>Disconnected</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>HistoryView</name>
+    <message>
+        <source>Use</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1267,6 +1290,14 @@
         <source>Select at least 2 records to merge.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>RecordManager</name>
@@ -1374,6 +1405,10 @@
     <message>
         <source>Add to favorites</source>
         <translation>Aggiungi ai preferiti</translation>
+    </message>
+    <message>
+        <source>Notes</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2156,10 +2191,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Force connect to BLE devices.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>DieBie/Flexi</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2229,6 +2260,18 @@
     </message>
     <message>
         <source>Allowed drift during calibrating PPM remote in Expert tab. If you have issues calibrating your PPM remote, try to increase this value.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Force connect to BLE devices. Do not enable.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Statistics</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Collect and send to cloud hardware versions to improve application in the long term. Metr Pro version, VESC version, VESC count, if DieBieMS is detected, etc. Location is never shared.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

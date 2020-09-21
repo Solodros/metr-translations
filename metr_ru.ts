@@ -92,19 +92,19 @@
     </message>
     <message>
         <source>Select another module to link with %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите другой модуль для соединения с %1</translation>
     </message>
     <message>
         <source>Accounts linked</source>
-        <translation type="unfinished"></translation>
+        <translation>Учетные записи соединены</translation>
     </message>
     <message>
         <source>Failed to link accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Не получилось соединить учетные записи</translation>
     </message>
     <message>
         <source>Link</source>
-        <translation type="unfinished"></translation>
+        <translation>Соединить</translation>
     </message>
 </context>
 <context>
@@ -125,15 +125,19 @@
     <name>Auth</name>
     <message>
         <source>Signing in</source>
-        <translation type="unfinished">Авторизация</translation>
+        <translation>Авторизация</translation>
     </message>
     <message>
         <source>Not connected to Metr Pro</source>
-        <translation type="unfinished">Нет соединения с Metr Pro</translation>
+        <translation>Нет соединения с Metr Pro</translation>
     </message>
     <message>
         <source>Status %1, %2</source>
-        <translation type="unfinished">Статус %1, %2</translation>
+        <translation>Статус %1, %2</translation>
+    </message>
+    <message>
+        <source>Device offline</source>
+        <translation>Нет соединения</translation>
     </message>
 </context>
 <context>
@@ -186,11 +190,11 @@
     </message>
     <message>
         <source>configuration read OK</source>
-        <translation>конфиг считан ОК</translation>
+        <translation type="vanished">конфиг считан ОК</translation>
     </message>
     <message>
         <source>configuration write OK</source>
-        <translation>конфиг записан ОК</translation>
+        <translation type="vanished">конфиг записан ОК</translation>
     </message>
     <message>
         <source>Signature check failed</source>
@@ -206,11 +210,27 @@
     </message>
     <message>
         <source>Can not create configurations.</source>
-        <translation>Не удалось инициализировать конфиг.</translation>
+        <translation type="vanished">Не удалось инициализировать конфиг.</translation>
     </message>
     <message>
         <source>reading version</source>
-        <translation type="unfinished"></translation>
+        <translation>чтение версии</translation>
+    </message>
+    <message>
+        <source>read OK</source>
+        <translation>чтение ОК</translation>
+    </message>
+    <message>
+        <source>write OK</source>
+        <translation>запись ОК</translation>
+    </message>
+    <message>
+        <source>no changes to write</source>
+        <translation>нет изменений</translation>
+    </message>
+    <message>
+        <source>STM ID missing</source>
+        <translation>STM ID отсутствует</translation>
     </message>
 </context>
 <context>
@@ -260,11 +280,11 @@
     </message>
     <message>
         <source>Invalid Metr Pro certificate</source>
-        <translation type="unfinished"></translation>
+        <translation>Невалидный сертификат</translation>
     </message>
     <message>
         <source>Invalid Metr Pro signature</source>
-        <translation type="unfinished"></translation>
+        <translation>Невалидная подпись</translation>
     </message>
 </context>
 <context>
@@ -326,11 +346,11 @@
     </message>
     <message>
         <source>Operation timed out</source>
-        <translation type="unfinished"></translation>
+        <translation>Операция прервана</translation>
     </message>
     <message>
         <source>softdevice and bootloader (phase 1 of 2)</source>
-        <translation type="unfinished"></translation>
+        <translation>softdevice и bootloader (фаза 1 из 2)</translation>
     </message>
 </context>
 <context>
@@ -435,18 +455,18 @@
     </message>
     <message>
         <source>PPM signal detected. Turn off the remote and restart VESC.</source>
-        <translation type="unfinished"></translation>
+        <translation>PPM сигнал обнаружен. Выключите пульт и перезагрузите VESC.</translation>
     </message>
 </context>
 <context>
     <name>ExpertTab</name>
     <message>
         <source>no device connected</source>
-        <translation>не соединено</translation>
+        <translation type="vanished">не соединено</translation>
     </message>
     <message>
         <source>This VESC FW is not supported yet. Check log for details.</source>
-        <translation>Эта прошивка VESC не поддерживается. Подробности в журнале.</translation>
+        <translation type="vanished">Эта прошивка VESC не поддерживается. Подробности в журнале.</translation>
     </message>
     <message>
         <source>reading motor configuration</source>
@@ -530,11 +550,11 @@
     </message>
     <message>
         <source>Save configuration</source>
-        <translation>Сохранить конфиг</translation>
+        <translation type="vanished">Сохранить конфиг</translation>
     </message>
     <message>
         <source>Load configuration</source>
-        <translation>Загрузить конфиг</translation>
+        <translation type="vanished">Загрузить конфиг</translation>
     </message>
     <message>
         <source>Detect motor</source>
@@ -622,7 +642,7 @@
     </message>
     <message>
         <source>WS2811 enabled. Hall sensors cannot be used.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Encoder enabled. Hall sensors cannot be used.</source>
@@ -663,6 +683,10 @@
     <message>
         <source>Discharge</source>
         <translation>Разрядка</translation>
+    </message>
+    <message>
+        <source>History</source>
+        <translation>История</translation>
     </message>
 </context>
 <context>
@@ -891,6 +915,13 @@
     </message>
 </context>
 <context>
+    <name>HistoryView</name>
+    <message>
+        <source>Use</source>
+        <translation>Загр</translation>
+    </message>
+</context>
+<context>
     <name>MetrProView</name>
     <message>
         <source>New Metr Pro firmware is available!</source>
@@ -970,23 +1001,23 @@
     </message>
     <message>
         <source>SD card</source>
-        <translation type="unfinished"></translation>
+        <translation>SD карта</translation>
     </message>
     <message>
         <source>inserted</source>
-        <translation type="unfinished"></translation>
+        <translation>обнаруж</translation>
     </message>
     <message>
         <source>missing</source>
-        <translation type="unfinished"></translation>
+        <translation>отсутствует</translation>
     </message>
     <message>
         <source>GPS module</source>
-        <translation type="unfinished"></translation>
+        <translation>GPS модуль</translation>
     </message>
     <message>
         <source>detected</source>
-        <translation type="unfinished"></translation>
+        <translation>обнаруж</translation>
     </message>
     <message>
         <source>BLE</source>
@@ -994,11 +1025,11 @@
     </message>
     <message>
         <source>encrypted</source>
-        <translation type="unfinished"></translation>
+        <translation>защищено</translation>
     </message>
     <message>
         <source>not paired</source>
-        <translation type="unfinished"></translation>
+        <translation>не сопряж</translation>
     </message>
     <message>
         <source>ESC</source>
@@ -1006,7 +1037,7 @@
     </message>
     <message>
         <source>not detected</source>
-        <translation type="unfinished"></translation>
+        <translation>не обнаруж</translation>
     </message>
 </context>
 <context>
@@ -1427,47 +1458,47 @@
     <name>RealtimeView</name>
     <message>
         <source>amp hours spent</source>
-        <translation type="unfinished">Ач потрач</translation>
+        <translation>Ач потрач</translation>
     </message>
     <message>
         <source>Ah</source>
-        <translation type="unfinished">Ач</translation>
+        <translation>Ач</translation>
     </message>
     <message>
         <source>amp hours regen</source>
-        <translation type="unfinished">Ач реген</translation>
+        <translation>Ач реген</translation>
     </message>
     <message>
         <source>watt hours spent</source>
-        <translation type="unfinished">Вч потрач</translation>
+        <translation>Вч потрач</translation>
     </message>
     <message>
         <source>watt hours regen</source>
-        <translation type="unfinished">Вч реген</translation>
+        <translation>Вч реген</translation>
     </message>
     <message>
         <source>GPS speed</source>
-        <translation type="unfinished">GPS скорость</translation>
+        <translation>GPS скорость</translation>
     </message>
     <message>
         <source>battery current</source>
-        <translation type="unfinished">ток аккум</translation>
+        <translation>ток аккум</translation>
     </message>
     <message>
         <source>watts</source>
-        <translation type="unfinished"></translation>
+        <translation>ватт</translation>
     </message>
     <message>
         <source>W</source>
-        <translation type="unfinished"></translation>
+        <translation>В</translation>
     </message>
     <message>
         <source>duty cycle</source>
-        <translation type="unfinished">скважность</translation>
+        <translation>скважность</translation>
     </message>
     <message>
         <source>cell voltage</source>
-        <translation type="unfinished">напряжение акк</translation>
+        <translation>напряжение акк</translation>
     </message>
     <message>
         <source>ppm</source>
@@ -1475,11 +1506,11 @@
     </message>
     <message>
         <source>Reset layout</source>
-        <translation type="unfinished">Восстановить расстановку</translation>
+        <translation>Восстановить расстановку</translation>
     </message>
     <message>
         <source>Exit layout mode</source>
-        <translation type="unfinished">Закончить редактирование</translation>
+        <translation>Закончить редактирование</translation>
     </message>
 </context>
 <context>
@@ -1513,7 +1544,15 @@
     </message>
     <message>
         <source>Select at least 2 records to merge.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите несколько записей для слияния.</translation>
+    </message>
+    <message>
+        <source>Title</source>
+        <translation>Название</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation>Описание</translation>
     </message>
 </context>
 <context>
@@ -1536,15 +1575,15 @@
     </message>
     <message>
         <source>Fetching %1 records from SD card, %2%</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка %1 записей с SD карты, %2%</translation>
     </message>
     <message>
         <source>Record resumed</source>
-        <translation type="unfinished"></translation>
+        <translation>Запись продолжена</translation>
     </message>
     <message>
         <source>Record paused</source>
-        <translation type="unfinished"></translation>
+        <translation>Запись приостановлена</translation>
     </message>
 </context>
 <context>
@@ -1571,7 +1610,7 @@
     </message>
     <message>
         <source>regen</source>
-        <translation type="unfinished"></translation>
+        <translation>реген</translation>
     </message>
 </context>
 <context>
@@ -1606,11 +1645,11 @@
     </message>
     <message>
         <source>Resume</source>
-        <translation type="unfinished"></translation>
+        <translation>Возобновить</translation>
     </message>
     <message>
         <source>Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>Пауза</translation>
     </message>
 </context>
 <context>
@@ -1622,6 +1661,10 @@
     <message>
         <source>Add to favorites</source>
         <translation>Добавить в избранные</translation>
+    </message>
+    <message>
+        <source>Notes</source>
+        <translation>Пометки</translation>
     </message>
 </context>
 <context>
@@ -2412,24 +2455,20 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Force connect to BLE devices.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>DieBie/Flexi</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Ah</source>
-        <translation type="unfinished">Ач</translation>
+        <translation>Ач</translation>
     </message>
     <message>
         <source>Merge</source>
-        <translation type="unfinished"></translation>
+        <translation>Объединить</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Отмена</translation>
     </message>
     <message>
         <source>duty cycle</source>
@@ -2457,19 +2496,19 @@
     </message>
     <message>
         <source>Automatic pause</source>
-        <translation type="unfinished"></translation>
+        <translation>Автопауза</translation>
     </message>
     <message>
         <source>Automatically pause and unpause records based on speed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматически ставить запись на паузу при остановке.</translation>
     </message>
     <message>
         <source>Pause delay</source>
-        <translation type="unfinished"></translation>
+        <translation>Задержка перед паузой</translation>
     </message>
     <message>
         <source>Time in seconds after which record is paused if not moving (speed is zero).</source>
-        <translation type="unfinished"></translation>
+        <translation>Время в секундах после которого запись ставится на паузу (при остановке).</translation>
     </message>
     <message>
         <source>Low memory</source>
@@ -2486,6 +2525,18 @@
     <message>
         <source>Allowed drift during calibrating PPM remote in Expert tab. If you have issues calibrating your PPM remote, try to increase this value.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Force connect to BLE devices. Do not enable.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Statistics</source>
+        <translation>Статистика</translation>
+    </message>
+    <message>
+        <source>Collect and send to cloud hardware versions to improve application in the long term. Metr Pro version, VESC version, VESC count, if DieBieMS is detected, etc. Location is never shared.</source>
+        <translation>Собирать и отправлять статистические данные для улучшения приложения. Версия прошивки Metr Pro, VESC, количество VESC, обнаружен DieBieMS или нет, и т. д. Местоположение не отправляется.</translation>
     </message>
 </context>
 <context>
