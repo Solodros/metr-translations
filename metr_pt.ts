@@ -129,6 +129,25 @@
     </message>
 </context>
 <context>
+    <name>BatteryPane</name>
+    <message>
+        <source>Select smart BMS to pair with %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unpair BMS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pair with BMS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pair current Metr Pro with Xiaoxiang BMS over bluetooth.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>BluetoothPane</name>
     <message>
         <source>Stop</source>
@@ -208,6 +227,10 @@
         <source>STM ID missing</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>writing BMS configuration</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Contributions</name>
@@ -252,6 +275,17 @@
     </message>
     <message>
         <source>Invalid Metr Pro signature</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>DeveloperView</name>
+    <message>
+        <source>Bytes received: %1, %2bps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bytes sent: %1, %2bps</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1117,6 +1151,10 @@
         <source>Record paused</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>status=%1, %2</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>RecordSummary</name>
@@ -1971,14 +2009,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Force scan</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>DieBie/Flexi</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Ah</source>
         <translation type="unfinished">Ah</translation>
     </message>
@@ -2047,15 +2077,15 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Force connect to BLE devices. Do not enable.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Statistics</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Collect and send to cloud hardware versions to improve application in the long term. Metr Pro version, VESC version, VESC count, if DieBieMS is detected, etc. Location is never shared.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DieBie/Flexi/LLT</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

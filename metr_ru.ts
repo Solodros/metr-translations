@@ -141,6 +141,25 @@
     </message>
 </context>
 <context>
+    <name>BatteryPane</name>
+    <message>
+        <source>Select smart BMS to pair with %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unpair BMS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pair with BMS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pair current Metr Pro with Xiaoxiang BMS over bluetooth.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>BluetoothPane</name>
     <message>
         <source>Bluetooth</source>
@@ -232,6 +251,10 @@
         <source>STM ID missing</source>
         <translation>STM ID отсутствует</translation>
     </message>
+    <message>
+        <source>writing BMS configuration</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Contributions</name>
@@ -285,6 +308,17 @@
     <message>
         <source>Invalid Metr Pro signature</source>
         <translation>Невалидная подпись</translation>
+    </message>
+</context>
+<context>
+    <name>DeveloperView</name>
+    <message>
+        <source>Bytes received: %1, %2bps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bytes sent: %1, %2bps</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1585,6 +1619,10 @@
         <source>Record paused</source>
         <translation>Запись приостановлена</translation>
     </message>
+    <message>
+        <source>status=%1, %2</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>RecordSummary</name>
@@ -2451,14 +2489,6 @@
         <translation>Остановить разрядку когда будет достигнуто данное значение аккумулятора. Рекомендуемое значение для литиевых аккумуляторов 30%.</translation>
     </message>
     <message>
-        <source>Force scan</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>DieBie/Flexi</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Ah</source>
         <translation>Ач</translation>
     </message>
@@ -2527,16 +2557,16 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Force connect to BLE devices. Do not enable.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Statistics</source>
         <translation>Статистика</translation>
     </message>
     <message>
         <source>Collect and send to cloud hardware versions to improve application in the long term. Metr Pro version, VESC version, VESC count, if DieBieMS is detected, etc. Location is never shared.</source>
         <translation>Собирать и отправлять статистические данные для улучшения приложения. Версия прошивки Metr Pro, VESC, количество VESC, обнаружен DieBieMS или нет, и т. д. Местоположение не отправляется.</translation>
+    </message>
+    <message>
+        <source>DieBie/Flexi/LLT</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
