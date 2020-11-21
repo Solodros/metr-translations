@@ -1222,14 +1222,22 @@
     <name>RecordTabDelegate</name>
     <message>
         <source>Remove from favorites</source>
-        <translation>Remover dos favoritos</translation>
+        <translation type="vanished">Remover dos favoritos</translation>
     </message>
     <message>
         <source>Add to favorites</source>
-        <translation>adicionar aos favoritos</translation>
+        <translation type="vanished">adicionar aos favoritos</translation>
     </message>
     <message>
         <source>Notes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not favorite</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Favorite</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2086,6 +2094,14 @@
     </message>
     <message>
         <source>DieBie/Flexi/LLT</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Detect DieBie/Flexi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically detect DieBieMS / FlexiBMS connected over CAN. Turn off if you have issues with FlexiBMS</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
