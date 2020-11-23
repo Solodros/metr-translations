@@ -144,19 +144,19 @@
     <name>BatteryPane</name>
     <message>
         <source>Select smart BMS to pair with %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите BMS для %1</translation>
     </message>
     <message>
         <source>Unpair BMS</source>
-        <translation type="unfinished"></translation>
+        <translation>Отсоединить BMS</translation>
     </message>
     <message>
         <source>Pair with BMS</source>
-        <translation type="unfinished"></translation>
+        <translation>Подключить BMS</translation>
     </message>
     <message>
         <source>Pair current Metr Pro with Xiaoxiang BMS over bluetooth.</source>
-        <translation type="unfinished"></translation>
+        <translation>Соединить выбранный Metr Pro с Xiaoxiang BMS через блютус.</translation>
     </message>
 </context>
 <context>
@@ -253,7 +253,7 @@
     </message>
     <message>
         <source>writing BMS configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>запись конфиг BMS</translation>
     </message>
 </context>
 <context>
@@ -1621,7 +1621,7 @@
     </message>
     <message>
         <source>status=%1, %2</source>
-        <translation type="unfinished"></translation>
+        <translation>статус=%1, %2</translation>
     </message>
 </context>
 <context>
@@ -1706,11 +1706,11 @@
     </message>
     <message>
         <source>Not favorite</source>
-        <translation type="unfinished"></translation>
+        <translation>Не избранн</translation>
     </message>
     <message>
         <source>Favorite</source>
-        <translation type="unfinished"></translation>
+        <translation>Избранн</translation>
     </message>
 </context>
 <context>
@@ -2514,23 +2514,23 @@
     </message>
     <message>
         <source>Prefer GPS speed and distance to RPM-calculated speed and distance. Do not enable this setting for electric skateboards. Useful for hydrofoils.</source>
-        <translation type="unfinished"></translation>
+        <translation>Предпочитать GPS скорость и расстояние вместо RPM скорости и расстояния. Не включать без необходимости. Используется для гидродосок (на воде).</translation>
     </message>
     <message>
         <source>Pause notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>Уведомления паузы</translation>
     </message>
     <message>
         <source>Send notifications when records automatically pause or unpause.</source>
-        <translation type="unfinished"></translation>
+        <translation>Отправлять уведомления когда запись автоматически ставится на паузу или снимается с паузы.</translation>
     </message>
     <message>
         <source>Web view</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Web просмотр</translation>
     </message>
     <message>
         <source>Use web view for local records. Web view does not upload records, just loads them from the local filesystem. Turn off if you prefer legacy record view.</source>
-        <translation type="unfinished"></translation>
+        <translation>Использовать web режим для записей. Web режим не отправляет записи на сервер, приложение загружает файлы локально. Выключите, если вы предпочитаете классический просмотрщик записей.</translation>
     </message>
     <message>
         <source>Automatic pause</source>
@@ -2578,11 +2578,11 @@
     </message>
     <message>
         <source>Detect DieBie/Flexi</source>
-        <translation type="unfinished"></translation>
+        <translation>Обнаруж DieBie/Flexi</translation>
     </message>
     <message>
         <source>Automatically detect DieBieMS / FlexiBMS connected over CAN. Turn off if you have issues with FlexiBMS</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматически обнаруживать DieBieMS / FlexiBMS через CAN. Выключите если у вас проблемы с FlexiBMS.</translation>
     </message>
 </context>
 <context>
