@@ -8,10 +8,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Syncing record %1 of %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Syncing stats</source>
         <translation type="unfinished"></translation>
     </message>
@@ -45,6 +41,14 @@
     </message>
     <message>
         <source>Status %1, %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uploading record %1 of %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloading record %1 of %2</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -125,6 +129,10 @@
     </message>
     <message>
         <source>Device offline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Connection not ready</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -237,6 +245,10 @@
     </message>
     <message>
         <source>writing BMS configuration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pausing DAVEGA</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -356,6 +368,29 @@
     </message>
     <message>
         <source>softdevice and bootloader (phase 1 of 2)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>DfuLte</name>
+    <message>
+        <source>Downloading new firmware</source>
+        <translation type="unfinished">Descargar nuevo firmware</translation>
+    </message>
+    <message>
+        <source>Error: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Operation timed out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update completed!</source>
+        <translation type="unfinished">¡Actualización completada!</translation>
+    </message>
+    <message>
+        <source>Uploading firmware to Metr LTE</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -682,6 +717,10 @@
         <source>History</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Restart BMS</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ExpertTabDelegate</name>
@@ -896,11 +935,18 @@
     </message>
 </context>
 <context>
-    <name>MetrProView</name>
+    <name>MainWindow</name>
     <message>
-        <source>New Metr Pro firmware is available!</source>
+        <source>Settings downloaded</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Failed to download settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>MetrProView</name>
     <message>
         <source>Installed version</source>
         <translation type="unfinished"></translation>
@@ -996,6 +1042,38 @@
     <message>
         <source>not detected</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New %1 firmware is available!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scan settings QR code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LTE</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your Metr LTE firmware is up to date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clone module settings and modes to the server. Gets a QR code that can be used to clone settings and modes to another module. After scan uploads settings for current module. This feature was requested by Bioboards for faster setup of new boards with same config.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share</source>
+        <translation type="unfinished">Compartir</translation>
+    </message>
+    <message>
+        <source>Scan</source>
+        <translation type="unfinished">Buscar</translation>
     </message>
 </context>
 <context>
@@ -1095,7 +1173,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Can not create configurations.</source>
+        <source>Can not create configurations</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1680,10 +1758,17 @@
     </message>
 </context>
 <context>
+    <name>StatusCell</name>
+    <message>
+        <source>pairing</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>StatusPopup</name>
     <message>
         <source>Are you sure you want to reset &apos;%1&apos; stats?</source>
-        <translation>¿Seguro que quieres restablecer las estadísticas &apos;%1&apos;?</translation>
+        <translation type="vanished">¿Seguro que quieres restablecer las estadísticas &apos;%1&apos;?</translation>
     </message>
     <message>
         <source>stats</source>
@@ -1691,11 +1776,11 @@
     </message>
     <message>
         <source>Reset</source>
-        <translation>Reiniciar</translation>
+        <translation type="vanished">Reiniciar</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Editar</translation>
+        <translation type="vanished">Editar</translation>
     </message>
 </context>
 <context>
@@ -2118,7 +2203,7 @@
     </message>
     <message>
         <source>Ride Time</source>
-        <translation>Duración</translation>
+        <translation type="vanished">Duración</translation>
     </message>
     <message>
         <source>Average Speed</source>
@@ -2126,7 +2211,7 @@
     </message>
     <message>
         <source>Top Speed</source>
-        <translation>Velocidad Máxima</translation>
+        <translation type="vanished">Velocidad Máxima</translation>
     </message>
     <message>
         <source>current</source>
@@ -2466,6 +2551,22 @@
     </message>
     <message>
         <source>Automatically detect DieBieMS / FlexiBMS connected over CAN. Turn off if you have issues with FlexiBMS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More logs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable debug logs. Results in much larger and more detailed log file. Recommended to restart app after changing this value.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Total Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Average Distance</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

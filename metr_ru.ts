@@ -13,7 +13,7 @@
     </message>
     <message>
         <source>Syncing record %1 of %2</source>
-        <translation>Синхронизация %1 из %2</translation>
+        <translation type="vanished">Синхронизация %1 из %2</translation>
     </message>
     <message>
         <source>Syncing stats</source>
@@ -58,6 +58,14 @@
     <message>
         <source>Status %1, %2</source>
         <translation>Статус %1, %2</translation>
+    </message>
+    <message>
+        <source>Uploading record %1 of %2</source>
+        <translation>Обновление %1 из %2</translation>
+    </message>
+    <message>
+        <source>Downloading record %1 of %2</source>
+        <translation>Загрузка %1 из %2</translation>
     </message>
 </context>
 <context>
@@ -138,6 +146,10 @@
     <message>
         <source>Device offline</source>
         <translation>Нет соединения</translation>
+    </message>
+    <message>
+        <source>Connection not ready</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -254,6 +266,10 @@
     <message>
         <source>writing BMS configuration</source>
         <translation>запись конфиг BMS</translation>
+    </message>
+    <message>
+        <source>Pausing DAVEGA</source>
+        <translation>Пауза DAVEGA</translation>
     </message>
 </context>
 <context>
@@ -385,6 +401,29 @@
     <message>
         <source>softdevice and bootloader (phase 1 of 2)</source>
         <translation>softdevice и bootloader (фаза 1 из 2)</translation>
+    </message>
+</context>
+<context>
+    <name>DfuLte</name>
+    <message>
+        <source>Downloading new firmware</source>
+        <translation>Загрузка новой прошивки</translation>
+    </message>
+    <message>
+        <source>Error: %1</source>
+        <translation>Ошибка: %1</translation>
+    </message>
+    <message>
+        <source>Operation timed out</source>
+        <translation>Операция прервана</translation>
+    </message>
+    <message>
+        <source>Update completed!</source>
+        <translation>Обновление завершено!</translation>
+    </message>
+    <message>
+        <source>Uploading firmware to Metr LTE</source>
+        <translation>Загрузка прошивки в Metr LTE</translation>
     </message>
 </context>
 <context>
@@ -722,6 +761,10 @@
         <source>History</source>
         <translation>История</translation>
     </message>
+    <message>
+        <source>Restart BMS</source>
+        <translation>Перезагрузить BMS</translation>
+    </message>
 </context>
 <context>
     <name>ExpertTabDelegate</name>
@@ -956,10 +999,21 @@
     </message>
 </context>
 <context>
+    <name>MainWindow</name>
+    <message>
+        <source>Settings downloaded</source>
+        <translation>Настройки загружены</translation>
+    </message>
+    <message>
+        <source>Failed to download settings</source>
+        <translation>Не удалось загрузить настройки</translation>
+    </message>
+</context>
+<context>
     <name>MetrProView</name>
     <message>
         <source>New Metr Pro firmware is available!</source>
-        <translation>Доступно обновление для Metr Pro!</translation>
+        <translation type="vanished">Доступно обновление для Metr Pro!</translation>
     </message>
     <message>
         <source>Installed version</source>
@@ -1073,6 +1127,38 @@
         <source>not detected</source>
         <translation>не обнаруж</translation>
     </message>
+    <message>
+        <source>New %1 firmware is available!</source>
+        <translation>Новое %1 обновление доступно!</translation>
+    </message>
+    <message>
+        <source>Scan settings QR code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LTE</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your Metr LTE firmware is up to date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clone module settings and modes to the server. Gets a QR code that can be used to clone settings and modes to another module. After scan uploads settings for current module. This feature was requested by Bioboards for faster setup of new boards with same config.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share</source>
+        <translation>Загрузить</translation>
+    </message>
+    <message>
+        <source>Scan</source>
+        <translation>Скан</translation>
+    </message>
 </context>
 <context>
     <name>ModeView</name>
@@ -1180,7 +1266,11 @@
     </message>
     <message>
         <source>Can not create configurations.</source>
-        <translation>Невозможно инициализировать конфиг.</translation>
+        <translation type="vanished">Невозможно инициализировать конфиг.</translation>
+    </message>
+    <message>
+        <source>Can not create configurations</source>
+        <translation>Невозможно инициализировать конфиг</translation>
     </message>
 </context>
 <context>
@@ -1671,7 +1761,7 @@
     </message>
     <message>
         <source>Duration</source>
-        <translation>Длительности</translation>
+        <translation>Времени</translation>
     </message>
     <message>
         <source>Distance</source>
@@ -1796,10 +1886,17 @@
     </message>
 </context>
 <context>
+    <name>StatusCell</name>
+    <message>
+        <source>pairing</source>
+        <translation>сопряжение</translation>
+    </message>
+</context>
+<context>
     <name>StatusPopup</name>
     <message>
         <source>Are you sure you want to reset &apos;%1&apos; stats?</source>
-        <translation>Вы уверены, что хотите сбросить статистику за &apos;%1&apos;?</translation>
+        <translation type="vanished">Вы уверены, что хотите сбросить статистику за &apos;%1&apos;?</translation>
     </message>
     <message>
         <source>stats</source>
@@ -1807,11 +1904,11 @@
     </message>
     <message>
         <source>Reset</source>
-        <translation>Сброс</translation>
+        <translation type="vanished">Сброс</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Редакт</translation>
+        <translation type="vanished">Редакт</translation>
     </message>
 </context>
 <context>
@@ -2242,7 +2339,7 @@
     </message>
     <message>
         <source>Ride Time</source>
-        <translation>Время в пути</translation>
+        <translation type="vanished">Время в пути</translation>
     </message>
     <message>
         <source>Average Speed</source>
@@ -2250,7 +2347,7 @@
     </message>
     <message>
         <source>Top Speed</source>
-        <translation>Макс скорость</translation>
+        <translation type="vanished">Макс скорость</translation>
     </message>
     <message>
         <source>Auto Show</source>
@@ -2510,7 +2607,7 @@
     </message>
     <message>
         <source>duty cycle</source>
-        <translation type="unfinished">скважность</translation>
+        <translation>скважность</translation>
     </message>
     <message>
         <source>Prefer GPS speed and distance to RPM-calculated speed and distance. Do not enable this setting for electric skateboards. Useful for hydrofoils.</source>
@@ -2583,6 +2680,22 @@
     <message>
         <source>Automatically detect DieBieMS / FlexiBMS connected over CAN. Turn off if you have issues with FlexiBMS</source>
         <translation>Автоматически обнаруживать DieBieMS / FlexiBMS через CAN. Выключите если у вас проблемы с FlexiBMS.</translation>
+    </message>
+    <message>
+        <source>More logs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable debug logs. Results in much larger and more detailed log file. Recommended to restart app after changing this value.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Total Time</source>
+        <translation>Общее Время</translation>
+    </message>
+    <message>
+        <source>Average Distance</source>
+        <translation>Среднее Расстояние</translation>
     </message>
 </context>
 <context>
