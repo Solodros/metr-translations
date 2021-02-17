@@ -186,10 +186,26 @@
     </message>
 </context>
 <context>
-    <name>Configurations</name>
+    <name>ConfigurationManager</name>
+    <message>
+        <source>Read-only mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pausing DAVEGA</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>reading motor configuration</source>
         <translation type="unfinished">lettura della configurazione del motore</translation>
+    </message>
+    <message>
+        <source>reading BMS configuration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>writing BMS configuration</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>writing motor configuration</source>
@@ -204,27 +220,7 @@
         <translation type="unfinished">scrivere la configurazione dell&apos;app</translation>
     </message>
     <message>
-        <source>configuration read OK</source>
-        <translation type="obsolete">configurazione leggere OK</translation>
-    </message>
-    <message>
-        <source>configuration write OK</source>
-        <translation type="obsolete">configurazione scrivere OK</translation>
-    </message>
-    <message>
         <source>Signature check failed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>FW %1.%2 not supported</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Read-only mode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>reading version</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -239,17 +235,32 @@
         <source>no changes to write</source>
         <translation type="unfinished"></translation>
     </message>
+</context>
+<context>
+    <name>Configurations</name>
     <message>
-        <source>STM ID missing</source>
-        <translation type="unfinished"></translation>
+        <source>reading motor configuration</source>
+        <translation type="obsolete">lettura della configurazione del motore</translation>
     </message>
     <message>
-        <source>writing BMS configuration</source>
-        <translation type="unfinished"></translation>
+        <source>writing motor configuration</source>
+        <translation type="obsolete">scrivere la configurazione del motore</translation>
     </message>
     <message>
-        <source>Pausing DAVEGA</source>
-        <translation type="unfinished"></translation>
+        <source>reading app configuration</source>
+        <translation type="obsolete">leggendo la configurazione dell&apos;app</translation>
+    </message>
+    <message>
+        <source>writing app configuration</source>
+        <translation type="obsolete">scrivere la configurazione dell&apos;app</translation>
+    </message>
+    <message>
+        <source>configuration read OK</source>
+        <translation type="obsolete">configurazione leggere OK</translation>
+    </message>
+    <message>
+        <source>configuration write OK</source>
+        <translation type="obsolete">configurazione scrivere OK</translation>
     </message>
 </context>
 <context>
@@ -280,13 +291,16 @@
     </message>
 </context>
 <context>
+    <name>Detector</name>
+    <message>
+        <source>You are running UNITY FW 23.45. Please downgrade, you might get injured. This firmware has a serious issue which leads to UNITY accelerating without user input. Read more here: </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>DetectorPro</name>
     <message>
         <source>Settings downloaded</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You are running UNITY FW 23.45. Please downgrade, you might get injured. This firmware has a serious issue which leads to UNITY accelerating without user input. Read more here: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1093,10 +1107,6 @@
         <translation>Per aggiungere nuove modalità, fare clic sul pulsante più.</translation>
     </message>
     <message>
-        <source>FW %1.%2 not supported</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Read-only mode</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1112,12 +1122,20 @@
         <source>Can not create configurations</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Firmware &lt;= 3.48. Won&apos;t apply.</source>
+        <translation type="unfinished">Firmware &lt;= 2.18. Non si applica. {3.48.?}</translation>
+    </message>
 </context>
 <context>
     <name>ModesTabDelegate</name>
     <message>
         <source>Startup mode</source>
         <translation type="vanished">Modalità di avvio</translation>
+    </message>
+    <message>
+        <source>Until reboot</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

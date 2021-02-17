@@ -149,7 +149,7 @@
     </message>
     <message>
         <source>Connection not ready</source>
-        <translation type="unfinished"></translation>
+        <translation>Соединение не готово</translation>
     </message>
 </context>
 <context>
@@ -202,10 +202,26 @@
     </message>
 </context>
 <context>
-    <name>Configurations</name>
+    <name>ConfigurationManager</name>
+    <message>
+        <source>Read-only mode</source>
+        <translation>Защита от записи</translation>
+    </message>
+    <message>
+        <source>Pausing DAVEGA</source>
+        <translation>Пауза DAVEGA</translation>
+    </message>
     <message>
         <source>reading motor configuration</source>
         <translation>считывание конфиг мотора</translation>
+    </message>
+    <message>
+        <source>reading BMS configuration</source>
+        <translation>считывание конфиг BMS</translation>
+    </message>
+    <message>
+        <source>writing BMS configuration</source>
+        <translation>запись конфиг BMS</translation>
     </message>
     <message>
         <source>writing motor configuration</source>
@@ -220,32 +236,8 @@
         <translation>запись конфиг прилож</translation>
     </message>
     <message>
-        <source>configuration read OK</source>
-        <translation type="vanished">конфиг считан ОК</translation>
-    </message>
-    <message>
-        <source>configuration write OK</source>
-        <translation type="vanished">конфиг записан ОК</translation>
-    </message>
-    <message>
         <source>Signature check failed</source>
         <translation>Контрольная сумма не совпадает</translation>
-    </message>
-    <message>
-        <source>FW %1.%2 not supported</source>
-        <translation>Прошивка %1.%2 не поддерживается</translation>
-    </message>
-    <message>
-        <source>Read-only mode</source>
-        <translation>Защита от записи</translation>
-    </message>
-    <message>
-        <source>Can not create configurations.</source>
-        <translation type="vanished">Не удалось инициализировать конфиг.</translation>
-    </message>
-    <message>
-        <source>reading version</source>
-        <translation>чтение версии</translation>
     </message>
     <message>
         <source>read OK</source>
@@ -259,17 +251,76 @@
         <source>no changes to write</source>
         <translation>нет изменений</translation>
     </message>
+</context>
+<context>
+    <name>Configurations</name>
+    <message>
+        <source>reading motor configuration</source>
+        <translation type="vanished">считывание конфиг мотора</translation>
+    </message>
+    <message>
+        <source>writing motor configuration</source>
+        <translation type="vanished">запись конфиг мотора</translation>
+    </message>
+    <message>
+        <source>reading app configuration</source>
+        <translation type="vanished">считывание конфиг прилож</translation>
+    </message>
+    <message>
+        <source>writing app configuration</source>
+        <translation type="vanished">запись конфиг прилож</translation>
+    </message>
+    <message>
+        <source>configuration read OK</source>
+        <translation type="vanished">конфиг считан ОК</translation>
+    </message>
+    <message>
+        <source>configuration write OK</source>
+        <translation type="vanished">конфиг записан ОК</translation>
+    </message>
+    <message>
+        <source>Signature check failed</source>
+        <translation type="vanished">Контрольная сумма не совпадает</translation>
+    </message>
+    <message>
+        <source>FW %1.%2 not supported</source>
+        <translation type="vanished">Прошивка %1.%2 не поддерживается</translation>
+    </message>
+    <message>
+        <source>Read-only mode</source>
+        <translation type="vanished">Защита от записи</translation>
+    </message>
+    <message>
+        <source>Can not create configurations.</source>
+        <translation type="vanished">Не удалось инициализировать конфиг.</translation>
+    </message>
+    <message>
+        <source>reading version</source>
+        <translation type="vanished">чтение версии</translation>
+    </message>
+    <message>
+        <source>read OK</source>
+        <translation type="vanished">чтение ОК</translation>
+    </message>
+    <message>
+        <source>write OK</source>
+        <translation type="vanished">запись ОК</translation>
+    </message>
+    <message>
+        <source>no changes to write</source>
+        <translation type="vanished">нет изменений</translation>
+    </message>
     <message>
         <source>STM ID missing</source>
-        <translation>STM ID отсутствует</translation>
+        <translation type="vanished">STM ID отсутствует</translation>
     </message>
     <message>
         <source>writing BMS configuration</source>
-        <translation>запись конфиг BMS</translation>
+        <translation type="vanished">запись конфиг BMS</translation>
     </message>
     <message>
         <source>Pausing DAVEGA</source>
-        <translation>Пауза DAVEGA</translation>
+        <translation type="vanished">Пауза DAVEGA</translation>
     </message>
 </context>
 <context>
@@ -300,6 +351,13 @@
     </message>
 </context>
 <context>
+    <name>Detector</name>
+    <message>
+        <source>You are running UNITY FW 23.45. Please downgrade, you might get injured. This firmware has a serious issue which leads to UNITY accelerating without user input. Read more here: </source>
+        <translation>У вас установлена прошивка UNITY 23.45. Пожалуйста, обновите версию! Вы можете пострадать! В этой прошивке серъезная проблема, котроллер разгоняется и не реагирует на пульт управления. Более подробно:</translation>
+    </message>
+</context>
+<context>
     <name>DetectorPro</name>
     <message>
         <source>Settings downloaded</source>
@@ -315,7 +373,7 @@
     </message>
     <message>
         <source>You are running UNITY FW 23.45. Please downgrade, you might get injured. This firmware has a serious issue which leads to UNITY accelerating without user input. Read more here: </source>
-        <translation>У вас установлена прошивка UNITY 23.45. Пожалуйста, обновите версию! Вы можете пострадать! В этой прошивке серъезная проблема, котроллер разгоняется и не реагирует на пульт управления. Более подробно:</translation>
+        <translation type="vanished">У вас установлена прошивка UNITY 23.45. Пожалуйста, обновите версию! Вы можете пострадать! В этой прошивке серъезная проблема, котроллер разгоняется и не реагирует на пульт управления. Более подробно:</translation>
     </message>
     <message>
         <source>Invalid Metr Pro certificate</source>
@@ -330,11 +388,11 @@
     <name>DeveloperView</name>
     <message>
         <source>Bytes received: %1, %2bps</source>
-        <translation type="unfinished"></translation>
+        <translation>Байт получено: %1, %2б/c</translation>
     </message>
     <message>
         <source>Bytes sent: %1, %2bps</source>
-        <translation type="unfinished"></translation>
+        <translation>Байт отправ: %1, %2б/c</translation>
     </message>
 </context>
 <context>
@@ -1250,7 +1308,7 @@
     </message>
     <message>
         <source>FW %1.%2 not supported</source>
-        <translation>Прошивка %1.%2 не поддерживается</translation>
+        <translation type="vanished">Прошивка %1.%2 не поддерживается</translation>
     </message>
     <message>
         <source>Read-only mode</source>
@@ -1272,6 +1330,10 @@
         <source>Can not create configurations</source>
         <translation>Невозможно инициализировать конфиг</translation>
     </message>
+    <message>
+        <source>Firmware &lt;= 3.48. Won&apos;t apply.</source>
+        <translation>Версия прошивки &lt;= 3.48 не поддерживается.</translation>
+    </message>
 </context>
 <context>
     <name>ModesTabDelegate</name>
@@ -1286,6 +1348,10 @@
     <message>
         <source>Startup mode not supported on UNITY</source>
         <translation type="vanished">Режим загрузки не поддерживается для UNITY</translation>
+    </message>
+    <message>
+        <source>Until reboot</source>
+        <translation>До выключ</translation>
     </message>
 </context>
 <context>
@@ -2623,7 +2689,7 @@
     </message>
     <message>
         <source>Web view</source>
-        <translation type="unfinished">Web просмотр</translation>
+        <translation>Web просмотр</translation>
     </message>
     <message>
         <source>Use web view for local records. Web view does not upload records, just loads them from the local filesystem. Turn off if you prefer legacy record view.</source>
@@ -2683,7 +2749,7 @@
     </message>
     <message>
         <source>More logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Больше логов</translation>
     </message>
     <message>
         <source>Enable debug logs. Results in much larger and more detailed log file. Recommended to restart app after changing this value.</source>
