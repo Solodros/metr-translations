@@ -213,11 +213,11 @@
     </message>
     <message>
         <source>reading motor configuration</source>
-        <translation>считывание конфиг мотора</translation>
+        <translation type="vanished">считывание конфиг мотора</translation>
     </message>
     <message>
         <source>reading BMS configuration</source>
-        <translation>считывание конфиг BMS</translation>
+        <translation type="vanished">считывание конфиг BMS</translation>
     </message>
     <message>
         <source>writing BMS configuration</source>
@@ -250,6 +250,14 @@
     <message>
         <source>no changes to write</source>
         <translation>нет изменений</translation>
+    </message>
+    <message>
+        <source>reading %1 configuration</source>
+        <translation>считывание конфиг %1</translation>
+    </message>
+    <message>
+        <source>motor</source>
+        <translation>мотор</translation>
     </message>
 </context>
 <context>

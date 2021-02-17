@@ -196,14 +196,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>reading motor configuration</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>reading BMS configuration</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>writing BMS configuration</source>
         <translation type="unfinished"></translation>
     </message>
@@ -233,6 +225,14 @@
     </message>
     <message>
         <source>no changes to write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>reading %1 configuration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>motor</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
