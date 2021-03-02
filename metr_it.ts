@@ -200,16 +200,12 @@
         <translation type="obsolete">lettura della configurazione del motore</translation>
     </message>
     <message>
-        <source>writing BMS configuration</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>writing motor configuration</source>
-        <translation type="unfinished">scrivere la configurazione del motore</translation>
+        <translation type="obsolete">scrivere la configurazione del motore</translation>
     </message>
     <message>
         <source>reading app configuration</source>
-        <translation type="unfinished">leggendo la configurazione dell&apos;app</translation>
+        <translation type="obsolete">leggendo la configurazione dell&apos;app</translation>
     </message>
     <message>
         <source>writing app configuration</source>
@@ -236,7 +232,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>motor</source>
+        <source>writing %1 configuration</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2441,6 +2437,42 @@
     </message>
     <message>
         <source>Average Distance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do your motors have temperature sensors?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number of parallel groups in series. For example, if your battery layout is 12S5P, put 12 here.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>For example, a 12S5P battery made of Samsung 30Q cells has the capacity of 5 x 3000 = 15000 mAh.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Percentage of the usable battery capacity. This is around 80% for a new battery. Set to a lower value as your battery deteriorates and the projected range becomes higher than the actual range.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If a compatible BMS is not available, voltage is retrieved from the VESC regardless of the setting.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>How long should we be trying to get a Wi-Fi connection established before we give up.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When you come to a stop, how long should we wait before switching the riding screen to a stationary screen.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The value is added to the total kilometers travelled as displayed on the lifetime screen.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically backup the config and data after each X kilometers travelled.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
