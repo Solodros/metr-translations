@@ -209,7 +209,7 @@
     </message>
     <message>
         <source>Pausing DAVEGA</source>
-        <translation>Пауза DAVEGA</translation>
+        <translation type="vanished">Пауза DAVEGA</translation>
     </message>
     <message>
         <source>reading motor configuration</source>
@@ -262,6 +262,10 @@
     <message>
         <source>writing %1 configuration</source>
         <translation>запись конфиг %1</translation>
+    </message>
+    <message>
+        <source>Pausing DAVEGAX</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1078,6 +1082,29 @@
         <source>Failed to download settings</source>
         <translation>Не удалось загрузить настройки</translation>
     </message>
+    <message>
+        <source>Failed to join map</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>MetrBridge</name>
+    <message>
+        <source>Remote access code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copied to clipboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bytes in</source>
+        <translation type="unfinished">Байт получено</translation>
+    </message>
+    <message>
+        <source>Bytes out</source>
+        <translation type="unfinished">Байт отправлено</translation>
+    </message>
 </context>
 <context>
     <name>MetrProView</name>
@@ -1103,7 +1130,7 @@
     </message>
     <message>
         <source>Your Metr Pro firmware is up to date</source>
-        <translation>Metr Pro обновления не найдены</translation>
+        <translation type="vanished">Metr Pro обновления не найдены</translation>
     </message>
     <message>
         <source>Your VESC firmware is up to date</source>
@@ -1228,6 +1255,10 @@
     <message>
         <source>Scan</source>
         <translation>Скан</translation>
+    </message>
+    <message>
+        <source>Your %1 firmware is up to date</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1791,6 +1822,14 @@
         <source>status=%1, %2</source>
         <translation>статус=%1, %2</translation>
     </message>
+    <message>
+        <source>Failed to open record, status=%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Different Metr Pro, not uploading. Connect to the correct Metr Pro and try to upload again.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>RecordSummary</name>
@@ -1938,6 +1977,18 @@
     <message>
         <source>version</source>
         <translation>версия</translation>
+    </message>
+    <message>
+        <source>Failed to open channel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remote Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allows remote support to connect over internet to your ESC.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2553,11 +2604,11 @@
     </message>
     <message>
         <source>Untested Firmware</source>
-        <translation>Неподдерж Прошивки</translation>
+        <translation type="vanished">Неподдерж Прошивки</translation>
     </message>
     <message>
         <source>Use with untested firmware versions. Very dangerous! Might brick your ESC!</source>
-        <translation>Использовать с неподдерживаемыми версиями прошивки. Очень опасно! Может закирпичить ваш ESC!</translation>
+        <translation type="vanished">Использовать с неподдерживаемыми версиями прошивки. Очень опасно! Может закирпичить ваш ESC!</translation>
     </message>
     <message>
         <source>℃</source>
@@ -2811,6 +2862,34 @@
         <source>Automatically backup the config and data after each X kilometers travelled.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Staging server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use staging server (stage.metr.at) instead of (metr.at). Staging server will not keep data and is not guaranteed to be online. Only for development and troubleshooting.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tracking</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Time in seconds between live data updates that are sent to the server. Recommended value is 10 seconds. With lower values you will get more frequent updates, but mobile data consumption will increase.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download assist-GPS data over cellular connection to speed up satellite discovery. Consumes about 3kb of data and occures at startup.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When this setting is enabled, motor current is limited to 1%. Brake current is not affected. The motors get very weak and unable to accelerate. This setting can also be activated from account section.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Homescreen notification template</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>TCPBridge</name>
@@ -2867,6 +2946,86 @@
     <message>
         <source>Send</source>
         <translation>Отправить</translation>
+    </message>
+</context>
+<context>
+    <name>TrackingManager</name>
+    <message>
+        <source>Failed to sign in, %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to create, %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to join, %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to delete, %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TrackingSetup</name>
+    <message>
+        <source>Map name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>My city</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nickname</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>esk8</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Expire after</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>days</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>hours</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>minutes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Join</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start tracking</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TrackingTab</name>
+    <message>
+        <source>To add new tracking, click on the plus.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TrackingTabDelegate</name>
+    <message>
+        <source>Expired</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Expires</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
