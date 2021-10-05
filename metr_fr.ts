@@ -128,11 +128,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Device offline</source>
+        <source>Connection not ready</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Connection not ready</source>
+        <source>Metr Pro disconnected. Connect and try again.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -168,6 +168,10 @@
     <message>
         <source>Scan</source>
         <translation>Scanner</translation>
+    </message>
+    <message>
+        <source>⬅ Start here</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -997,7 +1001,7 @@
         <translation type="obsolete">Surchauffe Moteur #2</translation>
     </message>
     <message>
-        <source>Disconnected</source>
+        <source>No device</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1279,7 +1283,7 @@
     </message>
     <message>
         <source>To add new modes, click on the plus.</source>
-        <translation>Pour ajouter de nouveaux modes, cliquer sur le signe plus.</translation>
+        <translation type="vanished">Pour ajouter de nouveaux modes, cliquer sur le signe plus.</translation>
     </message>
     <message>
         <source>Signature check failed</source>
@@ -1304,6 +1308,10 @@
     <message>
         <source>Firmware &lt;= 3.48. Won&apos;t apply.</source>
         <translation type="unfinished">Firmware &lt;= 2.18. Ne s&apos;applique pas. {3.48.?}</translation>
+    </message>
+    <message>
+        <source>To add a new mode, click on the plus.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1687,11 +1695,52 @@
     </message>
     <message>
         <source>Reset layout</source>
-        <translation type="unfinished">Réinitialiser la disposition</translation>
+        <translation type="obsolete">Réinitialiser la disposition</translation>
     </message>
     <message>
         <source>Exit layout mode</source>
-        <translation type="unfinished">Quitter le mode de disposition</translation>
+        <translation type="obsolete">Quitter le mode de disposition</translation>
+    </message>
+    <message>
+        <source>speed (gauge)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ppm (bar)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Throttle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Brake</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>rpm (gauge)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RPM
+x100</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>map</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add</source>
+        <translation type="unfinished">Ajouter</translation>
+    </message>
+    <message>
+        <source>Exit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset</source>
+        <translation type="unfinished">Réinitialiser</translation>
     </message>
 </context>
 <context>
@@ -1702,19 +1751,19 @@
     </message>
     <message>
         <source>duty</source>
-        <translation>Rapport cyclique</translation>
+        <translation type="vanished">Rapport cyclique</translation>
     </message>
     <message>
         <source>No data</source>
-        <translation>Pas de données</translation>
+        <translation type="vanished">Pas de données</translation>
     </message>
     <message>
         <source>fault</source>
-        <translation>Défaut</translation>
+        <translation type="vanished">Défaut</translation>
     </message>
     <message>
         <source>Loading...</source>
-        <translation>Chargement...</translation>
+        <translation type="vanished">Chargement...</translation>
     </message>
 </context>
 <context>
@@ -2711,14 +2760,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Web view</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use web view for local records. Web view does not upload records, just loads them from the local filesystem. Turn off if you prefer legacy record view.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Automatic pause</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2850,6 +2891,14 @@
         <source>Homescreen notification template</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>knots</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nautical</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>TCPBridge</name>
@@ -2926,6 +2975,10 @@
         <source>Failed to delete, %1</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Failed, %1</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>TrackingSetup</name>
@@ -2985,6 +3038,17 @@
     </message>
     <message>
         <source>Expires</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TrackingView</name>
+    <message>
+        <source>Resume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pause</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

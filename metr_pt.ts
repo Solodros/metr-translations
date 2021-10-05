@@ -128,11 +128,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Device offline</source>
+        <source>Connection not ready</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Connection not ready</source>
+        <source>Metr Pro disconnected. Connect and try again.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -167,6 +167,10 @@
     </message>
     <message>
         <source>Bluetooth</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>⬅ Start here</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -702,7 +706,7 @@
         <translation>Erro desconhecido</translation>
     </message>
     <message>
-        <source>Disconnected</source>
+        <source>No device</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -972,7 +976,7 @@
     </message>
     <message>
         <source>To add new modes, click on the plus.</source>
-        <translation>Para adicionar novos modos, toque no mais.</translation>
+        <translation type="vanished">Para adicionar novos modos, toque no mais.</translation>
     </message>
     <message>
         <source>Read-only mode</source>
@@ -993,6 +997,10 @@
     <message>
         <source>Firmware &lt;= 3.48. Won&apos;t apply.</source>
         <translation type="unfinished">Firmare &lt;= 2.18. Não suportado. {3.48.?}</translation>
+    </message>
+    <message>
+        <source>To add a new mode, click on the plus.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1172,30 +1180,52 @@
     </message>
     <message>
         <source>Reset layout</source>
-        <translation type="unfinished">Resetar layout</translation>
+        <translation type="obsolete">Resetar layout</translation>
     </message>
     <message>
         <source>Exit layout mode</source>
-        <translation type="unfinished">Sair modo de layout</translation>
+        <translation type="obsolete">Sair modo de layout</translation>
     </message>
-</context>
-<context>
-    <name>RecordDetails</name>
     <message>
-        <source>No data</source>
+        <source>speed (gauge)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>duty</source>
+        <source>ppm (bar)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>fault</source>
+        <source>Throttle</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Loading...</source>
+        <source>Brake</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>rpm (gauge)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RPM
+x100</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>map</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add</source>
+        <translation type="unfinished">Adicionar</translation>
+    </message>
+    <message>
+        <source>Exit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset</source>
+        <translation type="unfinished">Resetar</translation>
     </message>
 </context>
 <context>
@@ -2156,14 +2186,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Web view</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use web view for local records. Web view does not upload records, just loads them from the local filesystem. Turn off if you prefer legacy record view.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Automatic pause</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2295,6 +2317,14 @@
         <source>Homescreen notification template</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>knots</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nautical</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>TCPBridge</name>
@@ -2371,6 +2401,10 @@
         <source>Failed to delete, %1</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Failed, %1</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>TrackingSetup</name>
@@ -2430,6 +2464,17 @@
     </message>
     <message>
         <source>Expires</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TrackingView</name>
+    <message>
+        <source>Resume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pause</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

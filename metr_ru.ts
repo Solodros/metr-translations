@@ -145,11 +145,16 @@
     </message>
     <message>
         <source>Device offline</source>
-        <translation>Нет соединения</translation>
+        <translation type="vanished">Нет соединения</translation>
     </message>
     <message>
         <source>Connection not ready</source>
         <translation>Соединение не готово</translation>
+    </message>
+    <message>
+        <source>Metr Pro disconnected. Connect and try again.</source>
+        <translatorcomment>Нет соединения с Metr Pro. Включите и попробуйте снова.</translatorcomment>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -184,6 +189,10 @@
     <message>
         <source>Scan</source>
         <translation>Скан</translation>
+    </message>
+    <message>
+        <source>⬅ Start here</source>
+        <translation>⬅ Начать здесь</translation>
     </message>
 </context>
 <context>
@@ -265,7 +274,7 @@
     </message>
     <message>
         <source>Pausing DAVEGAX</source>
-        <translation type="unfinished"></translation>
+        <translation>Пауза DAVEGAX</translation>
     </message>
 </context>
 <context>
@@ -527,11 +536,11 @@
     </message>
     <message>
         <source>batt high</source>
-        <translation type="unfinished"></translation>
+        <translation>акк макс</translation>
     </message>
     <message>
         <source>bms high</source>
-        <translation type="unfinished"></translation>
+        <translation>акк мин</translation>
     </message>
 </context>
 <context>
@@ -1062,7 +1071,11 @@
     </message>
     <message>
         <source>Disconnected</source>
-        <translation>Нет соединения</translation>
+        <translation type="vanished">Нет соединения</translation>
+    </message>
+    <message>
+        <source>No device</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1084,26 +1097,26 @@
     </message>
     <message>
         <source>Failed to join map</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось подключиться к карте</translation>
     </message>
 </context>
 <context>
     <name>MetrBridge</name>
     <message>
         <source>Remote access code</source>
-        <translation type="unfinished"></translation>
+        <translation>Код для доступа</translation>
     </message>
     <message>
         <source>Copied to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Скопировано в буффер обмена</translation>
     </message>
     <message>
         <source>Bytes in</source>
-        <translation type="unfinished">Байт получено</translation>
+        <translation>Байт получено</translation>
     </message>
     <message>
         <source>Bytes out</source>
-        <translation type="unfinished">Байт отправлено</translation>
+        <translation>Байт отправлено</translation>
     </message>
 </context>
 <context>
@@ -1238,7 +1251,7 @@
     </message>
     <message>
         <source>Your Metr LTE firmware is up to date</source>
-        <translation type="unfinished"></translation>
+        <translation>Metr LTE обновления не найдены</translation>
     </message>
     <message>
         <source>Clone</source>
@@ -1258,7 +1271,7 @@
     </message>
     <message>
         <source>Your %1 firmware is up to date</source>
-        <translation type="unfinished"></translation>
+        <translation>Прошивка %1 последней версии</translation>
     </message>
 </context>
 <context>
@@ -1343,7 +1356,7 @@
     </message>
     <message>
         <source>To add new modes, click on the plus.</source>
-        <translation>Чтобы добавить новые режимы, нажмите плюс.</translation>
+        <translation type="vanished">Чтобы добавить новые режимы, нажмите плюс.</translation>
     </message>
     <message>
         <source>Signature check failed</source>
@@ -1376,6 +1389,10 @@
     <message>
         <source>Firmware &lt;= 3.48. Won&apos;t apply.</source>
         <translation>Версия прошивки &lt;= 3.48 не поддерживается.</translation>
+    </message>
+    <message>
+        <source>To add a new mode, click on the plus.</source>
+        <translation>Чтобы добавить новый режим, нажмите на плюс.</translation>
     </message>
 </context>
 <context>
@@ -1739,11 +1756,53 @@
     </message>
     <message>
         <source>Reset layout</source>
-        <translation>Восстановить расстановку</translation>
+        <translation type="vanished">Восстановить расстановку</translation>
     </message>
     <message>
         <source>Exit layout mode</source>
-        <translation>Закончить редактирование</translation>
+        <translation type="vanished">Закончить редактирование</translation>
+    </message>
+    <message>
+        <source>speed (gauge)</source>
+        <translation>скорость (спидометр)</translation>
+    </message>
+    <message>
+        <source>ppm (bar)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Throttle</source>
+        <translation>Газ</translation>
+    </message>
+    <message>
+        <source>Brake</source>
+        <translation>Тормоз</translation>
+    </message>
+    <message>
+        <source>rpm (gauge)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RPM
+x100</source>
+        <translation>Оборот
+x100</translation>
+    </message>
+    <message>
+        <source>map</source>
+        <translation>карта</translation>
+    </message>
+    <message>
+        <source>Add</source>
+        <translation>Добавить</translation>
+    </message>
+    <message>
+        <source>Exit</source>
+        <translation>Выход</translation>
+    </message>
+    <message>
+        <source>Reset</source>
+        <translation>Сброс</translation>
     </message>
 </context>
 <context>
@@ -1754,19 +1813,19 @@
     </message>
     <message>
         <source>duty</source>
-        <translation>скважность</translation>
+        <translation type="vanished">скважность</translation>
     </message>
     <message>
         <source>No data</source>
-        <translation>Нет данных</translation>
+        <translation type="vanished">Нет данных</translation>
     </message>
     <message>
         <source>fault</source>
-        <translation>ошибка</translation>
+        <translation type="vanished">ошибка</translation>
     </message>
     <message>
         <source>Loading...</source>
-        <translation>Закрузка...</translation>
+        <translation type="vanished">Закрузка...</translation>
     </message>
 </context>
 <context>
@@ -1824,11 +1883,11 @@
     </message>
     <message>
         <source>Failed to open record, status=%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось открыть запись, статус=%1</translation>
     </message>
     <message>
         <source>Different Metr Pro, not uploading. Connect to the correct Metr Pro and try to upload again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Другой Metr Pro модуль. Подключитесь к правильному Metr Pro модулю и попробуйте снова.</translation>
     </message>
 </context>
 <context>
@@ -1980,15 +2039,15 @@
     </message>
     <message>
         <source>Failed to open channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось открыть канал</translation>
     </message>
     <message>
         <source>Remote Access</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалённый доступ</translation>
     </message>
     <message>
         <source>Allows remote support to connect over internet to your ESC.</source>
-        <translation type="unfinished"></translation>
+        <translation>Открывает удалённый доступ к вашему ESC через интернет.</translation>
     </message>
 </context>
 <context>
@@ -2752,11 +2811,11 @@
     </message>
     <message>
         <source>Web view</source>
-        <translation>Web просмотр</translation>
+        <translation type="vanished">Web просмотр</translation>
     </message>
     <message>
         <source>Use web view for local records. Web view does not upload records, just loads them from the local filesystem. Turn off if you prefer legacy record view.</source>
-        <translation>Использовать web режим для записей. Web режим не отправляет записи на сервер, приложение загружает файлы локально. Выключите, если вы предпочитаете классический просмотрщик записей.</translation>
+        <translation type="vanished">Использовать web режим для записей. Web режим не отправляет записи на сервер, приложение загружает файлы локально. Выключите, если вы предпочитаете классический просмотрщик записей.</translation>
     </message>
     <message>
         <source>Automatic pause</source>
@@ -2776,11 +2835,11 @@
     </message>
     <message>
         <source>Low memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Мало памяти</translation>
     </message>
     <message>
         <source>Stop records on low memory warning.</source>
-        <translation type="unfinished"></translation>
+        <translation>Остановить запись когда мало памяти.</translation>
     </message>
     <message>
         <source>PPM drift margin</source>
@@ -2872,7 +2931,7 @@
     </message>
     <message>
         <source>Tracking</source>
-        <translation type="unfinished"></translation>
+        <translation>Трекинг</translation>
     </message>
     <message>
         <source>Time in seconds between live data updates that are sent to the server. Recommended value is 10 seconds. With lower values you will get more frequent updates, but mobile data consumption will increase.</source>
@@ -2889,6 +2948,14 @@
     <message>
         <source>Homescreen notification template</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>knots</source>
+        <translation>узлов</translation>
+    </message>
+    <message>
+        <source>Nautical</source>
+        <translation>Морская</translation>
     </message>
 </context>
 <context>
@@ -2952,34 +3019,38 @@
     <name>TrackingManager</name>
     <message>
         <source>Failed to sign in, %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось залогиниться, %1</translation>
     </message>
     <message>
         <source>Failed to create, %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось создать, %1</translation>
     </message>
     <message>
         <source>Failed to join, %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось подключиться, %1</translation>
     </message>
     <message>
         <source>Failed to delete, %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось удалить, %1</translation>
+    </message>
+    <message>
+        <source>Failed, %1</source>
+        <translation>Ошибка, %1</translation>
     </message>
 </context>
 <context>
     <name>TrackingSetup</name>
     <message>
         <source>Map name</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя карты</translation>
     </message>
     <message>
         <source>My city</source>
-        <translation type="unfinished"></translation>
+        <translation>Мой город</translation>
     </message>
     <message>
         <source>Nickname</source>
-        <translation type="unfinished"></translation>
+        <translation>Ник</translation>
     </message>
     <message>
         <source>esk8</source>
@@ -2987,45 +3058,56 @@
     </message>
     <message>
         <source>Expire after</source>
-        <translation type="unfinished"></translation>
+        <translation>Истекает после</translation>
     </message>
     <message>
         <source>days</source>
-        <translation type="unfinished"></translation>
+        <translation>дней</translation>
     </message>
     <message>
         <source>hours</source>
-        <translation type="unfinished"></translation>
+        <translation>часов</translation>
     </message>
     <message>
         <source>minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>минут</translation>
     </message>
     <message>
         <source>Join</source>
-        <translation type="unfinished"></translation>
+        <translation>Присоединиться</translation>
     </message>
     <message>
         <source>Start tracking</source>
-        <translation type="unfinished"></translation>
+        <translation>Начать трекинг</translation>
     </message>
 </context>
 <context>
     <name>TrackingTab</name>
     <message>
         <source>To add new tracking, click on the plus.</source>
-        <translation type="unfinished"></translation>
+        <translation>Чтобы добавить новый трекинг, нажмите на плюс.</translation>
     </message>
 </context>
 <context>
     <name>TrackingTabDelegate</name>
     <message>
         <source>Expired</source>
-        <translation type="unfinished"></translation>
+        <translation>Истёк</translation>
     </message>
     <message>
         <source>Expires</source>
-        <translation type="unfinished"></translation>
+        <translation>Истекает</translation>
+    </message>
+</context>
+<context>
+    <name>TrackingView</name>
+    <message>
+        <source>Resume</source>
+        <translation>Возобновить</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>Пауза</translation>
     </message>
 </context>
 <context>

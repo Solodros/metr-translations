@@ -128,11 +128,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Device offline</source>
+        <source>Connection not ready</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Connection not ready</source>
+        <source>Metr Pro disconnected. Connect and try again.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -168,6 +168,10 @@
     <message>
         <source>Scan</source>
         <translation>Søk</translation>
+    </message>
+    <message>
+        <source>⬅ Start here</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -969,7 +973,7 @@
         <translation type="obsolete">DRV8302 #2</translation>
     </message>
     <message>
-        <source>Disconnected</source>
+        <source>No device</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1248,7 +1252,7 @@
     </message>
     <message>
         <source>To add new modes, click on the plus.</source>
-        <translation>Klikk på plussteiknet for å legga til ny modus.</translation>
+        <translation type="vanished">Klikk på plussteiknet for å legga til ny modus.</translation>
     </message>
     <message>
         <source>Read-only mode</source>
@@ -1269,6 +1273,10 @@
     <message>
         <source>Firmware &lt;= 3.48. Won&apos;t apply.</source>
         <translation type="unfinished">Det vil ikkje ha påverknad viss fastvare &lt;= 2.18. {3.48.?}</translation>
+    </message>
+    <message>
+        <source>To add a new mode, click on the plus.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1644,22 +1652,63 @@
     </message>
     <message>
         <source>Reset layout</source>
-        <translation type="unfinished">Nullstill layout</translation>
+        <translation type="obsolete">Nullstill layout</translation>
     </message>
     <message>
         <source>Exit layout mode</source>
-        <translation type="unfinished">Gå ut av layout-modus</translation>
+        <translation type="obsolete">Gå ut av layout-modus</translation>
+    </message>
+    <message>
+        <source>speed (gauge)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ppm (bar)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Throttle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Brake</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>rpm (gauge)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RPM
+x100</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>map</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add</source>
+        <translation type="unfinished">Legg til</translation>
+    </message>
+    <message>
+        <source>Exit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset</source>
+        <translation type="unfinished">Nullstill</translation>
     </message>
 </context>
 <context>
     <name>RecordDetails</name>
     <message>
         <source>No data</source>
-        <translation>Ingen data</translation>
+        <translation type="vanished">Ingen data</translation>
     </message>
     <message>
         <source>duty</source>
-        <translation>nyttegrad</translation>
+        <translation type="vanished">nyttegrad</translation>
     </message>
     <message>
         <source>current</source>
@@ -1667,11 +1716,11 @@
     </message>
     <message>
         <source>fault</source>
-        <translation>feil</translation>
+        <translation type="vanished">feil</translation>
     </message>
     <message>
         <source>Loading...</source>
-        <translation>Lastar inn...</translation>
+        <translation type="vanished">Lastar inn...</translation>
     </message>
 </context>
 <context>
@@ -2648,14 +2697,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Web view</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use web view for local records. Web view does not upload records, just loads them from the local filesystem. Turn off if you prefer legacy record view.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Automatic pause</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2787,6 +2828,14 @@
         <source>Homescreen notification template</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>knots</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nautical</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>TCPBridge</name>
@@ -2863,6 +2912,10 @@
         <source>Failed to delete, %1</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Failed, %1</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>TrackingSetup</name>
@@ -2922,6 +2975,17 @@
     </message>
     <message>
         <source>Expires</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TrackingView</name>
+    <message>
+        <source>Resume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pause</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
