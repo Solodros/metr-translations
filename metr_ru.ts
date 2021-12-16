@@ -169,11 +169,19 @@
     </message>
     <message>
         <source>Pair with BMS</source>
-        <translation>Подключить BMS</translation>
+        <translation type="vanished">Подключить BMS</translation>
     </message>
     <message>
         <source>Pair current Metr Pro with Xiaoxiang BMS over bluetooth.</source>
-        <translation>Соединить выбранный Metr Pro с Xiaoxiang BMS через блютус.</translation>
+        <translation type="vanished">Соединить выбранный Metr Pro с Xiaoxiang BMS через блютус.</translation>
+    </message>
+    <message>
+        <source>Pair with LLT BMS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pair current Metr Pro with LLT BMS (Xiaoxiang BMS) over bluetooth.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -193,6 +201,13 @@
     <message>
         <source>⬅ Start here</source>
         <translation>⬅ Начать здесь</translation>
+    </message>
+</context>
+<context>
+    <name>BridgeDevice</name>
+    <message>
+        <source>No device</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -275,6 +290,14 @@
     <message>
         <source>Pausing DAVEGAX</source>
         <translation>Пауза DAVEGAX</translation>
+    </message>
+    <message>
+        <source>detect OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Running motor detection</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -407,6 +430,13 @@
     <message>
         <source>Invalid Metr Pro signature</source>
         <translation>Невалидная подпись</translation>
+    </message>
+</context>
+<context>
+    <name>DetectorXiaoBMS</name>
+    <message>
+        <source>Please change battery type in Settings -&gt; Battery</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -848,6 +878,10 @@
         <source>Restart BMS</source>
         <translation>Перезагрузить BMS</translation>
     </message>
+    <message>
+        <source>not supported</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ExpertTabDelegate</name>
@@ -1086,6 +1120,13 @@
     </message>
 </context>
 <context>
+    <name>LocationFinder</name>
+    <message>
+        <source>Please enable location. Map information will not be available without it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>MainWindow</name>
     <message>
         <source>Settings downloaded</source>
@@ -1099,12 +1140,20 @@
         <source>Failed to join map</source>
         <translation>Не удалось подключиться к карте</translation>
     </message>
+    <message>
+        <source>Please enable location permission. Maps and BLE Scan will not work without it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please enable camera permission. QR code scan and overlay will not work without it.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MetrBridge</name>
     <message>
         <source>Remote access code</source>
-        <translation>Код для доступа</translation>
+        <translation type="vanished">Код для доступа</translation>
     </message>
     <message>
         <source>Copied to clipboard</source>
@@ -1117,6 +1166,10 @@
     <message>
         <source>Bytes out</source>
         <translation>Байт отправлено</translation>
+    </message>
+    <message>
+        <source>Only share the code with someone you trust!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2043,11 +2096,45 @@ x100</translation>
     </message>
     <message>
         <source>Remote Access</source>
-        <translation>Удалённый доступ</translation>
+        <translation type="vanished">Удалённый доступ</translation>
     </message>
     <message>
         <source>Allows remote support to connect over internet to your ESC.</source>
-        <translation>Открывает удалённый доступ к вашему ESC через интернет.</translation>
+        <translation type="vanished">Открывает удалённый доступ к вашему ESC через интернет.</translation>
+    </message>
+    <message>
+        <source>Show logs for:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Receive support
+(allow remote connection to my setup)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Give support
+(connect to another setup)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remote access code</source>
+        <translation type="unfinished">Код для доступа</translation>
+    </message>
+    <message>
+        <source>Connect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>End remote support</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remote support</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allows remote support to connect over internet to your setup.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2858,10 +2945,6 @@ x100</translation>
         <translation>Собирать и отправлять статистические данные для улучшения приложения. Версия прошивки Metr Pro, VESC, количество VESC, обнаружен DieBieMS или нет, и т. д. Местоположение не отправляется.</translation>
     </message>
     <message>
-        <source>DieBie/Flexi/LLT</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Detect DieBie/Flexi</source>
         <translation>Обнаруж DieBie/Flexi</translation>
     </message>
@@ -2956,6 +3039,66 @@ x100</translation>
     <message>
         <source>Nautical</source>
         <translation>Морская</translation>
+    </message>
+    <message>
+        <source>Minimum GPS speed when data is send over LTE connection. If the speed is below given value, no data will being sent.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>remaining</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Total Ah</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Total battery amp hours. If you have 4P battery with Samsung 30Q cells, this value should be 12.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DieBie/Flexi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Redetect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Redetect all VESCs during BLE connection establishment. Should be enabled by default.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Setup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Duty Cycle Limit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>HFI Start</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Max Power Loss</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Battery Max Regen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Battery Max</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Openloop ERPM</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sensorless ERPM</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
