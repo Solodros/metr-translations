@@ -2448,6 +2448,186 @@ x100</source>
         <source>Sensorless ERPM</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Pack cell count; number of series cells in the battery pack, set to 0 to disable cell sensing.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Max charging current; mA (milliAmps), maximum current allowed to flow to battery.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Charging termination current; mA (milliAmps), stop charging when current drops below this.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minimum cell voltage; mV (milliVolts), minimum allowed cell voltage, no charging allowed if cell voltage below this.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Maximum cell voltage; mV (milliVolts), maximum allowed cell voltage, no charging allowed if cell voltage above this.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minimum charger voltage; mV (milliVolts), minimum allowed charger voltage, no charging allowed if charger voltage below this.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Maximum charger voltage; mV (milliVolts), maximum allowed charger voltage, no charging allowed if charger voltage above this.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minimum pack voltage; mV (milliVolts), minimum allowed pack voltage, no charging allowed if pack voltage below this.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Maximum pack voltage; mV (milliVolts), maximum allowed pack voltage, no charging allowed if pack voltage above this.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Charging cell termination voltage; mV (milliVolts), don&apos;t allow any cell to go above this voltage when charging.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Charging pack termination voltage; mV (milliVolts), don&apos;t allow pack to go above this voltage when charging.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cell balancing voltage; mV (milliVolts), allow balancing once a cell goes above this voltage.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allowed difference between cell groups; mV (milliVolts), maximum allowed voltage difference between cell groups, balance if difference bigger.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minimum external NTC thermistor temperature; K (Kelvin), set to 0 to disable, if enabled, the minimum temperature above which charging is allowed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Maximum external NTC thermistor temperature; K (Kelvin), set to 0 to disable, if enabled, the maximum temperature below which charging is allowed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minimum PCB temperature; K (Kelvin), the minimum temperature above which charging is allowed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Maximum PCB temperature; K (Kelvin), the maximum temperature below which charging is allowed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fault wait time; s (seconds), How long to wait after fault state before trying to start charging again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gain for Battery voltage ADC conversion.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gain for Charger voltage ADC conversion.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gain for Current sense ADC conversion.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gain for External NTC temperature probe conversion.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gain for Internal MCU temperature conversion.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Offset for Battery voltage ADC conversion.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Offset for Charger voltage ADC conversion.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Offset for Current sense ADC conversion.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Offset for External NTC temperature probe conversion.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Offset for Internal MCU temperature conversion.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>External NTC probe Beta-value; external NTC sensor&apos;s beta value.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ADC&apos;s oversampling setting; allowed values (1, 2, 4, 8, 16).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>h (Hours), how long to stay in active mode.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow cell balancing outside of charging.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Force 5V regulator always on when battery connected.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Balancing temperature ratio, dynamically adjusts the max allowed balancing resistors based on BMS temperature, set to 0 to use static maximum.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Storage discharge voltage; mV (milliVolts), if storage discharge enabled, then pack will be discharged to this voltage.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>h (Hours), how long to wait from last CHARGING event to start discharging the pack to the storage voltage, set to 0 to disable.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CAN activity status LED tick, good for testing that the BMS is receiving CAN traffic.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CAN ID number for this BMS unit, if using multi-BMS setups, all BMS&apos; need to have unique CAN ID.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If set, keeps 5V regulator on if activeTimer is not expired even if USB, charger or Opto not active.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(hours), up to how many hours a CAN-frame reception can extend activeTimer, set to 0 to disable.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(minutes), up to how many minutes a CAN-frame reception can extend activeTimer, set to 0 to disable.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Can be used to allow CAN activity to wake-up the BMS from sleep, increases sleep mode quiescent current slightly.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0-3, how many parallel packs there are in addition to this unit, set to 0 to disable.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0-255, current voltage ratio for parallel packs starting charging, set to 0 for no scaling.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(seconds), how much time to wait before attempting to restart charging from a non-fault charging end, set to 0 to disable.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>TCPBridge</name>
