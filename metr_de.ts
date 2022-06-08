@@ -477,7 +477,7 @@
     </message>
     <message>
         <source>Ah: %1 Wh: %2</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Stop</source>
@@ -516,47 +516,47 @@
     </message>
     <message>
         <source>BLDC detection</source>
-        <translation type="unfinished"></translation>
+        <translation>BLDC-Erkennung</translation>
     </message>
     <message>
         <source>FOC Hall Sensors detection</source>
-        <translation type="unfinished"></translation>
+        <translation>Erkennung von FOC-Hall-Sensoren</translation>
     </message>
     <message>
         <source>Hall sensor table:</source>
-        <translation type="unfinished"></translation>
+        <translation>Hallsensor-Tabelle:</translation>
     </message>
     <message>
         <source>Hall sensor detection failed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Hallsensorerkennung fehlgeschlagen:</translation>
     </message>
     <message>
         <source>WS2811 enabled. Hall sensors cannot be used.</source>
-        <translation type="unfinished"></translation>
+        <translation>WS2811 aktiviert. Hallsensoren können nicht verwendet werden.</translation>
     </message>
     <message>
         <source>Encoder enabled. Hall sensors cannot be used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Encoder aktiviert. Hallsensoren können nicht verwendet werden.</translation>
     </message>
     <message>
         <source>Unknown hall error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Unbekannter Hallfehler: %1</translation>
     </message>
     <message>
         <source>Detection Result Received:</source>
-        <translation type="unfinished"></translation>
+        <translation>Empfangenes Erkennungsergebnis:</translation>
     </message>
     <message>
         <source>Integrator limit: %1&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Integratorlimit: %1&lt;br&gt;</translation>
     </message>
     <message>
         <source>BEMF Coupling: %1&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>BEMF-Kopplung: %1&lt;br&gt;</translation>
     </message>
     <message>
         <source>Apply configuration?</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfiguration anwenden?</translation>
     </message>
     <message>
         <source>FOC detection R L</source>
@@ -564,11 +564,11 @@
     </message>
     <message>
         <source>Bad Detection Result Received.</source>
-        <translation type="unfinished"></translation>
+        <translation>Schlechtes Erkennungsergebnis erhalten.</translation>
     </message>
     <message>
         <source>Detection failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Erkennung fehlgeschlagen.</translation>
     </message>
     <message>
         <source>FOC detection λ</source>
@@ -576,47 +576,47 @@
     </message>
     <message>
         <source>communication FAILED</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommunikation FEHLGESCHLAGEN</translation>
     </message>
     <message>
         <source>communication in progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommunikation im Gange</translation>
     </message>
     <message>
         <source>connecting to </source>
-        <translation type="unfinished"></translation>
+        <translation>verbinden mit </translation>
     </message>
     <message>
         <source>Detect motor</source>
-        <translation type="unfinished"></translation>
+        <translation>Motor erkennen</translation>
     </message>
     <message>
         <source>Detect FOC Hall Sensors</source>
-        <translation type="unfinished"></translation>
+        <translation>Erkennt FOC-Hall-Sensoren</translation>
     </message>
     <message>
         <source>BLDC motor detection is not supported for UNITY.</source>
-        <translation type="unfinished"></translation>
+        <translation>BLDC-Motorerkennung wird für UNITY nicht unterstützt.</translation>
     </message>
     <message>
         <source>Motor detection in this mode is not supported. Please change motor type to BLDC or FOC.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Motorerkennung wird in diesem Modus nicht unterstützt. Bitte ändern Sie den Motortyp auf BLDC oder FOC.</translation>
     </message>
     <message>
         <source>Are you sure you want to run BLDC motor detection with following parameters?</source>
-        <translation type="unfinished"></translation>
+        <translation>Möchten Sie die BLDC-Motorerkennung wirklich mit den folgenden Parametern ausführen?</translation>
     </message>
     <message>
         <source>WARNING: THE MOTOR WILL START SPINNING!</source>
-        <translation type="unfinished"></translation>
+        <translation>WARNUNG: DER MOTOR BEGINNT SICH ZU DREHEN!</translation>
     </message>
     <message>
         <source>Current</source>
-        <translation type="unfinished"></translation>
+        <translation>Strom</translation>
     </message>
     <message>
         <source>Current used during BLDC motor detection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Während der BLDC-Motorerkennung verwendeter Strom.</translation>
     </message>
     <message>
         <source>Low duty</source>
@@ -624,31 +624,31 @@
     </message>
     <message>
         <source>Low duty used during BLDC motor detection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Low Duty wird während der BLDC-Motorerkennung verwendet.</translation>
     </message>
     <message>
         <source>Are you sure you want to run FOC Hall Sensors detection with following parameters?</source>
-        <translation type="unfinished"></translation>
+        <translation>Sind Sie sicher, dass Sie die FOC-Hall-Sensor-Erkennung mit den folgenden Parametern ausführen möchten?</translation>
     </message>
     <message>
         <source>Hall Sensors Current</source>
-        <translation type="unfinished"></translation>
+        <translation>Hallsensoren Strom</translation>
     </message>
     <message>
         <source>Current used during FOC Hall Sensors detection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Strom, der während der Erkennung durch FOC-Hall-Sensoren verwendet wird.</translation>
     </message>
     <message>
         <source>Are you sure you want to run FOC motor detection with following parameters?</source>
-        <translation type="unfinished"></translation>
+        <translation>Möchten Sie die FOC-Motorerkennung wirklich mit den folgenden Parametern ausführen?</translation>
     </message>
     <message>
         <source>WARNING: THE MOTOR WILL MAKE VERY LOUD NOISE! AFTER THAT THE MOTOR WILL START SPINNING!</source>
-        <translation type="unfinished"></translation>
+        <translation>WARNUNG: DER MOTOR MACHT SEHR LAUTE GERÄUSCHE! DANN BEGINNT DER MOTOR ZU DREHEN!</translation>
     </message>
     <message>
         <source>Current used during FOC motor detection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Während der FOC-Motorerkennung verwendeter Strom.</translation>
     </message>
     <message>
         <source>Duty</source>
@@ -656,7 +656,7 @@
     </message>
     <message>
         <source>Duty used during FOC motor detection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tastverhältnis, das während der FOC-Motorerkennung verwendet wird.</translation>
     </message>
     <message>
         <source>TC</source>
@@ -668,15 +668,15 @@
     </message>
     <message>
         <source>FOC Hall Sensors detection in this mode is not supported. Please change motor type to FOC.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Erkennung von FOC-Hallsensoren wird in diesem Modus nicht unterstützt. Bitte ändern Sie den Motortyp auf FOC.</translation>
     </message>
     <message>
         <source>Spin motors by hand!</source>
-        <translation type="unfinished"></translation>
+        <translation>Motoren von Hand drehen!</translation>
     </message>
     <message>
         <source>Detection complete</source>
-        <translation type="unfinished"></translation>
+        <translation>Erkennung abgeschlossen</translation>
     </message>
     <message>
         <source>Calibrate PPM</source>
@@ -684,7 +684,7 @@
     </message>
     <message>
         <source>Discharge</source>
-        <translation type="unfinished"></translation>
+        <translation>Entladung</translation>
     </message>
     <message>
         <source>History</source>
@@ -796,11 +796,11 @@
     </message>
     <message>
         <source>Bytes in</source>
-        <translation type="unfinished"></translation>
+        <translation>Bytes ein</translation>
     </message>
     <message>
         <source>Bytes out</source>
-        <translation type="unfinished"></translation>
+        <translation>Byte raus</translation>
     </message>
     <message>
         <source>Only share the code with someone you trust!</source>
@@ -903,7 +903,7 @@
     </message>
     <message>
         <source>BLE</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>encrypted</source>
@@ -915,7 +915,7 @@
     </message>
     <message>
         <source>ESC</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>not detected</source>
@@ -931,7 +931,7 @@
     </message>
     <message>
         <source>LTE</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Your Metr LTE firmware is up to date</source>
@@ -939,11 +939,11 @@
     </message>
     <message>
         <source>Clone</source>
-        <translation type="unfinished"></translation>
+        <translation>Klonen</translation>
     </message>
     <message>
         <source>Clone module settings and modes to the server. Gets a QR code that can be used to clone settings and modes to another module. After scan uploads settings for current module. This feature was requested by Bioboards for faster setup of new boards with same config.</source>
-        <translation type="unfinished"></translation>
+        <translation>Moduleinstellungen und -modi auf den Server klonen. Ruft einen QR-Code ab, der zum Klonen von Einstellungen und Modi auf ein anderes Modul verwendet werden kann. Nach dem Scannen werden die Einstellungen für das aktuelle Modul hochgeladen. Diese Funktion wurde von Bioboards angefordert, um neue Boards mit derselben Konfiguration schneller einzurichten.</translation>
     </message>
     <message>
         <source>Share</source>
@@ -1121,11 +1121,11 @@
     </message>
     <message>
         <source>center</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>max</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -1147,37 +1147,37 @@
     <name>QuaGzipFile</name>
     <message>
         <source>QIODevice::Append is not supported for GZIP</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Opening gzip for both reading and writing is not supported</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>You can open a gzip either for reading or for writing. Which is it?</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Could not gzopen() file</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>QuaZIODevice</name>
     <message>
         <source>QIODevice::Append is not supported for QuaZIODevice</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>QIODevice::ReadWrite is not supported for QuaZIODevice</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>QuaZipFile</name>
     <message>
         <source>ZIP/UNZIP API error %1</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -1259,7 +1259,7 @@
     </message>
     <message>
         <source>watts</source>
-        <translation type="unfinished"></translation>
+        <translation>watt</translation>
     </message>
     <message>
         <source>W</source>
@@ -1267,15 +1267,15 @@
     </message>
     <message>
         <source>duty cycle</source>
-        <translation type="unfinished">duty cycle</translation>
+        <translation>duty cycle</translation>
     </message>
     <message>
         <source>cell voltage</source>
-        <translation type="unfinished">Zellspannung</translation>
+        <translation>Zellspannung</translation>
     </message>
     <message>
         <source>ppm</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Reset layout</source>
@@ -1312,7 +1312,7 @@ x100</source>
     </message>
     <message>
         <source>map</source>
-        <translation type="unfinished"></translation>
+        <translation>karte</translation>
     </message>
     <message>
         <source>Add</source>
@@ -1436,7 +1436,7 @@ x100</source>
     </message>
     <message>
         <source>regen</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -1455,31 +1455,31 @@ x100</source>
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished">Datum</translation>
+        <translation>Datum</translation>
     </message>
     <message>
         <source>Duration</source>
-        <translation type="unfinished">Dauer</translation>
+        <translation>Dauer</translation>
     </message>
     <message>
         <source>Distance</source>
-        <translation type="unfinished">Distanz</translation>
+        <translation>Distanz</translation>
     </message>
     <message>
         <source>Energy</source>
-        <translation type="unfinished">Energie</translation>
+        <translation>Energie</translation>
     </message>
     <message>
         <source>Resume</source>
-        <translation type="unfinished">Fortsetzen</translation>
+        <translation>Fortsetzen</translation>
     </message>
     <message>
         <source>Pause</source>
-        <translation type="unfinished">Pause</translation>
+        <translation>Pause</translation>
     </message>
     <message>
         <source>Sync</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -1494,15 +1494,15 @@ x100</source>
     </message>
     <message>
         <source>Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Anmerkungen</translation>
     </message>
     <message>
         <source>Not favorite</source>
-        <translation type="unfinished"></translation>
+        <translation>Nicht favorit</translation>
     </message>
     <message>
         <source>Favorite</source>
-        <translation type="unfinished"></translation>
+        <translation>Favorit</translation>
     </message>
 </context>
 <context>
@@ -1561,7 +1561,7 @@ x100</source>
     </message>
     <message>
         <source>Legal</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Failed to open channel</source>
@@ -2149,223 +2149,223 @@ x100</source>
     </message>
     <message>
         <source>tacho</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>amp hours</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>watt hours</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>per kilometer</source>
-        <translation type="unfinished"></translation>
+        <translation>pro kilometer</translation>
     </message>
     <message>
         <source>per mile</source>
-        <translation type="unfinished"></translation>
+        <translation>pro meile</translation>
     </message>
     <message>
         <source>Magic</source>
-        <translation type="unfinished"></translation>
+        <translation>Magie</translation>
     </message>
     <message>
         <source>Celsius</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Android Wear</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Apple Watch</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Dual data</source>
-        <translation type="unfinished"></translation>
+        <translation>Doppelte Daten</translation>
     </message>
     <message>
         <source>Scale UI</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Enable scaling user interface. Makes the app look better on bigger screens.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skalierende Benutzeroberfläche aktivieren. Lässt die App auf größeren Bildschirmen besser aussehen.</translation>
     </message>
     <message>
         <source>Li-Po</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Li-Ion</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>ANR26650</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Tell</source>
-        <translation type="unfinished"></translation>
+        <translation>Sagen</translation>
     </message>
     <message>
         <source>Every [s]</source>
-        <translation type="unfinished"></translation>
+        <translation>Jede [s]</translation>
     </message>
     <message>
         <source>Start from</source>
-        <translation type="unfinished"></translation>
+        <translation>Beginne von</translation>
     </message>
     <message>
         <source>Stop at</source>
-        <translation type="unfinished"></translation>
+        <translation>Halte bei</translation>
     </message>
     <message>
         <source>Only when moving</source>
-        <translation type="unfinished"></translation>
+        <translation>Nur bei Bewegung</translation>
     </message>
     <message>
         <source>Voice</source>
-        <translation type="unfinished"></translation>
+        <translation>Stimme</translation>
     </message>
     <message>
         <source>Beta Metr Pro FW</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Check if beta Metr Pro firmware is awailable. Not recommended.</source>
-        <translation type="unfinished"></translation>
+        <translation>Überprüfen Sie, ob Beta-Metr Pro-Firmware verfügbar ist. Nicht empfohlen.</translation>
     </message>
     <message>
         <source>Faults</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler</translation>
     </message>
     <message>
         <source>Freewheel</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Enable if your motor does not spin all the time (freewheel, friction drive, etc.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivieren, wenn Ihr Motor nicht die ganze Zeit dreht (Freilauf, Friktionsantrieb usw.)</translation>
     </message>
     <message>
         <source>Smooth voltage</source>
-        <translation type="unfinished"></translation>
+        <translation>Glatte Spannung</translation>
     </message>
     <message>
         <source>Smooth out voltage readings from VESC.</source>
-        <translation type="unfinished"></translation>
+        <translation>Spannungswerte von VESC glätten.</translation>
     </message>
     <message>
         <source>Smooth margin</source>
-        <translation type="unfinished"></translation>
+        <translation>Glatter Rand</translation>
     </message>
     <message>
         <source>Max voltage fluctuation that should be smoothed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximale Spannungsschwankung, die geglättet werden soll.</translation>
     </message>
     <message>
         <source>LHB</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Read-only</source>
-        <translation type="unfinished"></translation>
+        <translation>Schreibgeschützt</translation>
     </message>
     <message>
         <source>Read-only VESC operation. All write commands will be blocked by Metr Pro.</source>
-        <translation type="unfinished"></translation>
+        <translation>Schreibgeschützter VESC-Betrieb. Alle Schreibbefehle werden von Metr Pro blockiert.</translation>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Konto</translation>
     </message>
     <message>
         <source>Automatic uploads</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisches hochladen</translation>
     </message>
     <message>
         <source>Upload each record after it ends.</source>
-        <translation type="unfinished"></translation>
+        <translation>Laden Sie jeden Datensatz nach dessen Ende hoch.</translation>
     </message>
     <message>
         <source>All records</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Aufzeichnungen</translation>
     </message>
     <message>
         <source>When disabled, show only records for currently selected device. When enabled, shows all records.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wenn deaktiviert, nur Aufzeichnungen für das aktuell ausgewählte Gerät anzeigen. Wenn aktiviert, werden alle Datensätze angezeigt.</translation>
     </message>
     <message>
         <source>Discharge motor current</source>
-        <translation type="unfinished"></translation>
+        <translation>Motorstrom entladen</translation>
     </message>
     <message>
         <source>Motor current used in foc_openloop command. Maximum recommended value is 20A. Larger values might result in overheating ESC and motor.</source>
-        <translation type="unfinished"></translation>
+        <translation>Im foc_openloop-Befehl verwendeter Motorstrom. Der empfohlene Höchstwert beträgt 20 A. Größere Werte können zur Überhitzung von ESC und Motor führen.</translation>
     </message>
     <message>
         <source>Stop at %</source>
-        <translation type="unfinished"></translation>
+        <translation>Halte bei %</translation>
     </message>
     <message>
         <source>Stop discharge at given battery percentage. Recommended storage value for lithium battery is 30%.</source>
-        <translation type="unfinished"></translation>
+        <translation>Stoppen Sie die Entladung bei einem bestimmten Batterieprozentsatz. Der empfohlene Speicherwert für Lithiumbatterien beträgt 30 %.</translation>
     </message>
     <message>
         <source>Ah</source>
-        <translation type="unfinished">Ah</translation>
+        <translation>Ah</translation>
     </message>
     <message>
         <source>Merge</source>
-        <translation type="unfinished"></translation>
+        <translation>Verschmelzen</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Absagen</translation>
+        <translation>Absagen</translation>
     </message>
     <message>
         <source>duty cycle</source>
-        <translation type="unfinished">duty cycle</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Prefer GPS speed and distance to RPM-calculated speed and distance. Do not enable this setting for electric skateboards. Useful for hydrofoils.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bevorzugen Sie die GPS-Geschwindigkeit und -Distanz der RPM-berechneten Geschwindigkeit und Distanz. Aktivieren Sie diese Einstellung nicht für elektrische Skateboards. Nützlich für Tragflügelboote.</translation>
     </message>
     <message>
         <source>Pause notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>Benachrichtigungen pausieren</translation>
     </message>
     <message>
         <source>Send notifications when records automatically pause or unpause.</source>
-        <translation type="unfinished"></translation>
+        <translation>Senden Sie Benachrichtigungen, wenn Aufzeichnungen automatisch angehalten oder fortgesetzt werden.</translation>
     </message>
     <message>
         <source>Automatic pause</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatische Pause</translation>
     </message>
     <message>
         <source>Automatically pause and unpause records based on speed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisches Pausieren und Fortsetzen von Aufzeichnungen basierend auf der Geschwindigkeit.</translation>
     </message>
     <message>
         <source>Pause delay</source>
-        <translation type="unfinished"></translation>
+        <translation>Pausenverzögerung</translation>
     </message>
     <message>
         <source>Time in seconds after which record is paused if not moving (speed is zero).</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeit in Sekunden, nach der die Aufzeichnung angehalten wird, wenn sie sich nicht bewegt (Geschwindigkeit ist Null).</translation>
     </message>
     <message>
         <source>Low memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Wenig Speicher</translation>
     </message>
     <message>
         <source>Stop records on low memory warning.</source>
-        <translation type="unfinished"></translation>
+        <translation>Stop records on low memory warning.</translation>
     </message>
     <message>
         <source>PPM drift margin</source>
@@ -2373,7 +2373,7 @@ x100</source>
     </message>
     <message>
         <source>Allowed drift during calibrating PPM remote in Expert tab. If you have issues calibrating your PPM remote, try to increase this value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zulässige Drift während der Kalibrierung der PPM-Fernbedienung auf der Registerkarte „Experte“. Wenn Sie Probleme beim Kalibrieren Ihrer PPM-Fernbedienung haben, versuchen Sie, diesen Wert zu erhöhen.</translation>
     </message>
     <message>
         <source>Statistics</source>
@@ -2381,7 +2381,7 @@ x100</source>
     </message>
     <message>
         <source>Collect and send to cloud hardware versions to improve application in the long term. Metr Pro version, VESC version, VESC count, if DieBieMS is detected, etc. Location is never shared.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hardware-Versionen sammeln und in die Cloud senden, um die Anwendung langfristig zu verbessern. Metr Pro-Version, VESC-Version, VESC-Anzahl, wenn DieBieMS erkannt wird usw. Standort wird nie geteilt.</translation>
     </message>
     <message>
         <source>Detect DieBie/Flexi</source>
@@ -2389,7 +2389,7 @@ x100</source>
     </message>
     <message>
         <source>Automatically detect DieBieMS / FlexiBMS connected over CAN. Turn off if you have issues with FlexiBMS</source>
-        <translation type="unfinished"></translation>
+        <translation>Über CAN verbundene DieBieMS / FlexiBMS automatisch erkennen. Deaktivieren Sie es, wenn Sie Probleme mit FlexiBMS haben</translation>
     </message>
     <message>
         <source>More logs</source>
@@ -2397,39 +2397,39 @@ x100</source>
     </message>
     <message>
         <source>Enable debug logs. Results in much larger and more detailed log file. Recommended to restart app after changing this value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Debug-Protokolle aktivieren. Führt zu einer viel größeren und detaillierteren Protokolldatei. Es wird empfohlen, die App nach dem Ändern dieses Werts neu zu starten.</translation>
     </message>
     <message>
         <source>Total Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Gesamtzeit</translation>
     </message>
     <message>
         <source>Average Distance</source>
-        <translation type="unfinished"></translation>
+        <translation>Durchschnittliche Entfernung</translation>
     </message>
     <message>
         <source>Do your motors have temperature sensors?</source>
-        <translation type="unfinished"></translation>
+        <translation>Haben Ihre Motoren Temperatursensoren?</translation>
     </message>
     <message>
         <source>Number of parallel groups in series. For example, if your battery layout is 12S5P, put 12 here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzahl paralleler Gruppen in Reihe. Wenn Ihr Batterielayout beispielsweise 12S5P ist, geben Sie hier 12 ein.</translation>
     </message>
     <message>
         <source>For example, a 12S5P battery made of Samsung 30Q cells has the capacity of 5 x 3000 = 15000 mAh.</source>
-        <translation type="unfinished"></translation>
+        <translation>Beispielsweise hat ein 12S5P Akku aus Samsung 30Q Zellen die Kapazität von 5 x 3000 = 15000 mAh.</translation>
     </message>
     <message>
         <source>Percentage of the usable battery capacity. This is around 80% for a new battery. Set to a lower value as your battery deteriorates and the projected range becomes higher than the actual range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prozentsatz der nutzbaren Batteriekapazität. Bei einer neuen Batterie sind das rund 80 %. Stellen Sie einen niedrigeren Wert ein, wenn sich Ihre Batterie verschlechtert und die voraussichtliche Reichweite größer wird als die tatsächliche Reichweite.</translation>
     </message>
     <message>
         <source>If a compatible BMS is not available, voltage is retrieved from the VESC regardless of the setting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wenn kein kompatibles BMS verfügbar ist, wird die Spannung unabhängig von der Einstellung vom VESC abgerufen.</translation>
     </message>
     <message>
         <source>How long should we be trying to get a Wi-Fi connection established before we give up.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wie lange sollten wir versuchen, eine Wi-Fi-Verbindung herzustellen, bevor wir aufgeben?</translation>
     </message>
     <message>
         <source>When you come to a stop, how long should we wait before switching the riding screen to a stationary screen.</source>
@@ -2457,7 +2457,7 @@ x100</source>
     </message>
     <message>
         <source>Time in seconds between live data updates that are sent to the server. Recommended value is 10 seconds. With lower values you will get more frequent updates, but mobile data consumption will increase.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeit in Sekunden zwischen Live-Datenaktualisierungen, die an den Server gesendet werden. Der empfohlene Wert beträgt 10 Sekunden. Bei niedrigeren Werten erhalten Sie häufigere Updates, aber der mobile Datenverbrauch steigt.</translation>
     </message>
     <message>
         <source>Download assist-GPS data over cellular connection to speed up satellite discovery. Consumes about 3kb of data and occures at startup.</source>
@@ -2465,7 +2465,7 @@ x100</source>
     </message>
     <message>
         <source>When this setting is enabled, motor current is limited to 1%. Brake current is not affected. The motors get very weak and unable to accelerate. This setting can also be activated from account section.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wenn diese Einstellung aktiviert ist, wird der Motorstrom auf 1 % begrenzt. Der Bremsstrom wird nicht beeinflusst. Die Motoren werden sehr schwach und können nicht beschleunigen. Diese Einstellung kann auch im Kontobereich aktiviert werden.</translation>
     </message>
     <message>
         <source>Homescreen notification template</source>
@@ -2481,7 +2481,7 @@ x100</source>
     </message>
     <message>
         <source>Minimum GPS speed when data is send over LTE connection. If the speed is below given value, no data will being sent.</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimale GPS-Geschwindigkeit, wenn Daten über eine LTE-Verbindung gesendet werden. Wenn die Geschwindigkeit unter dem angegebenen Wert liegt, werden keine Daten gesendet.</translation>
     </message>
     <message>
         <source>remaining</source>
@@ -2493,7 +2493,7 @@ x100</source>
     </message>
     <message>
         <source>Total battery amp hours. If you have 4P battery with Samsung 30Q cells, this value should be 12.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gesamtbatterie-Amperestunden. Wenn Sie einen 4P-Akku mit Samsung 30Q-Zellen haben, sollte dieser Wert 12 sein.</translation>
     </message>
     <message>
         <source>DieBie/Flexi</source>
@@ -2501,11 +2501,11 @@ x100</source>
     </message>
     <message>
         <source>Redetect</source>
-        <translation type="unfinished"></translation>
+        <translation>Neu erkennen</translation>
     </message>
     <message>
         <source>Redetect all VESCs during BLE connection establishment. Should be enabled by default.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle VESCs während des BLE-Verbindungsaufbaus neu erkennen. Sollte standardmäßig aktiviert sein.</translation>
     </message>
     <message>
         <source>Setup</source>
@@ -2725,7 +2725,7 @@ x100</source>
     </message>
     <message>
         <source>Enable opening the drawer from the left edge of the screen. By default it can only be opened by pressing menu button in the bottom left.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivieren Sie das Öffnen der Schublade vom linken Bildschirmrand aus. Standardmäßig kann es nur durch Drücken der Menütaste unten links geöffnet werden.</translation>
     </message>
     <message>
         <source>Nominal voltage</source>
@@ -2733,15 +2733,15 @@ x100</source>
     </message>
     <message>
         <source>Nominal voltage. Used for remaining range estimation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nennspannung. Wird zur Schätzung der verbleibenden Reichweite verwendet.</translation>
     </message>
     <message>
         <source>Manual Sync</source>
-        <translation type="unfinished"></translation>
+        <translation>Manuelle Sync</translation>
     </message>
     <message>
         <source>Manually sync records from SD card.</source>
-        <translation type="unfinished"></translation>
+        <translation>Synchronisieren Sie Aufzeichnungen manuell von der SD-Karte.</translation>
     </message>
 </context>
 <context>
@@ -2764,11 +2764,11 @@ x100</source>
     </message>
     <message>
         <source>Bytes in</source>
-        <translation type="unfinished"></translation>
+        <translation>Bytes ein</translation>
     </message>
     <message>
         <source>Bytes out</source>
-        <translation type="unfinished"></translation>
+        <translation>Byte raus</translation>
     </message>
 </context>
 <context>
