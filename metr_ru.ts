@@ -126,7 +126,11 @@
     <name>AnnouncementsTab</name>
     <message>
         <source>To add new announcements, click on the plus.</source>
-        <translation>Чтобы добавить новые оповещения, нажмите на плюс.</translation>
+        <translation type="vanished">Чтобы добавить новые оповещения, нажмите на плюс.</translation>
+    </message>
+    <message>
+        <source>New announcement</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1064,6 +1068,21 @@
         <source>Fault code</source>
         <translation>Ошибке</translation>
     </message>
+    <message>
+        <source>Clear all</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Swipe left to delete. Long press to select.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>FaultUtils</name>
+    <message>
+        <source>Unknown error</source>
+        <translation type="unfinished">Неизвестная ошибка</translation>
+    </message>
 </context>
 <context>
     <name>Global</name>
@@ -1089,7 +1108,7 @@
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Неизвестная ошибка</translation>
+        <translation type="vanished">Неизвестная ошибка</translation>
     </message>
     <message>
         <source>Over Current #2</source>
@@ -1328,6 +1347,21 @@
     </message>
 </context>
 <context>
+    <name>MiscPane</name>
+    <message>
+        <source>Pair with Garmin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unpair</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pair current Metr Pro with Garmin device.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ModeView</name>
     <message>
         <source>Reading motor configuration failed</source>
@@ -1385,7 +1419,7 @@
     </message>
     <message>
         <source>Swipe right to apply mode. Swipe left to show options. Click to configure limits.</source>
-        <translation>Прокрутите вправо чтобы применить. Прокрутите влево для доп действий. Нажмите чтобы открыть.</translation>
+        <translation type="vanished">Прокрутите вправо чтобы применить. Прокрутите влево для доп действий. Нажмите чтобы открыть.</translation>
     </message>
     <message>
         <source>Clear Startup Mode</source>
@@ -1445,7 +1479,15 @@
     </message>
     <message>
         <source>To add a new mode, click on the plus.</source>
-        <translation>Чтобы добавить новый режим, нажмите на плюс.</translation>
+        <translation type="vanished">Чтобы добавить новый режим, нажмите на плюс.</translation>
+    </message>
+    <message>
+        <source>Swipe right to apply mode. Swipe left to show options. Long press to select.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New mode</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1885,11 +1927,11 @@ x100</translation>
     <name>RecordList</name>
     <message>
         <source>Swipe left to show options. Click to open.</source>
-        <translation>Прокрутите влево для дополнительных действий. Нажмите чтобы открыть.</translation>
+        <translation type="vanished">Прокрутите влево для дополнительных действий. Нажмите чтобы открыть.</translation>
     </message>
     <message>
         <source>Select at least 2 records to merge.</source>
-        <translation>Выберите несколько записей для слияния.</translation>
+        <translation type="vanished">Выберите несколько записей для слияния.</translation>
     </message>
     <message>
         <source>Title</source>
@@ -1898,6 +1940,10 @@ x100</translation>
     <message>
         <source>Description</source>
         <translation>Описание</translation>
+    </message>
+    <message>
+        <source>Swipe left to show options. Long press to select.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2007,6 +2053,10 @@ x100</translation>
     <message>
         <source>Pause</source>
         <translation>Пауза</translation>
+    </message>
+    <message>
+        <source>Sync</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2730,11 +2780,11 @@ x100</translation>
     </message>
     <message>
         <source>Consumption window</source>
-        <translation>Окно потребления</translation>
+        <translation type="vanished">Окно потребления</translation>
     </message>
     <message>
         <source>Time in milliseconds for floating window that is used to calculate consumption (wh/km or wh/mi).</source>
-        <translation>Время в милисекундах для плавающего окна, которое используется для подстчета потребления (вч/км или вч/ми).</translation>
+        <translation type="vanished">Время в милисекундах для плавающего окна, которое используется для подстчета потребления (вч/км или вч/ми).</translation>
     </message>
     <message>
         <source>Scale UI</source>
@@ -3280,6 +3330,30 @@ x100</translation>
         <source>(seconds), how much time to wait before attempting to restart charging from a non-fault charging end, set to 0 to disable.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Swipe Drawer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable opening the drawer from the left edge of the screen. By default it can only be opened by pressing menu button in the bottom left.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nominal voltage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nominal voltage. Used for remaining range estimation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manual Sync</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manually sync records from SD card.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>TCPBridge</name>
@@ -3408,7 +3482,11 @@ x100</translation>
     <name>TrackingTab</name>
     <message>
         <source>To add new tracking, click on the plus.</source>
-        <translation>Чтобы добавить новый трекинг, нажмите на плюс.</translation>
+        <translation type="vanished">Чтобы добавить новый трекинг, нажмите на плюс.</translation>
+    </message>
+    <message>
+        <source>New tracking</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3437,7 +3515,7 @@ x100</translation>
     <name>UndoList</name>
     <message>
         <source>Undo</source>
-        <translation>Вернуть</translation>
+        <translation type="vanished">Вернуть</translation>
     </message>
 </context>
 <context>
@@ -3456,6 +3534,21 @@ x100</translation>
     <message>
         <source>No</source>
         <translation>Нет</translation>
+    </message>
+</context>
+<context>
+    <name>VListView</name>
+    <message>
+        <source>Undo</source>
+        <translation type="unfinished">Вернуть</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Отмена</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3502,6 +3595,13 @@ x100</translation>
     <message>
         <source>Backing up configurations</source>
         <translation type="vanished">Сохранение настроек</translation>
+    </message>
+</context>
+<context>
+    <name>bluetooth::DiscoveryAgent</name>
+    <message>
+        <source>Bluetooth is probably turned off. Please turn it on and scan again.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

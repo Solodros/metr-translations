@@ -5,154 +5,158 @@
     <name>AccountManager</name>
     <message>
         <source>Syncing records</source>
-        <translation type="unfinished"></translation>
+        <translation>Datensätze synchronisieren</translation>
     </message>
     <message>
         <source>Syncing stats</source>
-        <translation type="unfinished"></translation>
+        <translation>Statistiken synchronisieren</translation>
     </message>
     <message>
         <source>Failed to sync, %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Synchronisierung fehlgeschlagen, %1</translation>
     </message>
     <message>
         <source>moments ago</source>
-        <translation type="unfinished"></translation>
+        <translation>sekunden zuvor</translation>
     </message>
     <message>
         <source>%1 seconds ago</source>
-        <translation type="unfinished"></translation>
+        <translation>Vor %1 Sekunden</translation>
     </message>
     <message>
         <source>%1 minutes ago</source>
-        <translation type="unfinished"></translation>
+        <translation>Vor %1 Minuten</translation>
     </message>
     <message>
         <source>%1 hours ago</source>
-        <translation type="unfinished"></translation>
+        <translation>Vor %1 Stunden</translation>
     </message>
     <message>
         <source>%1 days ago</source>
-        <translation type="unfinished"></translation>
+        <translation>Vor %1 Tagen</translation>
     </message>
     <message>
         <source>Last sync: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Letzte Synchronisierung: %1</translation>
     </message>
     <message>
         <source>Status %1, %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Status %1, %2</translation>
     </message>
     <message>
         <source>Uploading record %1 of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Datensatz %1 von %2 wird hochgeladen</translation>
     </message>
     <message>
         <source>Downloading record %1 of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Datensatz %1 von %2 wird heruntergeladen</translation>
     </message>
 </context>
 <context>
     <name>AccountTab</name>
     <message>
         <source>You must have an active connection to Metr Pro in order to sign in</source>
-        <translation type="unfinished"></translation>
+        <translation>Sie müssen eine aktive Verbindung zu Metr Pro haben, um sich anzumelden</translation>
     </message>
     <message>
         <source>Scan sign in QR code</source>
-        <translation type="unfinished"></translation>
+        <translation>Scannen Sie den Anmelde-QR-Code</translation>
     </message>
     <message>
         <source>Select whether you want to sign in on this device or authorize a web browser on another device</source>
-        <translation type="unfinished"></translation>
+        <translation>Wählen Sie aus, ob Sie sich auf diesem Gerät anmelden oder einen Webbrowser auf einem anderen Gerät autorisieren möchten</translation>
     </message>
     <message>
         <source>This device</source>
-        <translation type="unfinished"></translation>
+        <translation>Dieses Gerät</translation>
     </message>
     <message>
         <source>Another device</source>
-        <translation type="unfinished"></translation>
+        <translation>Ein anderes Gerät</translation>
     </message>
     <message>
         <source>Sync all</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles synchroniesieren</translation>
     </message>
     <message>
         <source>Sign in</source>
-        <translation type="unfinished"></translation>
+        <translation>Einloggen</translation>
     </message>
     <message>
         <source>Select another module to link with %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Wählen Sie ein anderes Modul aus, um es mit %1 zu verknüpfen</translation>
     </message>
     <message>
         <source>Accounts linked</source>
-        <translation type="unfinished"></translation>
+        <translation>Konten verknüpft</translation>
     </message>
     <message>
         <source>Failed to link accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Konten konnten nicht verknüpft werden</translation>
     </message>
     <message>
         <source>Link</source>
-        <translation type="unfinished"></translation>
+        <translation>Verknüpfung</translation>
     </message>
 </context>
 <context>
     <name>Announcement</name>
     <message>
         <source>Tell %1 every %2s above %3 below %4</source>
-        <translation type="unfinished"></translation>
+        <translation>Sag %1 alle %2s über %3 unter %4</translation>
     </message>
 </context>
 <context>
     <name>AnnouncementsTab</name>
     <message>
         <source>To add new announcements, click on the plus.</source>
-        <translation>Um eine neue Sprachausgabe hinzuzufügen, klicken sie auf das Plus Symbol.</translation>
+        <translation type="vanished">Um eine neue Sprachausgabe hinzuzufügen, klicken sie auf das Plus Symbol.</translation>
+    </message>
+    <message>
+        <source>New announcement</source>
+        <translation>Neue Ankündigung</translation>
     </message>
 </context>
 <context>
     <name>Auth</name>
     <message>
         <source>Signing in</source>
-        <translation type="unfinished"></translation>
+        <translation>Einloggen</translation>
     </message>
     <message>
         <source>Not connected to Metr Pro</source>
-        <translation type="unfinished"></translation>
+        <translation>Nicht mit Metr Pro verbunden</translation>
     </message>
     <message>
         <source>Status %1, %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Status %1, %2</translation>
     </message>
     <message>
         <source>Connection not ready</source>
-        <translation type="unfinished"></translation>
+        <translation>Verbindung nicht bereit</translation>
     </message>
     <message>
         <source>Metr Pro disconnected. Connect and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Metr Pro getrennt. Verbinden und erneut versuchen.</translation>
     </message>
 </context>
 <context>
     <name>BatteryPane</name>
     <message>
         <source>Select smart BMS to pair with %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Smart BMS auswählen, um es mit %1 zu koppeln</translation>
     </message>
     <message>
         <source>Unpair BMS</source>
-        <translation type="unfinished"></translation>
+        <translation>BMS entkoppeln</translation>
     </message>
     <message>
         <source>Pair with LLT BMS</source>
-        <translation type="unfinished"></translation>
+        <translation>Mit LLT BMS koppeln</translation>
     </message>
     <message>
         <source>Pair current Metr Pro with LLT BMS (Xiaoxiang BMS) over bluetooth.</source>
-        <translation type="unfinished"></translation>
+        <translation>Koppeln Sie den aktuellen Metr Pro mit LLT BMS (Xiaoxiang BMS) über Bluetooth.</translation>
     </message>
 </context>
 <context>
@@ -171,14 +175,14 @@
     </message>
     <message>
         <source>⬅ Start here</source>
-        <translation type="unfinished"></translation>
+        <translation>⬅ Beginnen Sie hier</translation>
     </message>
 </context>
 <context>
     <name>BridgeDevice</name>
     <message>
         <source>No device</source>
-        <translation type="unfinished"></translation>
+        <translation>Kein Gerät</translation>
     </message>
 </context>
 <context>
@@ -200,47 +204,47 @@
     <name>ConfigurationManager</name>
     <message>
         <source>Read-only mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Nur-Lese-Modus</translation>
     </message>
     <message>
         <source>writing app configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>App-Konfiguration schreiben</translation>
     </message>
     <message>
         <source>Signature check failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Signaturprüfung fehlgeschlagen</translation>
     </message>
     <message>
         <source>read OK</source>
-        <translation type="unfinished"></translation>
+        <translation>lies OK</translation>
     </message>
     <message>
         <source>write OK</source>
-        <translation type="unfinished"></translation>
+        <translation>schreib OK</translation>
     </message>
     <message>
         <source>no changes to write</source>
-        <translation type="unfinished"></translation>
+        <translation>keine Änderungen zu schreiben</translation>
     </message>
     <message>
         <source>reading %1 configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Lese %1 Konfiguration</translation>
     </message>
     <message>
         <source>writing %1 configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Schreiben von %1 Konfiguration</translation>
     </message>
     <message>
         <source>Pausing DAVEGAX</source>
-        <translation type="unfinished"></translation>
+        <translation>Anhalten von DAVEGAX</translation>
     </message>
     <message>
         <source>detect OK</source>
-        <translation type="unfinished"></translation>
+        <translation>erkennen OK</translation>
     </message>
     <message>
         <source>Running motor detection</source>
-        <translation type="unfinished"></translation>
+        <translation>Laufende Motorerkennung</translation>
     </message>
 </context>
 <context>
@@ -274,40 +278,40 @@
     <name>Detector</name>
     <message>
         <source>You are running UNITY FW 23.45. Please downgrade, you might get injured. This firmware has a serious issue which leads to UNITY accelerating without user input. Read more here: </source>
-        <translation type="unfinished"></translation>
+        <translation>Sie verwenden UNITY FW 23.45. Bitte downgraden, Sie könnten sich verletzen. Diese Firmware hat ein ernstes Problem, das dazu führt, dass UNITY ohne Benutzereingaben beschleunigt. Lesen Sie hier mehr: </translation>
     </message>
 </context>
 <context>
     <name>DetectorPro</name>
     <message>
         <source>Settings downloaded</source>
-        <translation type="unfinished"></translation>
+        <translation>Einstellungen heruntergeladen</translation>
     </message>
     <message>
         <source>Invalid Metr Pro certificate</source>
-        <translation type="unfinished"></translation>
+        <translation>Ungültiges Metr Pro-Zertifikat</translation>
     </message>
     <message>
         <source>Invalid Metr Pro signature</source>
-        <translation type="unfinished"></translation>
+        <translation>Ungültige Metr Pro-Signatur</translation>
     </message>
 </context>
 <context>
     <name>DetectorXiaoBMS</name>
     <message>
         <source>Please change battery type in Settings -&gt; Battery</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitte ändern Sie den Batterietyp in Einstellungen -&gt; Batterie</translation>
     </message>
 </context>
 <context>
     <name>DeveloperView</name>
     <message>
         <source>Bytes received: %1, %2bps</source>
-        <translation type="unfinished"></translation>
+        <translation>Empfangene Bytes: %1, %2bps</translation>
     </message>
     <message>
         <source>Bytes sent: %1, %2bps</source>
-        <translation type="unfinished"></translation>
+        <translation>Gesendete Bytes: %1, %2bps</translation>
     </message>
 </context>
 <context>
@@ -322,7 +326,7 @@
     </message>
     <message>
         <source>Module settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Moduleinstellungen</translation>
     </message>
     <message>
         <source>Name</source>
@@ -330,7 +334,7 @@
     </message>
     <message>
         <source>Bluetooth module name. It will be permanently saved on the module. Other applications will also see the change.</source>
-        <translation type="unfinished"></translation>
+        <translation>Name des Bluetooth-Moduls. Es wird dauerhaft auf dem Modul gespeichert. Andere Anwendungen werden die Änderung ebenfalls sehen.</translation>
     </message>
 </context>
 <context>
@@ -357,7 +361,7 @@
     </message>
     <message>
         <source>Uploading %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Hochladen von %1 nach %2</translation>
     </message>
     <message>
         <source>firmware</source>
@@ -365,34 +369,34 @@
     </message>
     <message>
         <source>Operation timed out</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeit abgelaufen für Vorgang</translation>
     </message>
     <message>
         <source>softdevice and bootloader (phase 1 of 2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Softdevice und Bootloader (Phase 1 von 2)</translation>
     </message>
 </context>
 <context>
     <name>DfuLte</name>
     <message>
         <source>Downloading new firmware</source>
-        <translation type="unfinished"></translation>
+        <translation>Herunterladen neuer Firmware</translation>
     </message>
     <message>
         <source>Error: %1</source>
-        <translation type="unfinished">Fehler: %1</translation>
+        <translation>Fehler: %1</translation>
     </message>
     <message>
         <source>Operation timed out</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeit abgelaufen für Vorgang</translation>
     </message>
     <message>
         <source>Update completed!</source>
-        <translation type="unfinished">Aktualisierung abgeschlossen!</translation>
+        <translation>Aktualisierung abgeschlossen!</translation>
     </message>
     <message>
         <source>Uploading firmware to Metr LTE</source>
-        <translation type="unfinished"></translation>
+        <translation>Firmware auf Metr LTE hochladen</translation>
     </message>
 </context>
 <context>
@@ -429,47 +433,47 @@
     <name>Discharger</name>
     <message>
         <source>Discharging...</source>
-        <translation type="unfinished"></translation>
+        <translation>Entladen...</translation>
     </message>
     <message>
         <source>Discharge complete</source>
-        <translation type="unfinished"></translation>
+        <translation>Entladung abgeschlossen</translation>
     </message>
     <message>
         <source>No temperature sensors. Discharge not allowed</source>
-        <translation type="unfinished"></translation>
+        <translation>Keine Temperatursensoren. Entlastung nicht erlaubt</translation>
     </message>
     <message>
         <source>Motor temp reached %1C. Discharge not allowed. Please lower discharge current</source>
-        <translation type="unfinished"></translation>
+        <translation>Motortemperatur hat %1C erreicht. Entlastung nicht erlaubt. Bitte senken Sie den Entladestrom</translation>
     </message>
     <message>
         <source>ESC temp reached %1C. Discharge not allowed. Please lower discharge current</source>
-        <translation type="unfinished"></translation>
+        <translation>ESC-Temperatur hat %1C erreicht. Entlastung nicht erlaubt. Bitte senken Sie den Entladestrom</translation>
     </message>
     <message>
         <source>Battery: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Batterie: %1</translation>
     </message>
     <message>
         <source>Voltage: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Spannung: %1</translation>
     </message>
     <message>
         <source>Battery current: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Batteriestrom: %1</translation>
     </message>
     <message>
         <source>Motor current: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Motorstrom: %1</translation>
     </message>
     <message>
         <source>ESC temp: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ESC-Temperatur: %1</translation>
     </message>
     <message>
         <source>Motor temp: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Motortemperatur: %1</translation>
     </message>
     <message>
         <source>Ah: %1 Wh: %2</source>
@@ -485,15 +489,15 @@
     </message>
     <message>
         <source>Stop discharge</source>
-        <translation type="unfinished"></translation>
+        <translation>Entladung stoppen</translation>
     </message>
     <message>
         <source>Start discharge</source>
-        <translation type="unfinished"></translation>
+        <translation>Entladung starten</translation>
     </message>
     <message>
         <source>PPM signal detected. Turn off the remote and restart VESC.</source>
-        <translation type="unfinished"></translation>
+        <translation>PPM-Signal erkannt. Schalten Sie die Fernbedienung aus und starten Sie VESC neu.</translation>
     </message>
 </context>
 <context>
@@ -684,15 +688,15 @@
     </message>
     <message>
         <source>History</source>
-        <translation type="unfinished"></translation>
+        <translation>Geschichte</translation>
     </message>
     <message>
         <source>Restart BMS</source>
-        <translation type="unfinished"></translation>
+        <translation>BMS neu starten</translation>
     </message>
     <message>
         <source>not supported</source>
-        <translation type="unfinished"></translation>
+        <translation>nicht unterstützt</translation>
     </message>
 </context>
 <context>
@@ -714,66 +718,81 @@
     <name>FaultTab</name>
     <message>
         <source>Date</source>
-        <translation type="unfinished">Datum</translation>
+        <translation>Datum</translation>
     </message>
     <message>
         <source>Fault code</source>
-        <translation type="unfinished"></translation>
+        <translation>Falscher Code</translation>
+    </message>
+    <message>
+        <source>Clear all</source>
+        <translation>Alles löschen</translation>
+    </message>
+    <message>
+        <source>Swipe left to delete. Long press to select.</source>
+        <translation>Zum Löschen nach links wischen. Zum Auswählen lange drücken.</translation>
+    </message>
+</context>
+<context>
+    <name>FaultUtils</name>
+    <message>
+        <source>Unknown error</source>
+        <translation>Unbekannter Fehler</translation>
     </message>
 </context>
 <context>
     <name>Global</name>
     <message>
         <source>Unknown error</source>
-        <translation>Unbekannter Fehler</translation>
+        <translation type="vanished">Unbekannter Fehler</translation>
     </message>
     <message>
         <source>No device</source>
-        <translation type="unfinished"></translation>
+        <translation>Kein Gerät</translation>
     </message>
 </context>
 <context>
     <name>HistoryView</name>
     <message>
         <source>Use</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwenden</translation>
     </message>
 </context>
 <context>
     <name>LocationFinder</name>
     <message>
         <source>Please enable location. Map information will not be available without it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitte Standort aktivieren. Ohne sie sind keine Karteninformationen verfügbar.</translation>
     </message>
 </context>
 <context>
     <name>MainWindow</name>
     <message>
         <source>Settings downloaded</source>
-        <translation type="unfinished"></translation>
+        <translation>Einstellungen heruntergeladen</translation>
     </message>
     <message>
         <source>Failed to download settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler beim Herunterladen der Einstellungen</translation>
     </message>
     <message>
         <source>Failed to join map</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler beim Beitritt zur Karte</translation>
     </message>
     <message>
         <source>Please enable location permission. Maps and BLE Scan will not work without it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitte aktivieren Sie die Standortberechtigung. Karten und BLE-Scan funktionieren ohne sie nicht.</translation>
     </message>
     <message>
         <source>Please enable camera permission. QR code scan and overlay will not work without it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitte aktivieren Sie die Kameraberechtigung. QR-Code-Scan und -Overlay funktionieren ohne sie nicht.</translation>
     </message>
 </context>
 <context>
     <name>MetrBridge</name>
     <message>
         <source>Copied to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>In die Zwischenablage kopiert</translation>
     </message>
     <message>
         <source>Bytes in</source>
@@ -785,7 +804,7 @@
     </message>
     <message>
         <source>Only share the code with someone you trust!</source>
-        <translation type="unfinished"></translation>
+        <translation>Teilen Sie den Code nur mit jemandem, dem Sie vertrauen!</translation>
     </message>
 </context>
 <context>
@@ -828,59 +847,59 @@
     </message>
     <message>
         <source>Settings uploaded</source>
-        <translation type="unfinished"></translation>
+        <translation>Einstellungen hochgeladen</translation>
     </message>
     <message>
         <source>Failed to upload settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Einstellungen konnten nicht hochgeladen werden</translation>
     </message>
     <message>
         <source>Settings downloaded</source>
-        <translation type="unfinished"></translation>
+        <translation>Einstellungen heruntergeladen</translation>
     </message>
     <message>
         <source>Failed to download settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler beim Herunterladen der Einstellungen</translation>
     </message>
     <message>
         <source>Cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Wolke</translation>
     </message>
     <message>
         <source>Upload app settings to the server. When this module is connected to a new phone, the settings will be automatically downloaded from the server.</source>
-        <translation type="unfinished"></translation>
+        <translation>App-Einstellungen auf den Server hochladen. Wenn dieses Modul mit einem neuen Telefon verbunden wird, werden die Einstellungen automatisch vom Server heruntergeladen.</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation type="unfinished">Hochladen</translation>
+        <translation>Hochladen</translation>
     </message>
     <message>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Nachladen</translation>
     </message>
     <message>
         <source>Upgrade</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualisierung</translation>
     </message>
     <message>
         <source>SD card</source>
-        <translation type="unfinished"></translation>
+        <translation>SD-Karte</translation>
     </message>
     <message>
         <source>inserted</source>
-        <translation type="unfinished"></translation>
+        <translation>eingelegt</translation>
     </message>
     <message>
         <source>missing</source>
-        <translation type="unfinished"></translation>
+        <translation>fehlt</translation>
     </message>
     <message>
         <source>GPS module</source>
-        <translation type="unfinished"></translation>
+        <translation>GPS-Modul</translation>
     </message>
     <message>
         <source>detected</source>
-        <translation type="unfinished"></translation>
+        <translation>erkannt</translation>
     </message>
     <message>
         <source>BLE</source>
@@ -888,11 +907,11 @@
     </message>
     <message>
         <source>encrypted</source>
-        <translation type="unfinished"></translation>
+        <translation>verschlüsselt</translation>
     </message>
     <message>
         <source>not paired</source>
-        <translation type="unfinished"></translation>
+        <translation>nicht gekoppelt</translation>
     </message>
     <message>
         <source>ESC</source>
@@ -900,15 +919,15 @@
     </message>
     <message>
         <source>not detected</source>
-        <translation type="unfinished"></translation>
+        <translation>nicht erkannt</translation>
     </message>
     <message>
         <source>New %1 firmware is available!</source>
-        <translation type="unfinished"></translation>
+        <translation>Neue %1 firmware ist verfügbar!</translation>
     </message>
     <message>
         <source>Scan settings QR code</source>
-        <translation type="unfinished"></translation>
+        <translation>Scannen Sie den QR-Code der Einstellungen</translation>
     </message>
     <message>
         <source>LTE</source>
@@ -916,7 +935,7 @@
     </message>
     <message>
         <source>Your Metr LTE firmware is up to date</source>
-        <translation type="unfinished"></translation>
+        <translation>Ihre Metr LTE-Firmware ist auf dem neuesten Stand</translation>
     </message>
     <message>
         <source>Clone</source>
@@ -928,15 +947,30 @@
     </message>
     <message>
         <source>Share</source>
-        <translation type="unfinished">Teilen</translation>
+        <translation>Teilen</translation>
     </message>
     <message>
         <source>Scan</source>
-        <translation type="unfinished">Scannen</translation>
+        <translation>Scannen</translation>
     </message>
     <message>
         <source>Your %1 firmware is up to date</source>
-        <translation type="unfinished"></translation>
+        <translation>Ihre %1 firmware ist auf dem neuesten Stand</translation>
+    </message>
+</context>
+<context>
+    <name>MiscPane</name>
+    <message>
+        <source>Pair with Garmin</source>
+        <translation>Mit Garmin koppeln</translation>
+    </message>
+    <message>
+        <source>Unpair</source>
+        <translation>Entkoppeln</translation>
+    </message>
+    <message>
+        <source>Pair current Metr Pro with Garmin device.</source>
+        <translation>Koppeln Sie das aktuelle Metr Pro mit dem Garmin-Gerät.</translation>
     </message>
 </context>
 <context>
@@ -963,14 +997,14 @@
     </message>
     <message>
         <source>Add more parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Fügen Sie weitere Parameter hinzu</translation>
     </message>
 </context>
 <context>
     <name>ModeViewDelegate</name>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Entfernen</translation>
+        <translation>Entfernen</translation>
     </message>
 </context>
 <context>
@@ -997,7 +1031,7 @@
     </message>
     <message>
         <source>Swipe right to apply mode. Swipe left to show options. Click to configure limits.</source>
-        <translation>Wischen Sie nach rechts um den Modus anzuwenden. Wischen Sie nach Links um Optionen anzuzeigen. Klicken Sie um Grenzwerte anzupassen.</translation>
+        <translation type="vanished">Wischen Sie nach rechts um den Modus anzuwenden. Wischen Sie nach Links um Optionen anzuzeigen. Klicken Sie um Grenzwerte anzupassen.</translation>
     </message>
     <message>
         <source>Connection is offline.</source>
@@ -1021,27 +1055,31 @@
     </message>
     <message>
         <source>Read-only mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Nur-Lese-Modus</translation>
     </message>
     <message>
         <source>Scan mode QR code</source>
-        <translation type="unfinished"></translation>
+        <translation>QR-Code im Scanmodus</translation>
     </message>
     <message>
         <source>timeout</source>
-        <translation type="unfinished"></translation>
+        <translation>Auszeit</translation>
     </message>
     <message>
         <source>Can not create configurations</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurationen können nicht erstellt werden</translation>
     </message>
     <message>
         <source>Firmware &lt;= 3.48. Won&apos;t apply.</source>
-        <translation type="unfinished">Firmware &lt;= 2.18. Wird nicht angewendet. {3.48.?}</translation>
+        <translation>Firmware &lt;= 3.48. Wird nicht gelten.</translation>
     </message>
     <message>
-        <source>To add a new mode, click on the plus.</source>
-        <translation type="unfinished"></translation>
+        <source>Swipe right to apply mode. Swipe left to show options. Long press to select.</source>
+        <translation>Zum Anwenden-Modus nach rechts wischen. Wischen Sie nach links, um Optionen anzuzeigen. Zum Auswählen lange drücken.</translation>
+    </message>
+    <message>
+        <source>New mode</source>
+        <translation>Neuer Modus</translation>
     </message>
 </context>
 <context>
@@ -1056,30 +1094,30 @@
     </message>
     <message>
         <source>Until reboot</source>
-        <translation type="unfinished"></translation>
+        <translation>Bis zum Neustart</translation>
     </message>
 </context>
 <context>
     <name>PPMDetect</name>
     <message>
         <source>1. Hold remote in neutral position</source>
-        <translation type="unfinished"></translation>
+        <translation>1. Fernbedienung in Neutralstellung halten</translation>
     </message>
     <message>
         <source>2. Hold max speed</source>
-        <translation type="unfinished"></translation>
+        <translation>2. Höchstgeschwindigkeit halten</translation>
     </message>
     <message>
         <source>3. Hold max brake</source>
-        <translation type="unfinished"></translation>
+        <translation>3. Max-Bremse halten</translation>
     </message>
     <message>
         <source>4. Done</source>
-        <translation type="unfinished"></translation>
+        <translation>4. Fertig</translation>
     </message>
     <message>
         <source>min</source>
-        <translation type="unfinished">min</translation>
+        <translation></translation>
     </message>
     <message>
         <source>center</source>
@@ -1193,31 +1231,31 @@
     <name>RealtimeView</name>
     <message>
         <source>amp hours spent</source>
-        <translation type="unfinished">Amperestunden verbraucht</translation>
+        <translation>Amperestunden verbraucht</translation>
     </message>
     <message>
         <source>Ah</source>
-        <translation type="unfinished">Ah</translation>
+        <translation>Ah</translation>
     </message>
     <message>
         <source>amp hours regen</source>
-        <translation type="unfinished">Amperestunden rekuperiert</translation>
+        <translation>Amperestunden rekuperiert</translation>
     </message>
     <message>
         <source>watt hours spent</source>
-        <translation type="unfinished">Wattstunden verbraucht</translation>
+        <translation>Wattstunden verbraucht</translation>
     </message>
     <message>
         <source>watt hours regen</source>
-        <translation type="unfinished">Wattstunden rekuperiert</translation>
+        <translation>Wattstunden rekuperiert</translation>
     </message>
     <message>
         <source>GPS speed</source>
-        <translation type="unfinished">GPS Geschwindigkeit</translation>
+        <translation>GPS Geschwindigkeit</translation>
     </message>
     <message>
         <source>battery current</source>
-        <translation type="unfinished">Batteriestrom</translation>
+        <translation>Batteriestrom</translation>
     </message>
     <message>
         <source>watts</source>
@@ -1278,15 +1316,15 @@ x100</source>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Hinzufügen</translation>
+        <translation>Hinzufügen</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgang</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished">Zurücksetzen</translation>
+        <translation>Zurücksetzen</translation>
     </message>
 </context>
 <context>
@@ -1316,19 +1354,19 @@ x100</source>
     <name>RecordList</name>
     <message>
         <source>Swipe left to show options. Click to open.</source>
-        <translation>Wischen Sie nach links, um Optionen anzuzeigen. Klicken Sie zum Öffnen.</translation>
-    </message>
-    <message>
-        <source>Select at least 2 records to merge.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Wischen Sie nach links, um Optionen anzuzeigen. Klicken Sie zum Öffnen.</translation>
     </message>
     <message>
         <source>Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Titel</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Beschreibung</translation>
+    </message>
+    <message>
+        <source>Swipe left to show options. Long press to select.</source>
+        <translation>Wischen Sie nach links, um Optionen anzuzeigen. Zum Auswählen lange drücken.</translation>
     </message>
 </context>
 <context>
@@ -1351,27 +1389,27 @@ x100</source>
     </message>
     <message>
         <source>Fetching %1 records from SD card, %2%</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrufen von %1 Datensätzen von SD-Karte, %2%</translation>
     </message>
     <message>
         <source>Record resumed</source>
-        <translation type="unfinished"></translation>
+        <translation>Aufnahme fortgesetzt</translation>
     </message>
     <message>
         <source>Record paused</source>
-        <translation type="unfinished"></translation>
+        <translation>Aufzeichnung angehalten</translation>
     </message>
     <message>
         <source>status=%1, %2</source>
-        <translation type="unfinished"></translation>
+        <translation>status=%1, %2</translation>
     </message>
     <message>
         <source>Failed to open record, status=%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Datensatz konnte nicht geöffnet werden, Status=%1</translation>
     </message>
     <message>
         <source>Different Metr Pro, not uploading. Connect to the correct Metr Pro and try to upload again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Andere Metr Pro, nicht hochladen. Stellen Sie eine Verbindung zum richtigen Metr Pro her und versuchen Sie erneut, hochzuladen.</translation>
     </message>
 </context>
 <context>
@@ -1433,10 +1471,14 @@ x100</source>
     </message>
     <message>
         <source>Resume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fortsetzen</translation>
     </message>
     <message>
         <source>Pause</source>
+        <translation type="unfinished">Pause</translation>
+    </message>
+    <message>
+        <source>Sync</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1523,41 +1565,43 @@ x100</source>
     </message>
     <message>
         <source>Failed to open channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler beim Öffnen des Kanals</translation>
     </message>
     <message>
         <source>Show logs for:</source>
-        <translation type="unfinished"></translation>
+        <translation>Protokolle anzeigen für:</translation>
     </message>
     <message>
         <source>Receive support
 (allow remote connection to my setup)</source>
-        <translation type="unfinished"></translation>
+        <translation>Erhalten Sie Unterstützung
+(Remote-Verbindung zu meinem Setup zulassen)</translation>
     </message>
     <message>
         <source>Give support
 (connect to another setup)</source>
-        <translation type="unfinished"></translation>
+        <translation>Unterstützung geben
+(mit einem anderen Setup verbinden)</translation>
     </message>
     <message>
         <source>Remote access code</source>
-        <translation type="unfinished"></translation>
+        <translation>Fernzugriffscode</translation>
     </message>
     <message>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>Verbinden</translation>
     </message>
     <message>
         <source>End remote support</source>
-        <translation type="unfinished"></translation>
+        <translation>Beenden Sie den Remote-Support</translation>
     </message>
     <message>
         <source>Remote support</source>
-        <translation type="unfinished"></translation>
+        <translation>Ferngesteuerte Hilfe</translation>
     </message>
     <message>
         <source>Allows remote support to connect over internet to your setup.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ermöglicht Remote-Support, sich über das Internet mit Ihrem Setup zu verbinden.</translation>
     </message>
 </context>
 <context>
@@ -1587,7 +1631,7 @@ x100</source>
     <name>StatusCell</name>
     <message>
         <source>pairing</source>
-        <translation type="unfinished"></translation>
+        <translation>Paarung</translation>
     </message>
 </context>
 <context>
@@ -2188,14 +2232,6 @@ x100</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Consumption window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Time in milliseconds for floating window that is used to calculate consumption (wh/km or wh/mi).</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Beta Metr Pro FW</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2289,7 +2325,7 @@ x100</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Absagen</translation>
     </message>
     <message>
         <source>duty cycle</source>
@@ -2683,6 +2719,30 @@ x100</source>
         <source>(seconds), how much time to wait before attempting to restart charging from a non-fault charging end, set to 0 to disable.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Swipe Drawer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable opening the drawer from the left edge of the screen. By default it can only be opened by pressing menu button in the bottom left.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nominal voltage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nominal voltage. Used for remaining range estimation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manual Sync</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manually sync records from SD card.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>TCPBridge</name>
@@ -2745,38 +2805,38 @@ x100</source>
     <name>TrackingManager</name>
     <message>
         <source>Failed to sign in, %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Anmeldung fehlgeschlagen, %1</translation>
     </message>
     <message>
         <source>Failed to create, %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler beim Erstellen, %1</translation>
     </message>
     <message>
         <source>Failed to join, %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Beitritt fehlgeschlagen, %1</translation>
     </message>
     <message>
         <source>Failed to delete, %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Löschen fehlgeschlagen, %1</translation>
     </message>
     <message>
         <source>Failed, %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehlgeschlagen, %1</translation>
     </message>
 </context>
 <context>
     <name>TrackingSetup</name>
     <message>
         <source>Map name</source>
-        <translation type="unfinished"></translation>
+        <translation>Kartenname</translation>
     </message>
     <message>
         <source>My city</source>
-        <translation type="unfinished"></translation>
+        <translation>Meine Stadt</translation>
     </message>
     <message>
         <source>Nickname</source>
-        <translation type="unfinished"></translation>
+        <translation>Spitzname</translation>
     </message>
     <message>
         <source>esk8</source>
@@ -2784,63 +2844,63 @@ x100</source>
     </message>
     <message>
         <source>Expire after</source>
-        <translation type="unfinished"></translation>
+        <translation>Verfallen nach</translation>
     </message>
     <message>
         <source>days</source>
-        <translation type="unfinished"></translation>
+        <translation>Tagen</translation>
     </message>
     <message>
         <source>hours</source>
-        <translation type="unfinished"></translation>
+        <translation>Stunden</translation>
     </message>
     <message>
         <source>minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>Minuten</translation>
     </message>
     <message>
         <source>Join</source>
-        <translation type="unfinished"></translation>
+        <translation>Verbinden</translation>
     </message>
     <message>
         <source>Start tracking</source>
-        <translation type="unfinished"></translation>
+        <translation>Beginnen Sie mit der Verfolgung</translation>
     </message>
 </context>
 <context>
     <name>TrackingTab</name>
     <message>
-        <source>To add new tracking, click on the plus.</source>
-        <translation type="unfinished"></translation>
+        <source>New tracking</source>
+        <translation>Neue Verfolgung</translation>
     </message>
 </context>
 <context>
     <name>TrackingTabDelegate</name>
     <message>
         <source>Expired</source>
-        <translation type="unfinished"></translation>
+        <translation>Abgelaufen</translation>
     </message>
     <message>
         <source>Expires</source>
-        <translation type="unfinished"></translation>
+        <translation>Läuft ab</translation>
     </message>
 </context>
 <context>
     <name>TrackingView</name>
     <message>
         <source>Resume</source>
-        <translation type="unfinished"></translation>
+        <translation>Fortsetzen</translation>
     </message>
     <message>
         <source>Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>Pause</translation>
     </message>
 </context>
 <context>
     <name>UndoList</name>
     <message>
         <source>Undo</source>
-        <translation>Rückgängig</translation>
+        <translation type="vanished">Rückgängig</translation>
     </message>
 </context>
 <context>
@@ -2859,6 +2919,21 @@ x100</source>
     <message>
         <source>No</source>
         <translation>Nein</translation>
+    </message>
+</context>
+<context>
+    <name>VListView</name>
+    <message>
+        <source>Undo</source>
+        <translation>Rückgängig</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Absagen</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation>Löschen</translation>
     </message>
 </context>
 <context>
@@ -2901,6 +2976,13 @@ x100</source>
     <message>
         <source>Firmware uploaded. Installing</source>
         <translation type="vanished">Firmware hochgeladen. Installiert</translation>
+    </message>
+</context>
+<context>
+    <name>bluetooth::DiscoveryAgent</name>
+    <message>
+        <source>Bluetooth is probably turned off. Please turn it on and scan again.</source>
+        <translation>Wahrscheinlich ist Bluetooth ausgeschaltet. Bitte schalten Sie es ein und scannen Sie erneut.</translation>
     </message>
 </context>
 </TS>

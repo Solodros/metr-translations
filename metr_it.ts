@@ -109,7 +109,7 @@
 <context>
     <name>AnnouncementsTab</name>
     <message>
-        <source>To add new announcements, click on the plus.</source>
+        <source>New announcement</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -863,6 +863,21 @@
         <source>Fault code</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Clear all</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Swipe left to delete. Long press to select.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>FaultUtils</name>
+    <message>
+        <source>Unknown error</source>
+        <translation type="unfinished">Errore sconosciuto</translation>
+    </message>
 </context>
 <context>
     <name>Global</name>
@@ -888,7 +903,7 @@
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Errore sconosciuto</translation>
+        <translation type="vanished">Errore sconosciuto</translation>
     </message>
     <message>
         <source>No device</source>
@@ -1099,6 +1114,21 @@
     </message>
 </context>
 <context>
+    <name>MiscPane</name>
+    <message>
+        <source>Pair with Garmin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unpair</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pair current Metr Pro with Garmin device.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ModeView</name>
     <message>
         <source>Reading motor configuration failed</source>
@@ -1152,7 +1182,7 @@
     </message>
     <message>
         <source>Swipe right to apply mode. Swipe left to show options. Click to configure limits.</source>
-        <translation>Scorri verso destra per applicare la modalità. Scorri verso sinistra per mostrare le opzioni. Clicca per configurare i limiti.</translation>
+        <translation type="vanished">Scorri verso destra per applicare la modalità. Scorri verso sinistra per mostrare le opzioni. Clicca per configurare i limiti.</translation>
     </message>
     <message>
         <source>Clear Startup Mode</source>
@@ -1199,7 +1229,11 @@
         <translation type="unfinished">Firmware &lt;= 2.18. Non si applica. {3.48.?}</translation>
     </message>
     <message>
-        <source>To add a new mode, click on the plus.</source>
+        <source>Swipe right to apply mode. Swipe left to show options. Long press to select.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New mode</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1531,11 +1565,7 @@ x100</source>
     <name>RecordList</name>
     <message>
         <source>Swipe left to show options. Click to open.</source>
-        <translation>Spostare a sinistra per visualizzare le opzioni. Clicca per aprire.</translation>
-    </message>
-    <message>
-        <source>Select at least 2 records to merge.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Spostare a sinistra per visualizzare le opzioni. Clicca per aprire.</translation>
     </message>
     <message>
         <source>Title</source>
@@ -1543,6 +1573,10 @@ x100</source>
     </message>
     <message>
         <source>Description</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Swipe left to show options. Long press to select.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1652,6 +1686,10 @@ x100</source>
     </message>
     <message>
         <source>Pause</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sync</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2395,14 +2433,6 @@ x100</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Consumption window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Time in milliseconds for floating window that is used to calculate consumption (wh/km or wh/mi).</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Beta Metr Pro FW</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2890,6 +2920,30 @@ x100</source>
         <source>(seconds), how much time to wait before attempting to restart charging from a non-fault charging end, set to 0 to disable.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Swipe Drawer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable opening the drawer from the left edge of the screen. By default it can only be opened by pressing menu button in the bottom left.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nominal voltage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nominal voltage. Used for remaining range estimation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manual Sync</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manually sync records from SD card.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>TCPBridge</name>
@@ -3017,7 +3071,7 @@ x100</source>
 <context>
     <name>TrackingTab</name>
     <message>
-        <source>To add new tracking, click on the plus.</source>
+        <source>New tracking</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3047,7 +3101,7 @@ x100</source>
     <name>UndoList</name>
     <message>
         <source>Undo</source>
-        <translation>Annulla</translation>
+        <translation type="vanished">Annulla</translation>
     </message>
 </context>
 <context>
@@ -3065,6 +3119,21 @@ x100</source>
     </message>
     <message>
         <source>No</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>VListView</name>
+    <message>
+        <source>Undo</source>
+        <translation type="unfinished">Annulla</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3104,6 +3173,13 @@ x100</source>
     <message>
         <source>Firmware uploaded. Installing</source>
         <translation type="vanished">Firmware caricato. Installazione</translation>
+    </message>
+</context>
+<context>
+    <name>bluetooth::DiscoveryAgent</name>
+    <message>
+        <source>Bluetooth is probably turned off. Please turn it on and scan again.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>
