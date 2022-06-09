@@ -322,7 +322,7 @@
     </message>
     <message>
         <source>Alias</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Module settings</source>
@@ -330,7 +330,7 @@
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Bluetooth module name. It will be permanently saved on the module. Other applications will also see the change.</source>
@@ -365,7 +365,7 @@
     </message>
     <message>
         <source>firmware</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Operation timed out</source>
@@ -422,11 +422,11 @@
     </message>
     <message>
         <source>batt high</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>bms high</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -560,7 +560,7 @@
     </message>
     <message>
         <source>FOC detection R L</source>
-        <translation type="unfinished"></translation>
+        <translation>LWL-Erkennung R L</translation>
     </message>
     <message>
         <source>Bad Detection Result Received.</source>
@@ -572,7 +572,7 @@
     </message>
     <message>
         <source>FOC detection λ</source>
-        <translation type="unfinished"></translation>
+        <translation>LWL-Erkennung λ</translation>
     </message>
     <message>
         <source>communication FAILED</source>
@@ -620,7 +620,7 @@
     </message>
     <message>
         <source>Low duty</source>
-        <translation type="unfinished"></translation>
+        <translation>Niedrige Pflicht</translation>
     </message>
     <message>
         <source>Low duty used during BLDC motor detection.</source>
@@ -652,7 +652,7 @@
     </message>
     <message>
         <source>Duty</source>
-        <translation type="unfinished"></translation>
+        <translation>Pflicht</translation>
     </message>
     <message>
         <source>Duty used during FOC motor detection.</source>
@@ -660,11 +660,11 @@
     </message>
     <message>
         <source>TC</source>
-        <translation type="unfinished"></translation>
+        <translation>TC</translation>
     </message>
     <message>
         <source>Time constant for KP and KI.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeitkonstante für KP und KI.</translation>
     </message>
     <message>
         <source>FOC Hall Sensors detection in this mode is not supported. Please change motor type to FOC.</source>
@@ -680,7 +680,7 @@
     </message>
     <message>
         <source>Calibrate PPM</source>
-        <translation type="unfinished"></translation>
+        <translation>PPM kalibrieren</translation>
     </message>
     <message>
         <source>Discharge</source>
@@ -1263,7 +1263,7 @@
     </message>
     <message>
         <source>W</source>
-        <translation type="unfinished"></translation>
+        <translation>W</translation>
     </message>
     <message>
         <source>duty cycle</source>
@@ -1287,28 +1287,29 @@
     </message>
     <message>
         <source>speed (gauge)</source>
-        <translation type="unfinished"></translation>
+        <translation>Geschwindigkeit (Messgerät)</translation>
     </message>
     <message>
         <source>ppm (bar)</source>
-        <translation type="unfinished"></translation>
+        <translation>ppm (bar)</translation>
     </message>
     <message>
         <source>Throttle</source>
-        <translation type="unfinished"></translation>
+        <translation>Gaspedal</translation>
     </message>
     <message>
         <source>Brake</source>
-        <translation type="unfinished"></translation>
+        <translation>Bremse</translation>
     </message>
     <message>
         <source>rpm (gauge)</source>
-        <translation type="unfinished"></translation>
+        <translation>Drehzahl (Anzeige)</translation>
     </message>
     <message>
         <source>RPM
 x100</source>
-        <translation type="unfinished"></translation>
+        <translation>Drehzahl
+x100</translation>
     </message>
     <message>
         <source>map</source>
@@ -2369,7 +2370,7 @@ x100</source>
     </message>
     <message>
         <source>PPM drift margin</source>
-        <translation type="unfinished"></translation>
+        <translation>PPM-Driftspanne</translation>
     </message>
     <message>
         <source>Allowed drift during calibrating PPM remote in Expert tab. If you have issues calibrating your PPM remote, try to increase this value.</source>
@@ -2377,7 +2378,7 @@ x100</source>
     </message>
     <message>
         <source>Statistics</source>
-        <translation type="unfinished"></translation>
+        <translation>Statistiken</translation>
     </message>
     <message>
         <source>Collect and send to cloud hardware versions to improve application in the long term. Metr Pro version, VESC version, VESC count, if DieBieMS is detected, etc. Location is never shared.</source>
@@ -2385,7 +2386,7 @@ x100</source>
     </message>
     <message>
         <source>Detect DieBie/Flexi</source>
-        <translation type="unfinished"></translation>
+        <translation>DieBie/Flexi erkennen</translation>
     </message>
     <message>
         <source>Automatically detect DieBieMS / FlexiBMS connected over CAN. Turn off if you have issues with FlexiBMS</source>
@@ -2393,7 +2394,7 @@ x100</source>
     </message>
     <message>
         <source>More logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Mehr Protokolle</translation>
     </message>
     <message>
         <source>Enable debug logs. Results in much larger and more detailed log file. Recommended to restart app after changing this value.</source>
@@ -2433,27 +2434,27 @@ x100</source>
     </message>
     <message>
         <source>When you come to a stop, how long should we wait before switching the riding screen to a stationary screen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wenn Sie anhalten, wie lange sollten wir warten, bevor wir den Fahrbildschirm auf einen stationären Bildschirm umschalten.</translation>
     </message>
     <message>
         <source>The value is added to the total kilometers travelled as displayed on the lifetime screen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Wert wird zu den insgesamt zurückgelegten Kilometern addiert, die auf dem Lebensdauerbildschirm angezeigt werden.</translation>
     </message>
     <message>
         <source>Automatically backup the config and data after each X kilometers travelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisches Backup der Konfiguration und Daten nach jeweils X zurückgelegten Kilometern.</translation>
     </message>
     <message>
         <source>Staging server</source>
-        <translation type="unfinished"></translation>
+        <translation>Staging-Server</translation>
     </message>
     <message>
         <source>Use staging server (stage.metr.at) instead of (metr.at). Staging server will not keep data and is not guaranteed to be online. Only for development and troubleshooting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwenden Sie den Staging-Server (stage.metr.at) anstelle von (metr.at). Der Staging-Server speichert keine Daten und es ist nicht garantiert, dass er online ist. Nur für Entwicklung und Fehlerbehebung.</translation>
     </message>
     <message>
         <source>Tracking</source>
-        <translation type="unfinished"></translation>
+        <translation>Verfolgung</translation>
     </message>
     <message>
         <source>Time in seconds between live data updates that are sent to the server. Recommended value is 10 seconds. With lower values you will get more frequent updates, but mobile data consumption will increase.</source>
@@ -2461,7 +2462,7 @@ x100</source>
     </message>
     <message>
         <source>Download assist-GPS data over cellular connection to speed up satellite discovery. Consumes about 3kb of data and occures at startup.</source>
-        <translation type="unfinished"></translation>
+        <translation>Laden Sie Assist-GPS-Daten über eine Mobilfunkverbindung herunter, um die Satellitensuche zu beschleunigen. Verbraucht etwa 3 KB Daten und tritt beim Start auf.</translation>
     </message>
     <message>
         <source>When this setting is enabled, motor current is limited to 1%. Brake current is not affected. The motors get very weak and unable to accelerate. This setting can also be activated from account section.</source>
@@ -2469,15 +2470,15 @@ x100</source>
     </message>
     <message>
         <source>Homescreen notification template</source>
-        <translation type="unfinished"></translation>
+        <translation>Benachrichtigungsvorlage für den Startbildschirm</translation>
     </message>
     <message>
         <source>knots</source>
-        <translation type="unfinished"></translation>
+        <translation>Knoten</translation>
     </message>
     <message>
         <source>Nautical</source>
-        <translation type="unfinished"></translation>
+        <translation>Nautisch</translation>
     </message>
     <message>
         <source>Minimum GPS speed when data is send over LTE connection. If the speed is below given value, no data will being sent.</source>
@@ -2485,11 +2486,11 @@ x100</source>
     </message>
     <message>
         <source>remaining</source>
-        <translation type="unfinished"></translation>
+        <translation>verblieben</translation>
     </message>
     <message>
         <source>Total Ah</source>
-        <translation type="unfinished"></translation>
+        <translation>Gesamt Ah</translation>
     </message>
     <message>
         <source>Total battery amp hours. If you have 4P battery with Samsung 30Q cells, this value should be 12.</source>
@@ -2497,7 +2498,7 @@ x100</source>
     </message>
     <message>
         <source>DieBie/Flexi</source>
-        <translation type="unfinished"></translation>
+        <translation>DieBie/Flexi</translation>
     </message>
     <message>
         <source>Redetect</source>
@@ -2509,219 +2510,219 @@ x100</source>
     </message>
     <message>
         <source>Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfiguration</translation>
     </message>
     <message>
         <source>Duty Cycle Limit</source>
-        <translation type="unfinished"></translation>
+        <translation>Duty-Cycle-Grenze</translation>
     </message>
     <message>
         <source>HFI Start</source>
-        <translation type="unfinished"></translation>
+        <translation>HFI-Start</translation>
     </message>
     <message>
         <source>Max Power Loss</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximaler Leistungsverlust</translation>
     </message>
     <message>
         <source>Battery Max Regen</source>
-        <translation type="unfinished"></translation>
+        <translation>Akku Max Regen</translation>
     </message>
     <message>
         <source>Battery Max</source>
-        <translation type="unfinished"></translation>
+        <translation>Akku max</translation>
     </message>
     <message>
         <source>Openloop ERPM</source>
-        <translation type="unfinished"></translation>
+        <translation>Openloop-ERPM</translation>
     </message>
     <message>
         <source>Sensorless ERPM</source>
-        <translation type="unfinished"></translation>
+        <translation>Sensorloses ERPM</translation>
     </message>
     <message>
         <source>Pack cell count; number of series cells in the battery pack, set to 0 to disable cell sensing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Packzellenzahl; Anzahl der in Reihe geschalteten Zellen im Akkupack, auf 0 setzen, um die Zellenerkennung zu deaktivieren.</translation>
     </message>
     <message>
         <source>Max charging current; mA (milliAmps), maximum current allowed to flow to battery.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximaler Ladestrom; mA (Milliampere), maximal zulässiger Strom, der zur Batterie fließen darf.</translation>
     </message>
     <message>
         <source>Charging termination current; mA (milliAmps), stop charging when current drops below this.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ladeschlussstrom; mA (Milliampere), Ladevorgang stoppen, wenn der Strom darunter fällt.</translation>
     </message>
     <message>
         <source>Minimum cell voltage; mV (milliVolts), minimum allowed cell voltage, no charging allowed if cell voltage below this.</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimale Zellenspannung; mV (Millivolt), minimal zulässige Zellenspannung, kein Laden zulässig, wenn die Zellenspannung darunter liegt.</translation>
     </message>
     <message>
         <source>Maximum cell voltage; mV (milliVolts), maximum allowed cell voltage, no charging allowed if cell voltage above this.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximale Zellenspannung; mV (MilliVolt), maximal zulässige Zellenspannung, kein Laden erlaubt, wenn die Zellenspannung darüber liegt.</translation>
     </message>
     <message>
         <source>Minimum charger voltage; mV (milliVolts), minimum allowed charger voltage, no charging allowed if charger voltage below this.</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimale Ladespannung; mV (Millivolt), minimal zulässige Ladespannung, kein Laden zulässig, wenn die Ladespannung darunter liegt.</translation>
     </message>
     <message>
         <source>Maximum charger voltage; mV (milliVolts), maximum allowed charger voltage, no charging allowed if charger voltage above this.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximale Ladespannung; mV (MilliVolt), maximal zulässige Ladespannung, kein Laden zulässig, wenn die Ladespannung darüber liegt.</translation>
     </message>
     <message>
         <source>Minimum pack voltage; mV (milliVolts), minimum allowed pack voltage, no charging allowed if pack voltage below this.</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimale Packspannung; mV (Millivolt), minimal zulässige Packspannung, kein Laden erlaubt, wenn die Packspannung darunter liegt.</translation>
     </message>
     <message>
         <source>Maximum pack voltage; mV (milliVolts), maximum allowed pack voltage, no charging allowed if pack voltage above this.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximale Packspannung; mV (MilliVolt), maximal zulässige Packspannung, kein Laden erlaubt, wenn die Packspannung darüber liegt.</translation>
     </message>
     <message>
         <source>Charging cell termination voltage; mV (milliVolts), don&apos;t allow any cell to go above this voltage when charging.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abschlussspannung der Ladezelle; mV (MilliVolt), darf diese Spannung beim Laden nicht überschreiten.</translation>
     </message>
     <message>
         <source>Charging pack termination voltage; mV (milliVolts), don&apos;t allow pack to go above this voltage when charging.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abschlussspannung des Ladepacks; mV (MilliVolt), darf diese Spannung beim Laden nicht überschreiten.</translation>
     </message>
     <message>
         <source>Cell balancing voltage; mV (milliVolts), allow balancing once a cell goes above this voltage.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zellenausgleichsspannung; mV (Millivolt), ermöglichen einen Ausgleich, sobald eine Zelle diese Spannung überschreitet.</translation>
     </message>
     <message>
         <source>Allowed difference between cell groups; mV (milliVolts), maximum allowed voltage difference between cell groups, balance if difference bigger.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zulässiger Unterschied zwischen Zellgruppen; mV (MilliVolt), maximal zulässige Spannungsdifferenz zwischen Zellgruppen, Ausgleich bei größerer Differenz.</translation>
     </message>
     <message>
         <source>Minimum external NTC thermistor temperature; K (Kelvin), set to 0 to disable, if enabled, the minimum temperature above which charging is allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mindesttemperatur des externen NTC-Thermistors; K (Kelvin), auf 0 gesetzt, um, falls aktiviert, die Mindesttemperatur zu deaktivieren, über der das Laden zulässig ist.</translation>
     </message>
     <message>
         <source>Maximum external NTC thermistor temperature; K (Kelvin), set to 0 to disable, if enabled, the maximum temperature below which charging is allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximale Temperatur des externen NTC-Thermistors; K (Kelvin), auf 0 gesetzt, um, falls aktiviert, die maximale Temperatur zu deaktivieren, unter der das Laden zulässig ist.</translation>
     </message>
     <message>
         <source>Minimum PCB temperature; K (Kelvin), the minimum temperature above which charging is allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimale Leiterplattentemperatur; K (Kelvin), die Mindesttemperatur, über der geladen werden darf.</translation>
     </message>
     <message>
         <source>Maximum PCB temperature; K (Kelvin), the maximum temperature below which charging is allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximale Leiterplattentemperatur; K (Kelvin), die maximale Temperatur, unterhalb derer geladen werden darf.</translation>
     </message>
     <message>
         <source>Fault wait time; s (seconds), How long to wait after fault state before trying to start charging again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehlerwartezeit; s (Sekunden), wie lange nach dem Fehlerzustand gewartet werden soll, bevor versucht wird, den Ladevorgang erneut zu starten.</translation>
     </message>
     <message>
         <source>Gain for Battery voltage ADC conversion.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verstärkung für die Batteriespannungs-ADC-Umwandlung.</translation>
     </message>
     <message>
         <source>Gain for Charger voltage ADC conversion.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verstärkung für die ADC-Umwandlung der Ladespannung.</translation>
     </message>
     <message>
         <source>Gain for Current sense ADC conversion.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verstärkung für Stromrichtungs-ADC-Umwandlung.</translation>
     </message>
     <message>
         <source>Gain for External NTC temperature probe conversion.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verstärkung für die Konvertierung des externen NTC-Temperaturfühlers.</translation>
     </message>
     <message>
         <source>Gain for Internal MCU temperature conversion.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verstärkung für die Umwandlung der internen MCU-Temperatur.</translation>
     </message>
     <message>
         <source>Offset for Battery voltage ADC conversion.</source>
-        <translation type="unfinished"></translation>
+        <translation>Offset für Batteriespannungs-ADC-Umwandlung.</translation>
     </message>
     <message>
         <source>Offset for Charger voltage ADC conversion.</source>
-        <translation type="unfinished"></translation>
+        <translation>Offset für die ADC-Umwandlung der Ladespannung.</translation>
     </message>
     <message>
         <source>Offset for Current sense ADC conversion.</source>
-        <translation type="unfinished"></translation>
+        <translation>Offset für Stromrichtungs-ADC-Umwandlung.</translation>
     </message>
     <message>
         <source>Offset for External NTC temperature probe conversion.</source>
-        <translation type="unfinished"></translation>
+        <translation>Offset für die Konvertierung des externen NTC-Temperaturfühlers.</translation>
     </message>
     <message>
         <source>Offset for Internal MCU temperature conversion.</source>
-        <translation type="unfinished"></translation>
+        <translation>Offset für interne MCU-Temperaturumwandlung.</translation>
     </message>
     <message>
         <source>External NTC probe Beta-value; external NTC sensor&apos;s beta value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Externer NTC-Fühler Beta-Wert; Betawert des externen NTC-Fühlers.</translation>
     </message>
     <message>
         <source>ADC&apos;s oversampling setting; allowed values (1, 2, 4, 8, 16).</source>
-        <translation type="unfinished"></translation>
+        <translation>Oversampling-Einstellung des ADC; zulässige Werte (1, 2, 4, 8, 16).</translation>
     </message>
     <message>
         <source>h (Hours), how long to stay in active mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>h (Stunden), wie lange im aktiven Modus bleiben.</translation>
     </message>
     <message>
         <source>Allow cell balancing outside of charging.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zellenausgleich außerhalb des Ladevorgangs zulassen.</translation>
     </message>
     <message>
         <source>Force 5V regulator always on when battery connected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Erzwingen Sie den 5-V-Regler immer an, wenn die Batterie angeschlossen ist.</translation>
     </message>
     <message>
         <source>Balancing temperature ratio, dynamically adjusts the max allowed balancing resistors based on BMS temperature, set to 0 to use static maximum.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgleichstemperaturverhältnis, passt dynamisch die maximal zulässigen Ausgleichswiderstände basierend auf der BMS-Temperatur an, auf 0 gesetzt, um das statische Maximum zu verwenden.</translation>
     </message>
     <message>
         <source>Storage discharge voltage; mV (milliVolts), if storage discharge enabled, then pack will be discharged to this voltage.</source>
-        <translation type="unfinished"></translation>
+        <translation>Speicherentladespannung; mV (Millivolt), wenn die Speicherentladung aktiviert ist, wird der Akku auf diese Spannung entladen.</translation>
     </message>
     <message>
         <source>h (Hours), how long to wait from last CHARGING event to start discharging the pack to the storage voltage, set to 0 to disable.</source>
-        <translation type="unfinished"></translation>
+        <translation>h (Stunden), wie lange nach dem letzten CHARGING-Ereignis gewartet werden soll, um mit dem Entladen des Akkus auf die Speicherspannung zu beginnen, zum Deaktivieren auf 0 setzen.</translation>
     </message>
     <message>
         <source>CAN activity status LED tick, good for testing that the BMS is receiving CAN traffic.</source>
-        <translation type="unfinished"></translation>
+        <translation>CAN-Aktivitätsstatus-LED-Tick, gut zum Testen, ob das BMS CAN-Verkehr empfängt.</translation>
     </message>
     <message>
         <source>CAN ID number for this BMS unit, if using multi-BMS setups, all BMS&apos; need to have unique CAN ID.</source>
-        <translation type="unfinished"></translation>
+        <translation>CAN-ID-Nummer für diese BMS-Einheit. Wenn Sie Multi-BMS-Setups verwenden, müssen alle BMS eine eindeutige CAN-ID haben.</translation>
     </message>
     <message>
         <source>If set, keeps 5V regulator on if activeTimer is not expired even if USB, charger or Opto not active.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wenn gesetzt, hält der 5-V-Regler eingeschaltet, wenn activeTimer nicht abgelaufen ist, auch wenn USB, Ladegerät oder Opto nicht aktiv sind.</translation>
     </message>
     <message>
         <source>(hours), up to how many hours a CAN-frame reception can extend activeTimer, set to 0 to disable.</source>
-        <translation type="unfinished"></translation>
+        <translation>(Stunden), bis zu wie viele Stunden sich ein CAN-Frame-Empfang verlängern kann. activeTimer, zum Deaktivieren auf 0 setzen.</translation>
     </message>
     <message>
         <source>(minutes), up to how many minutes a CAN-frame reception can extend activeTimer, set to 0 to disable.</source>
-        <translation type="unfinished"></translation>
+        <translation>(Minuten), bis zu wie viele Minuten sich ein CAN-Frame-Empfang verlängern kann. activeTimer, zum Deaktivieren auf 0 setzen.</translation>
     </message>
     <message>
         <source>Can be used to allow CAN activity to wake-up the BMS from sleep, increases sleep mode quiescent current slightly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kann verwendet werden, um CAN-Aktivität zu ermöglichen, das BMS aus dem Ruhezustand aufzuwecken, erhöht leicht den Ruhestrom im Ruhezustand.</translation>
     </message>
     <message>
         <source>0-3, how many parallel packs there are in addition to this unit, set to 0 to disable.</source>
-        <translation type="unfinished"></translation>
+        <translation>0-3, wie viele Parallelpacks es zusätzlich zu diesem Gerät gibt, zum Deaktivieren auf 0 setzen.</translation>
     </message>
     <message>
         <source>0-255, current voltage ratio for parallel packs starting charging, set to 0 for no scaling.</source>
-        <translation type="unfinished"></translation>
+        <translation>0-255, aktuelles Spannungsverhältnis für parallele Packs, die mit dem Laden beginnen, auf 0 setzen für keine Skalierung.</translation>
     </message>
     <message>
         <source>(seconds), how much time to wait before attempting to restart charging from a non-fault charging end, set to 0 to disable.</source>
-        <translation type="unfinished"></translation>
+        <translation>(Sekunden), wie lange gewartet werden soll, bevor versucht wird, den Ladevorgang von einem fehlerfreien Ladeende aus neu zu starten, zum Deaktivieren auf 0 setzen.</translation>
     </message>
     <message>
         <source>Swipe Drawer</source>
-        <translation type="unfinished"></translation>
+        <translation>Schublade streichen</translation>
     </message>
     <message>
         <source>Enable opening the drawer from the left edge of the screen. By default it can only be opened by pressing menu button in the bottom left.</source>
@@ -2729,7 +2730,7 @@ x100</source>
     </message>
     <message>
         <source>Nominal voltage</source>
-        <translation type="unfinished"></translation>
+        <translation>Nennspannung</translation>
     </message>
     <message>
         <source>Nominal voltage. Used for remaining range estimation.</source>
@@ -2760,7 +2761,7 @@ x100</source>
     </message>
     <message>
         <source>Peer</source>
-        <translation type="unfinished"></translation>
+        <translation>Peer</translation>
     </message>
     <message>
         <source>Bytes in</source>
@@ -2840,7 +2841,7 @@ x100</source>
     </message>
     <message>
         <source>esk8</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Expire after</source>

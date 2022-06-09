@@ -216,7 +216,7 @@
     </message>
     <message>
         <source>writing app configuration</source>
-        <translation type="unfinished">lagrer konfigurasjonsdata for app</translation>
+        <translation>lagrer konfigurasjonsdata for app</translation>
     </message>
     <message>
         <source>Signature check failed</source>
@@ -415,11 +415,11 @@
     <name>DfuLte</name>
     <message>
         <source>Downloading new firmware</source>
-        <translation type="unfinished">Laster ned ny fastvare</translation>
+        <translation>Laster ned ny fastvare</translation>
     </message>
     <message>
         <source>Error: %1</source>
-        <translation type="unfinished">Feil: %1</translation>
+        <translation>Feil: %1</translation>
     </message>
     <message>
         <source>Operation timed out</source>
@@ -427,7 +427,7 @@
     </message>
     <message>
         <source>Update completed!</source>
-        <translation type="unfinished">Oppdatering ferdig!</translation>
+        <translation>Oppdatering ferdig!</translation>
     </message>
     <message>
         <source>Uploading firmware to Metr LTE</source>

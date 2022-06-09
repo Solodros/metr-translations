@@ -5,105 +5,105 @@
     <name>AccountManager</name>
     <message>
         <source>Syncing records</source>
-        <translation type="unfinished"></translation>
+        <translation>Synchronisation des enregistrements</translation>
     </message>
     <message>
         <source>Syncing stats</source>
-        <translation type="unfinished"></translation>
+        <translation>Statistiques de synchronisation</translation>
     </message>
     <message>
         <source>Failed to sync, %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de la synchronisation, %1</translation>
     </message>
     <message>
         <source>moments ago</source>
-        <translation type="unfinished"></translation>
+        <translation>il y a quelques instants</translation>
     </message>
     <message>
         <source>%1 seconds ago</source>
-        <translation type="unfinished"></translation>
+        <translation>Il y a %1 secondes</translation>
     </message>
     <message>
         <source>%1 minutes ago</source>
-        <translation type="unfinished"></translation>
+        <translation>Il y a %1 minutes</translation>
     </message>
     <message>
         <source>%1 hours ago</source>
-        <translation type="unfinished"></translation>
+        <translation>Il y a %1 heures</translation>
     </message>
     <message>
         <source>%1 days ago</source>
-        <translation type="unfinished"></translation>
+        <translation>Il y a %1&#xa0;jours</translation>
     </message>
     <message>
         <source>Last sync: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Dernière synchronisation&#xa0;: %1</translation>
     </message>
     <message>
         <source>Status %1, %2</source>
-        <translation type="unfinished"></translation>
+        <translation>État %1, %2</translation>
     </message>
     <message>
         <source>Uploading record %1 of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Téléchargement de l&apos;enregistrement %1 sur %2</translation>
     </message>
     <message>
         <source>Downloading record %1 of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Téléchargement de l&apos;enregistrement %1 sur %2</translation>
     </message>
 </context>
 <context>
     <name>AccountTab</name>
     <message>
         <source>You must have an active connection to Metr Pro in order to sign in</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous devez avoir une connexion active à Metr Pro pour vous connecter</translation>
     </message>
     <message>
         <source>Scan sign in QR code</source>
-        <translation type="unfinished"></translation>
+        <translation>Scanner le code QR de connexion</translation>
     </message>
     <message>
         <source>Select whether you want to sign in on this device or authorize a web browser on another device</source>
-        <translation type="unfinished"></translation>
+        <translation>Indiquez si vous souhaitez vous connecter sur cet appareil ou autoriser un navigateur Web sur un autre appareil</translation>
     </message>
     <message>
         <source>This device</source>
-        <translation type="unfinished"></translation>
+        <translation>Cet appareil</translation>
     </message>
     <message>
         <source>Another device</source>
-        <translation type="unfinished"></translation>
+        <translation>Un autre appareil</translation>
     </message>
     <message>
         <source>Sync all</source>
-        <translation type="unfinished"></translation>
+        <translation>Tout synchroniser</translation>
     </message>
     <message>
         <source>Sign in</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;identifier</translation>
     </message>
     <message>
         <source>Select another module to link with %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez un autre module à lier à %1</translation>
     </message>
     <message>
         <source>Accounts linked</source>
-        <translation type="unfinished"></translation>
+        <translation>Comptes liés</translation>
     </message>
     <message>
         <source>Failed to link accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de l&apos;association des comptes</translation>
     </message>
     <message>
         <source>Link</source>
-        <translation type="unfinished"></translation>
+        <translation>Lien</translation>
     </message>
 </context>
 <context>
     <name>Announcement</name>
     <message>
         <source>Tell %1 every %2s above %3 below %4</source>
-        <translation type="unfinished">Annonce %1 toutes les %2s supérieur à %3 et inférieur à %4</translation>
+        <translation>Annonce %1 toutes les %2s supérieur à %3 et inférieur à %4</translation>
     </message>
 </context>
 <context>
@@ -114,49 +114,49 @@
     </message>
     <message>
         <source>New announcement</source>
-        <translation type="unfinished"></translation>
+        <translation>Nouvelle annonce</translation>
     </message>
 </context>
 <context>
     <name>Auth</name>
     <message>
         <source>Signing in</source>
-        <translation type="unfinished"></translation>
+        <translation>Connectez-vous</translation>
     </message>
     <message>
         <source>Not connected to Metr Pro</source>
-        <translation type="unfinished"></translation>
+        <translation>Non connecté à Metr Pro</translation>
     </message>
     <message>
         <source>Status %1, %2</source>
-        <translation type="unfinished"></translation>
+        <translation>État %1, %2</translation>
     </message>
     <message>
         <source>Connection not ready</source>
-        <translation type="unfinished"></translation>
+        <translation>La connexion n&apos;est pas prête</translation>
     </message>
     <message>
         <source>Metr Pro disconnected. Connect and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Metr Pro déconnecté. Connectez-vous et réessayez.</translation>
     </message>
 </context>
 <context>
     <name>BatteryPane</name>
     <message>
         <source>Select smart BMS to pair with %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez le BMS intelligent à coupler avec %1</translation>
     </message>
     <message>
         <source>Unpair BMS</source>
-        <translation type="unfinished"></translation>
+        <translation>Dissocier BMS</translation>
     </message>
     <message>
         <source>Pair with LLT BMS</source>
-        <translation type="unfinished"></translation>
+        <translation>Couplage avec LLT BMS</translation>
     </message>
     <message>
         <source>Pair current Metr Pro with LLT BMS (Xiaoxiang BMS) over bluetooth.</source>
-        <translation type="unfinished"></translation>
+        <translation>Associez le Metr Pro actuel avec LLT BMS (Xiaoxiang BMS) via Bluetooth.</translation>
     </message>
 </context>
 <context>
@@ -175,14 +175,14 @@
     </message>
     <message>
         <source>⬅ Start here</source>
-        <translation type="unfinished"></translation>
+        <translation>⬅ Commencez ici</translation>
     </message>
 </context>
 <context>
     <name>BridgeDevice</name>
     <message>
         <source>No device</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucun dispositif</translation>
     </message>
 </context>
 <context>
@@ -204,7 +204,7 @@
     <name>ConfigurationManager</name>
     <message>
         <source>Read-only mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode lecture seule</translation>
     </message>
     <message>
         <source>reading motor configuration</source>
@@ -216,43 +216,43 @@
     </message>
     <message>
         <source>writing app configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>écrire la configuration de l&apos;application</translation>
     </message>
     <message>
         <source>Signature check failed</source>
-        <translation type="unfinished">Vérification de la signature échouée</translation>
+        <translation>Vérification de la signature échouée</translation>
     </message>
     <message>
         <source>read OK</source>
-        <translation type="unfinished"></translation>
+        <translation>lire d&apos;accord</translation>
     </message>
     <message>
         <source>write OK</source>
-        <translation type="unfinished"></translation>
+        <translation>écrire d&apos;accord</translation>
     </message>
     <message>
         <source>no changes to write</source>
-        <translation type="unfinished"></translation>
+        <translation>aucun changement à écrire</translation>
     </message>
     <message>
         <source>reading %1 configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>lecture de la configuration %1</translation>
     </message>
     <message>
         <source>writing %1 configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>écriture de la configuration %1</translation>
     </message>
     <message>
         <source>Pausing DAVEGAX</source>
-        <translation type="unfinished"></translation>
+        <translation>Pause de DAVEGAX</translation>
     </message>
     <message>
         <source>detect OK</source>
-        <translation type="unfinished"></translation>
+        <translation>détecter OK</translation>
     </message>
     <message>
         <source>Running motor detection</source>
-        <translation type="unfinished"></translation>
+        <translation>Détection de moteur en marche</translation>
     </message>
 </context>
 <context>
@@ -290,67 +290,67 @@
     <name>Contributions</name>
     <message>
         <source>Thanks to @tueboard (%1) for contributing Spanish translation.</source>
-        <translation>Thanks to @tueboard (%1) for contributing Spanish translation.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Thanks to @hexakopter for contributing German translation.</source>
-        <translation>Thanks to @hexakopter for contributing German translation.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Thanks to @ElskerShadow and @Pimousse for contributing French translation.</source>
-        <translation>Thanks to @ElskerShadow and @Pimousse for contributing French translation.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Thanks to Lorenzo (%1) for contributing Italian translation.</source>
-        <translation>Thanks to Lorenzo (%1) for contributing Italian translation.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Thanks to @Pedrodemio for contributing Portuguese translation.</source>
-        <translation>Thanks to @Pedrodemio for contributing Portuguese translation.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Thanks to @oyta for contributing Norwegian translations.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>Detector</name>
     <message>
         <source>You are running UNITY FW 23.45. Please downgrade, you might get injured. This firmware has a serious issue which leads to UNITY accelerating without user input. Read more here: </source>
-        <translation type="unfinished"></translation>
+        <translation>Vous utilisez UNITY FW 23.45. Veuillez rétrograder, vous pourriez vous blesser. Ce micrologiciel présente un problème grave qui entraîne l&apos;accélération de UNITY sans intervention de l&apos;utilisateur. En savoir plus ici&#xa0;:</translation>
     </message>
 </context>
 <context>
     <name>DetectorPro</name>
     <message>
         <source>Settings downloaded</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres téléchargés</translation>
     </message>
     <message>
         <source>Invalid Metr Pro certificate</source>
-        <translation type="unfinished"></translation>
+        <translation>Certificat Metr Pro invalide</translation>
     </message>
     <message>
         <source>Invalid Metr Pro signature</source>
-        <translation type="unfinished"></translation>
+        <translation>Signature Metr Pro invalide</translation>
     </message>
 </context>
 <context>
     <name>DetectorXiaoBMS</name>
     <message>
         <source>Please change battery type in Settings -&gt; Battery</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez changer le type de batterie dans Paramètres -&gt; Batterie</translation>
     </message>
 </context>
 <context>
     <name>DeveloperView</name>
     <message>
         <source>Bytes received: %1, %2bps</source>
-        <translation type="unfinished"></translation>
+        <translation>Octets reçus&#xa0;: %1, %2bps</translation>
     </message>
     <message>
         <source>Bytes sent: %1, %2bps</source>
-        <translation type="unfinished"></translation>
+        <translation>Octets envoyés&#xa0;: %1, %2bps</translation>
     </message>
 </context>
 <context>
@@ -365,15 +365,15 @@
     </message>
     <message>
         <source>Module settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres des modules</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <source>Bluetooth module name. It will be permanently saved on the module. Other applications will also see the change.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom du module Bluetooth. Il sera définitivement enregistré sur le module. D&apos;autres applications verront également le changement.</translation>
     </message>
 </context>
 <context>
@@ -404,38 +404,38 @@
     </message>
     <message>
         <source>firmware</source>
-        <translation type="unfinished"></translation>
+        <translation>micrologiciel</translation>
     </message>
     <message>
         <source>Operation timed out</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;opération a expiré</translation>
     </message>
     <message>
         <source>softdevice and bootloader (phase 1 of 2)</source>
-        <translation type="unfinished"></translation>
+        <translation>softdevice et bootloader (phase 1 sur 2)</translation>
     </message>
 </context>
 <context>
     <name>DfuLte</name>
     <message>
         <source>Downloading new firmware</source>
-        <translation type="unfinished">Téléchargement du nouveau firmware</translation>
+        <translation>Téléchargement du nouveau firmware</translation>
     </message>
     <message>
         <source>Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur: %1</translation>
     </message>
     <message>
         <source>Operation timed out</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;opération a expiré</translation>
     </message>
     <message>
         <source>Update completed!</source>
-        <translation type="unfinished">Mise à jour terminée !</translation>
+        <translation>Mise à jour terminée!</translation>
     </message>
     <message>
         <source>Uploading firmware to Metr LTE</source>
-        <translation type="unfinished"></translation>
+        <translation>Téléchargement du micrologiciel sur Metr LTE</translation>
     </message>
 </context>
 <context>
@@ -457,7 +457,7 @@
     </message>
     <message>
         <source>mismatch</source>
-        <translation type="unfinished">Déviation</translation>
+        <translation>déviation</translation>
     </message>
     <message>
         <source>temp</source>
@@ -465,62 +465,62 @@
     </message>
     <message>
         <source>batt high</source>
-        <translation type="unfinished"></translation>
+        <translation>batte haute</translation>
     </message>
     <message>
         <source>bms high</source>
-        <translation type="unfinished"></translation>
+        <translation>bms élevé</translation>
     </message>
 </context>
 <context>
     <name>Discharger</name>
     <message>
         <source>Discharging...</source>
-        <translation type="unfinished"></translation>
+        <translation>Décharge...</translation>
     </message>
     <message>
         <source>Discharge complete</source>
-        <translation type="unfinished"></translation>
+        <translation>Décharge complète</translation>
     </message>
     <message>
         <source>No temperature sensors. Discharge not allowed</source>
-        <translation type="unfinished"></translation>
+        <translation>Pas de capteurs de température. Décharge non autorisée</translation>
     </message>
     <message>
         <source>Motor temp reached %1C. Discharge not allowed. Please lower discharge current</source>
-        <translation type="unfinished"></translation>
+        <translation>La température du moteur a atteint %1C. Décharge non autorisée. Veuillez réduire le courant de décharge</translation>
     </message>
     <message>
         <source>ESC temp reached %1C. Discharge not allowed. Please lower discharge current</source>
-        <translation type="unfinished"></translation>
+        <translation>La température ESC a atteint %1C. Décharge non autorisée. Veuillez réduire le courant de décharge</translation>
     </message>
     <message>
         <source>Battery: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Batterie: %1</translation>
     </message>
     <message>
         <source>Voltage: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tension: %1</translation>
     </message>
     <message>
         <source>Battery current: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Courant de la batterie: %1</translation>
     </message>
     <message>
         <source>Motor current: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Courant moteur: %1</translation>
     </message>
     <message>
         <source>ESC temp: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Temp. ESC &amp; #160;: %1</translation>
     </message>
     <message>
         <source>Motor temp: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Température du moteur &amp; #160;: %1</translation>
     </message>
     <message>
         <source>Ah: %1 Wh: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Ah&#xa0;: %1 Wh&#xa0;: %2</translation>
     </message>
     <message>
         <source>Start</source>
@@ -528,15 +528,15 @@
     </message>
     <message>
         <source>Stop discharge</source>
-        <translation type="unfinished"></translation>
+        <translation>Arrêter la décharge</translation>
     </message>
     <message>
         <source>Start discharge</source>
-        <translation type="unfinished"></translation>
+        <translation>Commencer la décharge</translation>
     </message>
     <message>
         <source>PPM signal detected. Turn off the remote and restart VESC.</source>
-        <translation type="unfinished"></translation>
+        <translation>Signal PPM détecté. Éteignez la télécommande et redémarrez VESC.</translation>
     </message>
 </context>
 <context>
@@ -563,43 +563,43 @@
     </message>
     <message>
         <source>BLDC detection</source>
-        <translation type="unfinished">Détection en BLDC</translation>
+        <translation>Détection en BLDC</translation>
     </message>
     <message>
         <source>FOC Hall Sensors detection</source>
-        <translation type="unfinished">FOC Détection des capteurs Hall</translation>
+        <translation>FOC Détection des capteurs Hall</translation>
     </message>
     <message>
         <source>Hall sensor table:</source>
-        <translation type="unfinished">Table des capteurs Hall:</translation>
+        <translation>Table des capteurs Hall:</translation>
     </message>
     <message>
         <source>Hall sensor detection failed:</source>
-        <translation type="unfinished">Détection des capteurs Hall échouée:</translation>
+        <translation>Détection des capteurs Hall échouée:</translation>
     </message>
     <message>
         <source>WS2811 enabled. Hall sensors cannot be used.</source>
-        <translation type="unfinished">WS2811 activé. Les capteurs Hall ne peuvent être utilisés.</translation>
+        <translation>WS2811 activé. Les capteurs Hall ne peuvent être utilisés.</translation>
     </message>
     <message>
         <source>Encoder enabled. Hall sensors cannot be used.</source>
-        <translation type="unfinished">Encodeur activé. Les capteurs Hall ne peuvent être utilisés.</translation>
+        <translation>Encodeur activé. Les capteurs Hall ne peuvent être utilisés.</translation>
     </message>
     <message>
         <source>Unknown hall error: %1</source>
-        <translation type="unfinished">Erreur capteur Hall inconnu : %1</translation>
+        <translation>Erreur capteur Hall inconnu : %1</translation>
     </message>
     <message>
         <source>Detection Result Received:</source>
-        <translation type="unfinished">Résultat de détection obtenu :</translation>
+        <translation>Résultat de détection obtenu :</translation>
     </message>
     <message>
         <source>Integrator limit: %1&lt;br&gt;</source>
-        <translation type="unfinished">Limite d&apos;intégrateur : %1</translation>
+        <translation>Limite d&apos;intégrateur : %1&lt;br&gt;</translation>
     </message>
     <message>
         <source>BEMF Coupling: %1&lt;br&gt;</source>
-        <translation type="unfinished">Couplage BEMF : %1</translation>
+        <translation>Couplage BEMF : %1&lt;br&gt;</translation>
     </message>
     <message>
         <source>Write configuration?</source>
@@ -607,19 +607,19 @@
     </message>
     <message>
         <source>FOC detection R L</source>
-        <translation type="unfinished">FOC Détection constantes R L</translation>
+        <translation>FOC Détection constantes R L</translation>
     </message>
     <message>
         <source>Bad Detection Result Received.</source>
-        <translation type="unfinished">Résultat de détection erroné.</translation>
+        <translation>Résultat de détection erroné.</translation>
     </message>
     <message>
         <source>Detection failed.</source>
-        <translation type="unfinished">La détection a échoué.</translation>
+        <translation>La détection a échoué.</translation>
     </message>
     <message>
         <source>FOC detection λ</source>
-        <translation type="unfinished">FOC détection λ</translation>
+        <translation>FOC détection λ</translation>
     </message>
     <message>
         <source>configuration read OK</source>
@@ -631,15 +631,15 @@
     </message>
     <message>
         <source>communication FAILED</source>
-        <translation type="unfinished">ÉCHEC DE LA COMMUNICATION</translation>
+        <translation>ÉCHEC DE LA COMMUNICATION</translation>
     </message>
     <message>
         <source>communication in progress</source>
-        <translation type="unfinished">communication en cours</translation>
+        <translation>communication en cours</translation>
     </message>
     <message>
         <source>connecting to </source>
-        <translation type="unfinished">connexion à </translation>
+        <translation>connexion à </translation>
     </message>
     <message>
         <source>Save configuration</source>
@@ -651,87 +651,87 @@
     </message>
     <message>
         <source>Detect motor</source>
-        <translation type="unfinished">Détection moteur</translation>
+        <translation>Détection moteur</translation>
     </message>
     <message>
         <source>Detect FOC Hall Sensors</source>
-        <translation type="unfinished">Détection des capteurs Hall en FOC</translation>
+        <translation>Détection des capteurs Hall en FOC</translation>
     </message>
     <message>
         <source>Write</source>
-        <translation type="unfinished">Écriture</translation>
+        <translation>Écriture</translation>
     </message>
     <message>
         <source>Motor detection in this mode is not supported. Please change motor type to BLDC or FOC.</source>
-        <translation type="unfinished">La détection du moteur dans ce mode n&apos;est pas prise en charge. Veuillez changer le type de moteur en BLDC ou FOC.</translation>
+        <translation>La détection du moteur dans ce mode n&apos;est pas prise en charge. Veuillez changer le type de moteur en BLDC ou FOC.</translation>
     </message>
     <message>
         <source>FOC Hall Sensors detection in this mode is not supported. Please change motor type to FOC.</source>
-        <translation type="unfinished">FOC La détection des capteurs Hall dans ce mode n&apos;est pas prise en charge. Veuillez changer le type de moteur en FOC.</translation>
+        <translation>FOC La détection des capteurs Hall dans ce mode n&apos;est pas prise en charge. Veuillez changer le type de moteur en FOC.</translation>
     </message>
     <message>
         <source>Are you sure you want to run BLDC motor detection with following parameters?</source>
-        <translation type="unfinished">Êtes-vous sûr de vouloir lancer la détection du moteur BLDC avec les paramètres suivants ?</translation>
+        <translation>Êtes-vous sûr de vouloir lancer la détection du moteur BLDC avec les paramètres suivants ?</translation>
     </message>
     <message>
         <source>WARNING: THE MOTOR WILL START SPINNING!</source>
-        <translation type="unfinished">AVERTISSEMENT : LE MOTEUR VA SE METTRE A TOURNER !</translation>
+        <translation>AVERTISSEMENT : LE MOTEUR VA SE METTRE A TOURNER !</translation>
     </message>
     <message>
         <source>Current</source>
-        <translation type="unfinished">Intensité</translation>
+        <translation>Intensité</translation>
     </message>
     <message>
         <source>Current used during BLDC motor detection.</source>
-        <translation type="unfinished">Intensité utilisée pendant la détection du moteur BLDC.</translation>
+        <translation>Intensité utilisée pendant la détection du moteur BLDC.</translation>
     </message>
     <message>
         <source>Low duty</source>
-        <translation type="unfinished">Rapport cyclique bas</translation>
+        <translation>Rapport cyclique bas</translation>
     </message>
     <message>
         <source>Low duty used during BLDC motor detection.</source>
-        <translation type="unfinished">Rapport cyclique bas utilisé pendant la détection moteur en BLDC.</translation>
+        <translation>Rapport cyclique bas utilisé pendant la détection moteur en BLDC.</translation>
     </message>
     <message>
         <source>Are you sure you want to run FOC Hall Sensors detection with following parameters?</source>
-        <translation type="unfinished">Êtes-vous sûr de vouloir lancer la détection FOC Hall Sensors avec les paramètres suivants ?</translation>
+        <translation>Êtes-vous sûr de vouloir lancer la détection FOC Hall Sensors avec les paramètres suivants ?</translation>
     </message>
     <message>
         <source>Hall Sensors Current</source>
-        <translation type="unfinished">Intensité de détection des capteurs Hall</translation>
+        <translation>Intensité de détection des capteurs Hall</translation>
     </message>
     <message>
         <source>Current used during FOC Hall Sensors detection.</source>
-        <translation type="unfinished">Intensité utilisée pendant la détection des capteurs à effet Hall en FOC.</translation>
+        <translation>Intensité utilisée pendant la détection des capteurs à effet Hall en FOC.</translation>
     </message>
     <message>
         <source>Are you sure you want to run FOC motor detection with following parameters?</source>
-        <translation type="unfinished">Etes-vous sûr de vouloir lancer la détection moteur en FOC avec les paramètres suivants ?</translation>
+        <translation>Etes-vous sûr de vouloir lancer la détection moteur en FOC avec les paramètres suivants ?</translation>
     </message>
     <message>
         <source>WARNING: THE MOTOR WILL MAKE VERY LOUD NOISE! AFTER THAT THE MOTOR WILL START SPINNING!</source>
-        <translation type="unfinished">AVERTISSEMENT : LE MOTEUR VA FAIRE DU BRUIT PUIS VA SE METTRE A TOURNER !</translation>
+        <translation>AVERTISSEMENT : LE MOTEUR VA FAIRE DU BRUIT PUIS VA SE METTRE A TOURNER !</translation>
     </message>
     <message>
         <source>Current used during FOC motor detection.</source>
-        <translation type="unfinished">Intensité utilisée pendant la détection moteur en FOC.</translation>
+        <translation>Intensité utilisée pendant la détection moteur en FOC.</translation>
     </message>
     <message>
         <source>Duty</source>
-        <translation type="unfinished">Rapport cyclique</translation>
+        <translation>Rapport cyclique</translation>
     </message>
     <message>
         <source>Duty used during FOC motor detection.</source>
-        <translation type="unfinished">Rapport cyclique utilisé pendant la détection moteur en FOC.</translation>
+        <translation>Rapport cyclique utilisé pendant la détection moteur en FOC.</translation>
     </message>
     <message>
         <source>TC</source>
-        <translation type="unfinished">Contrôle de traction</translation>
+        <translation>Contrôle de traction</translation>
     </message>
     <message>
         <source>Time constant for KP and KI.</source>
-        <translation type="unfinished">Constante de temps pour KP et KI.</translation>
+        <translation>Constante de temps pour KP et KI.</translation>
     </message>
     <message>
         <source>This VESC FW is not supported yet. Check log for details.</source>
@@ -739,43 +739,43 @@
     </message>
     <message>
         <source>Apply configuration?</source>
-        <translation type="unfinished">Appliquer la configuration ?</translation>
+        <translation>Appliquer la configuration ?</translation>
     </message>
     <message>
         <source>Read</source>
-        <translation type="unfinished">Lecture</translation>
+        <translation>Lecture</translation>
     </message>
     <message>
         <source>BLDC motor detection is not supported for UNITY.</source>
-        <translation type="unfinished">Détection moteur BLDC non supportée sur UNITY.</translation>
+        <translation>Détection moteur BLDC non supportée sur UNITY.</translation>
     </message>
     <message>
         <source>Spin motors by hand!</source>
-        <translation type="unfinished"></translation>
+        <translation>Faites tourner les moteurs à la main !</translation>
     </message>
     <message>
         <source>Detection complete</source>
-        <translation type="unfinished"></translation>
+        <translation>Détection terminée</translation>
     </message>
     <message>
         <source>Calibrate PPM</source>
-        <translation type="unfinished"></translation>
+        <translation>Calibrer PPM</translation>
     </message>
     <message>
         <source>Discharge</source>
-        <translation type="unfinished"></translation>
+        <translation>Décharge</translation>
     </message>
     <message>
         <source>History</source>
-        <translation type="unfinished"></translation>
+        <translation>Histoire</translation>
     </message>
     <message>
         <source>Restart BMS</source>
-        <translation type="unfinished"></translation>
+        <translation>Redémarrez BMS</translation>
     </message>
     <message>
         <source>not supported</source>
-        <translation type="unfinished"></translation>
+        <translation>non supporté</translation>
     </message>
 </context>
 <context>
@@ -977,26 +977,26 @@
     <name>FaultTab</name>
     <message>
         <source>Date</source>
-        <translation type="unfinished">Date</translation>
+        <translation>Date</translation>
     </message>
     <message>
         <source>Fault code</source>
-        <translation type="unfinished"></translation>
+        <translation>Code d&apos;erreur</translation>
     </message>
     <message>
         <source>Clear all</source>
-        <translation type="unfinished"></translation>
+        <translation>Tout effacer</translation>
     </message>
     <message>
         <source>Swipe left to delete. Long press to select.</source>
-        <translation type="unfinished"></translation>
+        <translation>Balayez vers la gauche pour supprimer. Appuyez longuement pour sélectionner.</translation>
     </message>
 </context>
 <context>
     <name>FaultUtils</name>
     <message>
         <source>Unknown error</source>
-        <translation type="unfinished">Erreur inconnue</translation>
+        <translation>Erreur inconnue</translation>
     </message>
 </context>
 <context>
@@ -1047,63 +1047,63 @@
     </message>
     <message>
         <source>No device</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucun dispositif</translation>
     </message>
 </context>
 <context>
     <name>HistoryView</name>
     <message>
         <source>Use</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisation</translation>
     </message>
 </context>
 <context>
     <name>LocationFinder</name>
     <message>
         <source>Please enable location. Map information will not be available without it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez activer la localisation. Les informations cartographiques ne seront pas disponibles sans elle.</translation>
     </message>
 </context>
 <context>
     <name>MainWindow</name>
     <message>
         <source>Settings downloaded</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres téléchargés</translation>
     </message>
     <message>
         <source>Failed to download settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec du téléchargement des paramètres</translation>
     </message>
     <message>
         <source>Failed to join map</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de la connexion à la carte</translation>
     </message>
     <message>
         <source>Please enable location permission. Maps and BLE Scan will not work without it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez activer l&apos;autorisation de localisation. Maps et BLE Scan ne fonctionneront pas sans cela.</translation>
     </message>
     <message>
         <source>Please enable camera permission. QR code scan and overlay will not work without it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez activer l&apos;autorisation de la caméra. La numérisation et la superposition de code QR ne fonctionneront pas sans cela.</translation>
     </message>
 </context>
 <context>
     <name>MetrBridge</name>
     <message>
         <source>Copied to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Copié dans le presse-papier</translation>
     </message>
     <message>
         <source>Bytes in</source>
-        <translation type="unfinished">Bytes entrant</translation>
+        <translation>Bytes entrant</translation>
     </message>
     <message>
         <source>Bytes out</source>
-        <translation type="unfinished">Bytes sortant</translation>
+        <translation>Bytes sortant</translation>
     </message>
     <message>
         <source>Only share the code with someone you trust!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne partagez le code qu&apos;avec une personne de confiance&#xa0;!</translation>
     </message>
 </context>
 <context>
@@ -1146,130 +1146,130 @@
     </message>
     <message>
         <source>Settings uploaded</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres importés</translation>
     </message>
     <message>
         <source>Failed to upload settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de l&apos;importation des paramètres</translation>
     </message>
     <message>
         <source>Settings downloaded</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres téléchargés</translation>
     </message>
     <message>
         <source>Failed to download settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec du téléchargement des paramètres</translation>
     </message>
     <message>
         <source>Cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuage</translation>
     </message>
     <message>
         <source>Upload app settings to the server. When this module is connected to a new phone, the settings will be automatically downloaded from the server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Téléchargez les paramètres de l&apos;application sur le serveur. Lorsque ce module est connecté à un nouveau téléphone, les paramètres seront automatiquement téléchargés depuis le serveur.</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation type="unfinished">Télécharger</translation>
+        <translation>Télécharger</translation>
     </message>
     <message>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Télécharger</translation>
     </message>
     <message>
         <source>Upgrade</source>
-        <translation type="unfinished"></translation>
+        <translation>Mise à niveau</translation>
     </message>
     <message>
         <source>SD card</source>
-        <translation type="unfinished"></translation>
+        <translation>carte SD</translation>
     </message>
     <message>
         <source>inserted</source>
-        <translation type="unfinished"></translation>
+        <translation>insérée</translation>
     </message>
     <message>
         <source>missing</source>
-        <translation type="unfinished"></translation>
+        <translation>manquante</translation>
     </message>
     <message>
         <source>GPS module</source>
-        <translation type="unfinished"></translation>
+        <translation>Module GPS</translation>
     </message>
     <message>
         <source>detected</source>
-        <translation type="unfinished"></translation>
+        <translation>détecté</translation>
     </message>
     <message>
         <source>BLE</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>encrypted</source>
-        <translation type="unfinished"></translation>
+        <translation>crypté</translation>
     </message>
     <message>
         <source>not paired</source>
-        <translation type="unfinished"></translation>
+        <translation>non couplé</translation>
     </message>
     <message>
         <source>ESC</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>not detected</source>
-        <translation type="unfinished"></translation>
+        <translation>non détecté</translation>
     </message>
     <message>
         <source>New %1 firmware is available!</source>
-        <translation type="unfinished"></translation>
+        <translation>Le nouveau micrologiciel %1 est disponible !</translation>
     </message>
     <message>
         <source>Scan settings QR code</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres de scan du code QR</translation>
     </message>
     <message>
         <source>LTE</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Your Metr LTE firmware is up to date</source>
-        <translation type="unfinished"></translation>
+        <translation>Votre firmware Metr LTE est à jour</translation>
     </message>
     <message>
         <source>Clone</source>
-        <translation type="unfinished"></translation>
+        <translation>Cloner</translation>
     </message>
     <message>
         <source>Clone module settings and modes to the server. Gets a QR code that can be used to clone settings and modes to another module. After scan uploads settings for current module. This feature was requested by Bioboards for faster setup of new boards with same config.</source>
-        <translation type="unfinished"></translation>
+        <translation>Clonez les paramètres et les modes du module sur le serveur. Obtient un code QR qui peut être utilisé pour cloner les paramètres et les modes vers un autre module. Après l&apos;analyse, télécharge les paramètres du module actuel. Cette fonctionnalité a été demandée par Bioboards pour une configuration plus rapide de nouvelles cartes avec la même configuration.</translation>
     </message>
     <message>
         <source>Share</source>
-        <translation type="unfinished">Partager</translation>
+        <translation>Partager</translation>
     </message>
     <message>
         <source>Scan</source>
-        <translation type="unfinished">Scanner</translation>
+        <translation>Scanner</translation>
     </message>
     <message>
         <source>Your %1 firmware is up to date</source>
-        <translation type="unfinished"></translation>
+        <translation>Votre micrologiciel %1 est à jour</translation>
     </message>
 </context>
 <context>
     <name>MiscPane</name>
     <message>
         <source>Pair with Garmin</source>
-        <translation type="unfinished"></translation>
+        <translation>Couplage avec Garmin</translation>
     </message>
     <message>
         <source>Unpair</source>
-        <translation type="unfinished"></translation>
+        <translation>Dissocier</translation>
     </message>
     <message>
         <source>Pair current Metr Pro with Garmin device.</source>
-        <translation type="unfinished"></translation>
+        <translation>Associez le Metr Pro actuel à l&apos;appareil Garmin.</translation>
     </message>
 </context>
 <context>
@@ -1296,14 +1296,14 @@
     </message>
     <message>
         <source>Add more parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter plus de paramètres</translation>
     </message>
 </context>
 <context>
     <name>ModeViewDelegate</name>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Supprimer</translation>
+        <translation>Supprimer</translation>
     </message>
 </context>
 <context>
@@ -1366,31 +1366,31 @@
     </message>
     <message>
         <source>Read-only mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode lecture seule</translation>
     </message>
     <message>
         <source>Scan mode QR code</source>
-        <translation type="unfinished"></translation>
+        <translation>Scanner le code QR</translation>
     </message>
     <message>
         <source>timeout</source>
-        <translation type="unfinished"></translation>
+        <translation>temps libre</translation>
     </message>
     <message>
         <source>Can not create configurations</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible de créer des configurations</translation>
     </message>
     <message>
         <source>Firmware &lt;= 3.48. Won&apos;t apply.</source>
-        <translation type="unfinished">Firmware &lt;= 2.18. Ne s&apos;applique pas. {3.48.?}</translation>
+        <translation>Firmware &lt;= 3.48. Ne s&apos;applique pas.</translation>
     </message>
     <message>
         <source>Swipe right to apply mode. Swipe left to show options. Long press to select.</source>
-        <translation type="unfinished"></translation>
+        <translation>Balayez vers la droite pour appliquer le mode. Balayez vers la gauche pour afficher les options. Appuyez longuement pour sélectionner.</translation>
     </message>
     <message>
         <source>New mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Nouveau mode</translation>
     </message>
 </context>
 <context>
@@ -1405,38 +1405,38 @@
     </message>
     <message>
         <source>Until reboot</source>
-        <translation type="unfinished"></translation>
+        <translation>Jusqu&apos;au redémarrage</translation>
     </message>
 </context>
 <context>
     <name>PPMDetect</name>
     <message>
         <source>1. Hold remote in neutral position</source>
-        <translation type="unfinished"></translation>
+        <translation>1. Maintenez la télécommande en position neutre</translation>
     </message>
     <message>
         <source>2. Hold max speed</source>
-        <translation type="unfinished"></translation>
+        <translation>2. Maintenez la vitesse maximale</translation>
     </message>
     <message>
         <source>3. Hold max brake</source>
-        <translation type="unfinished"></translation>
+        <translation>3. Maintenez le frein maximum</translation>
     </message>
     <message>
         <source>4. Done</source>
-        <translation type="unfinished"></translation>
+        <translation>4. Terminé</translation>
     </message>
     <message>
         <source>min</source>
-        <translation type="unfinished">min</translation>
+        <translation>min</translation>
     </message>
     <message>
         <source>center</source>
-        <translation type="unfinished"></translation>
+        <translation>centre</translation>
     </message>
     <message>
         <source>max</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -1642,37 +1642,37 @@
     <name>QuaGzipFile</name>
     <message>
         <source>QIODevice::Append is not supported for GZIP</source>
-        <translation type="unfinished">QIODevice::Append n&apos;est pas supporté pour GZIP</translation>
+        <translation>QIODevice::Append n&apos;est pas supporté pour GZIP</translation>
     </message>
     <message>
         <source>Opening gzip for both reading and writing is not supported</source>
-        <translation type="unfinished">Ouvrir gzip pour écriture et lecture n&apos;est pas supporté</translation>
+        <translation>Ouvrir gzip pour écriture et lecture n&apos;est pas supporté</translation>
     </message>
     <message>
         <source>You can open a gzip either for reading or for writing. Which is it?</source>
-        <translation type="unfinished">Vous pouvez ouvrir un gzip pour lecture OU écriture. Quel mode choisir ?</translation>
+        <translation>Vous pouvez ouvrir un gzip pour lecture OU écriture. Quel mode choisir ?</translation>
     </message>
     <message>
         <source>Could not gzopen() file</source>
-        <translation type="unfinished">Impossible de gzopen() le fichier</translation>
+        <translation>Impossible de gzopen() le fichier</translation>
     </message>
 </context>
 <context>
     <name>QuaZIODevice</name>
     <message>
         <source>QIODevice::Append is not supported for QuaZIODevice</source>
-        <translation type="unfinished">QIODevice::Append n&apos;est pas supporté pour QuaZIODevice</translation>
+        <translation>QIODevice::Append n&apos;est pas supporté pour QuaZIODevice</translation>
     </message>
     <message>
         <source>QIODevice::ReadWrite is not supported for QuaZIODevice</source>
-        <translation type="unfinished">QIODevice::ReadWrite n&apos;est pas supporté pour QuaZIODevice</translation>
+        <translation>QIODevice::ReadWrite n&apos;est pas supporté pour QuaZIODevice</translation>
     </message>
 </context>
 <context>
     <name>QuaZipFile</name>
     <message>
         <source>ZIP/UNZIP API error %1</source>
-        <translation type="unfinished">ZIP/UNZIP API erreur %1</translation>
+        <translation>ZIP/UNZIP API erreur %1</translation>
     </message>
 </context>
 <context>
@@ -1726,51 +1726,51 @@
     <name>RealtimeView</name>
     <message>
         <source>amp hours spent</source>
-        <translation type="unfinished">Ah consommés</translation>
+        <translation>Ah consommés</translation>
     </message>
     <message>
         <source>Ah</source>
-        <translation type="unfinished">Ah</translation>
+        <translation>Ah</translation>
     </message>
     <message>
         <source>amp hours regen</source>
-        <translation type="unfinished">Ah régénérés</translation>
+        <translation>Ah régénérés</translation>
     </message>
     <message>
         <source>watt hours spent</source>
-        <translation type="unfinished">Watt-heure consommés</translation>
+        <translation>Watt-heure consommés</translation>
     </message>
     <message>
         <source>watt hours regen</source>
-        <translation type="unfinished">Watt-heure régénérés</translation>
+        <translation>Watt-heure régénérés</translation>
     </message>
     <message>
         <source>GPS speed</source>
-        <translation type="unfinished">Vitesse GPS</translation>
+        <translation>Vitesse GPS</translation>
     </message>
     <message>
         <source>battery current</source>
-        <translation type="unfinished">Intensité de batterie</translation>
+        <translation>Intensité de batterie</translation>
     </message>
     <message>
         <source>watts</source>
-        <translation type="unfinished"></translation>
+        <translation>watt</translation>
     </message>
     <message>
         <source>W</source>
-        <translation type="unfinished"></translation>
+        <translation>O</translation>
     </message>
     <message>
         <source>duty cycle</source>
-        <translation type="unfinished">Rapport cyclique</translation>
+        <translation>Rapport cyclique</translation>
     </message>
     <message>
         <source>cell voltage</source>
-        <translation type="unfinished">Tension de cellule</translation>
+        <translation>Tension de cellule</translation>
     </message>
     <message>
         <source>ppm</source>
-        <translation type="unfinished"></translation>
+        <translation>ppm</translation>
     </message>
     <message>
         <source>Reset layout</source>
@@ -1782,44 +1782,45 @@
     </message>
     <message>
         <source>speed (gauge)</source>
-        <translation type="unfinished"></translation>
+        <translation>vitesse (jauge)</translation>
     </message>
     <message>
         <source>ppm (bar)</source>
-        <translation type="unfinished"></translation>
+        <translation>ppm (barre)</translation>
     </message>
     <message>
         <source>Throttle</source>
-        <translation type="unfinished"></translation>
+        <translation>Manette de Gaz</translation>
     </message>
     <message>
         <source>Brake</source>
-        <translation type="unfinished"></translation>
+        <translation>Frein</translation>
     </message>
     <message>
         <source>rpm (gauge)</source>
-        <translation type="unfinished"></translation>
+        <translation>tr/min (jauge)</translation>
     </message>
     <message>
         <source>RPM
 x100</source>
-        <translation type="unfinished"></translation>
+        <translation>RPM
+x100</translation>
     </message>
     <message>
         <source>map</source>
-        <translation type="unfinished"></translation>
+        <translation>carte</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Ajouter</translation>
+        <translation>Ajouter</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Sortir</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished">Réinitialiser</translation>
+        <translation>Réinitialiser</translation>
     </message>
 </context>
 <context>
@@ -1853,15 +1854,15 @@ x100</source>
     </message>
     <message>
         <source>Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Titre</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>La description</translation>
     </message>
     <message>
         <source>Swipe left to show options. Long press to select.</source>
-        <translation type="unfinished"></translation>
+        <translation>Balayez vers la gauche pour afficher les options. Appuyez longuement pour sélectionner.</translation>
     </message>
 </context>
 <context>
@@ -1884,27 +1885,27 @@ x100</source>
     </message>
     <message>
         <source>Fetching %1 records from SD card, %2%</source>
-        <translation type="unfinished"></translation>
+        <translation>Récupération de %1 enregistrements de la carte SD, %2%</translation>
     </message>
     <message>
         <source>Record resumed</source>
-        <translation type="unfinished"></translation>
+        <translation>Enregistrement repris</translation>
     </message>
     <message>
         <source>Record paused</source>
-        <translation type="unfinished"></translation>
+        <translation>Enregistrement en pause</translation>
     </message>
     <message>
         <source>status=%1, %2</source>
-        <translation type="unfinished"></translation>
+        <translation>état=%1, %2</translation>
     </message>
     <message>
         <source>Failed to open record, status=%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible d&apos;ouvrir l&apos;enregistrement, état=%1</translation>
     </message>
     <message>
         <source>Different Metr Pro, not uploading. Connect to the correct Metr Pro and try to upload again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Différent Metr Pro, pas de téléchargement. Connectez-vous au bon Metr Pro et réessayez de télécharger.</translation>
     </message>
 </context>
 <context>
@@ -1931,7 +1932,7 @@ x100</source>
     </message>
     <message>
         <source>regen</source>
-        <translation type="unfinished"></translation>
+        <translation>régén</translation>
     </message>
 </context>
 <context>
@@ -1950,31 +1951,31 @@ x100</source>
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished">Date</translation>
+        <translation>Date</translation>
     </message>
     <message>
         <source>Duration</source>
-        <translation type="unfinished">Durée</translation>
+        <translation>Durée</translation>
     </message>
     <message>
         <source>Distance</source>
-        <translation type="unfinished">Distance</translation>
+        <translation>Distance</translation>
     </message>
     <message>
         <source>Energy</source>
-        <translation type="unfinished">Énergie</translation>
+        <translation>Énergie</translation>
     </message>
     <message>
         <source>Resume</source>
-        <translation type="unfinished"></translation>
+        <translation>Reprendre</translation>
     </message>
     <message>
         <source>Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>Pauser</translation>
     </message>
     <message>
         <source>Sync</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -1989,15 +1990,15 @@ x100</source>
     </message>
     <message>
         <source>Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Remarques</translation>
     </message>
     <message>
         <source>Not favorite</source>
-        <translation type="unfinished"></translation>
+        <translation>Pas favori</translation>
     </message>
     <message>
         <source>Favorite</source>
-        <translation type="unfinished"></translation>
+        <translation>Favori</translation>
     </message>
 </context>
 <context>
@@ -2060,41 +2061,43 @@ x100</source>
     </message>
     <message>
         <source>Failed to open channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de l&apos;ouverture de la chaîne</translation>
     </message>
     <message>
         <source>Show logs for:</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher les journaux pour&#xa0;:</translation>
     </message>
     <message>
         <source>Receive support
 (allow remote connection to my setup)</source>
-        <translation type="unfinished"></translation>
+        <translation>Recevoir de l&apos;aide
+(autoriser la connexion à distance à ma configuration)</translation>
     </message>
     <message>
         <source>Give support
 (connect to another setup)</source>
-        <translation type="unfinished"></translation>
+        <translation>Apporter un soutien
+(connectez-vous à une autre configuration)</translation>
     </message>
     <message>
         <source>Remote access code</source>
-        <translation type="unfinished"></translation>
+        <translation>Code d&apos;accès à distance</translation>
     </message>
     <message>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>Relier</translation>
     </message>
     <message>
         <source>End remote support</source>
-        <translation type="unfinished"></translation>
+        <translation>Mettre fin à l&apos;assistance à distance</translation>
     </message>
     <message>
         <source>Remote support</source>
-        <translation type="unfinished"></translation>
+        <translation>Assistance à distance</translation>
     </message>
     <message>
         <source>Allows remote support to connect over internet to your setup.</source>
-        <translation type="unfinished"></translation>
+        <translation>Permet à l&apos;assistance à distance de se connecter via Internet à votre configuration.</translation>
     </message>
 </context>
 <context>
@@ -2124,7 +2127,7 @@ x100</source>
     <name>StatusCell</name>
     <message>
         <source>pairing</source>
-        <translation type="unfinished"></translation>
+        <translation>accouplage</translation>
     </message>
 </context>
 <context>
@@ -2590,71 +2593,71 @@ x100</source>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">Paramètres</translation>
+        <translation>Paramètres</translation>
     </message>
     <message>
         <source>altitude</source>
-        <translation type="unfinished">Altitude</translation>
+        <translation>Altitude</translation>
     </message>
     <message>
         <source>distance</source>
-        <translation type="unfinished">Distance</translation>
+        <translation>Distance</translation>
     </message>
     <message>
         <source>amp hours</source>
-        <translation type="unfinished">Ah</translation>
+        <translation>Ah</translation>
     </message>
     <message>
         <source>watt hours</source>
-        <translation type="unfinished">Wh</translation>
+        <translation>Wh</translation>
     </message>
     <message>
         <source>per kilometer</source>
-        <translation type="unfinished">par kilomètre</translation>
+        <translation>par kilomètre</translation>
     </message>
     <message>
         <source>per mile</source>
-        <translation type="unfinished">par mile</translation>
+        <translation>par mile</translation>
     </message>
     <message>
         <source>Magic</source>
-        <translation type="unfinished">Magie</translation>
+        <translation>Magie</translation>
     </message>
     <message>
         <source>battery</source>
-        <translation type="unfinished">Batterie</translation>
+        <translation>Batterie</translation>
     </message>
     <message>
         <source>Point interval</source>
-        <translation type="unfinished">Intervalle de point</translation>
+        <translation>Intervalle de point</translation>
     </message>
     <message>
         <source>Minimum time in milliseconds between recorded points. Data that comes earlier is discarded. Recommended value is 160. Set to 0 for maximum record detail, but at this rate with Metr Pro module the records will be limited to approximately 45 minutes due to high memory usage.</source>
-        <translation type="unfinished">Temps minimum en millisecondes entre deux points enregistrés. Les données entre les deux seront jetées. Recommandé : 160ms. Régler à 0 pour un maximum de détail, mais le module Metr Pro sera limité à environ 45 minutes d&apos;enregistrements dû à une utilisation de mémoire intensive.</translation>
+        <translation>Temps minimum en millisecondes entre deux points enregistrés. Les données entre les deux seront jetées. Recommandé : 160ms. Régler à 0 pour un maximum de détail, mais le module Metr Pro sera limité à environ 45 minutes d&apos;enregistrements dû à une utilisation de mémoire intensive.</translation>
     </message>
     <message>
         <source>Disable Battery Optimizations</source>
-        <translation type="unfinished">Désactiver l&apos;optimisation de batterie</translation>
+        <translation>Désactiver l&apos;optimisation de batterie</translation>
     </message>
     <message>
         <source>Disable Battery Optimizations in Android 6+. If the app dies in the background, try disabling or enabling this value.</source>
-        <translation type="unfinished">Désactive l&apos;optimisation de batterie dans Android 6+. Si l&apos;app se ferme en arrière-plan, essayer de désactiver ou activer ce réglage.</translation>
+        <translation>Désactive l&apos;optimisation de batterie dans Android 6+. Si l&apos;app se ferme en arrière-plan, essayer de désactiver ou activer ce réglage.</translation>
     </message>
     <message>
         <source>Android Wear</source>
-        <translation type="unfinished">Android Wear</translation>
+        <translation>Android Wear</translation>
     </message>
     <message>
         <source>Apple Watch</source>
-        <translation type="unfinished">Apple Watch</translation>
+        <translation>Apple Watch</translation>
     </message>
     <message>
         <source>Scale UI</source>
-        <translation type="unfinished">Echelle de l&apos;UI</translation>
+        <translation>Echelle de l&apos;UI</translation>
     </message>
     <message>
         <source>Enable scaling user interface. Makes the app look better on bigger screens.</source>
-        <translation type="unfinished">Active le redimensionnement de l&apos;interface utilisateur. Améliore l&apos;affichage sur les grands écrans.</translation>
+        <translation>Active le redimensionnement de l&apos;interface utilisateur. Améliore l&apos;affichage sur les grands écrans.</translation>
     </message>
     <message>
         <source>Untested Firmware</source>
@@ -2666,11 +2669,11 @@ x100</source>
     </message>
     <message>
         <source>ANR26650</source>
-        <translation type="unfinished">ANR26650</translation>
+        <translation>ANR26650</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">Personnalisé</translation>
+        <translation>Personnalisé</translation>
     </message>
     <message>
         <source>DieBieMS</source>
@@ -2678,67 +2681,67 @@ x100</source>
     </message>
     <message>
         <source>Auto Show</source>
-        <translation type="unfinished">Affichage automatique</translation>
+        <translation>Affichage automatique</translation>
     </message>
     <message>
         <source>Automatically show and hide DieBieMS cell information on the Realtime Tab when the charger is plugged in and out.</source>
-        <translation type="unfinished">Affiche/cache automatiquement les informations de cellules du DieBieMS sur l&apos;onglet Temps Réel quand le chargeur est branché/débranché.</translation>
+        <translation>Affiche/cache automatiquement les informations de cellules du DieBieMS sur l&apos;onglet Temps Réel quand le chargeur est branché/débranché.</translation>
     </message>
     <message>
         <source>Cell voltage at %1%</source>
-        <translation type="unfinished">Tension de cellule à %1%</translation>
+        <translation>Tension de cellule à %1%</translation>
     </message>
     <message>
         <source>Announce</source>
-        <translation type="unfinished">Annonce</translation>
+        <translation>Annonce</translation>
     </message>
     <message>
         <source>Expert</source>
-        <translation type="unfinished">Expert</translation>
+        <translation>Expert</translation>
     </message>
     <message>
         <source>Enabled</source>
-        <translation type="unfinished">Activé</translation>
+        <translation>Activé</translation>
     </message>
     <message>
         <source>Enable or disable all announcements.</source>
-        <translation type="unfinished">Active/Désactive toutes les annonces</translation>
+        <translation>Active/Désactive toutes les annonces</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished">Normal</translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>Fast</source>
-        <translation type="unfinished">Rapide</translation>
+        <translation>Rapide</translation>
     </message>
     <message>
         <source>Very fast</source>
-        <translation type="unfinished">Très rapide</translation>
+        <translation>Très rapide</translation>
     </message>
     <message>
         <source>Tell</source>
-        <translation type="unfinished">Annonce</translation>
+        <translation>Annonce</translation>
     </message>
     <message>
         <source>Every [s]</source>
-        <translation type="unfinished">Toutes les [s]</translation>
+        <translation>Toutes les [s]</translation>
     </message>
     <message>
         <source>Start from</source>
-        <translation type="unfinished">Commence à</translation>
+        <translation>Commence à</translation>
     </message>
     <message>
         <source>Stop at</source>
-        <translation type="unfinished">Finit à</translation>
+        <translation>Finit à</translation>
     </message>
     <message>
         <source>Only when moving</source>
-        <translation type="unfinished">Seulement en mouvement</translation>
+        <translation>Seulement en mouvement</translation>
     </message>
     <message>
         <source>Voice</source>
-        <translation type="unfinished">Voix</translation>
+        <translation>Voix</translation>
     </message>
     <message>
         <source>Consumption window</source>
@@ -2750,11 +2753,11 @@ x100</source>
     </message>
     <message>
         <source>Beta Metr Pro FW</source>
-        <translation type="unfinished">FW Metr Pro Beta</translation>
+        <translation>FW Metr Pro Beta</translation>
     </message>
     <message>
         <source>Check if beta Metr Pro firmware is awailable. Not recommended.</source>
-        <translation type="unfinished">Vérifie si des versions beta du firmware Metr Pro sont disponibles. Non recommandé.</translation>
+        <translation>Vérifie si des versions beta du firmware Metr Pro sont disponibles. Non recommandé.</translation>
     </message>
     <message>
         <source>ESC Beta FW</source>
@@ -2766,507 +2769,507 @@ x100</source>
     </message>
     <message>
         <source>Faults</source>
-        <translation type="unfinished"></translation>
+        <translation>Défauts</translation>
     </message>
     <message>
         <source>Freewheel</source>
-        <translation type="unfinished"></translation>
+        <translation>Roue libre</translation>
     </message>
     <message>
         <source>Enable if your motor does not spin all the time (freewheel, friction drive, etc.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Activez si votre moteur ne tourne pas tout le temps (roue libre, entraînement par friction, etc.)</translation>
     </message>
     <message>
         <source>Smooth voltage</source>
-        <translation type="unfinished"></translation>
+        <translation>Tension lisse</translation>
     </message>
     <message>
         <source>Smooth out voltage readings from VESC.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lissez les lectures de tension de VESC.</translation>
     </message>
     <message>
         <source>Smooth margin</source>
-        <translation type="unfinished"></translation>
+        <translation>Marge lisse</translation>
     </message>
     <message>
         <source>Max voltage fluctuation that should be smoothed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fluctuation de tension maximale qui doit être lissée.</translation>
     </message>
     <message>
         <source>LHB</source>
-        <translation type="unfinished"></translation>
+        <translation>LHB</translation>
     </message>
     <message>
         <source>Read-only</source>
-        <translation type="unfinished"></translation>
+        <translation>Lecture seulement</translation>
     </message>
     <message>
         <source>Read-only VESC operation. All write commands will be blocked by Metr Pro.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fonctionnement VESC en lecture seule. Toutes les commandes d&apos;écriture seront bloquées par Metr Pro.</translation>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Compte</translation>
     </message>
     <message>
         <source>Automatic uploads</source>
-        <translation type="unfinished"></translation>
+        <translation>Téléchargements automatiques</translation>
     </message>
     <message>
         <source>Upload each record after it ends.</source>
-        <translation type="unfinished"></translation>
+        <translation>Téléchargez chaque enregistrement après sa fin.</translation>
     </message>
     <message>
         <source>All records</source>
-        <translation type="unfinished"></translation>
+        <translation>Tous les enregistrements</translation>
     </message>
     <message>
         <source>When disabled, show only records for currently selected device. When enabled, shows all records.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lorsqu&apos;elle est désactivée, affiche uniquement les enregistrements de l&apos;appareil actuellement sélectionné. Lorsqu&apos;il est activé, affiche tous les enregistrements.</translation>
     </message>
     <message>
         <source>Discharge motor current</source>
-        <translation type="unfinished"></translation>
+        <translation>Courant du moteur de décharge</translation>
     </message>
     <message>
         <source>Motor current used in foc_openloop command. Maximum recommended value is 20A. Larger values might result in overheating ESC and motor.</source>
-        <translation type="unfinished"></translation>
+        <translation>Courant du moteur utilisé dans la commande foc_openloop. La valeur maximale recommandée est de 20 A. Des valeurs plus élevées peuvent entraîner une surchauffe de l&apos;ESC et du moteur.</translation>
     </message>
     <message>
         <source>Stop at %</source>
-        <translation type="unfinished"></translation>
+        <translation>Arrêté à %</translation>
     </message>
     <message>
         <source>Stop discharge at given battery percentage. Recommended storage value for lithium battery is 30%.</source>
-        <translation type="unfinished"></translation>
+        <translation>Arrêtez la décharge à un pourcentage de batterie donné. La valeur de stockage recommandée pour la batterie au lithium est de 30 %.</translation>
     </message>
     <message>
         <source>Ah</source>
-        <translation type="unfinished">Ah</translation>
+        <translation>Ah</translation>
     </message>
     <message>
         <source>Merge</source>
-        <translation type="unfinished"></translation>
+        <translation>Fusionner</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <source>duty cycle</source>
-        <translation type="unfinished">Rapport cyclique</translation>
+        <translation>Rapport cyclique</translation>
     </message>
     <message>
         <source>Prefer GPS speed and distance to RPM-calculated speed and distance. Do not enable this setting for electric skateboards. Useful for hydrofoils.</source>
-        <translation type="unfinished"></translation>
+        <translation>Préférez la vitesse et la distance GPS à la vitesse et à la distance calculées en RPM. N&apos;activez pas ce paramètre pour les skateboards électriques. Utile pour les hydroglisseurs.</translation>
     </message>
     <message>
         <source>Pause notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>Suspendre les notifications</translation>
     </message>
     <message>
         <source>Send notifications when records automatically pause or unpause.</source>
-        <translation type="unfinished"></translation>
+        <translation>Envoyez des notifications lorsque les enregistrements s&apos;interrompent ou reprennent automatiquement.</translation>
     </message>
     <message>
         <source>Automatic pause</source>
-        <translation type="unfinished"></translation>
+        <translation>Pause automatique</translation>
     </message>
     <message>
         <source>Automatically pause and unpause records based on speed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Suspendez et réactivez automatiquement les enregistrements en fonction de la vitesse.</translation>
     </message>
     <message>
         <source>Pause delay</source>
-        <translation type="unfinished"></translation>
+        <translation>Délai de pause</translation>
     </message>
     <message>
         <source>Time in seconds after which record is paused if not moving (speed is zero).</source>
-        <translation type="unfinished"></translation>
+        <translation>Temps en secondes après lequel l&apos;enregistrement est mis en pause s&apos;il ne bouge pas (la vitesse est nulle).</translation>
     </message>
     <message>
         <source>Low memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Peu de mémoire</translation>
     </message>
     <message>
         <source>Stop records on low memory warning.</source>
-        <translation type="unfinished"></translation>
+        <translation>Arrêtez les enregistrements en cas d&apos;avertissement de mémoire faible.</translation>
     </message>
     <message>
         <source>PPM drift margin</source>
-        <translation type="unfinished"></translation>
+        <translation>Marge de dérive PPM</translation>
     </message>
     <message>
         <source>Allowed drift during calibrating PPM remote in Expert tab. If you have issues calibrating your PPM remote, try to increase this value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dérive autorisée lors de l&apos;étalonnage de la télécommande PPM dans l&apos;onglet Expert. Si vous rencontrez des problèmes pour calibrer votre télécommande PPM, essayez d&apos;augmenter cette valeur.</translation>
     </message>
     <message>
         <source>Statistics</source>
-        <translation type="unfinished"></translation>
+        <translation>Statistiques</translation>
     </message>
     <message>
         <source>Collect and send to cloud hardware versions to improve application in the long term. Metr Pro version, VESC version, VESC count, if DieBieMS is detected, etc. Location is never shared.</source>
-        <translation type="unfinished"></translation>
+        <translation>Collectez et envoyez vers les versions matérielles du cloud pour améliorer l&apos;application à long terme. Version Metr Pro, version VESC, nombre de VESC, si DieBieMS est détecté, etc. L&apos;emplacement n&apos;est jamais partagé.</translation>
     </message>
     <message>
         <source>Detect DieBie/Flexi</source>
-        <translation type="unfinished"></translation>
+        <translation>Détecter DieBie/Flexi</translation>
     </message>
     <message>
         <source>Automatically detect DieBieMS / FlexiBMS connected over CAN. Turn off if you have issues with FlexiBMS</source>
-        <translation type="unfinished"></translation>
+        <translation>Détecter automatiquement DieBieMS / FlexiBMS connecté sur CAN. Désactiver si vous rencontrez des problèmes avec FlexiBMS</translation>
     </message>
     <message>
         <source>More logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Plus de journaux</translation>
     </message>
     <message>
         <source>Enable debug logs. Results in much larger and more detailed log file. Recommended to restart app after changing this value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Activez les journaux de débogage. Résultats dans un fichier journal beaucoup plus volumineux et plus détaillé. Recommandé de redémarrer l&apos;application après avoir modifié cette valeur.</translation>
     </message>
     <message>
         <source>Total Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Temps Total</translation>
     </message>
     <message>
         <source>Average Distance</source>
-        <translation type="unfinished"></translation>
+        <translation>Distance Moyenne</translation>
     </message>
     <message>
         <source>Do your motors have temperature sensors?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vos moteurs ont-ils des capteurs de température ?</translation>
     </message>
     <message>
         <source>Number of parallel groups in series. For example, if your battery layout is 12S5P, put 12 here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de groupes parallèles en série. Par exemple, si la disposition de votre batterie est 12S5P, mettez 12 ici.</translation>
     </message>
     <message>
         <source>For example, a 12S5P battery made of Samsung 30Q cells has the capacity of 5 x 3000 = 15000 mAh.</source>
-        <translation type="unfinished"></translation>
+        <translation>Par exemple, une batterie 12S5P composée de cellules Samsung 30Q a une capacité de 5 x 3000 = 15000 mAh.</translation>
     </message>
     <message>
         <source>Percentage of the usable battery capacity. This is around 80% for a new battery. Set to a lower value as your battery deteriorates and the projected range becomes higher than the actual range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pourcentage de la capacité utile de la batterie. C&apos;est environ 80% pour une batterie neuve. Réglez sur une valeur inférieure à mesure que votre batterie se détériore et que la portée projetée devient supérieure à la portée réelle.</translation>
     </message>
     <message>
         <source>If a compatible BMS is not available, voltage is retrieved from the VESC regardless of the setting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si un BMS compatible n&apos;est pas disponible, la tension est récupérée du VESC quel que soit le réglage.</translation>
     </message>
     <message>
         <source>How long should we be trying to get a Wi-Fi connection established before we give up.</source>
-        <translation type="unfinished"></translation>
+        <translation>Combien de temps devrions-nous essayer d&apos;établir une connexion Wi-Fi avant d&apos;abandonner.</translation>
     </message>
     <message>
         <source>When you come to a stop, how long should we wait before switching the riding screen to a stationary screen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lorsque vous vous arrêtez, combien de temps doit-on attendre avant de passer de l&apos;écran de conduite à un écran fixe.</translation>
     </message>
     <message>
         <source>The value is added to the total kilometers travelled as displayed on the lifetime screen.</source>
-        <translation type="unfinished"></translation>
+        <translation>La valeur est ajoutée au nombre total de kilomètres parcourus tel qu&apos;affiché sur l&apos;écran de durée de vie.</translation>
     </message>
     <message>
         <source>Automatically backup the config and data after each X kilometers travelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sauvegardez automatiquement la configuration et les données après chaque X kilomètres parcourus.</translation>
     </message>
     <message>
         <source>Staging server</source>
-        <translation type="unfinished"></translation>
+        <translation>Serveur intermédiaire</translation>
     </message>
     <message>
         <source>Use staging server (stage.metr.at) instead of (metr.at). Staging server will not keep data and is not guaranteed to be online. Only for development and troubleshooting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez le serveur intermédiaire (stage.metr.at) au lieu de (metr.at). Le serveur intermédiaire ne conservera pas les données et n&apos;est pas garanti d&apos;être en ligne. Uniquement pour le développement et le dépannage.</translation>
     </message>
     <message>
         <source>Tracking</source>
-        <translation type="unfinished"></translation>
+        <translation>Suivi</translation>
     </message>
     <message>
         <source>Time in seconds between live data updates that are sent to the server. Recommended value is 10 seconds. With lower values you will get more frequent updates, but mobile data consumption will increase.</source>
-        <translation type="unfinished"></translation>
+        <translation>Temps en secondes entre les mises à jour de données en direct qui sont envoyées au serveur. La valeur recommandée est de 10 secondes. Avec des valeurs inférieures, vous obtiendrez des mises à jour plus fréquentes, mais la consommation de données mobiles augmentera.</translation>
     </message>
     <message>
         <source>Download assist-GPS data over cellular connection to speed up satellite discovery. Consumes about 3kb of data and occures at startup.</source>
-        <translation type="unfinished"></translation>
+        <translation>Téléchargez les données d&apos;assistance GPS via une connexion cellulaire pour accélérer la découverte des satellites. Consomme environ 3 Ko de données et se produit au démarrage.</translation>
     </message>
     <message>
         <source>When this setting is enabled, motor current is limited to 1%. Brake current is not affected. The motors get very weak and unable to accelerate. This setting can also be activated from account section.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lorsque ce paramètre est activé, le courant du moteur est limité à 1 %. Le courant de freinage n&apos;est pas affecté. Les moteurs deviennent très faibles et incapables d&apos;accélérer. Ce paramètre peut également être activé à partir de la section compte.</translation>
     </message>
     <message>
         <source>Homescreen notification template</source>
-        <translation type="unfinished"></translation>
+        <translation>Modèle de notification d&apos;écran d&apos;accueil</translation>
     </message>
     <message>
         <source>knots</source>
-        <translation type="unfinished"></translation>
+        <translation>nœuds</translation>
     </message>
     <message>
         <source>Nautical</source>
-        <translation type="unfinished"></translation>
+        <translation>Nautique</translation>
     </message>
     <message>
         <source>Minimum GPS speed when data is send over LTE connection. If the speed is below given value, no data will being sent.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vitesse GPS minimale lorsque les données sont envoyées via une connexion LTE. Si la vitesse est inférieure à la valeur donnée, aucune donnée ne sera envoyée.</translation>
     </message>
     <message>
         <source>remaining</source>
-        <translation type="unfinished"></translation>
+        <translation>restant</translation>
     </message>
     <message>
         <source>Total Ah</source>
-        <translation type="unfinished"></translation>
+        <translation>Ah total</translation>
     </message>
     <message>
         <source>Total battery amp hours. If you have 4P battery with Samsung 30Q cells, this value should be 12.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ampère-heures total de la batterie. Si vous avez une batterie 4P avec des cellules Samsung 30Q, cette valeur doit être de 12.</translation>
     </message>
     <message>
         <source>DieBie/Flexi</source>
-        <translation type="unfinished"></translation>
+        <translation>DieBie/Flexi</translation>
     </message>
     <message>
         <source>Redetect</source>
-        <translation type="unfinished"></translation>
+        <translation>Redétecter</translation>
     </message>
     <message>
         <source>Redetect all VESCs during BLE connection establishment. Should be enabled by default.</source>
-        <translation type="unfinished"></translation>
+        <translation>Redétecter tous les VESC lors de l&apos;établissement de la connexion BLE. Doit être activé par défaut.</translation>
     </message>
     <message>
         <source>Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Installer</translation>
     </message>
     <message>
         <source>Duty Cycle Limit</source>
-        <translation type="unfinished"></translation>
+        <translation>Limite du cycle de service</translation>
     </message>
     <message>
         <source>HFI Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Démarrage HFI</translation>
     </message>
     <message>
         <source>Max Power Loss</source>
-        <translation type="unfinished"></translation>
+        <translation>Perte de puissance maximale</translation>
     </message>
     <message>
         <source>Battery Max Regen</source>
-        <translation type="unfinished"></translation>
+        <translation>Régénération maximale de la batterie</translation>
     </message>
     <message>
         <source>Battery Max</source>
-        <translation type="unfinished"></translation>
+        <translation>Batterie maximale</translation>
     </message>
     <message>
         <source>Openloop ERPM</source>
-        <translation type="unfinished"></translation>
+        <translation>ERPM en boucle ouverte</translation>
     </message>
     <message>
         <source>Sensorless ERPM</source>
-        <translation type="unfinished"></translation>
+        <translation>ERPM sans capteur</translation>
     </message>
     <message>
         <source>Pack cell count; number of series cells in the battery pack, set to 0 to disable cell sensing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Comptage des alvéoles&#xa0;; nombre de cellules en série dans la batterie, réglez sur 0 pour désactiver la détection de cellule.</translation>
     </message>
     <message>
         <source>Max charging current; mA (milliAmps), maximum current allowed to flow to battery.</source>
-        <translation type="unfinished"></translation>
+        <translation>Courant de charge maximum&#xa0;; mA (milliAmps), courant maximal autorisé à circuler vers la batterie.</translation>
     </message>
     <message>
         <source>Charging termination current; mA (milliAmps), stop charging when current drops below this.</source>
-        <translation type="unfinished"></translation>
+        <translation>Courant de fin de charge&#xa0;; mA (milliAmps), arrêtez la charge lorsque le courant descend en dessous.</translation>
     </message>
     <message>
         <source>Minimum cell voltage; mV (milliVolts), minimum allowed cell voltage, no charging allowed if cell voltage below this.</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimum cell voltage; mV (milliVolts), minimum allowed cell voltage, no charging allowed if cell voltage below this.</translation>
     </message>
     <message>
         <source>Maximum cell voltage; mV (milliVolts), maximum allowed cell voltage, no charging allowed if cell voltage above this.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tension de cellule maximale&#xa0;; mV (milliVolts), tension de cellule maximale autorisée, pas de charge autorisée si la tension de cellule est supérieure à celle-ci.</translation>
     </message>
     <message>
         <source>Minimum charger voltage; mV (milliVolts), minimum allowed charger voltage, no charging allowed if charger voltage below this.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tension minimale du chargeur&#xa0;; mV (milliVolts), tension de chargeur minimale autorisée, pas de charge autorisée si la tension du chargeur est inférieure à celle-ci.</translation>
     </message>
     <message>
         <source>Maximum charger voltage; mV (milliVolts), maximum allowed charger voltage, no charging allowed if charger voltage above this.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tension maximale du chargeur&#xa0;; mV (milliVolts), tension maximale autorisée du chargeur, pas de charge autorisée si la tension du chargeur est supérieure à celle-ci.</translation>
     </message>
     <message>
         <source>Minimum pack voltage; mV (milliVolts), minimum allowed pack voltage, no charging allowed if pack voltage below this.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tension minimale du pack&#xa0;; mV (milliVolts), tension minimale autorisée du pack, pas de charge autorisée si la tension du pack est inférieure à celle-ci.</translation>
     </message>
     <message>
         <source>Maximum pack voltage; mV (milliVolts), maximum allowed pack voltage, no charging allowed if pack voltage above this.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tension maximale du pack&#xa0;; mV (milliVolts), tension maximale autorisée du pack, pas de charge autorisée si la tension du pack est supérieure à celle-ci.</translation>
     </message>
     <message>
         <source>Charging cell termination voltage; mV (milliVolts), don&apos;t allow any cell to go above this voltage when charging.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tension de terminaison de la cellule de charge&#xa0;; mV (milliVolts), ne laissez aucune cellule dépasser cette tension lors de la charge.</translation>
     </message>
     <message>
         <source>Charging pack termination voltage; mV (milliVolts), don&apos;t allow pack to go above this voltage when charging.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tension de terminaison du pack de charge&#xa0;; mV (milliVolts), ne laissez pas le pack dépasser cette tension lors de la charge.</translation>
     </message>
     <message>
         <source>Cell balancing voltage; mV (milliVolts), allow balancing once a cell goes above this voltage.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tension d&apos;équilibrage des cellules&#xa0;; mV (milliVolts), permet l&apos;équilibrage une fois qu&apos;une cellule dépasse cette tension.</translation>
     </message>
     <message>
         <source>Allowed difference between cell groups; mV (milliVolts), maximum allowed voltage difference between cell groups, balance if difference bigger.</source>
-        <translation type="unfinished"></translation>
+        <translation>Différence autorisée entre les groupes de cellules&#xa0;; mV (milliVolts), différence de tension maximale autorisée entre les groupes de cellules, équilibre si la différence est plus grande.</translation>
     </message>
     <message>
         <source>Minimum external NTC thermistor temperature; K (Kelvin), set to 0 to disable, if enabled, the minimum temperature above which charging is allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Température minimale de la thermistance NTC externe&#xa0;; K (Kelvin), réglé sur 0 pour désactiver, si activé, la température minimale au-dessus de laquelle la charge est autorisée.</translation>
     </message>
     <message>
         <source>Maximum external NTC thermistor temperature; K (Kelvin), set to 0 to disable, if enabled, the maximum temperature below which charging is allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Température maximale de la thermistance NTC externe&#xa0;; K (Kelvin), réglé sur 0 pour désactiver, si activé, la température maximale en dessous de laquelle la charge est autorisée.</translation>
     </message>
     <message>
         <source>Minimum PCB temperature; K (Kelvin), the minimum temperature above which charging is allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Température minimale du circuit imprimé&#xa0;; K (Kelvin), la température minimale au-dessus de laquelle la charge est autorisée.</translation>
     </message>
     <message>
         <source>Maximum PCB temperature; K (Kelvin), the maximum temperature below which charging is allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Température maximale du circuit imprimé&#xa0;; K (Kelvin), la température maximale en dessous de laquelle la charge est autorisée.</translation>
     </message>
     <message>
         <source>Fault wait time; s (seconds), How long to wait after fault state before trying to start charging again.</source>
-        <translation type="unfinished"></translation>
+        <translation>temps d&apos;attente de défaut&#xa0;; s (secondes), combien de temps attendre après l&apos;état de panne avant d&apos;essayer de recommencer à charger.</translation>
     </message>
     <message>
         <source>Gain for Battery voltage ADC conversion.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gain pour la conversion ADC de tension de batterie.</translation>
     </message>
     <message>
         <source>Gain for Charger voltage ADC conversion.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gain pour la conversion ADC de la tension du chargeur.</translation>
     </message>
     <message>
         <source>Gain for Current sense ADC conversion.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gain pour la conversion ADC de détection de courant.</translation>
     </message>
     <message>
         <source>Gain for External NTC temperature probe conversion.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gain pour la conversion de la sonde de température NTC externe.</translation>
     </message>
     <message>
         <source>Gain for Internal MCU temperature conversion.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gain pour la conversion de température interne du MCU.</translation>
     </message>
     <message>
         <source>Offset for Battery voltage ADC conversion.</source>
-        <translation type="unfinished"></translation>
+        <translation>Décalage pour la conversion ADC de tension de batterie.</translation>
     </message>
     <message>
         <source>Offset for Charger voltage ADC conversion.</source>
-        <translation type="unfinished"></translation>
+        <translation>Décalage pour la conversion ADC de la tension du chargeur.</translation>
     </message>
     <message>
         <source>Offset for Current sense ADC conversion.</source>
-        <translation type="unfinished"></translation>
+        <translation>Décalage pour la conversion ADC de détection de courant.</translation>
     </message>
     <message>
         <source>Offset for External NTC temperature probe conversion.</source>
-        <translation type="unfinished"></translation>
+        <translation>Décalage pour la conversion de la sonde de température NTC externe.</translation>
     </message>
     <message>
         <source>Offset for Internal MCU temperature conversion.</source>
-        <translation type="unfinished"></translation>
+        <translation>Décalage pour la conversion de température interne du MCU.</translation>
     </message>
     <message>
         <source>External NTC probe Beta-value; external NTC sensor&apos;s beta value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sonde NTC externe Valeur bêta&#xa0;; la valeur bêta du capteur NTC externe.</translation>
     </message>
     <message>
         <source>ADC&apos;s oversampling setting; allowed values (1, 2, 4, 8, 16).</source>
-        <translation type="unfinished"></translation>
+        <translation>réglage de suréchantillonnage de l&apos;ADC&#xa0;; valeurs autorisées (1, 2, 4, 8, 16).</translation>
     </message>
     <message>
         <source>h (Hours), how long to stay in active mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>h (heures), combien de temps rester en mode actif.</translation>
     </message>
     <message>
         <source>Allow cell balancing outside of charging.</source>
-        <translation type="unfinished"></translation>
+        <translation>Autoriser l&apos;équilibrage des cellules en dehors de la charge.</translation>
     </message>
     <message>
         <source>Force 5V regulator always on when battery connected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Forcer le régulateur 5V toujours allumé lorsque la batterie est connectée.</translation>
     </message>
     <message>
         <source>Balancing temperature ratio, dynamically adjusts the max allowed balancing resistors based on BMS temperature, set to 0 to use static maximum.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rapport de température d&apos;équilibrage, ajuste dynamiquement les résistances d&apos;équilibrage maximales autorisées en fonction de la température du BMS, réglé sur 0 pour utiliser le maximum statique.</translation>
     </message>
     <message>
         <source>Storage discharge voltage; mV (milliVolts), if storage discharge enabled, then pack will be discharged to this voltage.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tension de décharge de stockage&#xa0;; mV (milliVolts), si la décharge de stockage est activée, alors le pack sera déchargé à cette tension.</translation>
     </message>
     <message>
         <source>h (Hours), how long to wait from last CHARGING event to start discharging the pack to the storage voltage, set to 0 to disable.</source>
-        <translation type="unfinished"></translation>
+        <translation>h (heures), combien de temps attendre depuis le dernier événement de CHARGE pour commencer à décharger le pack à la tension de stockage, mis à 0 pour désactiver.</translation>
     </message>
     <message>
         <source>CAN activity status LED tick, good for testing that the BMS is receiving CAN traffic.</source>
-        <translation type="unfinished"></translation>
+        <translation>La LED d&apos;état de l&apos;activité CAN est cochée, idéale pour tester que le BMS reçoit le trafic CAN.</translation>
     </message>
     <message>
         <source>CAN ID number for this BMS unit, if using multi-BMS setups, all BMS&apos; need to have unique CAN ID.</source>
-        <translation type="unfinished"></translation>
+        <translation>Numéro d&apos;identification CAN pour cette unité BMS, si vous utilisez des configurations multi-BMS, tous les BMS doivent avoir un ID CAN unique.</translation>
     </message>
     <message>
         <source>If set, keeps 5V regulator on if activeTimer is not expired even if USB, charger or Opto not active.</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;il est réglé, maintient le régulateur 5V activé si activeTimer n&apos;a pas expiré même si USB, chargeur ou Opto n&apos;est pas actif.</translation>
     </message>
     <message>
         <source>(hours), up to how many hours a CAN-frame reception can extend activeTimer, set to 0 to disable.</source>
-        <translation type="unfinished"></translation>
+        <translation>(heures), jusqu&apos;à combien d&apos;heures une réception de trame CAN peut prolonger activeTimer, mis à 0 pour désactiver.</translation>
     </message>
     <message>
         <source>(minutes), up to how many minutes a CAN-frame reception can extend activeTimer, set to 0 to disable.</source>
-        <translation type="unfinished"></translation>
+        <translation>(minutes), jusqu&apos;à combien de minutes une réception de trame CAN peut prolonger activeTimer, mis à 0 pour désactiver.</translation>
     </message>
     <message>
         <source>Can be used to allow CAN activity to wake-up the BMS from sleep, increases sleep mode quiescent current slightly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Peut être utilisé pour permettre à l&apos;activité CAN de réveiller le BMS du mode veille, augmente légèrement le courant de repos en mode veille.</translation>
     </message>
     <message>
         <source>0-3, how many parallel packs there are in addition to this unit, set to 0 to disable.</source>
-        <translation type="unfinished"></translation>
+        <translation>0-3, combien de packs parallèles il y a en plus de cette unité, mis à 0 pour désactiver.</translation>
     </message>
     <message>
         <source>0-255, current voltage ratio for parallel packs starting charging, set to 0 for no scaling.</source>
-        <translation type="unfinished"></translation>
+        <translation>0-255, rapport de tension actuel pour les packs parallèles commençant la charge, réglé sur 0 pour aucune mise à l&apos;échelle.</translation>
     </message>
     <message>
         <source>(seconds), how much time to wait before attempting to restart charging from a non-fault charging end, set to 0 to disable.</source>
-        <translation type="unfinished"></translation>
+        <translation>(secondes), combien de temps attendre avant de tenter de redémarrer la charge à partir d&apos;une fin de charge sans erreur, mis à 0 pour désactiver.</translation>
     </message>
     <message>
         <source>Swipe Drawer</source>
-        <translation type="unfinished"></translation>
+        <translation>Glisser le tiroir</translation>
     </message>
     <message>
         <source>Enable opening the drawer from the left edge of the screen. By default it can only be opened by pressing menu button in the bottom left.</source>
-        <translation type="unfinished"></translation>
+        <translation>Activer l&apos;ouverture du tiroir depuis le bord gauche de l&apos;écran. Par défaut, il ne peut être ouvert qu&apos;en appuyant sur le bouton de menu en bas à gauche.</translation>
     </message>
     <message>
         <source>Nominal voltage</source>
-        <translation type="unfinished"></translation>
+        <translation>Tension nominale</translation>
     </message>
     <message>
         <source>Nominal voltage. Used for remaining range estimation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tension nominale. Utilisé pour l&apos;estimation de l&apos;autonomie restante.</translation>
     </message>
     <message>
         <source>Manual Sync</source>
-        <translation type="unfinished"></translation>
+        <translation>Synchronisation manuelle</translation>
     </message>
     <message>
         <source>Manually sync records from SD card.</source>
-        <translation type="unfinished"></translation>
+        <translation>Synchronisez manuellement les enregistrements de la carte SD.</translation>
     </message>
 </context>
 <context>
@@ -3330,95 +3333,95 @@ x100</source>
     <name>TrackingManager</name>
     <message>
         <source>Failed to sign in, %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de la connexion, %1</translation>
     </message>
     <message>
         <source>Failed to create, %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de la création, %1</translation>
     </message>
     <message>
         <source>Failed to join, %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de la connexion, %1</translation>
     </message>
     <message>
         <source>Failed to delete, %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de la suppression, %1</translation>
     </message>
     <message>
         <source>Failed, %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec, %1</translation>
     </message>
 </context>
 <context>
     <name>TrackingSetup</name>
     <message>
         <source>Map name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom de la carte</translation>
     </message>
     <message>
         <source>My city</source>
-        <translation type="unfinished"></translation>
+        <translation>Ma ville</translation>
     </message>
     <message>
         <source>Nickname</source>
-        <translation type="unfinished"></translation>
+        <translation>Surnom</translation>
     </message>
     <message>
         <source>esk8</source>
-        <translation type="unfinished"></translation>
+        <translation>esk8</translation>
     </message>
     <message>
         <source>Expire after</source>
-        <translation type="unfinished"></translation>
+        <translation>Expire après</translation>
     </message>
     <message>
         <source>days</source>
-        <translation type="unfinished"></translation>
+        <translation>journées</translation>
     </message>
     <message>
         <source>hours</source>
-        <translation type="unfinished"></translation>
+        <translation>heures</translation>
     </message>
     <message>
         <source>minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>minutes</translation>
     </message>
     <message>
         <source>Join</source>
-        <translation type="unfinished"></translation>
+        <translation>Rejoindre</translation>
     </message>
     <message>
         <source>Start tracking</source>
-        <translation type="unfinished"></translation>
+        <translation>Démarrer le suivi</translation>
     </message>
 </context>
 <context>
     <name>TrackingTab</name>
     <message>
         <source>New tracking</source>
-        <translation type="unfinished"></translation>
+        <translation>Nouveau suivi</translation>
     </message>
 </context>
 <context>
     <name>TrackingTabDelegate</name>
     <message>
         <source>Expired</source>
-        <translation type="unfinished"></translation>
+        <translation>Expiré</translation>
     </message>
     <message>
         <source>Expires</source>
-        <translation type="unfinished"></translation>
+        <translation>Expire</translation>
     </message>
 </context>
 <context>
     <name>TrackingView</name>
     <message>
         <source>Resume</source>
-        <translation type="unfinished"></translation>
+        <translation>Reprendre</translation>
     </message>
     <message>
         <source>Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>Pauser</translation>
     </message>
 </context>
 <context>
@@ -3450,15 +3453,15 @@ x100</source>
     <name>VListView</name>
     <message>
         <source>Undo</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Effacer</translation>
     </message>
 </context>
 <context>
@@ -3507,7 +3510,7 @@ x100</source>
     <name>bluetooth::DiscoveryAgent</name>
     <message>
         <source>Bluetooth is probably turned off. Please turn it on and scan again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le Bluetooth est probablement désactivé. Veuillez l&apos;allumer et numériser à nouveau.</translation>
     </message>
 </context>
 </TS>
