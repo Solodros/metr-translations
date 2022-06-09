@@ -401,6 +401,10 @@
         <source>Thanks to @Pedrodemio for contributing Portuguese translation.</source>
         <translation>Спасибо @Pedrodemio за перевод на португальский.</translation>
     </message>
+    <message>
+        <source>To help with translation, please visit %1</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Detector</name>

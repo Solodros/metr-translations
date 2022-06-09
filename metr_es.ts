@@ -308,6 +308,10 @@
         <source>Thanks to @oyta for contributing Norwegian translations.</source>
         <translation>Gracias a @oyta por contribuir con las traducciones al noruego.</translation>
     </message>
+    <message>
+        <source>To help with translation, please visit %1</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Detector</name>
