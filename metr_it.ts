@@ -1858,7 +1858,7 @@ x100</translation>
     </message>
     <message>
         <source>stats</source>
-        <translation>statistiche</translation>
+        <translation>stats</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -2585,11 +2585,11 @@ x100</translation>
     </message>
     <message>
         <source>Statistics</source>
-        <translation>Statistics</translation>
+        <translation>Statistiche</translation>
     </message>
     <message>
         <source>Collect and send to cloud hardware versions to improve application in the long term. Metr Pro version, VESC version, VESC count, if DieBieMS is detected, etc. Location is never shared.</source>
-        <translation>Collect and send to cloud hardware versions to improve application in the long term. Metr Pro version, VESC version, VESC count, if DieBieMS is detected, etc. Location is never shared.</translation>
+        <translation>Raccogli e invia versioni hardware cloud per migliorare l&apos;applicazione a lungo termine. Versione Metr Pro, versione VESC, conteggio VESC, se viene rilevato DieBieMS, ecc. La posizione non viene mai condivisa.</translation>
     </message>
     <message>
         <source>Detect DieBie/Flexi</source>
