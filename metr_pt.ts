@@ -1307,6 +1307,10 @@ x100</translation>
         <source>Reset</source>
         <translation>Resetar</translation>
     </message>
+    <message>
+        <source>left</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>RecordList</name>

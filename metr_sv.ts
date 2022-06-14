@@ -1162,6 +1162,10 @@ x100</translation>
         <source>Reset</source>
         <translation>Återställa</translation>
     </message>
+    <message>
+        <source>left</source>
+        <translation>kvar</translation>
+    </message>
 </context>
 <context>
     <name>RecordList</name>

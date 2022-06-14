@@ -1778,6 +1778,10 @@ x100</source>
         <source>Reset</source>
         <translation type="unfinished">Nullstill</translation>
     </message>
+    <message>
+        <source>left</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>RecordDetails</name>

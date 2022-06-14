@@ -1826,6 +1826,10 @@ x100</translation>
         <source>Reset</source>
         <translation>Réinitialiser</translation>
     </message>
+    <message>
+        <source>left</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>RecordDetails</name>

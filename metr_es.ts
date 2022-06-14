@@ -1678,6 +1678,10 @@ x100</translation>
         <source>Reset</source>
         <translation>Reiniciar</translation>
     </message>
+    <message>
+        <source>left</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>RecordDetails</name>
