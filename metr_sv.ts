@@ -496,7 +496,7 @@
     </message>
     <message>
         <source>Hall sensor table:</source>
-        <translation>Hallsensorbord:</translation>
+        <translation>Hallsensortabell:</translation>
     </message>
     <message>
         <source>Hall sensor detection failed:</source>
@@ -572,11 +572,11 @@
     </message>
     <message>
         <source>Detect motor</source>
-        <translation>Upptäck motor</translation>
+        <translation>Detekt motor</translation>
     </message>
     <message>
         <source>Detect FOC Hall Sensors</source>
-        <translation>Upptäck FOC Hall-sensorer</translation>
+        <translation>Detect FOC Hall-sensorer</translation>
     </message>
     <message>
         <source>Calibrate PPM</source>
@@ -584,15 +584,15 @@
     </message>
     <message>
         <source>Discharge</source>
-        <translation>Ansvarsfrihet</translation>
+        <translation>Urladdning</translation>
     </message>
     <message>
         <source>Read</source>
-        <translation>Läsa</translation>
+        <translation>Läs</translation>
     </message>
     <message>
         <source>Write</source>
-        <translation>Skriva</translation>
+        <translation>Skriv</translation>
     </message>
     <message>
         <source>BLDC motor detection is not supported for UNITY.</source>
@@ -624,11 +624,11 @@
     </message>
     <message>
         <source>Low duty</source>
-        <translation>Låg plikt</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Low duty used during BLDC motor detection.</source>
-        <translation>Låg belastning används under BLDC-motordetektering.</translation>
+        <translation>Low duty som används under BLDC-motordetektering.</translation>
     </message>
     <message>
         <source>Are you sure you want to run FOC Hall Sensors detection with following parameters?</source>
@@ -648,7 +648,7 @@
     </message>
     <message>
         <source>WARNING: THE MOTOR WILL MAKE VERY LOUD NOISE! AFTER THAT THE MOTOR WILL START SPINNING!</source>
-        <translation>VARNING: MOTORN KOMMER OM MYCKET HÖGT LJUD! EFTER DET BÖRJA MOTORN SNURRA!</translation>
+        <translation>VARNING: MOTORN KOMMER LÅTA MYCKET HÖGT! EFTER DET KOMMER MOTORN SNURRA!</translation>
     </message>
     <message>
         <source>Current used during FOC motor detection.</source>
@@ -656,7 +656,7 @@
     </message>
     <message>
         <source>Duty</source>
-        <translation>Plikt</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Duty used during FOC motor detection.</source>
@@ -705,28 +705,28 @@
     <name>Global</name>
     <message>
         <source>No device</source>
-        <translation>Ingen apparat</translation>
+        <translation>Ingen enhet</translation>
     </message>
 </context>
 <context>
     <name>HistoryView</name>
     <message>
         <source>Use</source>
-        <translation>Använda sig av</translation>
+        <translation>Använd</translation>
     </message>
 </context>
 <context>
     <name>LocationFinder</name>
     <message>
         <source>Please enable location. Map information will not be available without it.</source>
-        <translation>Vänligen aktivera plats. Kartinformation kommer inte att vara tillgänglig utan den.</translation>
+        <translation>Vänligen aktivera platstjänster. Kartinformation kommer inte att vara tillgänglig utan dem.</translation>
     </message>
 </context>
 <context>
     <name>MainWindow</name>
     <message>
         <source>Please enable location permission. Maps and BLE Scan will not work without it.</source>
-        <translation>Vänligen aktivera platsbehörighet. Maps och BLE Scan fungerar inte utan det.</translation>
+        <translation>Vänligen aktivera platsbehörighet. Kartor och BLE Scan fungerar inte utan den.</translation>
     </message>
     <message>
         <source>Please enable camera permission. QR code scan and overlay will not work without it.</source>
@@ -749,11 +749,11 @@
     <name>MetrBridge</name>
     <message>
         <source>Only share the code with someone you trust!</source>
-        <translation>Dela bara koden med någon du litar på!</translation>
+        <translation>Dela koden bara med dem du litar på!</translation>
     </message>
     <message>
         <source>Copied to clipboard</source>
-        <translation>Kopierade till urklipp</translation>
+        <translation>Kopierat till urklipp</translation>
     </message>
     <message>
         <source>Bytes in</source>
@@ -888,7 +888,7 @@
     </message>
     <message>
         <source>Share</source>
-        <translation>Dela med sig</translation>
+        <translation>Dela</translation>
     </message>
     <message>
         <source>Scan</source>
@@ -968,7 +968,7 @@
     </message>
     <message>
         <source>Firmware &lt;= 2.18. Won&apos;t apply.</source>
-        <translation>Firmware &lt;= 2.18. Kommer inte att gälla.</translation>
+        <translation>Firmware &lt;= 2.18. Kommer inte applicera.</translation>
     </message>
     <message>
         <source>Read-only mode</source>
@@ -976,7 +976,7 @@
     </message>
     <message>
         <source>Firmware &lt;= 3.48. Won&apos;t apply.</source>
-        <translation>Firmware &lt;= 3,48. Kommer inte att gälla.</translation>
+        <translation>Firmware &lt;= 3,48. Kommer inte applicera.</translation>
     </message>
     <message>
         <source>Multi probing not finished. Please try later.</source>
@@ -988,7 +988,7 @@
     </message>
     <message>
         <source>Apply</source>
-        <translation>Tillämpa</translation>
+        <translation>Använd</translation>
     </message>
     <message>
         <source>New mode</source>
@@ -2130,7 +2130,7 @@ x100</translation>
     </message>
     <message>
         <source>Modes</source>
-        <translation></translation>
+        <translation>Lägen</translation>
     </message>
     <message>
         <source>Announce</source>
