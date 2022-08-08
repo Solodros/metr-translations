@@ -1171,6 +1171,10 @@
         <source>Please enable camera permission. QR code scan and overlay will not work without it.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Connect</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MetrBridge</name>

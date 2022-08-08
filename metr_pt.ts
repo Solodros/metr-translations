@@ -791,6 +791,10 @@
         <source>Please enable camera permission. QR code scan and overlay will not work without it.</source>
         <translation>Ative a permissão da câmera. A digitalização e a sobreposição do código QR não funcionarão sem ele.</translation>
     </message>
+    <message>
+        <source>Connect</source>
+        <translation type="unfinished">Conectar</translation>
+    </message>
 </context>
 <context>
     <name>MetrBridge</name>

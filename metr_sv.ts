@@ -744,6 +744,10 @@
         <source>Failed to join map</source>
         <translation>Det gick inte att gå med i kartan</translation>
     </message>
+    <message>
+        <source>Connect</source>
+        <translation>Anslut</translation>
+    </message>
 </context>
 <context>
     <name>MetrBridge</name>
@@ -1330,7 +1334,7 @@ x100</translation>
     </message>
     <message>
         <source>Connect</source>
-        <translation>Ansluta</translation>
+        <translation>Anslut</translation>
     </message>
     <message>
         <source>Failed to open channel</source>
