@@ -322,7 +322,7 @@
     </message>
     <message>
         <source>Name</source>
-        <translation>namn</translation>
+        <translation>Namn</translation>
     </message>
     <message>
         <source>Bluetooth module name. It will be permanently saved on the module. Other applications will also see the change.</source>
